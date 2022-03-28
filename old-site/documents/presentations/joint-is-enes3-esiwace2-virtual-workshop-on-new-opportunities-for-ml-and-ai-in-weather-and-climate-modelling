@@ -1,0 +1,2602 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><base href="https://portal.enes.org/community/announcements/events/joint-is-enes3-esiwace2-virtual-workshop-on-new-opportunities-for-ml-and-ai-in-weather-and-climate-modelling" /><!--[if lt IE 7]></base><![endif]--><link rel="stylesheet" type="text/css" media="screen" href="https://portal.enes.org/portal_css/Sunburst%20Theme/reset-cachekey-a16d62b3fc46332d0c6e0d85f4b726c3.css" /><link rel="stylesheet" type="text/css" href="https://portal.enes.org/portal_css/Sunburst%20Theme/base-cachekey-8233b191c51c3bcb47984e2c3b06f8be.css" /><link rel="stylesheet" type="text/css" media="screen" href="https://portal.enes.org/portal_css/Sunburst%20Theme/resourceplone.app.jquerytools.dateinput-cachekey-e2366df0d0d8a18965390c6ecf50930e.css" /><style type="text/css" media="screen">@import url(https://portal.enes.org/portal_css/Sunburst%20Theme/resourceProducts.Doormat.stylesheetsdoormat-cachekey-a8ff6c7f461f69a93fc621b3ee0d822a.css);</style><style type="text/css" media="screen">@import url(https://portal.enes.org/portal_css/Sunburst%20Theme/resourceeasyslider-portlet-cachekey-f017d84dfd1809c187c6996be8642338.css);</style><style type="text/css">@import url(https://portal.enes.org/portal_css/Sunburst%20Theme/ploneboard-cachekey-14dbebc0740bab59e42beb92102dce05.css);</style><link rel="stylesheet" type="text/css" href="https://portal.enes.org/portal_css/Sunburst%20Theme/themedkrz.themeenesstylesheetscontent-cachekey-3ded2c550bfdd7fea33c688ad022323d.css" /><script type="text/javascript" src="https://portal.enes.org/portal_javascripts/Sunburst%20Theme/resourceplone.app.jquery-cachekey-185f2041b3c08b362ec8f01ef9e3f0ed.js"></script><script type="text/javascript" src="https://portal.enes.org/portal_javascripts/Sunburst%20Theme/resourceeasyslider-portlet-cachekey-5e994865eeca4b076992973ce0627168.js"></script><script type="text/javascript" src="https://portal.enes.org/portal_javascripts/Sunburst%20Theme/kss-bbb-cachekey-f8ad4252e05ee10bd60c56a6fb3e9838.js"></script><script type="text/javascript" src="https://portal.enes.org/portal_javascripts/Sunburst%20Theme/++resource++cwx.protectemails.javascripts/jquery.base64.min.js"></script><script type="text/javascript" src="https://portal.enes.org/portal_javascripts/Sunburst%20Theme/++resource++cwx.protectemails.javascripts/protectemails.js"></script><script type="text/javascript" src="https://portal.enes.org/portal_javascripts/Sunburst%20Theme/resourcejquery.prettyPhoto-cachekey-e2166d328a8bea6346bdc274c7a7f7ba.js"></script><title>Joint IS-ENES3/ESiWACE2 Virtual Workshop on New Opportunities for ML and AI in Weather and Climate Modelling  — vERC</title><link rel="author" href="https://portal.enes.org/author/smorellon" title="Author information" /><link rel="canonical" href="https://portal.enes.org/community/announcements/events/joint-is-enes3-esiwace2-virtual-workshop-on-new-opportunities-for-ml-and-ai-in-weather-and-climate-modelling" /><script type="text/javascript">
+        jQuery(function($){
+            if (typeof($.datepicker) != "undefined"){
+              $.datepicker.setDefaults(
+                jQuery.extend($.datepicker.regional[''],
+                {dateFormat: 'mm/dd/yy'}));
+            }
+        });
+        </script><link rel="search" href="https://portal.enes.org/@@search" title="Search this site" /><meta name="viewport" content="width=device-width, initial-scale=0.6666, maximum-scale=1.0, minimum-scale=0.6666" /><meta name="generator" content="Plone - http://plone.org" />
+
+    
+    
+        
+    
+    
+
+    
+
+    
+    <link rel="shortcut icon" type="image/x-icon" href="/++theme++dkrz.themeenes/images/favicon.ico" />
+
+    
+    
+    
+    <script type="text/javascript">
+        try {
+            // This is the URL where mobile
+            detectmobile.defaultMobileURL = "http://m";
+            detectmobile.process();
+        } catch(e) {
+          // Make sure that in the fault modes
+          // we do not interrupt execution of other Javascript code
+        }
+    </script>
+
+    
+    
+    
+    
+    
+
+    
+
+    <link rel="stylesheet" type="text/css" media="screen" href="/++theme++dkrz.themeenes/stylesheets/layout.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="/++theme++dkrz.themeenes/stylesheets/main.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="/++theme++dkrz.themeenes/stylesheets/colors.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="/++theme++dkrz.themeenes/stylesheets/only_verc.css" />    
+    
+  </head>
+
+  <body class="template-event_view portaltype-event site-Plone section-community subsection-announcements subsection-announcements-events subsection-announcements-events-joint-is-enes3-esiwace2-virtual-workshop-on-new-opportunities-for-ml-and-ai-in-weather-and-climate-modelling userrole-anonymous colorkey-1" dir="ltr" style="background-color:#808080;"><div id="visual-portal-wrapper" class="shadow">
+      <div class="head-background">
+        <div class="head-wrapper">
+          <div id="portal-top" class="row">
+            <div class="cell width-full position-0">
+              <div id="portal-header">
+                <p class="hiddenStructure">
+                  <a accesskey="2" href="#content">Direkt zum Inhalt</a> |
+                  <a accesskey="6" href="#portlet-navigation-tree">Direkt zur Navigation</a>
+                </p>
+                <!-- begin: --><div id="portal-personaltools-wrapper">
+
+<p class="hiddenStructure">Personal tools</p>
+
+
+
+
+
+</div><!-- :end -->
+                <!-- begin: --><ul id="portal-siteactions">
+
+    <li id="siteaction-sitemap"><a href="https://portal.enes.org/sitemap" accesskey="3" title="Site Map">Site Map</a></li>
+    <li id="siteaction-login"><a href="https://portal.enes.org/login" accesskey="" title="Log in">Log in</a></li>
+</ul><!-- :end -->
+                <!-- begin: --><!-- :end -->
+                <!-- begin: --><!-- :end -->
+                <h5 class="hiddenStructure">Sektionen</h5>
+                <div class="menu-wrapper">
+                  <a id="portal-logo" title="vERC" accesskey="1" href="https://portal.enes.org">
+                  <img src="/++theme++dkrz.themeenes/images/logo.png" alt="" title="" height="74" width="224" /></a>
+                  <!-- begin: --><ul id="portal-globalnav"><li id="portaltab-community" class="selected colorkey-1"><a href="https://portal.enes.org/community" class="plain" title="Projects, news and events of the Earth system modelling community">Community</a>
+                <ul class="submenu colorkey-1">
+                    <li>
+
+    
+
+        <a href="https://portal.enes.org/community/about-enes" class="state-published hasDropDown" title="">
+            
+            About ENES
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/community/about-enes/the-rationale" class="state-published" title="">
+            
+            The Rationale
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/community/about-enes/the-aims" class="state-published" title="">
+            
+            The Aims
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/community/about-enes/members-2" class="state-published" title="">
+            
+            Partners
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/community/about-enes/the-future-of-enes" class="state-published" title="The Infrastructure strategy of ENES">
+            
+            Strategy
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/community/about-enes/the-mou" class="state-published" title="">
+            
+            The Memorandum of Understanding
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/community/about-enes/enes-projects" class="state-published" title="Projects initiated by ENES ">
+            
+            ENES projects
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/community/announcements" class="state-published hasDropDown" title="New, jobs and events related to climate modeling">
+            
+            Announcements
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/community/announcements/news" class="state-published" title="Community News">
+            
+            News
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/community/announcements/events" class="state-published" title="Community Events">
+            
+            Events
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/community/announcements/newsletters" class="state-published" title="Newsletters, brochures and informal publications of interest for the ENES community">
+            
+            Newsletters
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/community/community-workshops" class="state-published" title="Here you will find the ENES community workshops">
+            
+            Community Workshops
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/community/schools" class="state-published" title="Summer schools and similar activities and materials related to climate modeling">
+            
+            Schools &amp; Education
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/community/projects-and-initiatives" class="state-published hasDropDown" title="">
+            
+            Projects and Initiatives
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/community/projects-and-initiatives/projects" class="state-published hasDropDown" title="List and description of all projects related to ENES">
+            
+            Projects
+        </a>
+
+        <ul class="submenu navTree navTreeLevel2">
+            
+
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/community/projects-and-initiatives/projects/enes-projects" class="state-published" title="Overview of projects initiated by or collaborating with ENES ">
+            
+            ENES Projects
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/community/projects-and-initiatives/projects/national-projects" class="state-published" title="Overview of national projects related to Earth system modeling">
+            
+            National Projects
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/community/projects-and-initiatives/projects/international-projects" class="state-published" title="Overview of international projects related to Earth system modeling">
+            
+            International Projects
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/community/projects-and-initiatives/initiatives" class="state-published" title="Initiatives, related to Earth System Modelling">
+            
+            Initiatives
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/community/participate" class="state-published hasDropDown" title="Ways to participate in and join the community">
+            
+            Participate
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/community/participate/join-enes" class="state-published" title="">
+            
+            Joining ENES
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/community/participate/how-to-contribute-to-this-portal" class="state-published" title="Enrich this portal by your expertise">
+            
+            How to contribute to this portal
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+                </ul>
+            </li><li id="portaltab-services" class="plain colorkey-2"><a href="https://portal.enes.org/services" class="plain" title="">Services</a>
+                <ul class="submenu colorkey-2">
+                    <li>
+
+    
+
+        <a href="https://portal.enes.org/services/support-services-for-model-users" class="state-published hasDropDown" title="">
+            
+            Support Services on Models and Tools
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/services/support-services-for-model-users/support-services-for-models" class="state-published" title="">
+            
+            Support Services for Earth System Models
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/services/support-services-for-model-users/support-services-for-nemo" class="state-published" title="">
+            
+            Support Services for NEMO
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/services/support-services-for-model-users/support-services-for-tools" class="state-published" title="">
+            
+            Support Services for Tools
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/services/support-services-for-model-users/support-contacts-for-models-and-tools" class="state-published" title="">
+            
+            Support Contacts for Models and Tools
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/services/support-service-for-data-and-metadata" class="state-published hasDropDown" title="">
+            
+            Support Services on Data and Metadata
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/services/support-service-for-data-and-metadata/data-discovery" class="state-published" title="">
+            
+            Data discovery
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/services/support-service-for-data-and-metadata/climate4impact" class="state-published" title="">
+            
+            Climate4impact
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/services/support-service-for-data-and-metadata/derived-data-products" class="state-published" title="">
+            
+            Derived data products
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/services/support-service-for-data-and-metadata/transnational-access" class="state-published" title="">
+            
+            Transnational Access
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/services/support-service-for-data-and-metadata/metadata-services" class="state-published" title="">
+            
+            Metadata services
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/services/support-service-for-data-and-metadata/data-publication" class="state-published" title="">
+            
+            Data publication
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/services/support-service-for-data-and-metadata/support-contacts-for-data-and-metadata-services" class="state-published" title="">
+            
+            Support Contacts for Data and Metadata Services
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+                </ul>
+            </li><li id="portaltab-models" class="plain colorkey-3"><a href="https://portal.enes.org/models" class="plain" title="Services related to climate models">Models &amp; Tools</a>
+                <ul class="submenu colorkey-3">
+                    <li>
+
+    
+
+        <a href="https://portal.enes.org/models/earthsystem-models" class="state-published hasDropDown" title="Modelsystems, representing the entire earthsystem">
+            
+            Earth System Models and Modelling groups
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/models/earthsystem-models/cmcc-1" class="state-published hasDropDown" title="Centro Euro-Mediterraneo sui Cambiamenti Climatici">
+            
+            CMCC
+        </a>
+
+        <ul class="submenu navTree navTreeLevel2">
+            
+
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/models/earthsystem-models/cmcc-1/cmcc-cesm" class="state-published" title="CMCC-ESM2 model of CMCC (Centro Euro-Mediterraneo sui Cambiamenti Climatici)">
+            
+            CMCC-ESM2
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/models/earthsystem-models/cnrm-cerfacs-1" class="state-published hasDropDown" title="">
+            
+            CNRM-CERFACS
+        </a>
+
+        <ul class="submenu navTree navTreeLevel2">
+            
+
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/models/earthsystem-models/cnrm-cerfacs-1/copy_of_cnrm-cm5" class="state-published" title="CNRM-ESM model of CNRM-CERFACS (National Centre for Meteorological Research and Centre Européen de Recherche et de Formation Avancée en Calcul Scientifique)">
+            
+            CNRM-ESM
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/models/earthsystem-models/cnrm-cerfacs-1/copy2_of_cnrm-cm5" class="state-published" title="CNRM-CM6-1/ESM2-1 models of CNRM-CERFACS (National Centre for Meteorological Research and Centre Européen de Recherche et de Formation Avancée en Calcul Scientifique)">
+            
+            CNRM-CM6-1 &amp; CNRM-ESM2-1
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/models/earthsystem-models/cnrm-cerfacs-1/cnrm-cm5" class="state-published" title="CNRM-CM5 model of CNRM-CERFACS (National Centre for Meteorological Research and Centre Européen de Recherche et de Formation Avancée en Calcul Scientifique)">
+            
+            CNRM-CM5
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/models/earthsystem-models/ec-earth" class="state-published" title="EC-Earth is a European consortium that develops the community Earth System Model by the same name.">
+            
+            EC-Earth
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/models/earthsystem-models/ipsl-1" class="state-published" title="Institut Pierre Simon Laplace">
+            
+            IPSL
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/models/earthsystem-models/mpi-m-1" class="state-published" title="Max-Planck-Institut für Meteorologie">
+            
+            MPI-M
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/models/earthsystem-models/ncc-1" class="state-published" title="The Norwegian Climate Center">
+            
+            NCC
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/models/earthsystem-models/ukmo-hc" class="state-published" title="">
+            
+            UKMO-HC
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/models/copy_of_nemo" class="state-published" title="Modelling framework for oceanographic research, operational oceanography seasonal forecast and climate studies">
+            
+            NEMO
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/models/software-tools" class="state-published hasDropDown" title="software tools used in earthsystem modelling">
+            
+            Software Tools
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/models/software-tools/cdo" class="state-published" title="Climate Data Operators">
+            
+            CDO
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/models/software-tools/oasis" class="state-published" title="The OASIS coupler">
+            
+            OASIS
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/models/software-tools/cylc" class="state-published" title="A Python based workflow engine">
+            
+            Cylc
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/models/software-tools/xios" class="state-published" title="XML-IO-Server">
+            
+            XIOS
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/models/software-tools/esmvaltool" class="state-published" title="A community diagnostic and performance metrics tool for routine evaluation of Earth system models in CMIP">
+            
+            ESMValTool
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/models/support-service-for-model-users-1" class="state-published hasDropDown" title="IS-ENES provides support services for Models and Tools">
+            
+            Support Services on Models and Tools
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/models/support-service-for-model-users-1/support-services-for-earth-system-models" class="state-published" title="IS-ENES provides Support Services for European Earth System Models ">
+            
+            Support Services for Earth System Models 
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/models/support-service-for-model-users-1/support-services-for-nemo" class="state-published" title="IS-ENES provides support service for NEMO, modelling framework for oceanographic research, operational oceanography seasonal forecast and climate studies.&#13;&#10;">
+            
+            Support Service for NEMO
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/models/support-service-for-model-users-1/trans-national-access-support-for-oasis-code-coupler" class="state-published" title="">
+            
+            Trans-National Access: support for OASIS code coupler 
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/models/support-service-for-model-users-1/support-service-on-tools" class="state-published" title="IS-ENES provides support services for Modelling Tools">
+            
+            Support Services for Tools
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/models/support-service-for-model-users-1/support-contacts-for-models-and-tools" class="state-published" title="General contacts table for European Earth System Models, NEMO ocean model, and modelling tools. ">
+            
+            Support Contacts for Models and Tools
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+                </ul>
+            </li><li id="portaltab-data" class="plain colorkey-4"><a href="https://portal.enes.org/data" class="plain" title="Entry point to the IS-ENES distributed data network">Data</a>
+                <ul class="submenu colorkey-4">
+                    <li>
+
+    
+
+        <a href="https://portal.enes.org/data/enes-model-data" class="state-published hasDropDown" title="Data from WCRP coordinated experiments hosted in the ENES Data Federation.">
+            
+            ENES Model Data and Metadata
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/data/enes-model-data/cmip6" class="state-published" title="Coupled Model Intercomparison Project Phase 6">
+            
+            CMIP6
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/data/enes-model-data/cmip5" class="state-published hasDropDown" title="">
+            
+            CMIP5 &amp; AR5
+        </a>
+
+        <ul class="submenu navTree navTreeLevel2">
+            
+
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/data/enes-model-data/cmip5/datastructure" class="state-published" title="Experiments, ensembles, variable names and other centralized properties ">
+            
+            CMIP5 Data Structure
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/data/enes-model-data/cmip5/resolution" class="state-published" title="">
+            
+            CMIP5 Models and Grid Resolution
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/data/enes-model-data/cmip5/cmip5-forcing-data-for-RCMs" class="state-published" title="Forcing data for Regional Climate Models from CMIP5 experiments.">
+            
+            CMIP5 forcing data for RCMs
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/data/enes-model-data/cordex" class="state-published hasDropDown" title="">
+            
+            CORDEX
+        </a>
+
+        <ul class="submenu navTree navTreeLevel2">
+            
+
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/data/enes-model-data/cordex/datastructure" class="state-published" title="">
+            
+            CORDEX Data Structure
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/data/enes-model-data/cmip3-ar4" class="state-published" title="The Coupled Model Intercomparison Project Phase three, provided the scientific basis for the IPCC Fourth Assessment Report (AR4).">
+            
+            CMIP3/AR4
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/data/enes-model-data/cim-metadata-standard" class="state-published" title="The Common Information Model - a comprehensive metadata standard for climate modeling">
+            
+            CIM metadata standard
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/data/enes%20infrastructure%20is-enes" class="state-published hasDropDown" title="Overview of the ENES infrastructure (IS-ENES)">
+            
+            ENES Data Infrastructure
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/data/enes%20infrastructure%20is-enes/enes_esgf" class="state-published hasDropDown" title="">
+            
+            Earth System Grid Federation
+        </a>
+
+        <ul class="submenu navTree navTreeLevel2">
+            
+
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/data/enes%20infrastructure%20is-enes/enes_esgf/portals" class="state-published" title="The portals of the ENES data federation">
+            
+            European ESGF Portals
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/data/enes%20infrastructure%20is-enes/enes_esgf/data-nodes" class="state-published" title="ESGF Data Nodes in the ENES data federation">
+            
+            European ESGF Data Nodes
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/data/enes%20infrastructure%20is-enes/es-doc" class="state-published" title="">
+            
+            Earth System Documentation
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/data/enes%20infrastructure%20is-enes/climate4impact" class="state-published" title="Information for climate impact community users">
+            
+            Climate4Impact portal
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/data/enes%20infrastructure%20is-enes/ddc" class="state-published" title="Data Distribution Centre">
+            
+            IPCC Data Distribution Centre
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/data/enes%20infrastructure%20is-enes/data-processing" class="state-published" title="Data Processing: Tools and Services">
+            
+            Data Processing Tools
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/data/data-metadata-service" class="state-published hasDropDown" title="ENES infrastructure (IS-ENES) provides Services for Data and Metadata">
+            
+            Support Services on Data and Metadata
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/data/data-metadata-service/data-discovery" class="state-published hasDropDown" title="Information on how to search and download data ">
+            
+            Data discovery
+        </a>
+
+        <ul class="submenu navTree navTreeLevel2">
+            
+
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/data/data-metadata-service/data-discovery/web-portal-based-data-search" class="state-published" title="Faceted data search on the ESGF portals and download with your browser's download manager">
+            
+            Web Portal Based Data Search and Download
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/data/data-metadata-service/data-discovery/script-based-data-access" class="state-published" title="">
+            
+            Script Based Download
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/data/data-metadata-service/data-discovery/opendap" class="state-published" title="Download and browse data from ESGF with OPeNDAP, the Open-source Project for a Network Data Access Protocol">
+            
+            OPeNDAP
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/data/data-metadata-service/data-discovery/script-based-data-search" class="state-published" title="">
+            
+            URL Based Data Search on the ESGF search API
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/data/data-metadata-service/data-discovery/synda" class="state-published" title="">
+            
+            Data Access and Synchronization with Synda 
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/data/data-metadata-service/data-discovery/alternative" class="state-published" title="">
+            
+            Alternative Access Points Outside ESGF
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/data/data-metadata-service/climate4impact-portal" class="state-published" title="">
+            
+            Climate4Impact portal
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/data/data-metadata-service/analysis-platforms" class="state-published hasDropDown" title="">
+            
+            Analysis Platforms
+        </a>
+
+        <ul class="submenu navTree navTreeLevel2">
+            
+
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/data/data-metadata-service/analysis-platforms/2nd_tna-application-form" class="state-published" title="Trans-national Access (TA) ">
+            
+            Application Procedure for the ENES Analysis Platforms
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/data/data-metadata-service/analysis-platforms/faqs" class="state-published" title="">
+            
+            FAQs
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/data/data-metadata-service/analysis-platforms/example-of-how-to-run-server-side-data-near-multimodel-comparisons" class="state-published" title="">
+            
+            Demo: run server-side data-near multimodel comparisons
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/data/data-metadata-service/analysis-platforms/example-of-how-to-calculate-a-climate-index-in-the-server-near-the-data" class="state-published" title="">
+            
+            Demo: calculate a climate index in a server hosting all the climate model data
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/data/data-metadata-service/climate-analytics-service" class="state-published hasDropDown" title="">
+            
+            Climate Analytics Service
+        </a>
+
+        <ul class="submenu navTree navTreeLevel2">
+            
+
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/data/data-metadata-service/climate-analytics-service/faqs" class="state-published" title="">
+            
+            FAQs
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/data/data-metadata-service/data%20products" class="state-published" title="">
+            
+            Derived data products
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/data/data-metadata-service/metadata_services" class="state-published" title="">
+            
+            Metadata services
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/data/data-metadata-service/data-publication" class="state-published hasDropDown" title="ENES infrastructure (IS-ENES) provides services for data producers and managers">
+            
+            Data publication
+        </a>
+
+        <ul class="submenu navTree navTreeLevel2">
+            
+
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/data/data-metadata-service/data-publication/cmip-data-quality" class="state-published" title="">
+            
+            CMIP Data Quality
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/data/data-metadata-service/data-publication/copy_of_data-citation" class="state-published" title="WDC Climate data citation service">
+            
+            CORDEX Data Citation
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/data/data-metadata-service/data-publication/copy_of_ingest1" class="state-published" title="">
+            
+            ESGF Data Ingestion
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/data/data-metadata-service/support-contacts-for-data-and-metadata-services" class="state-published" title="General contacts table for ENES Data and Metadata Services">
+            
+            Support Contacts for Data and Metadata Services
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+                </ul>
+            </li><li id="portaltab-computing" class="plain colorkey-5"><a href="https://portal.enes.org/computing" class="plain" title="High performance computing, workflows and computing tools in earthsystem modelling">Computing</a>
+                <ul class="submenu colorkey-5">
+                    <li>
+
+    
+
+        <a href="https://portal.enes.org/computing/esiwace-1" class="state-published" title="The European Centre of Excellence in Simulation of Weather and Climate in Europe (ESiWACE) addresses today's and tomorrow's computing and e-Infrastructure challenges with respect to scalability and operability of earth system models at a global cloud resolving scale">
+            
+            ESiWACE
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/computing/hpc-taskforce" class="state-published" title="">
+            
+            HPC Task Force
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/computing/benchmarks" class="state-published hasDropDown" title="">
+            
+            Benchmarks
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/computing/benchmarks/documents" class="state-published" title="">
+            
+            Documents
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/computing/benchmarks/tools" class="state-published" title="">
+            
+            Tools
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/computing/m4hr" class="state-published hasDropDown" title="The Multi-Model Multi-Member High-Resolution (M4HR) experiment ">
+            
+            M4HR
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/computing/m4hr/metrics" class="state-published" title="">
+            
+            Metrics
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/computing/m4hr/cpmip" class="state-published" title="The Multi-Model Multi-Member High-Resolution (M4HR) experiment">
+            
+            M4HR
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/computing/workflows" class="state-published hasDropDown" title="Workflows in Earthsystem modelling">
+            
+            Workflows
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/computing/workflows/workflow-description" class="state-published" title="">
+            
+            Workflow Description
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://portal.enes.org/computing/workflows/workflow-tools" class="state-published" title="">
+            
+            Workflow Tools
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+                </ul>
+            </li><li id="portaltab-contact" class="plain colorkey-6"><a href="https://portal.enes.org/contact" class="plain" title="Contact us">Contact</a></li></ul>
+                </div><!-- :end -->
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="portal-shadow">
+        <div id="portal-columns" class="row">
+          <div id="portal-headimage"></div>
+          <div class="visualClear"></div>
+          <div id="portal-column-content" class="cell width-1:2 position-1:4">
+            <div id="viewlet-above-content">
+              <!-- begin: --><div id="portal-breadcrumbs">
+
+    <span id="breadcrumbs-you-are-here">You
+are here:</span>
+    <span id="breadcrumbs-home">
+        <a href="https://portal.enes.org">Home</a>
+        <span class="breadcrumbSeparator">
+            »
+            
+        </span>
+    </span>
+    <span id="breadcrumbs-1" dir="ltr">
+        
+            <a href="https://portal.enes.org/community">Community</a>
+            <span class="breadcrumbSeparator">
+                »
+                
+            </span>
+            
+         
+    </span>
+    <span id="breadcrumbs-2" dir="ltr">
+        
+            <a href="https://portal.enes.org/community/announcements">Announcements</a>
+            <span class="breadcrumbSeparator">
+                »
+                
+            </span>
+            
+         
+    </span>
+    <span id="breadcrumbs-3" dir="ltr">
+        
+            <a href="https://portal.enes.org/community/announcements/events">Events</a>
+            <span class="breadcrumbSeparator">
+                »
+                
+            </span>
+            
+         
+    </span>
+    <span id="breadcrumbs-4" dir="ltr">
+        
+            
+            
+            <span id="breadcrumbs-current">Joint IS-ENES3/ESiWACE2 Virtual Workshop on New Opportunities for ML and AI in Weather and Climate Modelling </span>
+         
+    </span>
+
+</div><!-- :end -->
+              <!-- begin: ><div id="plone-lock-status">  
+                <dl class="portalMessage info">
+                  <dt>Gesperrt</dt>
+                  <dd>
+                    Dieser Artikel wurde von <a
+                    href="index.html/author/test123">test123</a>
+                    vor <span>1 Minute</span> gesperrt.
+                    <form action="index.html/@@plone_lock_operations/force_unlock">
+                      <span>Wenn Sie sicher sind, dass dieser Benutzer
+                      den Artikel nicht mehr bearbeitet, k&#246;nnen Sie den
+                      Artikel <input type="submit" value="Entsperren" />
+                      und bearbeiten.</span>
+                    </form>
+                  </dd>
+                </dl>
+              </div><:end -->
+            </div>
+            <div>
+              <!-- begin: --><!--dl class="portalMessage info" id="kssPortalMessage">
+                <dt>Information</dt>
+                <dd>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed
+                diam nonumy eirmod tempor invidunt ut labore et dolore magna
+                aliquyam erat, sed diam voluptua.</dd>
+              </dl--><!-- :end -->
+              <div id="content"><dl class="portalMessage info" id="kssPortalMessage" style="display:none">
+        <dt>Info</dt>
+        <dd></dd>
+    </dl><!-- begin:  
+                <dl class="portalMessage">
+                  <dt>Gesperrt</dt>
+                  <dd>
+                    Dieser Artikel wurde von <a
+                    href="index.html/author/test123">test123</a>
+                    vor <span>1 Minute</span> gesperrt.
+                    <form action="index.html/@@plone_lock_operations/force_unlock">
+                      <span>Wenn Sie sicher sind, dass dieser Benutzer
+                      den Artikel nicht mehr bearbeitet, k&#246;nnen Sie den
+                      Artikel <input type="submit" value="Entsperren" />
+                      und bearbeiten.</span>
+                    </form>
+                  </dd>
+                </dl>--><!-- :end --><div id="viewlet-above-content-title"></div><!-- begin: --><h1 id="parent-fieldname-title" class="documentFirstHeading">
+                    Joint IS-ENES3/ESiWACE2 Virtual Workshop on New Opportunities for ML and AI in Weather and Climate Modelling 
+                </h1><!-- :end --><div id="viewlet-below-content-title"><div class="documentByLine" id="plone-document-byline">
+  
+
+  
+  
+    
+  
+  
+
+  
+  
+
+  <span class="documentModified">
+    <span>
+      last modified
+    </span>
+    Apr 09, 2021 11:57 AM
+  </span>
+  
+
+  
+
+  
+
+  
+
+  
+
+</div>
+                  <!-- begin: --><!-- :end -->
+                </div><!-- begin: --><!-- :end --><div id="viewlet-above-content-body">
+                  <!-- begin: --><!-- :end -->
+                  <!-- begin: --><!-- :end -->
+                </div><!-- begin: --><div id="content-core">
+                                 
+
+
+
+  <div class="event" itemscope="" itemtype="http://data-vocabulary.org/Event">
+
+    <ul class="hCalendar-hidden">
+      <li><a itemprop="url" class="url" href="https://portal.enes.org/community/announcements/events/joint-is-enes3-esiwace2-virtual-workshop-on-new-opportunities-for-ml-and-ai-in-weather-and-climate-modelling">https://portal.enes.org/community/announcements/events/joint-is-enes3-esiwace2-virtual-workshop-on-new-opportunities-for-ml-and-ai-in-weather-and-climate-modelling</a></li>
+      <li itemprop="summary" class="summary">Joint IS-ENES3/ESiWACE2 Virtual Workshop on New Opportunities for ML and AI in Weather and Climate Modelling </li>
+      <li itemprop="startDate" class="dtstart">2021-03-16T15:00:00+01:00</li>
+      <li itemprop="endDate" class="dtend">2021-03-18T18:30:00+01:00</li>
+      <li itemprop="description" class="description"></li>
+    </ul>
+
+    
+
+
+
+
+  <dl class="event summary details" summary="Event details">
+
+    
+
+    
+    
+    
+
+    
+      <dt>When</dt>
+      <dd>
+        
+
+
+  
+    <abbr class="dtstart" title="2021-03-16T15:00:00+01:00"> <span class="explain"> Mar 16, 2021 03:00 PM </span> </abbr>
+    to
+    <abbr class="dtend" title="2021-03-18T18:30:00+01:00"> <span class="explain"> Mar 18, 2021 06:30 PM </span> </abbr>
+  
+
+  
+
+
+
+
+        <span class="timezone">
+         (Europe/Vienna / UTC100)
+        </span>
+      </dd>
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+
+    
+
+    
+    
+
+    
+    
+    
+
+    
+      <dt>Add event to calendar</dt>
+      <dd>
+        <a href="https://portal.enes.org/community/announcements/events/joint-is-enes3-esiwace2-virtual-workshop-on-new-opportunities-for-ml-and-ai-in-weather-and-climate-modelling/ics_view" title="Download this event in iCal format">
+          <img src="https://portal.enes.org/++resource++plone.app.event/icon_export_ical.png" alt="" />
+          <span>iCal</span></a>
+      </dd>
+    
+
+  </dl>
+
+
+
+
+
+
+
+    <p><span><span>Organised jointly by the H2020 projects <a class="external-link" href="https://is.enes.org/" target="_self" title="">IS-ENES3</a> and <span class="link-external"><a class="external-link" href="https://www.esiwace.eu/" target="_blank" title="">ESiWACE2</a></span>, the workshop was held virtually from the 16th to 18th March 2021 (3.5h per day).  <br /></span></span></p>
+<p><span>The aim of this workshop was to bring together climate scientists and experts from academia and industry to share knowledge and experience and to identify new opportunities in the areas of machine learning, artificial intelligence and big data techniques for Weather and Climate Modelling.</span></p>
+<p><span>The workshop was organised around three sessions: </span></p>
+<p><em>- 16 March (Day 1): Views from Domain Science</em></p>
+<p><em>- 17 March (Day 2): ML/AI Software Technologies</em></p>
+<p><em>-18 March (Day 3): High performance, Infrastructure and Big data Challenges<br /><br /></em><strong>The final agenda is available <a title="" href="https://portal.enes.org/community/announcements/VirtualWorkshopNewOpportunitiesinML_AIforWeatherandClimatedraftagendav6.pdf" class="internal-link" target="_self">here</a>.<br /></strong></p>
+<p>The participants' personal data used for the organisation of the workshop was covered by the <a title="" href="https://portal.enes.org/new-index_files/GDPRESiWACE2andISENES3MLAIWorkshop_vf.pdf" class="internal-link" target="_self">following privacy policy</a>.</p>
+<p><span><img src="https://portal.enes.org/images/MLAIWorkshopbannerV2.png/@@images/2cc30d13-69d0-4602-9b1f-0ecd03e960ce.png" alt="" class="image-inline" title="" /></span></p>
+<p class="callout"><strong> Recorded talks</strong></p>
+<p><strong><span class="visualHighlight">Find the recording of the talks on the IS-ENES3 Youtube channel, under the <a class="external-link" href="https://www.youtube.com/watch?v=P0RtRdLvAGA&amp;list=PLFvev1W5vG7NP2xSRRorQabHWKKwJqw54" target="_self" title="">event playlist</a> </span>!</strong></p>
+<p class="callout"><strong>Presentations</strong></p>
+<ul>
+<li><strong>Session 1 : Views from Domain Science </strong></li>
+</ul>
+<table class="plain">
+<tbody>
+<tr>
+<td><a title="" href="https://portal.enes.org/community/announcements/Mar2021.pdf" class="internal-link" target="_self">New approaches based on ML for a range of climate prediction problems</a>, Emily Shuckburgh (U. Cambridge)</td>
+</tr>
+<tr>
+<td><a title="" href="https://portal.enes.org/community/announcements/Madaus_MLandAIatJupiter.pdf" class="internal-link" target="_self">Philosophy and Targeted Applications of ML/AI Techniques for Climate Risk Analytics at Jupiter</a>, Luke Madaus &amp; Steve Sain (Jupiter Intel.)</td>
+</tr>
+<tr>
+<td><a title="" href="https://portal.enes.org/community/announcements/Rasp_OptimizationDichotomy.pdf" class="internal-link" target="_self">The optimization dichotomy: Why is it so hard to improve climate models with machine learning</a>, Stephan Rasp (ClimateAI)</td>
+</tr>
+<tr>
+<td><a title="" href="https://portal.enes.org/community/announcements/new_opportunities_shen.pdf" class="internal-link" target="_self">Improving convection parameterizations with a library of large-eddy simulations</a>, Zhaoyi Shen (Caltech)</td>
+</tr>
+<tr>
+<td><a title="" href="https://portal.enes.org/community/announcements/downscaling_newopportunities.pdf" class="internal-link" target="_self">Stochastic Super-Resolution for Convective Regimes using Gaussian Random Fields</a>, Rachel Prudden (Met Office Inf. Lab)</td>
+</tr>
+<tr>
+<td><a title="" href="https://portal.enes.org/community/announcements/ISENES3_ESiWACE2_KMayer.pdf" class="internal-link" target="_self">Subseasonal Forecasts of Opportunity Identified by an Explainable Neural Network</a>, Kirsten Mayer (CSU)</td>
+</tr>
+<tr>
+<td><a title="" href="https://portal.enes.org/community/announcements/ISENES3v2_Pedram.pdf" class="internal-link" target="_self">Using transfer learning and backscattering analysis to build stable, generalizable data-driven subgrid-scale models: A 2D turbulence test case</a>, Pedram Hassanzadeh (U. Rice)</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li><strong>Session 2: ML/AI Software technologies</strong></li>
+</ul>
+<table class="plain">
+<tbody>
+<tr>
+<td><a title="" href="https://portal.enes.org/community/announcements/ISENES3Workshop20210317JL.pdf" class="internal-link" target="_self">Stochastic machine learning for atmospheric fields with generative adversarial networks</a>, Jussi Leinonen (MeteoSwiss)</td>
+</tr>
+<tr>
+<td><a title="" href="https://portal.enes.org/community/announcements/causal_discovery_time_series_unobserved_confounders__Gerhardus.pdf" class="internal-link" target="_self">Causal discovery in time series with unobserved confounders</a>, Andreas Gerhardus (DLR Jena)</td>
+</tr>
+<tr>
+<td><a title="" href="https://portal.enes.org/community/announcements/Estimating_stochastic_closuresJinlong_WU.pdf" class="internal-link" target="_self">Estimating stochastic closures using sparsity-promoting ensemble Kalman inversion</a>, Jinlong Wu (Caltech)</td>
+</tr>
+<tr>
+<td><a title="" href="https://portal.enes.org/community/announcements/DeepSphereWeather_ESIWACE_Ghiggi.pdf" class="internal-link" target="_self">Deep Learning on the sphere for weather/climate applications</a>, Gionata Ghiggi and Michaël Defferrard (EPFL)</td>
+</tr>
+<tr>
+<td>Deep learning-based remote sensing for infrastructure damage assessment, Thomas Chen (AMSE)</td>
+</tr>
+<tr>
+<td><a title="" href="https://portal.enes.org/community/announcements/Subramaniam_leveraging_physics_information_in_neural_newtworks.pdf" class="internal-link" target="_self">Leveraging physics information in neural networks for fluid flow problems</a>, Akshay Subramaniam (NVIDIA)</td>
+</tr>
+<tr>
+<td><a title="" href="https://portal.enes.org/community/announcements/Weyn_S2S_forecasting_ML.pdf" class="internal-link" target="_self">Sub-seasonal forecasting with a large ensemble of deep-learning weather prediction models</a>, Jonathan Weyn (U. of Washington)</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li><strong>Session 3: High performance, Infrastructure and Big data challenges</strong></li>
+</ul>
+<table class="plain">
+<tbody>
+<tr>
+<td><a title="" href="https://portal.enes.org/community/announcements/ScalingUpDeepLearningWorkloadsADataCentricView.pdf" class="internal-link" target="_self">Scaling Up Deep Learning Workloads - A Data-Centric View, Tal Ben-Nun</a> (ETHZ)</td>
+</tr>
+<tr>
+<td><a title="" href="https://portal.enes.org/community/announcements/Radar_QPE_andMachine_Learning_Simpson.pdf" class="internal-link" target="_self">Radar QPE and Machine Learning</a>, Micheal Simpson (NOAA)</td>
+</tr>
+<tr>
+<td><a title="" href="https://portal.enes.org/community/announcements/UsingMLattheEdgetoImproveDataGathering.pdf" class="internal-link" target="_self">Using ML at the Edge to Improve Data Gathering</a>, Pete Warden (Google)</td>
+</tr>
+<tr>
+<td><a title="" href="https://portal.enes.org/community/announcements/AnOverviewofMLandAIonArm.pdf" class="internal-link" target="_self">An Overview of ML and AI on Arm Based HPC Systems for Weather and Climate Applications</a>, Phil Ridley (Arm)</td>
+</tr>
+<tr>
+<td><a title="" href="https://portal.enes.org/community/announcements/MachineLearnedPreconditionersforLinearSolversinGeophysicalFluidFlows.pdf" class="internal-link" target="_self">Machine-Learned Preconditioners for Linear Solvers in Geophysical Fluid Flows</a>, Jan Ackmann (U. Oxford)</td>
+</tr>
+<tr>
+<td><a title="" href="https://portal.enes.org/community/announcements/Youdoyou..pdf" class="internal-link" target="_self">You do you. How next-gen data platforms can stop weather and climate scientists from being software engineers and other perversions</a>, Theo McCaie (MO Informatics Lab)</td>
+</tr>
+<tr>
+<td><a title="" href="https://portal.enes.org/community/announcements/3DBiasCorrectionwithDeepLearningintheIntegratedForecastingSystem.pdf" class="internal-link" target="_self">3D bias correction with deep learning in the Integrated Forecasting System</a>, Thorsten Kurth (NVIDIA)</td>
+</tr>
+</tbody>
+</table>
+
+  </div>
+
+  <span class="visualClear"></span>
+
+
+
+
+                             </div><!-- :end --><div id="viewlet-below-content-body">
+                  <!-- begin: --><!-- :end -->
+                <div class="visualClear"></div>
+                <!-- begin: --> <!--div class="documentActions"> braucht kein Mensch .- oder?!
+                  <h5 class="hiddenStructure">Artikelaktionen</h5>
+                  <ul>
+                    <li id="document-action-print">
+                      <a href="javascript:this.print();" title="">Drucken</a>
+                    </li>
+                  </ul>
+                </div--><!-- :end -->
+                </div></div>
+            </div>
+            <div id="viewlet-below-content">
+              <!-- begin: --><!-- :end -->
+              <!-- begin: --><!-- :end -->
+              <div class="row">
+                <!-- begin: --><!-- :end -->
+              </div>
+              <!-- begin: --><!-- :end -->
+            </div>
+          </div>
+          <!-- begin: --><div id="portal-column-one" class="cell width-1:4 position-0">
+            
+                
+<div class="portletWrapper" data-portlethash="706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f506c6f6e650a6e617669676174696f6e" id="portletwrapper-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f506c6f6e650a6e617669676174696f6e">
+<dl class="portlet portletNavigationTree">
+
+    <dt class="portletHeader hiddenStructure">
+        <span class="portletTopLeft"></span>
+        <a href="https://portal.enes.org/sitemap" class="tile">Navigation</a>
+        <span class="portletTopRight"></span>
+    </dt>
+
+    <dd class="portletItem lastItem">
+        <ul class="navTree navTreeLevel0">
+            <li class="navTreeItem navTreeTopNode nav-section-community">
+                <div>
+                   <a href="https://portal.enes.org/community" class="contenttype-folder" title="Projects, news and events of the Earth system modelling community">
+                   
+                   
+                   Community
+                   </a>
+                </div>
+            </li>
+            
+
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-about-enes">
+
+    
+
+
+        <a href="https://portal.enes.org/community/about-enes" class="state-published navTreeFolderish contenttype-folder" title="">
+            
+            <span>About ENES</span>
+        </a>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeItemInPath navTreeFolderish section-announcements">
+
+    
+
+
+        <a href="https://portal.enes.org/community/announcements" class="state-published navTreeItemInPath navTreeFolderish contenttype-folder" title="New, jobs and events related to climate modeling">
+            
+            <span>Announcements</span>
+        </a>
+
+    <ul class="navTree navTreeLevel1">
+        
+
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-news">
+
+    
+
+
+        <a href="https://portal.enes.org/community/announcements/news" class="state-published navTreeFolderish contenttype-folder" title="Community News">
+            
+            <span>News</span>
+        </a>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeItemInPath navTreeFolderish section-events">
+
+    
+
+
+        <a href="https://portal.enes.org/community/announcements/events" class="state-published navTreeItemInPath navTreeFolderish contenttype-folder" title="Community Events">
+            
+            <span>Events</span>
+        </a>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-newsletters">
+
+    
+
+
+        <a href="https://portal.enes.org/community/announcements/newsletters" class="state-published navTreeFolderish contenttype-folder" title="Newsletters, brochures and informal publications of interest for the ENES community">
+            
+            <span>Newsletters</span>
+        </a>
+
+    
+    
+</li>
+
+
+
+
+    </ul>
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-community-workshops">
+
+    
+
+
+        <a href="https://portal.enes.org/community/community-workshops" class="state-published navTreeFolderish contenttype-folder" title="Here you will find the ENES community workshops">
+            
+            <span>Community Workshops</span>
+        </a>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-schools">
+
+    
+
+
+        <a href="https://portal.enes.org/community/schools" class="state-published navTreeFolderish contenttype-folder" title="Summer schools and similar activities and materials related to climate modeling">
+            
+            <span>Schools &amp; Education</span>
+        </a>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-projects-and-initiatives">
+
+    
+
+
+        <a href="https://portal.enes.org/community/projects-and-initiatives" class="state-published navTreeFolderish contenttype-folder" title="">
+            
+            <span>Projects and Initiatives</span>
+        </a>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-participate">
+
+    
+
+
+        <a href="https://portal.enes.org/community/participate" class="state-published navTreeFolderish contenttype-folder" title="Ways to participate in and join the community">
+            
+            <span>Participate</span>
+        </a>
+
+    
+    
+</li>
+
+
+
+
+        </ul>
+        <span class="portletBottomLeft"></span>
+        <span class="portletBottomRight"></span>
+    </dd>
+</dl>
+
+</div>
+
+<div class="portletWrapper" data-portlethash="706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f506c6f6e650a6c6f676f73" id="portletwrapper-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f506c6f6e650a6c6f676f73"><div class="portletStaticText portlet-static-logos"><p><a class="external-link" href="https://verc.enes.org/ISENES3" target="_self" title=""> <img src="https://portal.enes.org/images/ISENES-Logo-H40" alt="ISENESsmall_h40px_type_right" class="image-inline" title="ISENESsmall_h40px_type_right" /> </a><a href="http://www.europa.eu/"> <img src="https://portal.enes.org/images/flag_eu.png" alt="flag_eu.png" class="image-inline" title="flag_eu.png" /> </a></p></div>
+
+</div>
+
+
+
+
+            
+        </div><!-- :end -->
+          <!-- begin: --><div id="portal-column-two" class="cell width-1:4 position-3:4">
+            
+                
+<div class="portletWrapper" data-portlethash="706c6f6e652e7269676874636f6c756d6e0a636f6e746578740a2f506c6f6e652f636f6d6d756e6974790a736561726368" id="portletwrapper-706c6f6e652e7269676874636f6c756d6e0a636f6e746578740a2f506c6f6e652f636f6d6d756e6974790a736561726368">
+<dl class="portlet portletSearch">
+
+  <dt class="portletHeader">
+      <span class="portletTopLeft"></span>
+      <a class="tile" href="https://portal.enes.org/@@search">
+        
+        Search
+      </a>
+      <span class="portletTopRight"></span>
+  </dt>
+
+    <dd class="portletItem">
+      <form id="searchform" action="https://portal.enes.org/@@search" data-action="@@search">
+        <div class="LSBox">
+          <input class="searchField portlet-search-gadget" name="SearchableText" type="text" size="15" title="Search Site" placeholder="Search Site" />
+          <input class="searchButton" type="submit" value="OK" />
+
+          <div class="LSResult" style="" data-livesearch="livesearch_reply">
+            <div class="LSShadow"></div>
+          </div>
+        </div>
+      </form>
+      <div class="visualClear"><!-- --></div>
+    </dd>
+
+    <dd class="portletFooter">
+        <a href="https://portal.enes.org/@@search" class="tile">
+        Advanced Search…
+        </a>
+        <span class="portletBottomLeft"></span>
+        <span class="portletBottomRight"></span>
+    </dd>
+</dl>
+
+</div>
+
+<div class="portletWrapper" data-portlethash="706c6f6e652e7269676874636f6c756d6e0a636f6e746578740a2f506c6f6e652f636f6d6d756e6974790a6e657773" id="portletwrapper-706c6f6e652e7269676874636f6c756d6e0a636f6e746578740a2f506c6f6e652f636f6d6d756e6974790a6e657773"><dl class="portlet portletCollection portlet-collection-news">
+
+    <dt class="portletHeader">
+        <span class="portletTopLeft"></span>
+        <a href="https://portal.enes.org/community/announcements/news/aggregator">
+            <span>News</span>
+        </a>
+        <span class="portletTopRight"></span>
+    </dt>
+
+    
+    <dd class="portletItem odd">
+        <a href="https://portal.enes.org/community/announcements/news/4th-call-to-access-the-analysis-platforms-for-cmip6-and-cordex" class="tile contenttype-news-item" title="">
+            4th call to access the Analysis Platforms for CMIP6 and CORDEX !
+            <span class="portletItemDetails">Apr 08, 2021</span>
+        </a>
+    </dd>
+    
+    
+    <dd class="portletItem even">
+        <a href="https://portal.enes.org/community/announcements/news/open-call-run-your-own-scripts-to-process-esgf-cmip-and-cordex-model-data-in-the-supercomputers-holding-the-data" class="tile contenttype-news-item" title="">
+            OPEN CALL: Run your own scripts to process ESGF CMIP and CORDEX model data in the supercomputers holding the data 
+            <span class="portletItemDetails">Jul 28, 2020</span>
+        </a>
+    </dd>
+    
+    
+    <dd class="portletItem odd">
+        <a href="https://portal.enes.org/community/announcements/news/deadline-extended-is-enes3-call-for-transnational-access-to-virtual-workspaces-to-process-esgf-cmip-and-cordex-model-data-1" class="tile contenttype-news-item" title="">
+            New deadline to access our Virtual Workspaces. Run your own scripts  to process ESGF CMIP and CORDEX model data in the supercomputers holding the data
+            <span class="portletItemDetails">May 30, 2020</span>
+        </a>
+    </dd>
+    
+
+    <dd class="portletFooter">
+        <span class="portletBottomLeft"></span>
+        <span>
+        <a href="https://portal.enes.org/community/announcements/news/aggregator">
+           <span class="hiddenStructure">News - </span>
+           <span>More…</span>
+        </a>
+        </span>
+        <span class="portletBottomRight"></span>
+    </dd>
+
+</dl>
+</div>
+
+
+
+
+            
+        </div><!-- :end -->
+        </div>
+      </div>
+      <!--div class="portal-shadow-bottom cell width-full position-0"></div-->
+      <div class="portal-shadow-bottom row"></div>
+      <div class="portal-bottom-wrapper row">
+        <div class="cell width-full position-0">
+          <div class="portal-bottom-margin">
+              <!-- begin: --><div id="portal-colophon">
+              <div class="colophonWrapper">
+              <span>© Copyright ENES Portal 2011</span>
+              </div>
+            </div><!-- :end -->   
+            <!-- begin: --><div id="doormat-container" class="columns-5">
+
+  
+  <div class="doormatColumn column-0">
+    <h3>About ENES</h3>
+    <dl class="doormatSection">
+      
+      <dd class="doormatSectionBody">
+        <a href="https://portal.enes.org/community/about-enes/the-aims" class="">Aims</a>
+        
+      </dd>
+    </dl>
+    <dl class="doormatSection">
+      
+      <dd class="doormatSectionBody">
+        <a href="https://portal.enes.org/community/about-enes/the-future-of-enes/the-future-of-enes" class="">Strategy</a>
+        
+      </dd>
+    </dl>
+    <dl class="doormatSection">
+      
+      <dd class="doormatSectionBody">
+        <a href="https://portal.enes.org/community/about-enes/the-rationale" class="">Rationale</a>
+        
+      </dd>
+    </dl>
+    <dl class="doormatSection">
+      
+      <dd class="doormatSectionBody">
+        <a href="https://portal.enes.org/community/about-enes/members-2" class="">Partners</a>
+        
+      </dd>
+    </dl>
+  </div>
+  <div class="doormatColumn column-1">
+    <h3>Community</h3>
+    <dl class="doormatSection">
+      
+      <dd class="doormatSectionBody">
+        <a href="https://portal.enes.org/community/announcements" class="">Annoucements</a>
+        
+      </dd>
+    </dl>
+    <dl class="doormatSection">
+      
+      <dd class="doormatSectionBody">
+        <a href="https://portal.enes.org/community/schools" class="">Schools &amp; Education</a>
+        
+      </dd>
+    </dl>
+    <dl class="doormatSection">
+      
+      <dd class="doormatSectionBody">
+        <a href="https://portal.enes.org/community/projects-and-initiatives" class="">Projects and Initiatives</a>
+        
+      </dd>
+    </dl>
+  </div>
+  <div class="doormatColumn column-2">
+    <h3>Models</h3>
+    <dl class="doormatSection">
+      
+      <dd class="doormatSectionBody">
+        <a href="https://portal.enes.org/models/earthsystem-models" class="">European ESMs</a>
+        
+      </dd>
+    </dl>
+    <dl class="doormatSection">
+      
+      <dd class="doormatSectionBody">
+        <a href="https://portal.enes.org/models/support-service-for-model-users-1" class="">Support services</a>
+        
+      </dd>
+    </dl>
+  </div>
+  <div class="doormatColumn column-3">
+    <h3>Data</h3>
+    <dl class="doormatSection">
+      
+    </dl>
+    <dl class="doormatSection">
+      
+      <dd class="doormatSectionBody">
+        <a href="https://portal.enes.org/data/data-metadata-service" class="">Support services</a>
+        
+      </dd>
+    </dl>
+  </div>
+  <div class="doormatColumn column-4">
+    
+    <dl class="doormatSection">
+      
+      <dd class="doormatSectionBody">
+        <a href="https://portal.enes.org/datenschutzerklarung" class="">© data privacy statement (German)</a>
+        
+      </dd>
+    </dl>
+  </div>
+</div><!-- :end -->
+          </div>
+        </div>
+
+        <!-- begin: --><script id="analytics">
+    var gaProperty = 'UA-72819059-1'; 
+    var disableStr = 'ga-disable-' + gaProperty; 
+    if (document.cookie.indexOf(disableStr + '=true') > -1) { 
+        window[disableStr] = true;
+    } 
+    function gaOptout() { 
+        document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/'; 
+        window[disableStr] = true; 
+        alert('Das Tracking ist jetzt deaktiviert'); 
+    } 
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ 
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), 
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) 
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga'); 
+
+    ga('create', 'UA-72819059-1', 'auto'); 
+    ga('set', 'anonymizeIp', true); 
+    ga('send', 'pageview'); 
+</script><!-- :end -->
+        
+     
+      </div>
+    </div></body>
+</html>

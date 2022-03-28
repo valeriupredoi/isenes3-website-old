@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+<channel rdf:about="https://is.enes.org/search_rss">
+  <title>IS-ENES 3</title>
+  <link>https://is.enes.org</link>
+
+  <image rdf:resource="https://is.enes.org/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/na3-documents/wp4-esm-environments-recommendations/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/na3-documents/cm-documents"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms4-6_final-workshop-on-meta-data-generation-during-experiments/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms4-5_configuration-management-best-practice-guide-for-climate-science/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d4-4_meta-data-capture-final-workshop-report/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d4-3_coupler-governance-model-document/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d4-2_workflow-solutions-initial-workshop-report/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d4-1_configuration-management-initial-workshop-report/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/na3-documents/cm-documents/evaluation-of-fcm-in-ipsl-earth-system-model/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/na3-documents/cm-documents/early-experiences-transitioning-from-perforce-to-git-at-ecmwf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/na3-documents/cm-documents/configuration-management-for-cmip6/view"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/na3-documents/wp4-esm-environments-recommendations/view">
+    <title>WP4 ESM Environments Recommendations</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/na3-documents/wp4-esm-environments-recommendations/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>WP4</dc:subject>
+    
+    
+      <dc:subject>Work document</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/na3-documents/cm-documents">
+    <title>WP4 - T2: Configuration Management Virtual Workshop</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/na3-documents/cm-documents</link>
+    <description>This page will link to the Configuration Management Best Practice Guide, coordinated by IS-ENES2 in association with colleagues around the world. It will also link to other papers provided to the virtual workshop.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>WP4</dc:subject>
+    
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    
+      <dc:subject>Work document</dc:subject>
+    
+    <dc:date>2016/01/22 18:15:00 GMT+1</dc:date>
+    <dc:type>Folder</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms4-6_final-workshop-on-meta-data-generation-during-experiments/view">
+    <title>IS-ENES2_MS4.6_Final workshop on meta-data generation during  experiments </title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms4-6_final-workshop-on-meta-data-generation-during-experiments/view</link>
+    <description>From 2016-09-27 to 29 a common workshop was held in Lisbon for IS-ENES2 milestones 4.6 (metadata generation) and 4.7 (workflows). This paper is to document the metadata part of the workshop which aimed to explore methodologies that make metadata capture more efficient, investigate any options for sharing existing software to do this and also aimed to influence the development of the meta-data standards and central tools that the community will need to use in future CMIP and related inter comparison projects.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>WP4</dc:subject>
+    
+    
+      <dc:subject>Milestone</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms4-5_configuration-management-best-practice-guide-for-climate-science/view">
+    <title>IS-ENES2_MS4.5_Configuration Management Best Practice Guide for  Climate Science</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms4-5_configuration-management-best-practice-guide-for-climate-science/view</link>
+    <description>A configuration management best practice guide for Climate Science has been produced taking contributions from more than 40 individuals from more than 30 institutions. This paper analyses configuration management from the point of view of a number of key roles: model developers, system owners, experiment designers and data consumers. The conclusion is that a wider exploitation of tools to capture the full workflow and to formalize testing and code reviewing would add to the good practices commonly used in the community.
+An appendix on model reproducibility provides useful background to the challenges faced by the community.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>WP4</dc:subject>
+    
+    
+      <dc:subject>Milestone</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d4-4_meta-data-capture-final-workshop-report/view">
+    <title>IS-ENES2_D4.4_Meta-data capture final workshop report</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d4-4_meta-data-capture-final-workshop-report/view</link>
+    <description>The deliverable aims at summarising and evaluating the European and global activities addressing developments in metadata capture of both catalogue metadata and adjacent metadata as model descriptions and user annotations. It starts from the analysis of the Initial workshop on meta-data generation during experiments (2014-01, Hamburg, see milestone MS4.2), summarises the results presented at the Final workshop on meta-data generation during Experiments (2016-09, Lisbon, see MS4.6) and draws recommendations from them.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>WP4</dc:subject>
+    
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d4-3_coupler-governance-model-document/view">
+    <title>IS-ENES2_D4.3_Coupler Governance model document</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d4-3_coupler-governance-model-document/view</link>
+    <description>In this document, we present a proposal for a community governance model for the OASIS coupler based on previous discussions within IS-ENES, on a recent user survey, and on the author’s experience as an OASIS developer. The results of the survey are summarized and a lightweight community governance model, in line with the traditional bottom-up approach followed up to now for the coupler evolution, is proposed. This community governance model is based on a user committee ensuring right level of interaction between the coupler users and developers, and an external advisory board to which the developers regularly report and that provides advice to the developers with a special consideration of strategic needs</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>WP4</dc:subject>
+    
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d4-2_workflow-solutions-initial-workshop-report/view">
+    <title>IS-ENES2_D4.2_Workflow Solutions Initial Workshop Report</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d4-2_workflow-solutions-initial-workshop-report/view</link>
+    <description>Workflow is a rapidly developing area within the climate modelling community as a result of the increased complexity due to seasonal and decadal predictions systems with initialisation and increasingly complex experiment design. The deliverable reports on results from the first workshop that shared the experiences of the community using a variety of tools to see if there is any scope for concerned of approach or sharing of best practice.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>WP4</dc:subject>
+    
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d4-1_configuration-management-initial-workshop-report/view">
+    <title>IS-ENES2_D4.1_Configuration management initial workshop report_Revised version</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d4-1_configuration-management-initial-workshop-report/view</link>
+    <description>IS-ENES2 work-package 4 (WP4) provides networking activities to increase the pace of climate science by sharing best practice in software environments. Task 2 of this work- package focuses on Configuration Management Tools via two workshops and a supported community evaluation of the FCM tool in particular.
+This document provides the deliverable report from the first of these workshops and lays out the plan of action for the community evaluation of FCM.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>WP4</dc:subject>
+    
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/na3-documents/cm-documents/evaluation-of-fcm-in-ipsl-earth-system-model/view">
+    <title>Evaluation of FCM in IPSL Earth System model</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/na3-documents/cm-documents/evaluation-of-fcm-in-ipsl-earth-system-model/view</link>
+    <description>Evaluation of FCM in IPSL Earth System model</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>WP4</dc:subject>
+    
+    
+      <dc:subject>WP4 documents</dc:subject>
+    
+    
+      <dc:subject>Work document</dc:subject>
+    
+    
+      <dc:subject>Publication</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/na3-documents/cm-documents/early-experiences-transitioning-from-perforce-to-git-at-ecmwf/view">
+    <title>Early experiences transitioning from Perforce to Git at ECMWF</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/na3-documents/cm-documents/early-experiences-transitioning-from-perforce-to-git-at-ecmwf/view</link>
+    <description>Transitioning a large code-base from one source control system to another is often times technically simple. What might not be as simple is getting developers to successfully adapt to the new ways of working. Different systems manage source code, commits, branching and merging sometimes very differently. This is what has made this transition more complex.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>WP4</dc:subject>
+    
+    
+      <dc:subject>Presentation</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/na3-documents/cm-documents/configuration-management-for-cmip6/view">
+    <title>Configuration management for CMIP6</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/na3-documents/cm-documents/configuration-management-for-cmip6/view</link>
+    <description>The next round of the Coupled Model Intercomparison Project (aka CMIP6) is larger and more complicated than has been the case before now. An important part of the CMIP definition is the so-called data request, or list of variables which are to be calculated and output by the models. Ensuring that the request is correctly understood and transmitted to the starting configuration for the model runs is crucial in the initialization step. We describe here Met Office Hadley Centre efforts to build an application to analyze and interrogate the request, and indicate how it can be used to answer questions about the variable requirements.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>WP4</dc:subject>
+    
+    
+      <dc:subject>WP4 documents</dc:subject>
+    
+    
+      <dc:subject>Publication</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+
+</rdf:RDF>

@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+<channel rdf:about="https://is.enes.org/search_rss">
+  <title>IS-ENES 3</title>
+  <link>https://is.enes.org</link>
+
+  <image rdf:resource="https://is.enes.org/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms2-5_update-of-enes-strategy-for-hpc/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d2-7_final-version-of-enes-portal/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d2-5_enes-governance-report-on-software-sharing/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d2-4_3rd-european-school-on-earth-system-and-climate-modelling/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d2-1_update-of-enes-governance-rules/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d2-6_update-of-the-enes-infrastructure-strategy/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d2-3_white-paper-on-esm-evaluation-needs-and-infrastructure/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d2-2_2nd-european-school-on-earth-system-and-climate-modelling/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/events/nemo-sea-ice-working-group-designing-a-strategy-for-sea-ice-development-in-nemo"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/misc/convergence-workshop-flyer/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/events/european-earth-system-modelling-infrastructure-strategy-meeting"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms2-5_update-of-enes-strategy-for-hpc/view">
+    <title>IS-ENES2_MS2.5_Update of ENES strategy for HPC</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms2-5_update-of-enes-strategy-for-hpc/view</link>
+    <description>This milestone presents the contribution of the HPC task force to the update of the ENES strategy, focussing on computing issues. To address the challenges faced today by Earth System sciences, the climate modelling community needs to better exploit current and future HPC technologies. This paper lays out an argument to go in that direction following three strands: (i) improving current climate models, while (ii) developing in parallel a new generation of models able and (iii) accessing increased computing capacity including Tier0 platforms. It also describes how new avenues need to be considered regarding people, training and relation with vendors to reach these objectives.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>WP2</dc:subject>
+    
+    
+      <dc:subject>Milestone</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d2-7_final-version-of-enes-portal/view">
+    <title>IS-ENES2_D2.7_Final version of ENES portal</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d2-7_final-version-of-enes-portal/view</link>
+    <description>This document describes the final version of the ENES portal. It summarizes function, objectives and main features of the ENES portal at end of IS-ENES2. The portal was developed in the frame of IS-ENES1 and refined and optimized during IS-ENES2 to improve its usability. The portal is used as a vehicle of information and as a platform to provide support services to the European Earth’s climate modelling community.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    
+      <dc:subject>WP2</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d2-5_enes-governance-report-on-software-sharing/view">
+    <title>IS-ENES2_D2.5_ENES governance report on software sharing</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d2-5_enes-governance-report-on-software-sharing/view</link>
+    <description>All software needs governance and this paper defines and considers community governance. That is, the process by which a wider community can influence the decision making and quality control. A number of examples relevant to the IS-ENES2 project are analysed and the paper recognises that a range of approaches is required depending on the software functionality, how it is used, how it is developed and institutional and cultures. Recommendations are made on approaches and things to consider when setting up community governance. This paper also notes that a new approach to start with a governance of standards in advance of software governance may encourage more software sharing.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    
+      <dc:subject>WP2</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d2-4_3rd-european-school-on-earth-system-and-climate-modelling/view">
+    <title>IS-ENES2_D2.4_3rd European School on Earth System and Climate Modelling</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d2-4_3rd-european-school-on-earth-system-and-climate-modelling/view</link>
+    <description>The Third European School on Earth System and Climate Modeling took place at the Center for Scientific Computing CSC in Helsinki, Finland, from June 08 – 22 2016, organized jointly by the National Centre for Atmospheric Research, Reading, UK, the MPI for Meteorology, Hamburg, Germany, and the Barcelona Supercomputing Centre, Barcelona, Spain under the auspices of the European Network for Earth System Modeling as part of the IS-ENES2 WP 1.
+28 students, of which 16 were male and 5 non-EU, participated. Three Models were set-up, run, and inter-compared. Eighteen full lectures were given, and about 440 person-hours were spent on one-to-one tutorials. Participants were very satisfied by the school providing also insightful recommendations for any future school.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    
+      <dc:subject>WP2</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d2-1_update-of-enes-governance-rules/view">
+    <title>IS-ENES2_D2.1_Update of ENES governance rules</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d2-1_update-of-enes-governance-rules/view</link>
+    <description>In support to its infrastructure activities, ENES Board has created two task forces. These task forces advise ENES on all issues relevant to High Performance Computing and to data infrastructure, to support and exploit climate simulations in Europe. This document presents their terms of reference and membership as of March 2017.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    
+      <dc:subject>WP2</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d2-6_update-of-the-enes-infrastructure-strategy/view">
+    <title>IS-ENES2_D2.6_Update of the ENES infrastructure strategy</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d2-6_update-of-the-enes-infrastructure-strategy/view</link>
+    <description>The ENES infrastructure strategy for the decade 2012-2022 (Mitchell et. al. 2012, conceived in the frame of IS-ENES1) addressed the main challenges for the community in terms of model development, needs for high-performance computers, data infrastructure, and human resources. Many recommendations of that foresight have been implemented in IS-ENES2. At mid-term of IS-ENES2, that strategy is revisited in the international context and adapted to the evolution since 2012 of climate research, software and hardware. The original recommendations concerning models, HPC, data, networks and human resources have been updated. To complement these, two new recommendations are made: one on the crucial issue of model evaluation, as it is still largely unclear how to best organize the associated infrastructure, and one emphasizing the need to tackle the long-term sustainability of the whole infrastructure.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    
+      <dc:subject>WP2</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d2-3_white-paper-on-esm-evaluation-needs-and-infrastructure/view">
+    <title>IS-ENES2_D2.3_White paper on ESM evaluation needs and infrastructure</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d2-3_white-paper-on-esm-evaluation-needs-and-infrastructure/view</link>
+    <description>Evaluation of multi-model ensemble results on the evolution of the climate and Earth system
+requires a dedicated infrastructure to ensure access, processing, and combination of model data with
+observations. The article Eyring et al., Towards improved and more routine Earth system model
+evaluation in CMIP is available in open access at Earth System Dynamics Discussions, http://www.earth-syst-dynam-discuss.net/esd-2016-26/. The paper outlines the infrastructure requirements to ensure a smooth evaluation process under CMIP. The article integrates requests from a series of scientists from the global Earth system modelling community and should help to coordinate different efforts in the field and motivate funding agencies as well as research institutions for new projects towards ESM infrastructures.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    
+      <dc:subject>WP2</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d2-2_2nd-european-school-on-earth-system-and-climate-modelling/view">
+    <title>IS-ENES2_D2.2_2nd European School on Earth System and Climate Modelling_Submitted Version</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d2-2_2nd-european-school-on-earth-system-and-climate-modelling/view</link>
+    <description>The Second European Scholl on Earth System and Climate Modeling took place at the Barcelona Supercomputing Centre in Barcelona, Spain, from June 10th to 20th 2014, organized jointly by the MPI for Meteorology, Hamburg, Germany, the National Centre for Atmospheric Research, Reading, UK, and the Barcelona Supercomputing Centre, Barcelona, Spain under the auspices of the European Network for Earth System Modeling as part of the IS-ENES2 WP 1.
+30 students, of which 15 were male and 7 were not from the EU, participated. 3 Models were set-up, run, and compared, 18 Lectures were given, and about 500 person-hours were spent on tutorship. Participants were very satisfied by the school providing insightful recommendations for the next school, too.
+There was a slight deviation from the work plan, illuminated in the text. The next school is planned by NCAS for 2016, to be held at FMI, Helsinki, Finland.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    
+      <dc:subject>WP2</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/events/nemo-sea-ice-working-group-designing-a-strategy-for-sea-ice-development-in-nemo">
+    <title>IS-ENES2 NEMO sea ice working group: designing a strategy for sea ice development in NEMO</title>
+    <link>https://is.enes.org/archive-1/phase-2/events/nemo-sea-ice-working-group-designing-a-strategy-for-sea-ice-development-in-nemo</link>
+    <description>NEMO has, with great success, brought together the West European ocean model development community to produce one of the few leading ocean modelling tools in the world. Yet regarding sea ice, there has not been a common development strategy, leading to duplications and to a waste of manpower, at the expense of scientific activities. </description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Project Event</dc:subject>
+    
+    
+      <dc:subject>WP2</dc:subject>
+    
+    <dc:date>2017/01/24 12:55:00 GMT+1</dc:date>
+    <dc:type>Event</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/misc/convergence-workshop-flyer/view">
+    <title>Convergence workshop flyer</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/misc/convergence-workshop-flyer/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>WP2</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/events/european-earth-system-modelling-infrastructure-strategy-meeting">
+    <title>ENES community meeting on Earth System Modelling Infrastructure Strategy</title>
+    <link>https://is.enes.org/archive-1/phase-2/events/european-earth-system-modelling-infrastructure-strategy-meeting</link>
+    <description>A meeting supported by IS-ENES2</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Project Event</dc:subject>
+    
+    
+      <dc:subject>WP2</dc:subject>
+    
+    <dc:date>2016/06/27 12:55:00 GMT+1</dc:date>
+    <dc:type>Event</dc:type>
+  </item>
+
+
+
+</rdf:RDF>

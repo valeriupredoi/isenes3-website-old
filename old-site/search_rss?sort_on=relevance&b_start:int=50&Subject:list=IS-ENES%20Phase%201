@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+<channel rdf:about="https://is.enes.org/search_rss">
+  <title>IS-ENES 3</title>
+  <link>https://is.enes.org</link>
+
+  <image rdf:resource="https://is.enes.org/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides/Lessons%20learned%20from%20IS-ENES%20use%20cases.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides/presentation%20Page-Swart%20AGU.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides/AGU_SFO_dec2010.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides/som-de-cerff-w.-and-m.-plieger-enabling-the-use-of-climate-model-data-in-the-dutch-climate-effect-community/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides/kindermann-s.-e-infrastructure-components-to-support-the-earth-system-modeling-community-in-europe/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides/bfg-is-enes.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides/poster_WCC3_ENES.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/documents/ISENES_D4_5%20VF.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/documents/ISENES_Deliverables_4.3-final-1.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/documents/IS-ENES_11_DI_11-3_Software_specification_A12.doc/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/documents/ISENES_Deliverable_7.2.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/documents/ISENES_Deliverable_WP4_D4_4.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/documents/ISENES_Deliverables_4.6.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/documents/D8.3%202013%20Towards%20Flexible%20Construction%20of%20ESMs%20using%20BFG_final.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/documents/IS-ENES_2_D2.2.pdf/view"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides/Lessons%20learned%20from%20IS-ENES%20use%20cases.pdf/view">
+    <title>C. Déandréis, Lessons learned from IS-ENES use cases - towards the implementation of an e-impact portal, January 2011</title>
+    <link>https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides/Lessons%20learned%20from%20IS-ENES%20use%20cases.pdf/view</link>
+    <description>Céline Déandréis
+IS-ENES/CIRCLE/EEA Workshop on Bridging Climate Research Data and the Needs of the Impact Community, - EEA, Copenhagen, Denmark, 11-12 January 2011</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Presentation</dc:subject>
+    
+    
+      <dc:subject>IS-ENES Phase 1</dc:subject>
+    
+    <dc:date>2013/04/19 09:20:00 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides/presentation%20Page-Swart%20AGU.pdf/view">
+    <title>R. Swart &amp; C. Pagé, Defining climate modeling user needs: which data are actually required to support impact analysis and adaptation policy development? December 2010 </title>
+    <link>https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides/presentation%20Page-Swart%20AGU.pdf/view</link>
+    <description>R. Swart, C. Pagé
+2010 AGU Fall Meeting, San Francisco, USA, 13-17 December 2010 </description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Presentation</dc:subject>
+    
+    
+      <dc:subject>IS-ENES Phase 1</dc:subject>
+    
+    <dc:date>2013/04/24 10:50:00 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides/AGU_SFO_dec2010.pdf/view">
+    <title>Poster - Weather Typing Statistical downscaling with dsclim: diagnostics, and uncertainties in data provision for the impact community, December 2010</title>
+    <link>https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides/AGU_SFO_dec2010.pdf/view</link>
+    <description>Pagé, C., Sanchez, E., Terray, L., 2010
+2010 AGU Fall Meeting, San Francisco, USA, 13-17 December 2010</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Presentation</dc:subject>
+    
+    
+      <dc:subject>IS-ENES Phase 1</dc:subject>
+    
+    <dc:date>2013/04/24 11:20:00 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides/som-de-cerff-w.-and-m.-plieger-enabling-the-use-of-climate-model-data-in-the-dutch-climate-effect-community/view">
+    <title>W. Som de Cerff &amp; M. Plieger, Enabling the use of climate model data in the Dutch climate effect community, May 2010</title>
+    <link>https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides/som-de-cerff-w.-and-m.-plieger-enabling-the-use-of-climate-model-data-in-the-dutch-climate-effect-community/view</link>
+    <description>Som de Cerff W. and M. Plieger, Enabling the use of climate model data in the Dutch climate effect community, EGU 2010, session ESSI5, Vienna, Austria, 7th May 2010</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Presentation</dc:subject>
+    
+    
+      <dc:subject>IS-ENES Phase 1</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides/kindermann-s.-e-infrastructure-components-to-support-the-earth-system-modeling-community-in-europe/view">
+    <title>S. Kindermann, E-infrastructure components to support the earth system modeling community in Europe, May 2010</title>
+    <link>https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides/kindermann-s.-e-infrastructure-components-to-support-the-earth-system-modeling-community-in-europe/view</link>
+    <description>Kindermann S., E-infrastructure components to support the earth system modeling community in Europe, EGU 2010, session ESSI5, Vienna, Austria, 7th May 2010</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Presentation</dc:subject>
+    
+    
+      <dc:subject>IS-ENES Phase 1</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides/bfg-is-enes.pdf/view">
+    <title> R. Ford &amp; G. Riley, BFG: a Flexible Coupled Modelling tool, December 2009</title>
+    <link>https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides/bfg-is-enes.pdf/view</link>
+    <description>Ford R., Riley G.
+UK e-Science All Hands conference, Oxford, December 7th-9th, 2009</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Presentation</dc:subject>
+    
+    
+      <dc:subject>IS-ENES Phase 1</dc:subject>
+    
+    <dc:date>2013/04/24 10:55:00 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides/poster_WCC3_ENES.pdf/view">
+    <title>Poster - Towards a service on climate models and climate projections, September 2009</title>
+    <link>https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides/poster_WCC3_ENES.pdf/view</link>
+    <description>ENES and IS-ENES poster presented at the World Climate Conference n°3 - Geneva (Switzerland) - September 2009</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Presentation</dc:subject>
+    
+    
+      <dc:subject>IS-ENES Phase 1</dc:subject>
+    
+    <dc:date>2011/03/16 13:35:00 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/documents/ISENES_D4_5%20VF.pdf/view">
+    <title>D4.5 – web NEMO configurations database filled up by NEMO team</title>
+    <link>https://is.enes.org/archive-1/archive/documents/ISENES_D4_5%20VF.pdf/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    
+      <dc:subject>IS-ENES Phase 1</dc:subject>
+    
+    <dc:date>2011/10/26 10:55:00 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/documents/ISENES_Deliverables_4.3-final-1.pdf/view">
+    <title>D4.3 - OASIS complete web site accessible via the v.E.R.C. portal (WP3)</title>
+    <link>https://is.enes.org/archive-1/archive/documents/ISENES_Deliverables_4.3-final-1.pdf/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    
+      <dc:subject>IS-ENES Phase 1</dc:subject>
+    
+    <dc:date>2011/10/26 10:55:00 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/documents/IS-ENES_11_DI_11-3_Software_specification_A12.doc/view">
+    <title>D11.3 - The e-impact portal Software Requirements/Architectural Design/ IO Specification</title>
+    <link>https://is.enes.org/archive-1/archive/documents/IS-ENES_11_DI_11-3_Software_specification_A12.doc/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    
+      <dc:subject>IS-ENES Phase 1</dc:subject>
+    
+    <dc:date>2011/10/26 11:05:00 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/documents/ISENES_Deliverable_7.2.pdf/view">
+    <title>D7.2 Fully parallelised and optimised version of OASIS4 answering needs of current coupled climate models</title>
+    <link>https://is.enes.org/archive-1/archive/documents/ISENES_Deliverable_7.2.pdf/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    
+      <dc:subject>IS-ENES Phase 1</dc:subject>
+    
+    <dc:date>2011/10/26 11:05:00 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/documents/ISENES_Deliverable_WP4_D4_4.pdf/view">
+    <title>D4.4 - CDO complete web site accessible via the v.E.R.C. portal</title>
+    <link>https://is.enes.org/archive-1/archive/documents/ISENES_Deliverable_WP4_D4_4.pdf/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    
+      <dc:subject>IS-ENES Phase 1</dc:subject>
+    
+    <dc:date>2013/04/16 14:25:00 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/documents/ISENES_Deliverables_4.6.pdf/view">
+    <title>D4.6 - ESM revised documentation following the full CIM metadata</title>
+    <link>https://is.enes.org/archive-1/archive/documents/ISENES_Deliverables_4.6.pdf/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    
+      <dc:subject>IS-ENES Phase 1</dc:subject>
+    
+    <dc:date>2013/04/16 14:30:00 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/documents/D8.3%202013%20Towards%20Flexible%20Construction%20of%20ESMs%20using%20BFG_final.pdf/view">
+    <title>D8.3 - Towards Flexible Construction of ESMs using BFG</title>
+    <link>https://is.enes.org/archive-1/archive/documents/D8.3%202013%20Towards%20Flexible%20Construction%20of%20ESMs%20using%20BFG_final.pdf/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    
+      <dc:subject>IS-ENES Phase 1</dc:subject>
+    
+    <dc:date>2013/06/13 16:50:00 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/documents/IS-ENES_2_D2.2.pdf/view">
+    <title>D2.2 - Policy position paper on “Climate data needs in support of the EU Climate Adaptation Strategy”</title>
+    <link>https://is.enes.org/archive-1/archive/documents/IS-ENES_2_D2.2.pdf/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    
+      <dc:subject>IS-ENES Phase 1</dc:subject>
+    
+    <dc:date>2013/06/12 16:55:00 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+
+</rdf:RDF>

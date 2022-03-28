@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Plone.org//NONSGML plone.app.event//EN
+X-WR-TIMEZONE:Europe/Vienna
+BEGIN:VEVENT
+SUMMARY:3rd Workshop on Coupling Technologies for Earth System Models (MS3
+ .2)
+DTSTART;TZID=Europe/Vienna;VALUE=DATE-TIME:20150420T000000
+DTEND;TZID=Europe/Vienna;VALUE=DATE-TIME:20150422T000000
+DTSTAMP;VALUE=DATE-TIME:20220328T140444Z
+UID:6c730e407f3147828380fcba53e5a560@plone7:8080
+CATEGORIES:Project Event
+CREATED;VALUE=DATE-TIME:20150130T103125Z
+DESCRIPTION:The workshop aims to bring together leading researchers and pr
+ actitioners in the field of coupling infrastructure for Earth System model
+ s. This workshop is the third in a series\, the first being held at CERFAC
+ S in December 2010 and the second at NCAR in February 2013. 
+LAST-MODIFIED;VALUE=DATE-TIME:20160530T125614Z
+LOCATION:Manchester Art Gallery\, Manchester\, U.K.
+URL:https://is.enes.org/archive-1/phase-2/events/3rd-workshop-on-coupling-
+ technologies-for-earth-system-models
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+X-LIC-LOCATION:Europe/Vienna
+BEGIN:DAYLIGHT
+DTSTART;VALUE=DATE-TIME:20150329T030000
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+END:VCALENDAR

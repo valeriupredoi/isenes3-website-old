@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Plone.org//NONSGML plone.app.event//EN
+X-WR-TIMEZONE:Europe/Vienna
+BEGIN:VEVENT
+SUMMARY:Second European Earth System and Climate Modeling School: 2nd E2SC
+ MS 
+DTSTART;TZID=Europe/Vienna;VALUE=DATE-TIME:20140609T120000
+DTEND;TZID=Europe/Vienna;VALUE=DATE-TIME:20140620T111500
+DTSTAMP;VALUE=DATE-TIME:20220328T140443Z
+UID:7a2145e2c9eb46d6b6f7b62c3e41b776@plone7:8080
+CATEGORIES:Project Event
+CONTACT:Reinhard Budich\, +49 40 41173 369\, reinhard.budich@mpimet.mpg.de
+ \, https://verc.enes.org/community/schools/2nd-e2scms
+CREATED;VALUE=DATE-TIME:20140506T132627Z
+DESCRIPTION:The school is launched by the European Network for Earth Syste
+ m modelling (ENES) with support of the FP7 project IS-ENES2 (http://is.ene
+ s.org). The Barcelona Supercomputing Center (BSC\, Spain) will host the sc
+ hool\, which merges two very successful summer schools: the Earth System M
+ odelling School by MPI for Meteorology (MPI-M\, http://issmes.enes.org) an
+ d the Climate Modelling Summer School of the British National Centre for A
+ tmospheric Science (NCAS\, http://ncasweb.leeds.ac.uk/climatesummerschool)
+ . Three European models - HAD-GEM\, MPI-ESM and EC-Earth - will be employe
+ d at the 2nd E2SCMS.
+LAST-MODIFIED;VALUE=DATE-TIME:20170313T080936Z
+LOCATION:UPC Campus\, Barcelona
+URL:https://is.enes.org/archive-1/phase-2/events/second-european-earth-sys
+ tem-and-climate-modeling-school-2nd-e2scms
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+X-LIC-LOCATION:Europe/Vienna
+BEGIN:DAYLIGHT
+DTSTART;VALUE=DATE-TIME:20140330T030000
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+END:VCALENDAR

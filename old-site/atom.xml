@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet href="atom.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="https://is.enes.org" xml:lang="en">
+  <link rel="self" href="https://is.enes.org/atom.xml" type="application/atom+xml"/>
+  <title type="html">IS-ENES 3</title>
+  <subtitle>The IS-ENES 3 project website</subtitle>
+  <updated>2013-06-18T14:41:33+01:00</updated>
+  <link href="atom.xml" rel="alternate" type="text/html" xml:base="https://is.enes.org/"/>
+  <id>urn:syndication:None</id>
+  <logo>https://is.enes.org/logo.png</logo>
+  <icon>https://is.enes.org/favicon.ico</icon>
+  <generator uri="http://www.plone.org" version="1.0">plone</generator>
+  
+  
+
+  
+    <entry>
+      <title>Newsletter 10 - March 2022</title>
+      <link rel="alternate" type="text/html" href="https://is.enes.org/documents/newsletter/newsletter-10-march-2022"/>
+      
+      <id>urn:syndication:79781c7b91d54ec9b877e2b4bc2abe69</id>
+      
+      
+
+      <author>
+        
+        <name>smorellon</name>
+        
+      </author>
+
+      <published>2022-03-23T12:29:27+01:00</published>
+
+      <updated>2022-03-23T12:29:27+01:00</updated>
+
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>IS-ENES3 Eastern Europe Spring Schools on Climate data and Impact assessments</title>
+      <link rel="alternate" type="text/html" href="https://is.enes.org/events/trainings-and-education/is-enes3-eastern-europe-spring-schools-on-climate-data-and-impact-assessments"/>
+      
+      <id>urn:syndication:f5219a81fdbf4699816b395b9553687c</id>
+      
+      
+
+      <author>
+        
+        <name>smorellon</name>
+        
+      </author>
+
+      <published>2022-03-18T12:10:21+01:00</published>
+
+      <updated>2022-03-18T12:10:21+01:00</updated>
+
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>IS-ENES3 Webinar on OASIS3_MCT</title>
+      <link rel="alternate" type="text/html" href="https://is.enes.org/events/is-enes3-webinar-on-oasis3_mct"/>
+      
+      <id>urn:syndication:48f1c51c85a146788ee2e2965204779a</id>
+      
+      
+
+      <author>
+        
+        <name>smorellon</name>
+        
+      </author>
+
+      <published>2022-03-18T10:48:41+01:00</published>
+
+      <updated>2022-03-18T10:48:41+01:00</updated>
+
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>SWIRRL. Managing Provenance-aware and Reproducible Workspaces </title>
+      <link rel="alternate" type="text/html" href="https://is.enes.org/documents/publications/swirrl-managing-provenance-aware-and-reproducible-workspaces"/>
+      
+      <id>urn:syndication:e5d304035ffa4c3098605cb0ce0ae3fc</id>
+      <summary>Alessandro Spinuso et al., Published on 7 March 2022.</summary>
+      
+
+      <author>
+        
+        <name>smorellon</name>
+        
+      </author>
+
+      <published>2022-03-17T17:25:00+01:00</published>
+
+      <updated>2022-03-18T15:05:42+01:00</updated>
+
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>IS-ENES3@EGU2022</title>
+      <link rel="alternate" type="text/html" href="https://is.enes.org/events/workshops/is-enes3-egu2022"/>
+      
+      <id>urn:syndication:5fe5fadb652b4f09a9b96b8395e48abb</id>
+      
+      
+
+      <author>
+        
+        <name>smorellon</name>
+        
+      </author>
+
+      <published>2022-03-14T14:55:00+01:00</published>
+
+      <updated>2022-03-14T15:07:23+01:00</updated>
+
+
+    </entry>
+
+  
+  
+    <entry>
+      <title> 7th ENES HPC Workshop (Barcelona, 2022) </title>
+      <link rel="alternate" type="text/html" href="https://is.enes.org/events/workshops/7th-enes-hpc-workshop-barcelona-2022"/>
+      
+      <id>urn:syndication:bbb8df0838a94e23b36bd8cb1b7316ed</id>
+      
+      
+
+      <author>
+        
+        <name>smorellon</name>
+        
+      </author>
+
+      <published>2022-03-14T14:50:00+01:00</published>
+
+      <updated>2022-03-14T14:47:31+01:00</updated>
+
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>EMS2021</title>
+      <link rel="alternate" type="text/html" href="https://is.enes.org/documents/presentations/ems2021"/>
+      
+      <id>urn:syndication:77481767b601454f994fd6796479f1b0</id>
+      
+      
+
+      <author>
+        
+        <name>smorellon</name>
+        
+      </author>
+
+      <published>2022-02-14T17:21:14+01:00</published>
+
+      <updated>2022-02-14T17:21:14+01:00</updated>
+
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>OASIS3-MCT Technical reports</title>
+      <link rel="alternate" type="text/html" href="https://is.enes.org/documents/is-enes3-reports-and-kpis/oasis3-mct-technical-reports"/>
+      
+      <id>urn:syndication:54bc2ba1f26c49eea3a0a0c48e88601e</id>
+      
+      
+
+      <author>
+        
+        <name>smorellon</name>
+        
+      </author>
+
+      <published>2022-01-31T17:26:35+01:00</published>
+
+      <updated>2022-01-31T17:26:35+01:00</updated>
+
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>The EC-Earth3 Earth System Model for the Climate Model Intercomparison Project 6</title>
+      <link rel="alternate" type="text/html" href="https://is.enes.org/documents/publications/the-ec-earth3-earth-system-model-for-the-climate-model-intercomparison-project-6"/>
+      
+      <id>urn:syndication:5cb0f6f85d124bfbba4c319763a8bb1c</id>
+      <summary>Döscher, R. et al., </summary>
+      
+
+      <author>
+        
+        <name>smorellon</name>
+        
+      </author>
+
+      <published>2022-01-31T16:35:00+01:00</published>
+
+      <updated>2022-01-31T16:32:07+01:00</updated>
+
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>Earth System Grid Federation Status and Plans – European Perspective</title>
+      <link rel="alternate" type="text/html" href="https://is.enes.org/documents/presentations/wgcm-24/earth-system-grid-federation-status-and-plans-2013-european-perspective"/>
+      
+      <id>urn:syndication:d80abf5759c249ffb79994d7fba4c116</id>
+      
+      
+
+      <author>
+        
+        <name>smorellon</name>
+        
+      </author>
+
+      <published>2022-01-31T15:11:48+01:00</published>
+
+      <updated>2022-01-31T15:11:48+01:00</updated>
+
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>WGCM-24</title>
+      <link rel="alternate" type="text/html" href="https://is.enes.org/documents/presentations/wgcm-24"/>
+      
+      <id>urn:syndication:d1b62213d746452b86b0c47637e0e0d4</id>
+      
+      
+
+      <author>
+        
+        <name>smorellon</name>
+        
+      </author>
+
+      <published>2022-01-31T15:11:07+01:00</published>
+
+      <updated>2022-01-31T15:11:45+01:00</updated>
+
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>Earth System Grid Federation Future Architecture, Copernicus, Cloud and ESA</title>
+      <link rel="alternate" type="text/html" href="https://is.enes.org/documents/presentations/climatedata-ca-conference/earth-system-grid-federation-future-architecture-copernicus-cloud-and-esa"/>
+      
+      <id>urn:syndication:be915fe356774c0ca045eebe73366ad5</id>
+      
+      
+
+      <author>
+        
+        <name>smorellon</name>
+        
+      </author>
+
+      <published>2022-01-31T15:05:14+01:00</published>
+
+      <updated>2022-01-31T15:05:14+01:00</updated>
+
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>ClimateData.ca Conference</title>
+      <link rel="alternate" type="text/html" href="https://is.enes.org/documents/presentations/climatedata-ca-conference"/>
+      
+      <id>urn:syndication:155ba98d08424853878d52dc1063bda1</id>
+      
+      
+
+      <author>
+        
+        <name>smorellon</name>
+        
+      </author>
+
+      <published>2022-01-31T15:04:26+01:00</published>
+
+      <updated>2022-01-31T15:05:11+01:00</updated>
+
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>Developing Community standards-based Search Tools for Earth System Model Data using STAC</title>
+      <link rel="alternate" type="text/html" href="https://is.enes.org/documents/presentations/agu2021/developing-community-standards-based-search-tools-for-earth-system-model-data-using-stac"/>
+      
+      <id>urn:syndication:0d3552562c8c4baa9776c29b9642346a</id>
+      
+      
+
+      <author>
+        
+        <name>smorellon</name>
+        
+      </author>
+
+      <published>2022-01-31T14:51:58+01:00</published>
+
+      <updated>2022-01-31T14:51:58+01:00</updated>
+
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>Access to Analysis and Climate Indices Tools for Climate Researchers and End Users</title>
+      <link rel="alternate" type="text/html" href="https://is.enes.org/documents/presentations/agu2021/access-to-analysis-and-climate-indices-tools-for-climate-researchers-and-end-users"/>
+      
+      <id>urn:syndication:a3ebe66757924f278df0bec332afbcc6</id>
+      
+      
+
+      <author>
+        
+        <name>smorellon</name>
+        
+      </author>
+
+      <published>2022-01-28T11:12:22+01:00</published>
+
+      <updated>2022-01-28T11:12:22+01:00</updated>
+
+
+    </entry>
+
+  
+
+</feed>

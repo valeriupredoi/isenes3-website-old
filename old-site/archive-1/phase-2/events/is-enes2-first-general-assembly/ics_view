@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Plone.org//NONSGML plone.app.event//EN
+X-WR-TIMEZONE:Europe/Vienna
+BEGIN:VEVENT
+SUMMARY:IS-ENES2 First General Assembly
+DTSTART;TZID=Europe/Vienna;VALUE=DATE-TIME:20140611T210000
+DTEND;TZID=Europe/Vienna;VALUE=DATE-TIME:20140613T130000
+DTSTAMP;VALUE=DATE-TIME:20220328T140443Z
+UID:9860299c84dc4ed1ac8349045c284e64@plone7:8080
+CONTACT:Marie PARINET\, +33 1 69 08 85 95 \, marie.parinet@lsce.ipsl.fr
+CREATED;VALUE=DATE-TIME:20140506T150729Z
+DESCRIPTION:This General Assembly aims to assess what has been achieved so
+  far in the project\, to prepare the 1st periodic report (due in September
+  2014)\, and to plan the next period. 
+LAST-MODIFIED;VALUE=DATE-TIME:20160512T104936Z
+LOCATION:UPC Campus\, Barcelona
+URL:https://is.enes.org/archive-1/phase-2/events/is-enes2-first-general-as
+ sembly
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+X-LIC-LOCATION:Europe/Vienna
+BEGIN:DAYLIGHT
+DTSTART;VALUE=DATE-TIME:20140330T030000
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+END:VCALENDAR

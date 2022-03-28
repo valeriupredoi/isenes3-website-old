@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Plone.org//NONSGML plone.app.event//EN
+X-WR-TIMEZONE:Europe/Vienna
+BEGIN:VEVENT
+SUMMARY:Initial Workshop on Meta-data (MD) Generation During Experiments
+DTSTART;TZID=Europe/Vienna;VALUE=DATE-TIME:20140121T120000
+DTEND;TZID=Europe/Vienna;VALUE=DATE-TIME:20140122T140000
+DTSTAMP;VALUE=DATE-TIME:20220328T140001Z
+UID:badeb8536f36477bbb8bacf281a5c331@plone7:8080
+ATTENDEE;CN="V.Balaji (remote 2014-01-21)";ROLE=REQ-PARTICIPANT:V.Balaji (
+ remote 2014-01-21)
+ATTENDEE;CN="Reinhard Budich";ROLE=REQ-PARTICIPANT:Reinhard Budich
+ATTENDEE;CN="Sébastien Denvil";ROLE=REQ-PARTICIPANT:Sébastien Denvil
+ATTENDEE;CN="Mark Elkington";ROLE=REQ-PARTICIPANT:Mark Elkington
+ATTENDEE;CN="Kerstin Fieg";ROLE=REQ-PARTICIPANT:Kerstin Fieg
+ATTENDEE;CN="Mark A. Greenslade (remote 2014-01-22)";ROLE=REQ-PARTICIPANT:
+ Mark A. Greenslade (remote 2014-01-22)
+ATTENDEE;CN="Alok Kumar Gupta";ROLE=REQ-PARTICIPANT:Alok Kumar Gupta
+ATTENDEE;CN="Stefan Kindermann";ROLE=REQ-PARTICIPANT:Stefan Kindermann
+ATTENDEE;CN="Luis Kornblüh";ROLE=REQ-PARTICIPANT:Luis Kornblüh
+ATTENDEE;CN="Stephanie Legutke";ROLE=REQ-PARTICIPANT:Stephanie Legutke
+ATTENDEE;CN="Hans Ramthun (DKRZ)";ROLE=REQ-PARTICIPANT:Hans Ramthun (DKRZ)
+ATTENDEE;CN="Torsten Rathmann (DKRZ)";ROLE=REQ-PARTICIPANT:Torsten Rathman
+ n (DKRZ)
+ATTENDEE;CN="Martina Stockhause (DKRZ)";ROLE=REQ-PARTICIPANT:Martina Stock
+ hause (DKRZ)
+ATTENDEE;CN="Frank Toussaint";ROLE=REQ-PARTICIPANT:Frank Toussaint
+ATTENDEE;CN="Tobias Weigel";ROLE=REQ-PARTICIPANT:Tobias Weigel
+ATTENDEE;CN="Heinrich Widmann (EUDAT)";ROLE=REQ-PARTICIPANT:Heinrich Widma
+ nn (EUDAT)
+ATTENDEE;CN="Hans-Hermann Winter (DKRZ)";ROLE=REQ-PARTICIPANT:Hans-Hermann
+  Winter (DKRZ)
+CONTACT:Frank Toussaint\, +49-40-460094-123\, toussaint@dkrz.de
+CREATED;VALUE=DATE-TIME:20140109T144721Z
+DESCRIPTION:IS-ENES2 WP4-T3 is organising a first "Workshop on Meta-data (
+ MD) Generation During Experiments" which will take place at DKRZ\, Hamburg
+ \, Bundesstraße 45a\, in Room #023 on 21 and 22 January 2014.
+LAST-MODIFIED;VALUE=DATE-TIME:20140829T144423Z
+LOCATION:DKRZ\, Hamburg
+URL:https://is.enes.org/archive-1/phase-2/events/workshop-on-meta-data-md-
+ generation-during-experiments
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+X-LIC-LOCATION:Europe/Vienna
+BEGIN:STANDARD
+DTSTART;VALUE=DATE-TIME:20131027T020000
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+END:VCALENDAR

@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+<channel rdf:about="https://is.enes.org/search_rss">
+  <title>IS-ENES 3</title>
+  <link>https://is.enes.org</link>
+
+  <image rdf:resource="https://is.enes.org/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/documents/ISENES_D3.4_Report%20on%20design%20and%20deployment%20of%20Grid%20portal%20and%20development%20environment_V08.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/documents/ISENES_Deliverables_4.1.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/documents/ISENES_D7.1_ParallelIOReview.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/documents/ISENES_D4_5%20VF.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/documents/ISENES_Deliverables_4.3-final-1.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/documents/IS-ENES_11_DI_11-3_Software_specification_A12.doc/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/documents/ISENES_Deliverable_7.2.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/documents/ISENES_D9.3_New_Evaluation_Tools_Report.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/documents/ISENES-D9.2-Evaluation%20Portal%20Finalization%20Report.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/documents/ISENES_Deliverable_WP4_D4_4.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/documents/ISENES_Deliverables_4.6.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/documents/D8.3%202013%20Towards%20Flexible%20Construction%20of%20ESMs%20using%20BFG_final.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/documents/IS-ENES_2_D2.2.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/documents/IS-ENES_D2.3.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/documents/IS-ENES_D2.4.pdf/view"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/documents/ISENES_D3.4_Report%20on%20design%20and%20deployment%20of%20Grid%20portal%20and%20development%20environment_V08.pdf/view">
+    <title>D3.4 - Document describing basic ESM workflows and best practices</title>
+    <link>https://is.enes.org/archive-1/archive/documents/ISENES_D3.4_Report%20on%20design%20and%20deployment%20of%20Grid%20portal%20and%20development%20environment_V08.pdf/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    <dc:date>2011/02/18 14:30:00 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/documents/ISENES_Deliverables_4.1.pdf/view">
+    <title>D4.1 ESMs current documentation, including a descritption of associated tools and specific "assembling guide"</title>
+    <link>https://is.enes.org/archive-1/archive/documents/ISENES_Deliverables_4.1.pdf/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    <dc:date>2011/02/18 14:30:00 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/documents/ISENES_D7.1_ParallelIOReview.pdf/view">
+    <title>D7.1 - A tutorial on parallel IO and IO servers and their benefits </title>
+    <link>https://is.enes.org/archive-1/archive/documents/ISENES_D7.1_ParallelIOReview.pdf/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    <dc:date>2011/05/20 15:50:00 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/documents/ISENES_D4_5%20VF.pdf/view">
+    <title>D4.5 – web NEMO configurations database filled up by NEMO team</title>
+    <link>https://is.enes.org/archive-1/archive/documents/ISENES_D4_5%20VF.pdf/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    
+      <dc:subject>IS-ENES Phase 1</dc:subject>
+    
+    <dc:date>2011/10/26 10:55:00 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/documents/ISENES_Deliverables_4.3-final-1.pdf/view">
+    <title>D4.3 - OASIS complete web site accessible via the v.E.R.C. portal (WP3)</title>
+    <link>https://is.enes.org/archive-1/archive/documents/ISENES_Deliverables_4.3-final-1.pdf/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    
+      <dc:subject>IS-ENES Phase 1</dc:subject>
+    
+    <dc:date>2011/10/26 10:55:00 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/documents/IS-ENES_11_DI_11-3_Software_specification_A12.doc/view">
+    <title>D11.3 - The e-impact portal Software Requirements/Architectural Design/ IO Specification</title>
+    <link>https://is.enes.org/archive-1/archive/documents/IS-ENES_11_DI_11-3_Software_specification_A12.doc/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    
+      <dc:subject>IS-ENES Phase 1</dc:subject>
+    
+    <dc:date>2011/10/26 11:05:00 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/documents/ISENES_Deliverable_7.2.pdf/view">
+    <title>D7.2 Fully parallelised and optimised version of OASIS4 answering needs of current coupled climate models</title>
+    <link>https://is.enes.org/archive-1/archive/documents/ISENES_Deliverable_7.2.pdf/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    
+      <dc:subject>IS-ENES Phase 1</dc:subject>
+    
+    <dc:date>2011/10/26 11:05:00 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/documents/ISENES_D9.3_New_Evaluation_Tools_Report.pdf/view">
+    <title>D9.3 - Listings and access services to observational datasets</title>
+    <link>https://is.enes.org/archive-1/archive/documents/ISENES_D9.3_New_Evaluation_Tools_Report.pdf/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    <dc:date>2012/12/13 17:58:43 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/documents/ISENES-D9.2-Evaluation%20Portal%20Finalization%20Report.pdf/view">
+    <title>D9.2-Listings of required model fields and interface software</title>
+    <link>https://is.enes.org/archive-1/archive/documents/ISENES-D9.2-Evaluation%20Portal%20Finalization%20Report.pdf/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    <dc:date>2012/12/19 17:38:10 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/documents/ISENES_Deliverable_WP4_D4_4.pdf/view">
+    <title>D4.4 - CDO complete web site accessible via the v.E.R.C. portal</title>
+    <link>https://is.enes.org/archive-1/archive/documents/ISENES_Deliverable_WP4_D4_4.pdf/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    
+      <dc:subject>IS-ENES Phase 1</dc:subject>
+    
+    <dc:date>2013/04/16 14:25:00 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/documents/ISENES_Deliverables_4.6.pdf/view">
+    <title>D4.6 - ESM revised documentation following the full CIM metadata</title>
+    <link>https://is.enes.org/archive-1/archive/documents/ISENES_Deliverables_4.6.pdf/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    
+      <dc:subject>IS-ENES Phase 1</dc:subject>
+    
+    <dc:date>2013/04/16 14:30:00 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/documents/D8.3%202013%20Towards%20Flexible%20Construction%20of%20ESMs%20using%20BFG_final.pdf/view">
+    <title>D8.3 - Towards Flexible Construction of ESMs using BFG</title>
+    <link>https://is.enes.org/archive-1/archive/documents/D8.3%202013%20Towards%20Flexible%20Construction%20of%20ESMs%20using%20BFG_final.pdf/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    
+      <dc:subject>IS-ENES Phase 1</dc:subject>
+    
+    <dc:date>2013/06/13 16:50:00 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/documents/IS-ENES_2_D2.2.pdf/view">
+    <title>D2.2 - Policy position paper on “Climate data needs in support of the EU Climate Adaptation Strategy”</title>
+    <link>https://is.enes.org/archive-1/archive/documents/IS-ENES_2_D2.2.pdf/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    
+      <dc:subject>IS-ENES Phase 1</dc:subject>
+    
+    <dc:date>2013/06/12 16:55:00 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/documents/IS-ENES_D2.3.pdf/view">
+    <title>D2.3 - ENES First Prototype Summer School on Earth System Modelling</title>
+    <link>https://is.enes.org/archive-1/archive/documents/IS-ENES_D2.3.pdf/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    
+      <dc:subject>IS-ENES Phase 1</dc:subject>
+    
+    <dc:date>2013/06/12 16:55:00 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/documents/IS-ENES_D2.4.pdf/view">
+    <title>D2.4 - Foresight position paper on the “ENES strategy and its implementation plan”</title>
+    <link>https://is.enes.org/archive-1/archive/documents/IS-ENES_D2.4.pdf/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    
+      <dc:subject>IS-ENES Phase 1</dc:subject>
+    
+    <dc:date>2013/06/12 16:55:00 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+
+</rdf:RDF>

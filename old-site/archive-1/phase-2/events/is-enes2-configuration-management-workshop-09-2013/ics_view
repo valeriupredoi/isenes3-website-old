@@ -1,0 +1,59 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Plone.org//NONSGML plone.app.event//EN
+X-WR-TIMEZONE:Europe/Vienna
+BEGIN:VEVENT
+SUMMARY:IS-ENES2 Configuration Management Workshop - 23 and 24 September 2
+ 013
+DTSTART;TZID=Europe/Vienna;VALUE=DATE-TIME:20130923T090000
+DTEND;TZID=Europe/Vienna;VALUE=DATE-TIME:20130924T130000
+DTSTAMP;VALUE=DATE-TIME:20220328T140001Z
+UID:556906c8caae4fb49e8f2e9394f4f545@plone7:8080
+ATTENDEE;CN="Reinhard Budich (ZMAW)";ROLE=REQ-PARTICIPANT:Reinhard Budich 
+ (ZMAW)
+ATTENDEE;CN="Mick Carter (Met Office)";ROLE=REQ-PARTICIPANT:Mick Carter (M
+ et Office)
+ATTENDEE;CN="Arnaud Caubel (IPSL)";ROLE=REQ-PARTICIPANT:Arnaud Caubel (IPS
+ L)
+ATTENDEE;CN="Kerstin Fieg (DKRZ)";ROLE=REQ-PARTICIPANT:Kerstin Fieg (DKRZ)
+ATTENDEE;CN="Marie-Alice Foujols (IPSL)";ROLE=REQ-PARTICIPANT:Marie-Alice 
+ Foujols (IPSL)
+ATTENDEE;CN="Glenn Greed (Met Office)";ROLE=REQ-PARTICIPANT:Glenn Greed (M
+ et Office)
+ATTENDEE;CN="Deike Kleberg (MPI-M)";ROLE=REQ-PARTICIPANT:Deike Kleberg (MP
+ I-M)
+ATTENDEE;CN="Luis Kornblueh (ZMAW)";ROLE=REQ-PARTICIPANT:Luis Kornblueh (Z
+ MAW)
+ATTENDEE;CN="Sonia Labetoulle (IPSL)";ROLE=REQ-PARTICIPANT:Sonia Labetoull
+ e (IPSL)
+ATTENDEE;CN="Dave Matthews (Met Office)";ROLE=REQ-PARTICIPANT:Dave Matthew
+ s (Met Office)
+ATTENDEE;CN="Jan Sellmann (ZMAW)";ROLE=REQ-PARTICIPANT:Jan Sellmann (ZMAW)
+ATTENDEE;CN="Stephane Senesi (MétéoFrance)";ROLE=REQ-PARTICIPANT:Stephan
+ e Senesi (MétéoFrance)
+ATTENDEE;CN="Matt Shin (Met Office)";ROLE=REQ-PARTICIPANT:Matt Shin (Met O
+ ffice)
+ATTENDEE;CN="Stuart Whitehouse (Met Office)";ROLE=REQ-PARTICIPANT:Stuart W
+ hitehouse (Met Office)
+ATTENDEE;CN="Karl-Hermann Wieners (ZMAW)";ROLE=REQ-PARTICIPANT:Karl-Herman
+ n Wieners (ZMAW)
+CATEGORIES:Project Event
+CONTACT:Paul van der Linden (Met Office)\, paul.vanderlinden@metoffice.gov
+ .uk
+CREATED;VALUE=DATE-TIME:20130802T091536Z
+LAST-MODIFIED;VALUE=DATE-TIME:20131008T104702Z
+LOCATION:Met Office in Exeter\, UK
+URL:https://is.enes.org/archive-1/phase-2/events/is-enes2-configuration-ma
+ nagement-workshop-09-2013
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+X-LIC-LOCATION:Europe/Vienna
+BEGIN:DAYLIGHT
+DTSTART;VALUE=DATE-TIME:20130331T030000
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+END:VCALENDAR

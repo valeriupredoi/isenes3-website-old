@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Plone.org//NONSGML plone.app.event//EN
+X-WR-TIMEZONE:Europe/Vienna
+BEGIN:VEVENT
+SUMMARY:ES-DOC coding sprint 
+DTSTART;TZID=Europe/Vienna;VALUE=DATE-TIME:20161108T000000
+DTEND;TZID=Europe/Vienna;VALUE=DATE-TIME:20161110T000000
+DTSTAMP;VALUE=DATE-TIME:20220328T140448Z
+UID:38a0c4d2eb444fb8aa7d72fcba7d998c@plone7:8080
+ATTENDEE;CN="Eric Guilyardi (IPSL, France)";ROLE=REQ-PARTICIPANT:Eric Guil
+ yardi (IPSL, France)
+ATTENDEE;CN="Mark Greenslade (IPSL, France)";ROLE=REQ-PARTICIPANT:Mark Gre
+ enslade (IPSL, France)
+ATTENDEE;CN="David Hassell (NCAS University of Reading, UK)";ROLE=REQ-PART
+ ICIPANT:David Hassell (NCAS University of Reading, UK)
+ATTENDEE;CN="Martina Stockhause (DKRZ, Germany) [via video link]";ROLE=REQ
+ -PARTICIPANT:Martina Stockhause (DKRZ, Germany) [via video link]
+ATTENDEE;CN="Charlotte Pascoe (NCAS STFC, UK)";ROLE=REQ-PARTICIPANT:Charlo
+ tte Pascoe (NCAS STFC, UK)
+ATTENDEE;CN="Phil Kershaw (NCAS STFC, UK)";ROLE=REQ-PARTICIPANT:Phil Kersh
+ aw (NCAS STFC, UK)
+ATTENDEE;CN="Mark Elkington (Met Office, UK)";ROLE=REQ-PARTICIPANT:Mark El
+ kington (Met Office, UK)
+ATTENDEE;CN="Allyn Treshansky (University of Colorado, USA)";ROLE=REQ-PART
+ ICIPANT:Allyn Treshansky (University of Colorado, USA)
+ATTENDEE;CN="Chris Blanton (NOAA, USA)";ROLE=REQ-PARTICIPANT:Chris Blanton
+  (NOAA, USA)
+CATEGORIES:Project Event
+CONTACT:Eric Guilyardi \, Eric.Guilyardi@locean-ipsl.upmc.fr
+CREATED;VALUE=DATE-TIME:20161013T110024Z
+DESCRIPTION:ES-DOC is organising a coding sprint to finalise the CMIP6 doc
+ umentation process Nov 8-10 at Reading University. The meeting is co-spons
+ ored by IS-ENES2. 
+LAST-MODIFIED;VALUE=DATE-TIME:20170418T095625Z
+LOCATION:Reading\, UK
+URL:https://is.enes.org/archive-1/phase-2/events/es-doc-coding-sprint
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+X-LIC-LOCATION:Europe/Vienna
+BEGIN:STANDARD
+DTSTART;VALUE=DATE-TIME:20161030T020000
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+END:VCALENDAR

@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+<channel rdf:about="https://is.enes.org/search_rss">
+  <title>IS-ENES 3</title>
+  <link>https://is.enes.org</link>
+
+  <image rdf:resource="https://is.enes.org/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms11-8_review-climate4impact-services-and-objectives/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms11-3_revised-generic-questionnaire-s-w-package-available/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms11-2_web-processing-services-report-on-synergies-between-task-1-and-3/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d11-6_report-on-derived-products-in-climate4impact/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d11-5_report-on-core-services-package-version-2/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d11-4_formal-documentation-for-cmip6/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d11-3_report-on-service-monitoring-and-dashboard/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d11-1_enes-data-activities-delivery-plan/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d11-2_report-on-climate4impact-portal-version-1/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/Talks/es-doc-cmip6-abingdon/summary-slides-eric-guilyardi/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/events/workshop-on-es-doc-cmip6-issues"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms11-8_review-climate4impact-services-and-objectives/view">
+    <title>IS-ENES2_MS11.8_Review CLIMATE4IMPACT services and objectives</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms11-8_review-climate4impact-services-and-objectives/view</link>
+    <description>The climate4impact portal exposes several services to the impact user communities. This document aims at consolidating the climate4impact objectives with respect to the user needs, linking them to the services the portal provides. A complete description of those services is provided here, along with their philosophy and their intended use.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>WP11</dc:subject>
+    
+    
+      <dc:subject>Milestone</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms11-3_revised-generic-questionnaire-s-w-package-available/view">
+    <title>IS-ENES2_MS11.3_Revised generic questionnaire s/w package available</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms11-3_revised-generic-questionnaire-s-w-package-available/view</link>
+    <description>The es-doc system needs tools to create, maintain, and view content. For CMIP5, content was mainly provided by utilizing the “CMIP5 questionnaire”, a python tool using Django and deployed at CEDA. The original objective in IS-ENES2 was to update and extend this tool to support a new version of the CIM, CIM2.0. However, after extensive discussion amongst the international es-doc partners, it was decided to establish at least three different routes for
+content creation in the CMIP6 era: (1) a new questionnaire, to be built from the ground up by NOAA, (2) a method based on using python scripts to directly inject content, and (3) a new tool which could run standalone on a desktop. This latter tool, now called “the notebook” was to be used for content creation during testing and development, and might play a role post and/or outside CMIP6. IS-ENES2 took on responsibility for methods (2) and
+(3). The second method, based on the “pyesdoc” framework, will be described elsewhere, but because the notebook became the route for CIM2 development, the software associated with the notebook has become the key milestone for IS-ENES2. This milestone briefly describes the relevant software package and it’s availability.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>WP11</dc:subject>
+    
+    
+      <dc:subject>Milestone</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms11-2_web-processing-services-report-on-synergies-between-task-1-and-3/view">
+    <title>IS-ENES2_MS11.2_Web processing services: report on synergies between task 1 and 3 </title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms11-2_web-processing-services-report-on-synergies-between-task-1-and-3/view</link>
+    <description>The Open Geospatial Consortium (OGC) Web Processing Service (WPS) protocol provides a broad inter-disciplinary standard for implementing processing services. That is, it provides a protocol whereby requests for processing activity on a server can be submitted remotely.
+Most users of such service will not interact with them directly, but instead go through a client which takes input from a user interface and submits requests to the WPS itself. In this configuration, the WPS protocol provides a means of maintaining a clean separation between the client handling communication with the user and the server dealing with structured processing requests.
+Because of the breadth of scope of the OGC WPS standard, there are many options for implementation. IS-ENES has contributed to development of 3 WPS implementations at DKRZ, KNMI and STFC. The 3 implementations are influenced by a range of differing requirements and institutional constraints.
+This report aims to support the development of these services and their integration into a
+harmonised service or bundle of servers.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>WP11</dc:subject>
+    
+    
+      <dc:subject>Milestone</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d11-6_report-on-derived-products-in-climate4impact/view">
+    <title>IS-ENES2_D11.6_Report on derived products in CLIMATE4IMPACT</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d11-6_report-on-derived-products-in-climate4impact/view</link>
+    <description>The climate change impact communities‟ users and researchers need more than only climate model output variables. They often require specialized products, such as climate indices and indicators, as well as derived variables. Higher spatial and temporal resolutions are also generally needed. This report describes the scope of the derived products and how they are made accessible through the climate4impact operational service. The access to the products is supported through operational services in SA2.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    
+      <dc:subject>WP11</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d11-5_report-on-core-services-package-version-2/view">
+    <title>IS-ENES2_D11.5_Report on Core Services Package, Version 2</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d11-5_report-on-core-services-package-version-2/view</link>
+    <description>The focus of the JRA3 Task 1 development work has been on making the ESGF system, which is maintained through an international collaboration, fit for purpose to support the infrastructure requirements in the next few years. In particular, to meet the challenges of publishing and distributing the CMIP6 archive of climate simulations. IS-ENES2 has made major contributions to the international efforts behind ESGF, and the system is now going through its final verification phase before being deployed for CMIP6 (publication of CMIP6 data is expected to start in 2018).</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    
+      <dc:subject>WP11</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d11-4_formal-documentation-for-cmip6/view">
+    <title>IS-ENES2_D11.4_Formal documentation for CMIP6</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d11-4_formal-documentation-for-cmip6/view</link>
+    <description>This document outlines the ES-DOC formal documentation of the experiments, models and simulations used to generate the CMIP6 datasets. It lists the key properties and features of documents, the evolution from CMIP5 including lessons learned, the underlying tools and workflows as well as what modelling groups should expect and how to engage with ES-DOC.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    
+      <dc:subject>WP11</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d11-3_report-on-service-monitoring-and-dashboard/view">
+    <title>IS-ENES2_D11.3_Report on service monitoring and dashboard</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d11-3_report-on-service-monitoring-and-dashboard/view</link>
+    <description>This document is part of WP11/JRA3 "Developing software infrastructure for data archive services" and its purpose is to provide a detailed view of the Federated Archive System Monitoring (FASM) package which provides statistics about the usage and demographics not only for the European nodes but also for the global ESGF federation. 
+
+With respect to the “Monitoring system and dashboard design” document (MILESTONE n° MS111), in this report a description of the implementation of the FASM-N and the FASM-D modules is provided. In particular, the former is responsible for collecting and storing a high volume of heterogeneous metrics while the latter provides the user with a dashboard including local (node-level) and global (federationlevel) views, aggregated statistics and monitoring information.
+
+A review of the design phase is presented, through the description of the architecture in the large and the design of the new data warehouse system. Moreover, the architecture in the small of FASM-N and FASMD is presented. For FASM-N, the implementation of the single node and the collector modules is reported whereas, for FASM-D, the main views are presented.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    
+      <dc:subject>WP11</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d11-1_enes-data-activities-delivery-plan/view">
+    <title>IS-ENES2_D11.1_ENES Data Activities: Delivery Plan</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d11-1_enes-data-activities-delivery-plan/view</link>
+    <description>The breakdown of IS-ENES2 data work packages (WP5, WP8, and WP11) into three themes: data, metadata, and impacts is described. The relationships within and between these themes, and between the themes and major external activities are described, as are the concomitant dependencies, particularly on timing. We provide a summary of how these relationships and the IS-ENES2 activity roadmap will be managed.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    
+      <dc:subject>WP11</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d11-2_report-on-climate4impact-portal-version-1/view">
+    <title>IS-ENES2_D11.2_Report on Climate4impact portal, version 1_Submitted Version</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d11-2_report-on-climate4impact-portal-version-1/view</link>
+    <description>This report describes the functionality and commissioning of version 1 of the CLIMATE4IMPACT portal, including its acceptance into the operational services run under SA2. This release of the portal will be based on the prototype deployed in ISENES1. It allows users to explore data held at distributed archive nodes using a range of plotting options. In addition to the services deployed in the prototype, plotting of time-series is made available.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    
+      <dc:subject>WP11</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/Talks/es-doc-cmip6-abingdon/summary-slides-eric-guilyardi/view">
+    <title>Summary slides - Eric Guilyardi</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/Talks/es-doc-cmip6-abingdon/summary-slides-eric-guilyardi/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>WP11</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/events/workshop-on-es-doc-cmip6-issues">
+    <title>Workshop  on ES-DOC/CMIP6  issues </title>
+    <link>https://is.enes.org/archive-1/phase-2/events/workshop-on-es-doc-cmip6-issues</link>
+    <description>Under the auspices of ISENES-2, the Earth System Documentation (ES-DOC) project has held a workshop hosted by the Science &amp; Facilities Technology Council in the United Kingdom.  The workshop brought together project partners in order to coordinate ongoing ES-DOC activities in support of CMIP6.  
+
+</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Project Event</dc:subject>
+    
+    
+      <dc:subject>WP11</dc:subject>
+    
+    <dc:date>2016/06/27 11:45:00 GMT+1</dc:date>
+    <dc:type>Event</dc:type>
+  </item>
+
+
+
+</rdf:RDF>

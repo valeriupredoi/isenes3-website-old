@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Plone.org//NONSGML plone.app.event//EN
+X-WR-TIMEZONE:Europe/Vienna
+BEGIN:VEVENT
+SUMMARY:Coding sprint on ESGF Publication workflow
+DTSTART;TZID=Europe/Vienna;VALUE=DATE-TIME:20151013T090000
+DTEND;TZID=Europe/Vienna;VALUE=DATE-TIME:20151014T170000
+DTSTAMP;VALUE=DATE-TIME:20220328T140445Z
+UID:702ddbfc23564e3fa6b2ea1247befcd0@plone7:8080
+ATTENDEE;CN="Ag Stephens (BADC)";ROLE=REQ-PARTICIPANT:Ag Stephens (BADC)
+ATTENDEE;CN="Katharina Berger (DKRZ)";ROLE=REQ-PARTICIPANT:Katharina Berge
+ r (DKRZ)
+ATTENDEE;CN="Alan Iwi (BADC)";ROLE=REQ-PARTICIPANT:Alan Iwi (BADC)
+ATTENDEE;CN="Nicolas Carenton (IPSL/CNRS)";ROLE=REQ-PARTICIPANT:Nicolas Ca
+ renton (IPSL/CNRS)
+ATTENDEE;CN="Atef Bennasser (IPSL/UPMC)";ROLE=REQ-PARTICIPANT:Atef Bennass
+ er (IPSL/UPMC)
+ATTENDEE;CN="Guillaume Levavasseur (IPSL/CNRS)";ROLE=REQ-PARTICIPANT:Guill
+ aume Levavasseur (IPSL/CNRS)
+ATTENDEE;CN="Sébastien Denvil (IPSL/CNRS)";ROLE=REQ-PARTICIPANT:Sébastie
+ n Denvil (IPSL/CNRS)
+CATEGORIES:Project Event
+CONTACT:Guillaume Levavasseur\, glipsl@ipsl.jussieu.fr
+CREATED;VALUE=DATE-TIME:20151028T153702Z
+DESCRIPTION:Gathering of some ENES Data Task Force members\, aiming to dra
+ ft a document on « ESGF publication best practices » and focus on furthe
+ r improvements of our publication tool. Conclusions will be then broadcast
+ ed and discussed with the ESGF community.\n\n
+LAST-MODIFIED;VALUE=DATE-TIME:20160526T083634Z
+LOCATION:IPSL\, Paris
+URL:https://is.enes.org/archive-1/phase-2/events/coding-sprint-on-esgf-pub
+ lication-workflow
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+X-LIC-LOCATION:Europe/Vienna
+BEGIN:DAYLIGHT
+DTSTART;VALUE=DATE-TIME:20150329T030000
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+END:VCALENDAR

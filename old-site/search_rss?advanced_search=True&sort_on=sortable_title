@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+<channel rdf:about="https://is.enes.org/search_rss">
+  <title>IS-ENES 3</title>
+  <link>https://is.enes.org</link>
+
+  <image rdf:resource="https://is.enes.org/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/Talks/WS3HH/session-8-porting-climate-codes-on-top-of-the-edge-machines/yann-meurdesoif_dynamico/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/Talks/climate-model-evaluation-workshop/y-balkanski_atmospheric-chemistry-and-aerosols/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/events/trainings-and-education/xios-training-sessions"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/presentations/egu-2016/xavier-yepes-simulation-based-performance-analysis-of-ec-earth-3-2-0-using-dimemas/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/Talks/WS3HH/session-4-hpc-software-challenges-solutions-for-the-climate-community/xavier-lapillonne-porting-the-cosmo-model-to-gpus/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/na3-documents/cm-documents/xalt-application-provenance-tracking-and-problem-detection/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/the-project/the-workpackages/wps"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/eu-internal/exchange-platform-2/coord/wpl-telco-minutes/IS-ENES_Telco270509_Minutes.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/eu-internal/exchange-platform-2/coord/wpl-telco-minutes/IS-ENES_Telco%20WPL%2024062011_Minutes_SJ.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/eu-internal/exchange-platform-2/coord/wpl-telco-minutes/IS-ENES_Telco%20WPL%20220211_Minutes.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/eu-internal/exchange-platform-2/coord/wpl-telco-minutes/IS-ENES_Telco170909_Minutes.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/eu-internal/exchange-platform-2/coord/wpl-telco-minutes/IS-ENES_Telco%20WPL%20110110_Minutes.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/eu-internal/exchange-platform-2/coord/wpl-telco-minutes/IS-ENES_Telco100709_Minutes.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/eu-internal/exchange-platform-2/coord/wpl-telco-minutes/IS-ENES_Telco091109_Minutes.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/eu-internal/exchange-platform-2/coord/wpl-telco-minutes/IS-ENES_Telco%20WPL%20090410_Minutes.pdf/view"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/Talks/WS3HH/session-8-porting-climate-codes-on-top-of-the-edge-machines/yann-meurdesoif_dynamico/view">
+    <title>Yann Meurdesoif_Dynamico</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/Talks/WS3HH/session-8-porting-climate-codes-on-top-of-the-edge-machines/yann-meurdesoif_dynamico/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Presentation</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/Talks/climate-model-evaluation-workshop/y-balkanski_atmospheric-chemistry-and-aerosols/view">
+    <title>Y.Balkanski_Atmospheric chemistry and aerosols</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/Talks/climate-model-evaluation-workshop/y-balkanski_atmospheric-chemistry-and-aerosols/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Presentation</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/events/trainings-and-education/xios-training-sessions">
+    <title>XIOS training sessions</title>
+    <link>https://is.enes.org/events/trainings-and-education/xios-training-sessions</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    <dc:date>2020/09/22 12:25:00 GMT+1</dc:date>
+    <dc:type>Event</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/presentations/egu-2016/xavier-yepes-simulation-based-performance-analysis-of-ec-earth-3-2-0-using-dimemas/view">
+    <title>Xavier Yepes, Simulation-based performance analysis of EC-Earth 3.2.0 using Dimemas</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/presentations/egu-2016/xavier-yepes-simulation-based-performance-analysis-of-ec-earth-3-2-0-using-dimemas/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Poster</dc:subject>
+    
+    
+      <dc:subject>WP3</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/Talks/WS3HH/session-4-hpc-software-challenges-solutions-for-the-climate-community/xavier-lapillonne-porting-the-cosmo-model-to-gpus/view">
+    <title>Xavier Lapillonne, Porting the COSMO model to GPUs</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/Talks/WS3HH/session-4-hpc-software-challenges-solutions-for-the-climate-community/xavier-lapillonne-porting-the-cosmo-model-to-gpus/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Presentation</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/na3-documents/cm-documents/xalt-application-provenance-tracking-and-problem-detection/view">
+    <title>XALT: Application Provenance, Tracking, and Problem Detection</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/na3-documents/cm-documents/xalt-application-provenance-tracking-and-problem-detection/view</link>
+    <description>An overview of the XALT tool that provides a census of libraries and applications, and automatically filters related user issues on a cluster and its implementation and utility on the New Zealand eScience Infrastructure.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>WP4 documents</dc:subject>
+    
+    
+      <dc:subject>Scientific Papers</dc:subject>
+    
+    
+      <dc:subject>Publication</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/the-project/the-workpackages/wps">
+    <title>WPs table</title>
+    <link>https://is.enes.org/archive-1/archive/the-project/the-workpackages/wps</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    <dc:date>2009/10/26 15:40:00 GMT+1</dc:date>
+    <dc:type>Folder</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/eu-internal/exchange-platform-2/coord/wpl-telco-minutes/IS-ENES_Telco270509_Minutes.pdf/view">
+    <title>WPL Telco 27/05/2009</title>
+    <link>https://is.enes.org/archive-1/archive/eu-internal/exchange-platform-2/coord/wpl-telco-minutes/IS-ENES_Telco270509_Minutes.pdf/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    <dc:date>2011/04/07 11:01:40 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/eu-internal/exchange-platform-2/coord/wpl-telco-minutes/IS-ENES_Telco%20WPL%2024062011_Minutes_SJ.pdf/view">
+    <title>WPL Telco 24/06/2011</title>
+    <link>https://is.enes.org/archive-1/archive/eu-internal/exchange-platform-2/coord/wpl-telco-minutes/IS-ENES_Telco%20WPL%2024062011_Minutes_SJ.pdf/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    <dc:date>2012/02/17 11:06:23 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/eu-internal/exchange-platform-2/coord/wpl-telco-minutes/IS-ENES_Telco%20WPL%20220211_Minutes.pdf/view">
+    <title>WPL Telco 22/02/2011</title>
+    <link>https://is.enes.org/archive-1/archive/eu-internal/exchange-platform-2/coord/wpl-telco-minutes/IS-ENES_Telco%20WPL%20220211_Minutes.pdf/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    <dc:date>2011/04/07 11:01:13 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/eu-internal/exchange-platform-2/coord/wpl-telco-minutes/IS-ENES_Telco170909_Minutes.pdf/view">
+    <title>WPL Telco 17/09/2009</title>
+    <link>https://is.enes.org/archive-1/archive/eu-internal/exchange-platform-2/coord/wpl-telco-minutes/IS-ENES_Telco170909_Minutes.pdf/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    <dc:date>2011/04/07 11:00:43 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/eu-internal/exchange-platform-2/coord/wpl-telco-minutes/IS-ENES_Telco%20WPL%20110110_Minutes.pdf/view">
+    <title>WPL Telco 11/01/2010</title>
+    <link>https://is.enes.org/archive-1/archive/eu-internal/exchange-platform-2/coord/wpl-telco-minutes/IS-ENES_Telco%20WPL%20110110_Minutes.pdf/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    <dc:date>2011/04/07 11:00:55 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/eu-internal/exchange-platform-2/coord/wpl-telco-minutes/IS-ENES_Telco100709_Minutes.pdf/view">
+    <title>WPL Telco 10/07/2009</title>
+    <link>https://is.enes.org/archive-1/archive/eu-internal/exchange-platform-2/coord/wpl-telco-minutes/IS-ENES_Telco100709_Minutes.pdf/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    <dc:date>2011/04/07 11:00:36 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/eu-internal/exchange-platform-2/coord/wpl-telco-minutes/IS-ENES_Telco091109_Minutes.pdf/view">
+    <title>WPL Telco 9/11/2009</title>
+    <link>https://is.enes.org/archive-1/archive/eu-internal/exchange-platform-2/coord/wpl-telco-minutes/IS-ENES_Telco091109_Minutes.pdf/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    <dc:date>2011/04/07 11:00:49 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/eu-internal/exchange-platform-2/coord/wpl-telco-minutes/IS-ENES_Telco%20WPL%20090410_Minutes.pdf/view">
+    <title>WPL Telco 09/04/2010</title>
+    <link>https://is.enes.org/archive-1/archive/eu-internal/exchange-platform-2/coord/wpl-telco-minutes/IS-ENES_Telco%20WPL%20090410_Minutes.pdf/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    <dc:date>2011/04/07 11:01:06 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+
+</rdf:RDF>

@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+<channel rdf:about="https://is.enes.org/search_rss">
+  <title>IS-ENES 3</title>
+  <link>https://is.enes.org</link>
+
+  <image rdf:resource="https://is.enes.org/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms9-8_new-i-o-server-release/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms9-7_model-interface-updates-for-compliance-with-new-oasis-coupler/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms9-6_new-cdi-release-with-i-o-developments-from-is-enes1-and-icomex/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d9-6_multi-model-multi-member-integrated-simulation-computing-performances-of-a-demonstrator-and-other-single-high-resolution-climate-models/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d9-5_cdo-performance-analysis/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d9-4_cdi-pio-xios-i-o-servers-compatibility-with-hr-climate-models/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d9-3_assessment-report-on-autosubmit-cylc-and-ecflow/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d9-2_hr-esm-performance-resulting-from-oasis-updates/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d9-1_hr-esm-initial-performance-analysis/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/posters/ec-earth-meeting-may-2015_autosubmit-poster/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/jra1-working-documents/autosubmit-leaflet/view"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms9-8_new-i-o-server-release/view">
+    <title>IS-ENES2_MS9.8_New I/O server release </title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms9-8_new-i-o-server-release/view</link>
+    <description>XIOS 2 has now more than one year development and is now suitable to be used into models. Development has been focused on new internal design, enabling more easily the implementation of new functionalities. We think that XIOS 2 is now ready to be used, and although syntax is no strictly retro-compatible with XIOS 1, changes are minor, so we think it must be easy to manage the 2 versions in the same model for an overlapping time.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>WP9</dc:subject>
+    
+    
+      <dc:subject>Milestone</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms9-7_model-interface-updates-for-compliance-with-new-oasis-coupler/view">
+    <title>IS-ENES2_MS9.7_Model interface updates for compliance with new OASIS coupler</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms9-7_model-interface-updates-for-compliance-with-new-oasis-coupler/view</link>
+    <description>This document focuses on the upgrade impact on 3 models participating to the multi-model multi-member experiment described in IS-ENES2 WP9: the Met Office Global Coupled model, EC-Earth and CNRM-CM. The initial interfaces (model code routines where are located the calls to the OASIS API) needed to be adapted to the new coupling routines. Groups took this opportunity to rethink or extend their coupling strategy: grid to grid interpolations were changed, more model component added to the coupled system (ESM).</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>WP9</dc:subject>
+    
+    
+      <dc:subject>Milestone</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms9-6_new-cdi-release-with-i-o-developments-from-is-enes1-and-icomex/view">
+    <title>IS-ENES2_MS9.6_New release of CDO with improved parallel performance</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms9-6_new-cdi-release-with-i-o-developments-from-is-enes1-and-icomex/view</link>
+    <description>Max-Planck-Institute for Meteorology has developed the Climate Data Operators CDO to
+pre- and post-process climate data in different formats.
+This report describes the operators, the activities in the ISENES2-project to improve the
+performance of the CDO on parallel computer architectures, and release new versions of the
+CDO. Furthermore, planned and possible next steps are described.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>WP9</dc:subject>
+    
+    
+      <dc:subject>Milestone</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d9-6_multi-model-multi-member-integrated-simulation-computing-performances-of-a-demonstrator-and-other-single-high-resolution-climate-models/view">
+    <title>IS-ENES2_D9.6_Multi-model multi-member integrated simulation: computing performances of a demonstrator and other single high-resolution climate models</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d9-6_multi-model-multi-member-integrated-simulation-computing-performances-of-a-demonstrator-and-other-single-high-resolution-climate-models/view</link>
+    <description>A set of scripts and configuration files necessary to launch an ARPEGE-NEMO/EC-Earth multi-model multi-member high-resolution (M4-HR) experiment are developed and the existing single model workflow adapted. The Autosubmit tool ensures a remote management of simulations performed on the BSC MareNostrum III supercomputer. The pre-existing single model launching scripts are easily parametrised to let Autosubmit cope with difficulties related to remote connection and multi-member simulation handling. The new developments include a final analysis that delivers computational metrics that helps to evaluate models and whole M4-HR experiment performances.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    
+      <dc:subject>WP9</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d9-5_cdo-performance-analysis/view">
+    <title>IS-ENES2_D9.5_CDO performance analysis</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d9-5_cdo-performance-analysis/view</link>
+    <description>The computational performance of the CDO (Climate Data Operators) is investigated in the context of the M4HR (Multi-model multi-member high-resolution) demonstrator developed in JRA1. A detailed performance analysis focussed on the disk transfer rates (read and write operations) of the CDO and shows no indication of performance bottlenecks in the post-processing workflow.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    
+      <dc:subject>WP9</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d9-4_cdi-pio-xios-i-o-servers-compatibility-with-hr-climate-models/view">
+    <title>IS-ENES2_D9.4_CDI-pio &amp; XIOS I/O servers compatibility with HR climate models</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d9-4_cdi-pio-xios-i-o-servers-compatibility-with-hr-climate-models/view</link>
+    <description>I/O performance is likely a leading constraint to efficient operation of High Resolution Earth System Model (HR ESM) simulations. The I/O libraries CDI-pio (jointly developed by MPG and DKRZ) and XIOS (developed at IPSL) were implemented and tested with several components of the earth system models used in the present IS-ENES2 work-package 9. CDI-pio was evaluated with the atmospheric model ECHAM6 and XIOS with the atmospheric model ARPEGE-Climat and the ocean model NEMO. Both CDI-pio and XIOS2 I/O libraries prove their capacity to efficiently manage high resolution model output.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    
+      <dc:subject>WP9</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d9-3_assessment-report-on-autosubmit-cylc-and-ecflow/view">
+    <title>IS-ENES2_D9.3_Assessment report on Autosubmit, Cylc and ecFlow</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d9-3_assessment-report-on-autosubmit-cylc-and-ecflow/view</link>
+    <description>D-9.3, “Assessment report on Autosubmit, Cylc and ecFlow”, is a deliverable due in month 36, ahead of the deliverable D-9.6 “Multi-model multi-member (M4) high resolution (HR) Earth System Model (ESM) ensemble performance analysis”. In the context of work package 9, IC3/BSC in collaboration with the Met Office, have set up three tools to design workflows and monitor experiments: Autosubmit, Cylc and ecFlow. The three scheduling and submission systems have been tested and evaluated with regard to the suitability for M4 HR experiments. GloSea5 operational seasonal forecast system and EC-Earth3 decadal hindcast have been prototyped with several workflow configurations in order to compare the differences and assess the suitability of the three tools for M4 HR experiments.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    
+      <dc:subject>WP9</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d9-2_hr-esm-performance-resulting-from-oasis-updates/view">
+    <title>IS-ENES2_D9.2_HR ESM performance resulting from OASIS updates</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d9-2_hr-esm-performance-resulting-from-oasis-updates/view</link>
+    <description>The efficiency of core OASIS3-MCT coupler functionalities (interpolation+communication) grows with a factor of ten compared to the former OASIS3 performances. Together with a better estimation of load balancing in our coupled systems, this work had a positive impact on coupling efficiency in our HR M4 simulations. Ideas on OASIS coupling future challenges are discussed to prepare our Earth System Models to Exascale supercomputing.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    
+      <dc:subject>WP9</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d9-1_hr-esm-initial-performance-analysis/view">
+    <title>IS-ENES2_D9.1_HR ESM Initial performance analysis_Submitted Version</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d9-1_hr-esm-initial-performance-analysis/view</link>
+    <description>The list of software components participating in the the multi-model multi-member, high-
+resolution coupled climate simulation experiments is established. A new set of metrics for the computational performance of Earth System Models is developed and used for an initial performance analysis of the models contributing to JRA1.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    
+      <dc:subject>WP9</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/posters/ec-earth-meeting-may-2015_autosubmit-poster/view">
+    <title>EC-EARTH Meeting May 2015_Autosubmit poster</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/posters/ec-earth-meeting-may-2015_autosubmit-poster/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Poster</dc:subject>
+    
+    
+      <dc:subject>WP9</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/jra1-working-documents/autosubmit-leaflet/view">
+    <title>Autosubmit leaflet</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/jra1-working-documents/autosubmit-leaflet/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Work document</dc:subject>
+    
+    
+      <dc:subject>WP9</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+
+</rdf:RDF>

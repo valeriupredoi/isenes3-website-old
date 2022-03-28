@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+<channel rdf:about="https://is.enes.org/search_rss">
+  <title>IS-ENES 3</title>
+  <link>https://is.enes.org</link>
+
+  <image rdf:resource="https://is.enes.org/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/documents/IS-ENES_D3.8.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/documents/IS-ENES_D4.7.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/documents/IS-ENES_D4.8.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/documents/IS-ENES_D7.3.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/documents/IS-ENES_D7.4.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/documents/IS-ENES_D7.5.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/documents/IS-ENES_D8.4.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/documents/IS-ENES_D8.5.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/documents/IS-ENES_D9.4.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/documents/IS-ENES_D10.3.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/documents/IS-ENES_D10.4.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/documents/IS-ENES_D11.4.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/documents/IS-ENES_D11.5.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/documents/is-enes-final-report/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/deliverables/d1-1_is-enes2_rp1_report/view"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/documents/IS-ENES_D3.8.pdf/view">
+    <title>D3.8 - Report on Training Sessions</title>
+    <link>https://is.enes.org/archive-1/archive/documents/IS-ENES_D3.8.pdf/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    
+      <dc:subject>IS-ENES Phase 1</dc:subject>
+    
+    <dc:date>2013/06/13 16:50:00 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/documents/IS-ENES_D4.7.pdf/view">
+    <title>D4.7 - OASIS Dedicated User Support</title>
+    <link>https://is.enes.org/archive-1/archive/documents/IS-ENES_D4.7.pdf/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    
+      <dc:subject>IS-ENES Phase 1</dc:subject>
+    
+    <dc:date>2013/06/13 16:30:00 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/documents/IS-ENES_D4.8.pdf/view">
+    <title>D4.8 - web NEMO configurations database filled up by NEMO team and partners</title>
+    <link>https://is.enes.org/archive-1/archive/documents/IS-ENES_D4.8.pdf/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    
+      <dc:subject>IS-ENES Phase 1</dc:subject>
+    
+    <dc:date>2013/06/13 16:30:00 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/documents/IS-ENES_D7.3.pdf/view">
+    <title>D7.3 - Reference implementations of Parallel I/O and of I/O Server</title>
+    <link>https://is.enes.org/archive-1/archive/documents/IS-ENES_D7.3.pdf/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    
+      <dc:subject>IS-ENES Phase 1</dc:subject>
+    
+    <dc:date>2013/06/13 16:35:00 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/documents/IS-ENES_D7.4.pdf/view">
+    <title>D7.4 - OASIS3-MCT parallel coupler</title>
+    <link>https://is.enes.org/archive-1/archive/documents/IS-ENES_D7.4.pdf/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    
+      <dc:subject>IS-ENES Phase 1</dc:subject>
+    
+    <dc:date>2013/06/13 16:35:00 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/documents/IS-ENES_D7.5.pdf/view">
+    <title>D7.5 - Reference implementations of IO server combined with Parallel I/O</title>
+    <link>https://is.enes.org/archive-1/archive/documents/IS-ENES_D7.5.pdf/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    
+      <dc:subject>IS-ENES Phase 1</dc:subject>
+    
+    <dc:date>2013/06/13 16:35:00 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/documents/IS-ENES_D8.4.pdf/view">
+    <title>D8.4 - Final Report on Portability and Performance in IS-ENES ESMs</title>
+    <link>https://is.enes.org/archive-1/archive/documents/IS-ENES_D8.4.pdf/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    
+      <dc:subject>IS-ENES Phase 1</dc:subject>
+    
+    <dc:date>2013/06/13 16:40:00 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/documents/IS-ENES_D8.5.pdf/view">
+    <title>D8.5 - Towards Flexible Construction of ESMs using BFG, Final Report</title>
+    <link>https://is.enes.org/archive-1/archive/documents/IS-ENES_D8.5.pdf/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    
+      <dc:subject>IS-ENES Phase 1</dc:subject>
+    
+    <dc:date>2013/06/13 16:40:00 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/documents/IS-ENES_D9.4.pdf/view">
+    <title>D9.4 - Report on the pilot study on the implementation of evaluation toolkits on CNRS-IPSL ESM output</title>
+    <link>https://is.enes.org/archive-1/archive/documents/IS-ENES_D9.4.pdf/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    
+      <dc:subject>IS-ENES Phase 1</dc:subject>
+    
+    <dc:date>2013/06/13 16:40:00 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/documents/IS-ENES_D10.3.pdf/view">
+    <title>D10.3 - Operational service package</title>
+    <link>https://is.enes.org/archive-1/archive/documents/IS-ENES_D10.3.pdf/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    
+      <dc:subject>IS-ENES Phase 1</dc:subject>
+    
+    <dc:date>2013/06/13 16:40:00 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/documents/IS-ENES_D10.4.pdf/view">
+    <title>D10.4 - User service package</title>
+    <link>https://is.enes.org/archive-1/archive/documents/IS-ENES_D10.4.pdf/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    
+      <dc:subject>IS-ENES Phase 1</dc:subject>
+    
+    <dc:date>2013/06/13 16:45:00 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/documents/IS-ENES_D11.4.pdf/view">
+    <title>D11.4 - Software Code and e-impact-portal full documentation</title>
+    <link>https://is.enes.org/archive-1/archive/documents/IS-ENES_D11.4.pdf/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    
+      <dc:subject>IS-ENES Phase 1</dc:subject>
+    
+    <dc:date>2013/06/13 16:45:00 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/documents/IS-ENES_D11.5.pdf/view">
+    <title>D11.5 - Report and manuscript journal paper on key characteristics for a prototype of an e-based pan-European climate data service network</title>
+    <link>https://is.enes.org/archive-1/archive/documents/IS-ENES_D11.5.pdf/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    
+      <dc:subject>IS-ENES Phase 1</dc:subject>
+    
+    <dc:date>2013/06/13 16:45:00 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/documents/is-enes-final-report/view">
+    <title>IS-ENES Final Report </title>
+    <link>https://is.enes.org/archive-1/archive/documents/is-enes-final-report/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    
+      <dc:subject>IS-ENES Phase 1</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/deliverables/d1-1_is-enes2_rp1_report/view">
+    <title>IS-ENES2_D1.1_RP1_report_Submitted Version</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/deliverables/d1-1_is-enes2_rp1_report/view</link>
+    <description>First periodic report submitted to the European Commission in November 2014.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    
+      <dc:subject>WP1</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+
+</rdf:RDF>

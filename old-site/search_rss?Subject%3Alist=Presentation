@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+<channel rdf:about="https://is.enes.org/search_rss">
+  <title>IS-ENES 3</title>
+  <link>https://is.enes.org</link>
+
+  <image rdf:resource="https://is.enes.org/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/Talks/is-enes2-ga12"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/documents-1/dataDelugeEnes_jun2012_v1.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides/modelling_uncertainties_Joussaume_010311.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides/IS-ENES_NCAR_121009.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides/HPC.ENES-Munich-11.04.18.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides/IS-ENES_Joussaume_Combine.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides/workshop%20results%20Swart.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides/AGU_SFO_dec2010.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides/aerocom_2012_Schulz-koffi.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides/BKoffietal_Paris2012_vf.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides/bfg-is-enes.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides/presentation%20Page-Swart%20AGU.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides/KNMI_EGU2013_ESSI31_Plieger.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides/posterEGU2013-climate4impactv3.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides/KNMI_EGU2013_ESSI213_Plieger_climate4impact_20130403.pdf/view"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/Talks/is-enes2-ga12">
+    <title>IS-ENES2 GA2</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/Talks/is-enes2-ga12</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Presentation</dc:subject>
+    
+    <dc:date>2016/03/17 13:18:18 GMT+1</dc:date>
+    <dc:type>Folder</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/documents-1/dataDelugeEnes_jun2012_v1.pdf/view">
+    <title>The data deluge: the case of climate modelling</title>
+    <link>https://is.enes.org/archive-1/archive/documents-1/dataDelugeEnes_jun2012_v1.pdf/view</link>
+    <description>Martin Juckes
+Australia – European Union Research Infrastructure Second Workshop, Environment working group, Brussels, 26-27 June 2012 </description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Presentation</dc:subject>
+    
+    <dc:date>2013/04/26 15:20:56 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides/modelling_uncertainties_Joussaume_010311.pdf/view">
+    <title>S. Joussaume, Climate scenarios with global climate models: dealing with uncertainties, March 2011 </title>
+    <link>https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides/modelling_uncertainties_Joussaume_010311.pdf/view</link>
+    <description>Sylvie Joussaume
+EEA Scientific Committee seminar on Climate scenarios, impacts and uncertainties, European Environment Agency, March 1st 2011 </description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Presentation</dc:subject>
+    
+    
+      <dc:subject>IS-ENES Phase 1</dc:subject>
+    
+    <dc:date>2013/04/26 10:45:00 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides/IS-ENES_NCAR_121009.pdf/view">
+    <title>S. Joussaume, The European InfraStructure for Earth System Modeling, October 2012 </title>
+    <link>https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides/IS-ENES_NCAR_121009.pdf/view</link>
+    <description>Sylvie Joussaume
+NCAR (National Center for Atmospheric Research), Climate and Global Dynamics division seminar, Boulder (Colorado, USA) October 9, 2012 </description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Presentation</dc:subject>
+    
+    
+      <dc:subject>IS-ENES Phase 1</dc:subject>
+    
+    <dc:date>2013/04/26 10:45:00 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides/HPC.ENES-Munich-11.04.18.pdf/view">
+    <title>JC. André, On the HPC strategy for climate, April 2011</title>
+    <link>https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides/HPC.ENES-Munich-11.04.18.pdf/view</link>
+    <description>Jean-Claude André with the HPC Task Force
+Adhoc-Meeting on European HPC landscape, Munich, Germany, 18th April 2011</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Presentation</dc:subject>
+    
+    
+      <dc:subject>IS-ENES Phase 1</dc:subject>
+    
+    <dc:date>2013/04/26 10:40:00 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides/IS-ENES_Joussaume_Combine.pdf/view">
+    <title>S. Joussaume,The European infrastructure for Earth System Modelling: the IS-ENES project, May 2011</title>
+    <link>https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides/IS-ENES_Joussaume_Combine.pdf/view</link>
+    <description>Sylvie Joussaume
+COMBINE, General Assembly, Met Office Hadley Center, Exeter, UK, 24-27th May 2011</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Presentation</dc:subject>
+    
+    
+      <dc:subject>IS-ENES Phase 1</dc:subject>
+    
+    <dc:date>2013/04/26 10:40:00 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides/workshop%20results%20Swart.pdf/view">
+    <title>R. Swart, Outcome of IS-ENES Workshop on Bridging Climate Research data and the Needs of the Impact Community, November 2011</title>
+    <link>https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides/workshop%20results%20Swart.pdf/view</link>
+    <description>Rob Swart
+CIRCLE2/JPI Climate Workshop on: Processes for improving the interface between climate research and its application: sharing experiences on climate services development in Europe, Bologna, 8-9 November 2011</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Presentation</dc:subject>
+    
+    
+      <dc:subject>IS-ENES Phase 1</dc:subject>
+    
+    <dc:date>2013/04/24 13:20:00 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides/AGU_SFO_dec2010.pdf/view">
+    <title>Poster - Weather Typing Statistical downscaling with dsclim: diagnostics, and uncertainties in data provision for the impact community, December 2010</title>
+    <link>https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides/AGU_SFO_dec2010.pdf/view</link>
+    <description>Pagé, C., Sanchez, E., Terray, L., 2010
+2010 AGU Fall Meeting, San Francisco, USA, 13-17 December 2010</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Presentation</dc:subject>
+    
+    
+      <dc:subject>IS-ENES Phase 1</dc:subject>
+    
+    <dc:date>2013/04/24 11:20:00 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides/aerocom_2012_Schulz-koffi.pdf/view">
+    <title>M. Schulz &amp; B. Koffi, What CALIPSO data tell us about vertical distribution in modeling, September 2012</title>
+    <link>https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides/aerocom_2012_Schulz-koffi.pdf/view</link>
+    <description>Schulz M. and B. Koffi
+11th AeroCom workshop, Seattle, September 10-13, 2012</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Presentation</dc:subject>
+    
+    
+      <dc:subject>IS-ENES Phase 1</dc:subject>
+    
+    <dc:date>2013/04/24 11:15:00 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides/BKoffietal_Paris2012_vf.pdf/view">
+    <title>Poster - Application of the CALIOP Layer Product to evaluate the vertical distribution of aerosols estimated by global models, June 2012</title>
+    <link>https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides/BKoffietal_Paris2012_vf.pdf/view</link>
+    <description>Koffi B., M., Schulz, B. M., Steensen, J., Griesfeller, F.-M., Bréon et al., (2012b)
+CALIPSO, CloudSat, EarthCARE Joint Workshop, Paris, 18-22 June.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Presentation</dc:subject>
+    
+    
+      <dc:subject>IS-ENES Phase 1</dc:subject>
+    
+    <dc:date>2013/04/24 11:10:00 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides/bfg-is-enes.pdf/view">
+    <title> R. Ford &amp; G. Riley, BFG: a Flexible Coupled Modelling tool, December 2009</title>
+    <link>https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides/bfg-is-enes.pdf/view</link>
+    <description>Ford R., Riley G.
+UK e-Science All Hands conference, Oxford, December 7th-9th, 2009</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Presentation</dc:subject>
+    
+    
+      <dc:subject>IS-ENES Phase 1</dc:subject>
+    
+    <dc:date>2013/04/24 10:55:00 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides/presentation%20Page-Swart%20AGU.pdf/view">
+    <title>R. Swart &amp; C. Pagé, Defining climate modeling user needs: which data are actually required to support impact analysis and adaptation policy development? December 2010 </title>
+    <link>https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides/presentation%20Page-Swart%20AGU.pdf/view</link>
+    <description>R. Swart, C. Pagé
+2010 AGU Fall Meeting, San Francisco, USA, 13-17 December 2010 </description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Presentation</dc:subject>
+    
+    
+      <dc:subject>IS-ENES Phase 1</dc:subject>
+    
+    <dc:date>2013/04/24 10:50:00 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides/KNMI_EGU2013_ESSI31_Plieger.pdf/view">
+    <title>Poster - Generic visualization of OpenDAP data resources using OGC services, April 2013</title>
+    <link>https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides/KNMI_EGU2013_ESSI31_Plieger.pdf/view</link>
+    <description>EGU2013</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Presentation</dc:subject>
+    
+    
+      <dc:subject>IS-ENES Phase 1</dc:subject>
+    
+    <dc:date>2013/04/22 13:55:00 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides/posterEGU2013-climate4impactv3.pdf/view">
+    <title>Poster - The climate4impact portal: bridging CMIP5 data to impact users, April 2013</title>
+    <link>https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides/posterEGU2013-climate4impactv3.pdf/view</link>
+    <description>EGU2013</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Presentation</dc:subject>
+    
+    
+      <dc:subject>IS-ENES Phase 1</dc:subject>
+    
+    <dc:date>2013/04/22 13:55:00 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides/KNMI_EGU2013_ESSI213_Plieger_climate4impact_20130403.pdf/view">
+    <title>Poster - Demonstrating the climate4impact portal: bridging the CMIP5 data infrastructure to impact users, April 2013</title>
+    <link>https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides/KNMI_EGU2013_ESSI213_Plieger_climate4impact_20130403.pdf/view</link>
+    <description>EGU2013</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Presentation</dc:subject>
+    
+    
+      <dc:subject>IS-ENES Phase 1</dc:subject>
+    
+    <dc:date>2013/04/22 13:55:00 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+
+</rdf:RDF>

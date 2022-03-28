@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <atom:link rel="self" type="application/rss+xml" href="https://is.enes.org/rss.xml"/>
+    <title>IS-ENES 3</title>
+    <link>https://is.enes.org</link>
+    <description>The IS-ENES 3 project website</description>
+
+    <language>en</language>
+    <copyright></copyright>
+    <generator>Plone</generator>
+    <item>
+      <title>Newsletter 10 - March 2022</title>
+      <description></description>
+      
+      <pubDate>Wed, 23 Mar 2022 12:29:27 +0100</pubDate>
+      <guid>https://is.enes.org/documents/newsletter/newsletter-10-march-2022</guid>
+    </item>
+    <item>
+      <title>IS-ENES3 Eastern Europe Spring Schools on Climate data and Impact assessments</title>
+      <description></description>
+      
+      <pubDate>Fri, 18 Mar 2022 12:10:21 +0100</pubDate>
+      <guid>https://is.enes.org/events/trainings-and-education/is-enes3-eastern-europe-spring-schools-on-climate-data-and-impact-assessments</guid>
+    </item>
+    <item>
+      <title>IS-ENES3 Webinar on OASIS3_MCT</title>
+      <description></description>
+      
+      <pubDate>Fri, 18 Mar 2022 10:48:41 +0100</pubDate>
+      <guid>https://is.enes.org/events/is-enes3-webinar-on-oasis3_mct</guid>
+    </item>
+    <item>
+      <title>SWIRRL. Managing Provenance-aware and Reproducible Workspaces </title>
+      <description>Alessandro Spinuso et al., Published on 7 March 2022.</description>
+      
+      <pubDate>Thu, 17 Mar 2022 17:25:00 +0100</pubDate>
+      <guid>https://is.enes.org/documents/publications/swirrl-managing-provenance-aware-and-reproducible-workspaces</guid>
+    </item>
+    <item>
+      <title>IS-ENES3@EGU2022</title>
+      <description></description>
+      
+      <pubDate>Mon, 14 Mar 2022 14:55:00 +0100</pubDate>
+      <guid>https://is.enes.org/events/workshops/is-enes3-egu2022</guid>
+    </item>
+    <item>
+      <title> 7th ENES HPC Workshop (Barcelona, 2022) </title>
+      <description></description>
+      
+      <pubDate>Mon, 14 Mar 2022 14:50:00 +0100</pubDate>
+      <guid>https://is.enes.org/events/workshops/7th-enes-hpc-workshop-barcelona-2022</guid>
+    </item>
+    <item>
+      <title>EMS2021</title>
+      <description></description>
+      
+      <pubDate>Mon, 14 Feb 2022 17:21:14 +0100</pubDate>
+      <guid>https://is.enes.org/documents/presentations/ems2021</guid>
+    </item>
+    <item>
+      <title>OASIS3-MCT Technical reports</title>
+      <description></description>
+      
+      <pubDate>Mon, 31 Jan 2022 17:26:35 +0100</pubDate>
+      <guid>https://is.enes.org/documents/is-enes3-reports-and-kpis/oasis3-mct-technical-reports</guid>
+    </item>
+    <item>
+      <title>The EC-Earth3 Earth System Model for the Climate Model Intercomparison Project 6</title>
+      <description>Döscher, R. et al., </description>
+      
+      <pubDate>Mon, 31 Jan 2022 16:35:00 +0100</pubDate>
+      <guid>https://is.enes.org/documents/publications/the-ec-earth3-earth-system-model-for-the-climate-model-intercomparison-project-6</guid>
+    </item>
+    <item>
+      <title>Earth System Grid Federation Status and Plans – European Perspective</title>
+      <description></description>
+      
+      <pubDate>Mon, 31 Jan 2022 15:11:48 +0100</pubDate>
+      <guid>https://is.enes.org/documents/presentations/wgcm-24/earth-system-grid-federation-status-and-plans-2013-european-perspective</guid>
+    </item>
+    <item>
+      <title>WGCM-24</title>
+      <description></description>
+      
+      <pubDate>Mon, 31 Jan 2022 15:11:07 +0100</pubDate>
+      <guid>https://is.enes.org/documents/presentations/wgcm-24</guid>
+    </item>
+    <item>
+      <title>Earth System Grid Federation Future Architecture, Copernicus, Cloud and ESA</title>
+      <description></description>
+      
+      <pubDate>Mon, 31 Jan 2022 15:05:14 +0100</pubDate>
+      <guid>https://is.enes.org/documents/presentations/climatedata-ca-conference/earth-system-grid-federation-future-architecture-copernicus-cloud-and-esa</guid>
+    </item>
+    <item>
+      <title>ClimateData.ca Conference</title>
+      <description></description>
+      
+      <pubDate>Mon, 31 Jan 2022 15:04:26 +0100</pubDate>
+      <guid>https://is.enes.org/documents/presentations/climatedata-ca-conference</guid>
+    </item>
+    <item>
+      <title>Developing Community standards-based Search Tools for Earth System Model Data using STAC</title>
+      <description></description>
+      
+      <pubDate>Mon, 31 Jan 2022 14:51:58 +0100</pubDate>
+      <guid>https://is.enes.org/documents/presentations/agu2021/developing-community-standards-based-search-tools-for-earth-system-model-data-using-stac</guid>
+    </item>
+    <item>
+      <title>Access to Analysis and Climate Indices Tools for Climate Researchers and End Users</title>
+      <description></description>
+      
+      <pubDate>Fri, 28 Jan 2022 11:12:22 +0100</pubDate>
+      <guid>https://is.enes.org/documents/presentations/agu2021/access-to-analysis-and-climate-indices-tools-for-climate-researchers-and-end-users</guid>
+    </item>
+  </channel>
+</rss>

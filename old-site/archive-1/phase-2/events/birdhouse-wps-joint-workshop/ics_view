@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Plone.org//NONSGML plone.app.event//EN
+X-WR-TIMEZONE:Europe/Vienna
+BEGIN:VEVENT
+SUMMARY:Birdhouse WPS Joint Workshop
+DTSTART;TZID=Europe/Vienna;VALUE=DATE-TIME:20151013T090000
+DTEND;TZID=Europe/Vienna;VALUE=DATE-TIME:20151015T170000
+DTSTAMP;VALUE=DATE-TIME:20220328T140445Z
+UID:d665c87d458248048a131fe21938a4f8@plone7:8080
+ATTENDEE;CN="Carsten Ehbrecht (DKRZ)";ROLE=REQ-PARTICIPANT:Carsten Ehbrech
+ t (DKRZ)
+ATTENDEE;CN="Stephan Kindermann (DKRZ)";ROLE=REQ-PARTICIPANT:Stephan Kinde
+ rmann (DKRZ)
+ATTENDEE;CN="Christan Page (meteoFrance)";ROLE=REQ-PARTICIPANT:Christan Pa
+ ge (meteoFrance)
+ATTENDEE;CN="Stéphane Senesi (meteoFrance)";ROLE=REQ-PARTICIPANT:Stéphan
+ e Senesi (meteoFrance)
+ATTENDEE;CN="Maarten Plieger (KNMI)";ROLE=REQ-PARTICIPANT:Maarten Plieger 
+ (KNMI)
+ATTENDEE;CN="Patrick Brockmann (LSCE)";ROLE=REQ-PARTICIPANT:Patrick Brockm
+ ann (LSCE)
+ATTENDEE;CN="Cathy Nangini (LSCE)";ROLE=REQ-PARTICIPANT:Cathy Nangini (LSC
+ E)
+ATTENDEE;CN="Nils Hempelmann (LSCE)";ROLE=REQ-PARTICIPANT:Nils Hempelmann 
+ (LSCE)
+ATTENDEE;CN="Sébastien Denvil (Jussieu)";ROLE=REQ-PARTICIPANT:Sébastien 
+ Denvil (Jussieu)
+ATTENDEE;CN="Nikolay Kadygrov (Jussieu)";ROLE=REQ-PARTICIPANT:Nikolay Kady
+ grov (Jussieu)
+ATTENDEE;CN="Alessandro D'Anca (Uni Salento)";ROLE=REQ-PARTICIPANT:Alessan
+ dro D'Anca (Uni Salento)
+ATTENDEE;CN="Manuel Vega (Universidad de Cantabria)";ROLE=REQ-PARTICIPANT:
+ Manuel Vega (Universidad de Cantabria)
+ATTENDEE;CN="Veronika Eyring (DLR) [remote participant]";ROLE=REQ-PARTICIP
+ ANT:Veronika Eyring (DLR) [remote participant]
+ATTENDEE;CN="Axel Lauer (DLR) [remote participant]";ROLE=REQ-PARTICIPANT:A
+ xel Lauer (DLR) [remote participant]
+CONTACT:nils.hempelmann@lsce.ipsl.fr
+CREATED;VALUE=DATE-TIME:20151030T161551Z
+LAST-MODIFIED;VALUE=DATE-TIME:20151030T161602Z
+LOCATION:Paris
+URL:https://is.enes.org/archive-1/phase-2/events/birdhouse-wps-joint-works
+ hop
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+X-LIC-LOCATION:Europe/Vienna
+BEGIN:DAYLIGHT
+DTSTART;VALUE=DATE-TIME:20150329T030000
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+END:VCALENDAR

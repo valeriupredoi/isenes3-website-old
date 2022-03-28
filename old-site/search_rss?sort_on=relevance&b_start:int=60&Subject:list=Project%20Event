@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+<channel rdf:about="https://is.enes.org/search_rss">
+  <title>IS-ENES 3</title>
+  <link>https://is.enes.org</link>
+
+  <image rdf:resource="https://is.enes.org/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/events/european-earth-system-modelling-infrastructure-strategy-meeting"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/events/fourth-workshop-on-coupling-technologies-for-earth-system-models"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/events/future-perspectives-for-scientific-and-infrastructural-needs-in-earth-system-model-evaluation"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/events/is-enes-2-coding-sprint-knmi"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/events/is-enes-esgf-cmip6-preparation-and-data-tf-meeting"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/events/is-enes2-configuration-management-workshop-09-2013"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/events/is-enes2-mid-term-review"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/events/is-enes2-second-general-assembly"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/events/isenes2-workshop-on-workflows"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/events/nemo-sea-ice-working-group-designing-a-strategy-for-sea-ice-development-in-nemo"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/events/second-european-earth-system-and-climate-modeling-school-2nd-e2scms"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/events/training-on-oasis3-mct-at-cerfacs"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/events/virtual-workshop-on-configuration-management-in-climate-science"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/events/workshop-on-cosp-network-support-and-optimisation"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/events/workshop-on-design-of-scientific-portals"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/events/european-earth-system-modelling-infrastructure-strategy-meeting">
+    <title>ENES community meeting on Earth System Modelling Infrastructure Strategy</title>
+    <link>https://is.enes.org/archive-1/phase-2/events/european-earth-system-modelling-infrastructure-strategy-meeting</link>
+    <description>A meeting supported by IS-ENES2</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Project Event</dc:subject>
+    
+    
+      <dc:subject>WP2</dc:subject>
+    
+    <dc:date>2016/06/27 12:55:00 GMT+1</dc:date>
+    <dc:type>Event</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/events/fourth-workshop-on-coupling-technologies-for-earth-system-models">
+    <title>Fourth Workshop on Coupling Technologies for Earth System Models</title>
+    <link>https://is.enes.org/archive-1/phase-2/events/fourth-workshop-on-coupling-technologies-for-earth-system-models</link>
+    <description>The Fourth Workshop on Coupling Technologies for Earth System Models (CW2017) will be held on the 20th-22nd of March, 2017 at the Princeton Center for Theoretical Science on the campus of Princeton University, USA. IS-ENES2 contributes to the organisation of this workshop as part of activity carried out in WP3. </description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Project Event</dc:subject>
+    
+    
+      <dc:subject>WP3</dc:subject>
+    
+    <dc:date>2016/09/21 17:15:00 GMT+1</dc:date>
+    <dc:type>Event</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/events/future-perspectives-for-scientific-and-infrastructural-needs-in-earth-system-model-evaluation">
+    <title>Future Perspectives for Scientific and Infrastructural Needs in Earth System Model Evaluation</title>
+    <link>https://is.enes.org/archive-1/phase-2/events/future-perspectives-for-scientific-and-infrastructural-needs-in-earth-system-model-evaluation</link>
+    <description>This workshop is an opportunity to review status and future perspectives for scientific and infrastructural needs in Earth System Model Evaluation.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Project Event</dc:subject>
+    
+    <dc:date>2014/04/16 10:25:00 GMT+1</dc:date>
+    <dc:type>Event</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/events/is-enes-2-coding-sprint-knmi">
+    <title>IS-ENES 2 coding sprint  KNMI</title>
+    <link>https://is.enes.org/archive-1/phase-2/events/is-enes-2-coding-sprint-knmi</link>
+    <description>IS-ENES2 organized a code sprint to work on the climate4impact portal.
+</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Project Event</dc:subject>
+    
+    <dc:date>2016/07/27 14:31:49 GMT+1</dc:date>
+    <dc:type>Event</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/events/is-enes-esgf-cmip6-preparation-and-data-tf-meeting">
+    <title>IS-ENES2 ESGF-CMIP6 preparation and Data-TF meeting</title>
+    <link>https://is.enes.org/archive-1/phase-2/events/is-enes-esgf-cmip6-preparation-and-data-tf-meeting</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Project Event</dc:subject>
+    
+    <dc:date>2017/05/23 14:40:00 GMT+1</dc:date>
+    <dc:type>Event</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/events/is-enes2-configuration-management-workshop-09-2013">
+    <title>IS-ENES2 Configuration Management Workshop - 23 and 24 September 2013</title>
+    <link>https://is.enes.org/archive-1/phase-2/events/is-enes2-configuration-management-workshop-09-2013</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Project Event</dc:subject>
+    
+    <dc:date>2013/08/02 10:20:00 GMT+1</dc:date>
+    <dc:type>Event</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/events/is-enes2-mid-term-review">
+    <title>IS-ENES2 Mid-term Review</title>
+    <link>https://is.enes.org/archive-1/phase-2/events/is-enes2-mid-term-review</link>
+    <description>This meeting aims at assessing the work carried out under the project over the first two years. Such review will cover scientific work, but also technical aspects related to the proper execution of the project.
+</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Project Event</dc:subject>
+    
+    <dc:date>2015/02/27 12:30:00 GMT+1</dc:date>
+    <dc:type>Event</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/events/is-enes2-second-general-assembly">
+    <title>IS-ENES2 second General Assembly</title>
+    <link>https://is.enes.org/archive-1/phase-2/events/is-enes2-second-general-assembly</link>
+    <description>The 2nd General Assembly of our project will be held on 16th-18th February 2016, in Hamburg, Germany.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Project Event</dc:subject>
+    
+    <dc:date>2016/01/22 17:30:00 GMT+1</dc:date>
+    <dc:type>Event</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/events/isenes2-workshop-on-workflows">
+    <title>ISENES2 Workshop on Workflow Solutions in Earth System Modelling_WP4-NA3</title>
+    <link>https://is.enes.org/archive-1/phase-2/events/isenes2-workshop-on-workflows</link>
+    <description>This workshop focused on sharing experiences and best practices regarding existing and new workflow methods and tools. It discussed the varied requirements e.g. of data oriented and process oriented workflows (e.g. data metadata vs. provenance metadata) not only of climate simulations, but also of seasonal to decadal predictions. 
+General upgradability and readiness for future developments of existing and new approaches were also be topics. 
+</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Project Event</dc:subject>
+    
+    <dc:date>2014/02/14 13:55:00 GMT+1</dc:date>
+    <dc:type>Event</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/events/nemo-sea-ice-working-group-designing-a-strategy-for-sea-ice-development-in-nemo">
+    <title>IS-ENES2 NEMO sea ice working group: designing a strategy for sea ice development in NEMO</title>
+    <link>https://is.enes.org/archive-1/phase-2/events/nemo-sea-ice-working-group-designing-a-strategy-for-sea-ice-development-in-nemo</link>
+    <description>NEMO has, with great success, brought together the West European ocean model development community to produce one of the few leading ocean modelling tools in the world. Yet regarding sea ice, there has not been a common development strategy, leading to duplications and to a waste of manpower, at the expense of scientific activities. </description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Project Event</dc:subject>
+    
+    
+      <dc:subject>WP2</dc:subject>
+    
+    <dc:date>2017/01/24 12:55:00 GMT+1</dc:date>
+    <dc:type>Event</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/events/second-european-earth-system-and-climate-modeling-school-2nd-e2scms">
+    <title>Second European Earth System and Climate Modeling School: 2nd E2SCMS </title>
+    <link>https://is.enes.org/archive-1/phase-2/events/second-european-earth-system-and-climate-modeling-school-2nd-e2scms</link>
+    <description>The school is launched by the European Network for Earth System modelling (ENES) with support of the FP7 project IS-ENES2 (http://is.enes.org). The Barcelona Supercomputing Center (BSC, Spain) will host the school, which merges two very successful summer schools: the Earth System Modelling School by MPI for Meteorology (MPI-M, http://issmes.enes.org) and the Climate Modelling Summer School of the British National Centre for Atmospheric Science (NCAS, http://ncasweb.leeds.ac.uk/climatesummerschool). Three European models - HAD-GEM, MPI-ESM and EC-Earth - will be employed at the 2nd E2SCMS.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Project Event</dc:subject>
+    
+    <dc:date>2014/05/06 14:30:00 GMT+1</dc:date>
+    <dc:type>Event</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/events/training-on-oasis3-mct-at-cerfacs">
+    <title>Training on OASIS3-MCT at CERFACS</title>
+    <link>https://is.enes.org/archive-1/phase-2/events/training-on-oasis3-mct-at-cerfacs</link>
+    <description>The objectives of this course are to help the participants learn how to use OASIS and install it on their own computing platforms.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Project Event</dc:subject>
+    
+    <dc:date>2014/04/18 10:10:41 GMT+1</dc:date>
+    <dc:type>Event</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/events/virtual-workshop-on-configuration-management-in-climate-science">
+    <title>Virtual Workshop on Configuration Management  in Climate Science. </title>
+    <link>https://is.enes.org/archive-1/phase-2/events/virtual-workshop-on-configuration-management-in-climate-science</link>
+    <description>The workshop will develop a "best practice guide" on Configuration Management (CM). Also, short papers on CM and model build systems will be exchanged electronically.
+Please express an interest to contribute or be a registered reader by emailing Mick Carter (mick.carter@metoffice.gov.uk).</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Project Event</dc:subject>
+    
+    <dc:date>2016/01/22 17:50:00 GMT+1</dc:date>
+    <dc:type>Event</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/events/workshop-on-cosp-network-support-and-optimisation">
+    <title>Workshop on COSP Network Support and Optimisation</title>
+    <link>https://is.enes.org/archive-1/phase-2/events/workshop-on-cosp-network-support-and-optimisation</link>
+    <description>This workshop is related to WP3 activity. The goal is to facilitate the integration and future maintenance of the growing number of COSP modules that are currently under development. </description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Project Event</dc:subject>
+    
+    
+      <dc:subject>WP3</dc:subject>
+    
+    <dc:date>2016/12/16 19:25:00 GMT+1</dc:date>
+    <dc:type>Event</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/events/workshop-on-design-of-scientific-portals">
+    <title>Workshop on design of scientific portals</title>
+    <link>https://is.enes.org/archive-1/phase-2/events/workshop-on-design-of-scientific-portals</link>
+    <description>This meeting was organised jointly by the CLIPC and IS-ENES2 projects.
+
+</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Project Event</dc:subject>
+    
+    <dc:date>2015/01/21 16:35:00 GMT+1</dc:date>
+    <dc:type>Event</dc:type>
+  </item>
+
+
+
+</rdf:RDF>

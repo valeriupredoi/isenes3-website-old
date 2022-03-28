@@ -1,0 +1,1845 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><base href="https://is.enes.org/archive-1/phase-2/events/aggregator/" /><!--[if lt IE 7]></base><![endif]--><meta content="IS-ENES2 Workshops and Meetings " name="description" /><link rel="stylesheet" type="text/css" media="screen" href="https://is.enes.org/portal_css/Sunburst%20Theme/reset-cachekey-e9bd6f3273fbd0c7c9f4df840390c63f.css" /><link rel="stylesheet" type="text/css" href="https://is.enes.org/portal_css/Sunburst%20Theme/base-cachekey-ea702ce66a867dd6372ecc66f032e94f.css" /><link rel="stylesheet" type="text/css" media="screen" href="https://is.enes.org/portal_css/Sunburst%20Theme/resourceplone.app.jquerytools.dateinput-cachekey-3085abc22224c63874892c6c181bc0ca.css" /><style type="text/css" media="screen">@import url(https://is.enes.org/portal_css/Sunburst%20Theme/resourceProducts.Doormat.stylesheetsdoormat-cachekey-81b1ab13b023dd6e98179d326cf4e416.css);</style><style type="text/css" media="screen">@import url(https://is.enes.org/portal_css/Sunburst%20Theme/resourceeasyslider-portlet-cachekey-ca05abde4bd9dd3b4a167aa61d95609d.css);</style><style type="text/css" media="screen">@import url(https://is.enes.org/portal_css/Sunburst%20Theme/resourcefourdigits.portlet.twitter.stylesheetstwitterportlet-cachekey-94aafbb5d567d9526cbcaf4447e0582a.css);</style><link rel="stylesheet" type="text/css" href="https://is.enes.org/portal_css/Sunburst%20Theme/themedkrz.themeenesstylesheetscontent-cachekey-342e5d4944783e1c6a5926aa348aa53e.css" /><script type="text/javascript" src="https://is.enes.org/portal_javascripts/Sunburst%20Theme/resourceplone.app.jquery-cachekey-9053f00138fbd70c03dfcc38bd398be2.js"></script><script type="text/javascript" src="https://is.enes.org/portal_javascripts/Sunburst%20Theme/resourceeasyslider-portlet-cachekey-127c964e1d494ac103b084dd3f03be5b.js"></script><script type="text/javascript" src="https://is.enes.org/portal_javascripts/Sunburst%20Theme/kss-bbb-cachekey-80470048d0f344ea23e780a1fd230b3e.js"></script><script type="text/javascript" src="https://is.enes.org/portal_javascripts/Sunburst%20Theme/++resource++cwx.protectemails.javascripts/jquery.base64.min.js"></script><script type="text/javascript" src="https://is.enes.org/portal_javascripts/Sunburst%20Theme/++resource++cwx.protectemails.javascripts/protectemails.js"></script><script type="text/javascript" src="https://is.enes.org/portal_javascripts/Sunburst%20Theme/resourcecollective.js.momentmoment-cachekey-9766d125c4c2c28894627dc7b3dd6f78.js"></script><title>Events — IS-ENES 3</title><link rel="canonical" href="https://is.enes.org/archive-1/phase-2/events" /><link rel="apple-touch-icon" href="https://is.enes.org/touch_icon.png" /><script type="text/javascript">
+        jQuery(function($){
+            if (typeof($.datepicker) != "undefined"){
+              $.datepicker.setDefaults(
+                jQuery.extend($.datepicker.regional[''],
+                {dateFormat: 'mm/dd/yy'}));
+            }
+        });
+        </script><link rel="alternate" href="https://is.enes.org/archive-1/phase-2/events/aggregator/RSS" title="Events - RSS 1.0" type="application/rss+xml" /><link rel="search" href="https://is.enes.org/@@search" title="Search this site" /><meta name="viewport" content="width=device-width, initial-scale=0.6666, maximum-scale=1.0, minimum-scale=0.6666" /><meta name="generator" content="Plone - http://plone.org" />
+
+    
+    
+        
+    
+    
+
+    
+
+    
+    <link rel="shortcut icon" type="image/x-icon" href="/++theme++dkrz.themeenes/images/favicon.ico" />
+
+    
+    
+    
+    <script type="text/javascript">
+        try {
+            // This is the URL where mobile
+            detectmobile.defaultMobileURL = "http://m";
+            detectmobile.process();
+        } catch(e) {
+          // Make sure that in the fault modes
+          // we do not interrupt execution of other Javascript code
+        }
+    </script>
+
+    
+    
+    
+    
+    
+
+    
+
+    <link rel="stylesheet" type="text/css" media="screen" href="/++theme++dkrz.themeenes/stylesheets/layout.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="/++theme++dkrz.themeenes/stylesheets/main.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="/++theme++dkrz.themeenes/stylesheets/colors.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="/++theme++dkrz.themeenes/stylesheets/adaptation_isenes2.css" />
+    
+  </head>
+
+  <body class="template-event_listing_dkrz portaltype-topic site-ISENES3 section-archive-1 subsection-phase-2 subsection-phase-2-events subsection-phase-2-events-aggregator userrole-anonymous colorkey-6" dir="ltr" style="background-color:#808080;"><div id="visual-portal-wrapper" class="shadow">
+      <div class="head-background">
+        <div class="head-wrapper">
+          <div id="portal-top" class="row">
+            <div class="cell width-full position-0">
+              <div id="portal-header">
+                <p class="hiddenStructure">
+                  <a accesskey="2" href="#content">Direkt zum Inhalt</a> |
+                  <a accesskey="6" href="#portlet-navigation-tree">Direkt zur Navigation</a>
+                </p>
+                <!-- begin: --><div id="portal-personaltools-wrapper">
+
+<p class="hiddenStructure">Personal tools</p>
+
+
+
+
+
+</div><!-- :end -->
+                <!-- begin: --><ul id="portal-siteactions">
+
+    <li id="siteaction-sitemap"><a href="https://is.enes.org/sitemap" accesskey="3" title="Site Map">Site Map</a></li>
+    <li id="siteaction-copy_of_contact"><a href="https://is.enes.org/project/privacy-policy" accesskey="" title="Privacy Policy">Privacy Policy</a></li>
+    <li id="siteaction-contact"><a href="https://is.enes.org/project/contact" accesskey="9" title="Contact">Contact</a></li>
+    <li id="siteaction-login"><a href="https://is.enes.org/login" accesskey="" title="Log in">Log in</a></li>
+</ul><!-- :end -->
+                <!-- begin: --><!-- :end -->
+                <!-- begin: --><!-- :end -->
+                <h5 class="hiddenStructure">Sektionen</h5>
+                <div class="menu-wrapper">
+                  <a id="portal-logo" title="IS-ENES 3" accesskey="1" href="https://is.enes.org">
+                  <img src="/++theme++dkrz.themeenes/images_isenes2/logo.png" alt="" title="" height="74" width="300" /></a>
+                  <!-- begin: --><ul id="portal-globalnav"><li id="portaltab-project" class="plain colorkey-1"><a href="https://is.enes.org/project" class="plain" title="About the IS-ENES3 Project">About</a>
+                <ul class="submenu colorkey-1">
+                    <li>
+
+    
+
+        <a href="https://is.enes.org/project/objectives" class="state-published" title="About the aims and objectives of the Project">
+            
+            Objectives
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/project/description-of-work" class="state-published" title="">
+            
+            Description of Work
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/project/partners" class="state-published" title="">
+            
+            Partners
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/project/contact" class="state-published" title="">
+            
+            Contact
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li id="portaltab-events" class="plain colorkey-2"><a href="https://is.enes.org/events" class="plain" title="Site Events">Events</a>
+                <ul class="submenu colorkey-2">
+                    <li>
+
+    
+
+        <a href="https://is.enes.org/events/call-announcements" class="state-published" title="">
+            
+            Call announcements
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/events/trainings-and-education" class="state-published" title="">
+            
+            Trainings and Education
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/events/workshops" class="state-published" title="">
+            
+            Workshops
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li id="portaltab-documents" class="plain colorkey-3"><a href="https://is.enes.org/documents" class="plain" title="IS-ENES3 documents">Documents</a>
+                <ul class="submenu colorkey-3">
+                    <li>
+
+    
+
+        <a href="https://is.enes.org/documents/deliverables" class="state-published" title="">
+            
+            Deliverables
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/documents/milestones" class="state-published" title="List of public reports associated with milestones. ">
+            
+            Milestones
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/documents/publications" class="state-published" title="IS-ENES3 Publications">
+            
+            Publications 
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/documents/presentations" class="state-published" title="Find more IS-ENES3 presentations on our ZENODO community: https://zenodo.org/communities/is-enes3/?page=1&amp;size=20">
+            
+            Presentations
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/documents/is-enes3-reports-and-kpis" class="state-published" title="">
+            
+            IS-ENES3 reports
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/documents/flyers-logos" class="state-published" title="">
+            
+            Flyers &amp; logos 
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/documents/newsletter" class="state-published" title="">
+            
+            Newsletter
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li id="portaltab-ressources" class="plain colorkey-4"><a href="https://is.enes.org/ressources" class="plain" title="">SERVICES</a></li><li id="portaltab-internal" class="plain colorkey-5"><a href="https://is.enes.org/internal" class="plain" title="Internal project collaboration area">Internal</a></li><li id="portaltab-archive-1" class="selected colorkey-6"><a href="https://is.enes.org/archive-1" class="plain" title="">Archive</a>
+                <ul class="submenu colorkey-6">
+                    <li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/archive" class="state-published hasDropDown" title="All the content from the IS-ENES 1 webpage">
+            
+            Phase 1
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/archive/the-project" class="state-published hasDropDown" title="About the IS-ENES Project">
+            
+            Project
+        </a>
+
+        <ul class="submenu navTree navTreeLevel2">
+            
+
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/archive/the-project/aims-and-objectives" class="state-published" title="About the aims and objectives of the project">
+            
+            Objectives
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/archive/the-project/the-partners" class="state-published" title="About the IS-ENES Consortium">
+            
+            Partners
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/archive/the-project/the-workpackages" class="state-published" title="Worpackages table and short description">
+            
+            Description of work
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/archive/the-project/deliverables" class="state-published" title="Here are collected all the deliverables achieved during the project">
+            
+            Deliverables
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/archive/events" class="state-published" title="Site Events">
+            
+            Events
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes" class="state-published hasDropDown" title="">
+            
+            Dissemination Activities
+        </a>
+
+        <ul class="submenu navTree navTreeLevel2">
+            
+
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/dissemination-activities" class="state-published" title="">
+            
+            Publications
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/scientific-publications" class="state-published" title="">
+            
+            Scientific papers
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides" class="state-published" title="">
+            
+            Presentations (Posters &amp; slides)
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/phase-2" class="state-published hasDropDown" title="All the content from the IS-ENES 2 webpage : Description of the project, Events, Dissemination Documents and Services">
+            
+            Phase 2
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/phase-2/project" class="state-published hasDropDown" title="">
+            
+            Project
+        </a>
+
+        <ul class="submenu navTree navTreeLevel2">
+            
+
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/phase-2/project/objectives" class="state-published" title="About the aims and objectives of the Project">
+            
+            Objectives
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/phase-2/project/description-of-work" class="state-published" title="">
+            
+            Description of Work
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/phase-2/project/partners" class="state-published" title="">
+            
+            Partners
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/phase-2/events" class="state-published" title="">
+            
+            Events
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/phase-2/documents" class="state-published hasDropDown" title="">
+            
+            Documents
+        </a>
+
+        <ul class="submenu navTree navTreeLevel2">
+            
+
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/phase-2/documents/deliverables" class="state-published" title="">
+            
+            Deliverables
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/phase-2/documents/milestones" class="state-published" title="List of public reports associated with milestones. ">
+            
+            Milestones
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/phase-2/documents/publications" class="state-published" title="IS-ENES2 Publications">
+            
+            Publications
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/phase-2/documents/presentations" class="state-published" title="Slides presenting the IS-ENES2 project">
+            
+            Presentations
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/phase-2/documents/contractual-documents" class="state-published" title="">
+            
+            IS-ENES2 reports
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/phase-2/documents/flyers" class="state-published" title="">
+            
+            Flyers &amp; logos
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/phase-2/documents/newsletters" class="state-published" title="IS-ENES2 informs on project activities and community news">
+            
+            Newsletter
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/phase-2/ressources" class="state-published" title="">
+            
+            SERVICES
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+                </ul>
+            </li></ul>
+                </div><!-- :end -->
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="portal-shadow">
+        <div id="portal-columns" class="row">
+          <div id="portal-headimage"></div>
+          <div class="visualClear"></div>
+          <div id="portal-column-content" class="cell width-3:4 position-1:4">
+            <div id="viewlet-above-content">
+              <!-- begin: --><div id="portal-breadcrumbs">
+
+    <span id="breadcrumbs-you-are-here">You
+are here:</span>
+    <span id="breadcrumbs-home">
+        <a href="https://is.enes.org">Home</a>
+        <span class="breadcrumbSeparator">
+            »
+            
+        </span>
+    </span>
+    <span id="breadcrumbs-1" dir="ltr">
+        
+            <a href="https://is.enes.org/archive-1">Archive</a>
+            <span class="breadcrumbSeparator">
+                »
+                
+            </span>
+            
+         
+    </span>
+    <span id="breadcrumbs-2" dir="ltr">
+        
+            <a href="https://is.enes.org/archive-1/phase-2">Phase 2</a>
+            <span class="breadcrumbSeparator">
+                »
+                
+            </span>
+            
+         
+    </span>
+    <span id="breadcrumbs-3" dir="ltr">
+        
+            
+            
+            <span id="breadcrumbs-current">Events</span>
+         
+    </span>
+
+</div><!-- :end -->
+              <!-- begin: ><div id="plone-lock-status">  
+                <dl class="portalMessage info">
+                  <dt>Gesperrt</dt>
+                  <dd>
+                    Dieser Artikel wurde von <a
+                    href="index.html/author/test123">test123</a>
+                    vor <span>1 Minute</span> gesperrt.
+                    <form action="index.html/@@plone_lock_operations/force_unlock">
+                      <span>Wenn Sie sicher sind, dass dieser Benutzer
+                      den Artikel nicht mehr bearbeitet, k&#246;nnen Sie den
+                      Artikel <input type="submit" value="Entsperren" />
+                      und bearbeiten.</span>
+                    </form>
+                  </dd>
+                </dl>
+              </div><:end -->
+            </div>
+            <div>
+              <!-- begin: --><!--dl class="portalMessage info" id="kssPortalMessage">
+                <dt>Information</dt>
+                <dd>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed
+                diam nonumy eirmod tempor invidunt ut labore et dolore magna
+                aliquyam erat, sed diam voluptua.</dd>
+              </dl--><!-- :end -->
+              <div id="content"><dl class="portalMessage info" id="kssPortalMessage" style="display:none">
+        <dt>Info</dt>
+        <dd></dd>
+    </dl><!-- begin:  
+                <dl class="portalMessage">
+                  <dt>Gesperrt</dt>
+                  <dd>
+                    Dieser Artikel wurde von <a
+                    href="index.html/author/test123">test123</a>
+                    vor <span>1 Minute</span> gesperrt.
+                    <form action="index.html/@@plone_lock_operations/force_unlock">
+                      <span>Wenn Sie sicher sind, dass dieser Benutzer
+                      den Artikel nicht mehr bearbeitet, k&#246;nnen Sie den
+                      Artikel <input type="submit" value="Entsperren" />
+                      und bearbeiten.</span>
+                    </form>
+                  </dd>
+                </dl>--><!-- :end --><div id="viewlet-above-content-title"></div><!-- begin: --><h1 id="parent-fieldname-title" class="documentFirstHeading">Events</h1><!-- :end --><div id="viewlet-below-content-title">
+                  <!-- begin: --><!-- :end -->
+                </div><!-- begin: --><div id="parent-fieldname-description" class="documentDescription">
+                   IS-ENES2 Workshops and Meetings 
+                </div><!-- :end --><div id="viewlet-above-content-body">
+                  <!-- begin: --><!-- :end -->
+                  <!-- begin: --><!-- :end -->
+                </div><!-- begin: --><div id="content-core">
+                                 
+
+
+         
+
+
+
+
+
+  <div class="event_listing">
+    
+
+    <section>
+
+    
+
+      <article itemscope="" itemtype="http://data-vocabulary.org/Event" class="vevent">
+
+        <ul class="hCalendar-hidden">
+          <li itemprop="startDate" class="dtstart">2014-06-09T12:00:00+02:00</li>
+          <li itemprop="endDate" class="dtend">2014-06-20T11:15:00+02:00</li>
+        </ul>
+
+        <div class="cal_date">
+            <span class="cal_wkday_dkrz">Mo,</span>
+            <span class="cal_day_dkrz">9.</span>
+            <span class="cal_month_dkrz">Jun</span>
+            <span class="cal_year_dkrz">2014</span>
+        </div>
+
+        <div class="cal_info">
+          <h2><a href="https://is.enes.org/archive-1/phase-2/events/second-european-earth-system-and-climate-modeling-school-2nd-e2scms" itemprop="url" class="url">
+            <span itemprop="summary" class="summary">Second European Earth System and Climate Modeling School: 2nd E2SCMS </span>
+          </a></h2>
+          <div class="documentByLine">
+            
+
+
+  
+    <abbr class="dtstart" title="2014-06-09T12:00:00+02:00"> <span class="explain"> Jun 09, 2014 12:00 PM </span> </abbr>
+    to
+    <abbr class="dtend" title="2014-06-20T11:15:00+02:00"> <span class="explain"> Jun 20, 2014 11:15 AM </span> </abbr>
+  
+
+  
+
+
+
+
+            <div itemprop="location" class="location">UPC Campus, Barcelona</div>
+          </div>
+
+          <p itemprop="description" class="description">The school is launched by the European Network for Earth System modelling (ENES) with support of the FP7 project IS-ENES2 (http://is.enes.org). The Barcelona Supercomputing Center (BSC, Spain) will host the school, which merges two very successful summer schools: the Earth System Modelling School by MPI for Meteorology (MPI-M, http://issmes.enes.org) and the Climate Modelling Summer School of the British National Centre for Atmospheric Science (NCAS, http://ncasweb.leeds.ac.uk/climatesummerschool). Three European models - HAD-GEM, MPI-ESM and EC-Earth - will be employed at the 2nd E2SCMS.</p>
+
+          <ul class="horizontal metadata">
+
+            <li itemprop="eventType" class="category">
+              <span>Project Event</span>
+            </li>
+
+            <li>
+              <a class="event_url" title="" href="https://verc.enes.org/community/schools/2nd-e2scms">Web</a>
+            </li>
+
+            <li>
+              <span>
+                Email:
+              </span>
+              <a class="cwxprotectemails contact_email" title="" href="[Email protection active, please enable JavaScript.]" data-cwxprotectemails-1="href|bWFpbHRvOnJlaW5oYXJkLmJ1ZGljaEBtcGltZXQubXBnLmRl&#10;">
+                
+                <span>Reinhard Budich</span>
+              </a>
+            </li>
+
+            <li title="label_phone">
+              <span>Phone</span>:
+              <a class="contact_phone" title="" href="tel:+49 40 41173 369">+49 40 41173 369</a>
+            </li>
+
+            <li>
+              <a class="event_ical" title="Download this event in iCal format" href="https://is.enes.org/archive-1/phase-2/events/second-european-earth-system-and-climate-modeling-school-2nd-e2scms/ics_view">
+                <img src="https://is.enes.org/++resource++plone.app.event/icon_export_ical.png" alt="" />
+                <span>iCal</span>
+              </a>
+            </li>
+
+          </ul>
+
+        </div>
+        <div class="visualClear"></div>
+
+      </article>
+
+     
+    
+
+      <article itemscope="" itemtype="http://data-vocabulary.org/Event" class="vevent">
+
+        <ul class="hCalendar-hidden">
+          <li itemprop="startDate" class="dtstart">2014-06-11T21:00:00+02:00</li>
+          <li itemprop="endDate" class="dtend">2014-06-13T13:00:00+02:00</li>
+        </ul>
+
+        <div class="cal_date">
+            <span class="cal_wkday_dkrz">We,</span>
+            <span class="cal_day_dkrz">11.</span>
+            <span class="cal_month_dkrz">Jun</span>
+            <span class="cal_year_dkrz">2014</span>
+        </div>
+
+        <div class="cal_info">
+          <h2><a href="https://is.enes.org/archive-1/phase-2/events/is-enes2-first-general-assembly" itemprop="url" class="url">
+            <span itemprop="summary" class="summary">IS-ENES2 First General Assembly</span>
+          </a></h2>
+          <div class="documentByLine">
+            
+
+
+  
+    <abbr class="dtstart" title="2014-06-11T21:00:00+02:00"> <span class="explain"> Jun 11, 2014 09:00 PM </span> </abbr>
+    to
+    <abbr class="dtend" title="2014-06-13T13:00:00+02:00"> <span class="explain"> Jun 13, 2014 01:00 PM </span> </abbr>
+  
+
+  
+
+
+
+
+            <div itemprop="location" class="location">UPC Campus, Barcelona</div>
+          </div>
+
+          <p itemprop="description" class="description">This General Assembly aims to assess what has been achieved so far in the project, to prepare the 1st periodic report (due in September 2014), and to plan the next period. </p>
+
+          <ul class="horizontal metadata">
+
+            
+
+            
+
+            <li>
+              <span>
+                Email:
+              </span>
+              <a class="cwxprotectemails contact_email" title="" href="[Email protection active, please enable JavaScript.]" data-cwxprotectemails-1="href|bWFpbHRvOm1hcmllLnBhcmluZXRAbHNjZS5pcHNsLmZy&#10;">
+                
+                <span>Marie PARINET</span>
+              </a>
+            </li>
+
+            <li title="label_phone">
+              <span>Phone</span>:
+              <a class="contact_phone" title="" href="tel:+33 1 69 08 85 95 ">+33 1 69 08 85 95 </a>
+            </li>
+
+            <li>
+              <a class="event_ical" title="Download this event in iCal format" href="https://is.enes.org/archive-1/phase-2/events/is-enes2-first-general-assembly/ics_view">
+                <img src="https://is.enes.org/++resource++plone.app.event/icon_export_ical.png" alt="" />
+                <span>iCal</span>
+              </a>
+            </li>
+
+          </ul>
+
+        </div>
+        <div class="visualClear"></div>
+
+      </article>
+
+     
+    
+
+      <article itemscope="" itemtype="http://data-vocabulary.org/Event" class="vevent">
+
+        <ul class="hCalendar-hidden">
+          <li itemprop="startDate" class="dtstart">2014-09-29T09:00:00+02:00</li>
+          <li itemprop="endDate" class="dtend">2014-09-29T17:00:00+02:00</li>
+        </ul>
+
+        <div class="cal_date">
+            <span class="cal_wkday_dkrz">Mo,</span>
+            <span class="cal_day_dkrz">29.</span>
+            <span class="cal_month_dkrz">Sep</span>
+            <span class="cal_year_dkrz">2014</span>
+        </div>
+
+        <div class="cal_info">
+          <h2><a href="https://is.enes.org/archive-1/phase-2/events/climate-and-weather-coe-preparatory-meeting-1" itemprop="url" class="url">
+            <span itemprop="summary" class="summary">Climate and weather CoE preparatory meeting 1</span>
+          </a></h2>
+          <div class="documentByLine">
+            
+
+
+  
+
+  
+    
+    
+    
+      <span class="datedisplay">Sep 29, 2014</span>
+      from
+      <abbr class="dtstart" title="2014-09-29T09:00:00+02:00">09:00 AM</abbr>
+      to
+      <abbr class="dtend" title="2014-09-29T17:00:00+02:00">05:00 PM</abbr>
+    
+  
+
+
+
+
+            <div itemprop="location" class="location">Reading, UK</div>
+          </div>
+
+          <p itemprop="description" class="description">The meeting will be held at ECMWF headquarters.</p>
+
+          <ul class="horizontal metadata">
+
+            <li itemprop="eventType" class="category">
+              <span>Project Event</span>
+              <span>News IS-ENES</span>
+            </li>
+
+            
+
+            <li>
+              <span>
+                Email:
+              </span>
+              <a class="cwxprotectemails contact_email" title="" href="[Email protection active, please enable JavaScript.]" data-cwxprotectemails-1="href|bWFpbHRvOm1hcmllLnBhcmluZXRAbHNjZS5pcHNsLmZy&#10;">
+                
+                <span>Francesca Guglielmo, Marie Parinet</span>
+              </a>
+            </li>
+
+            
+
+            <li>
+              <a class="event_ical" title="Download this event in iCal format" href="https://is.enes.org/archive-1/phase-2/events/climate-and-weather-coe-preparatory-meeting-1/ics_view">
+                <img src="https://is.enes.org/++resource++plone.app.event/icon_export_ical.png" alt="" />
+                <span>iCal</span>
+              </a>
+            </li>
+
+          </ul>
+
+        </div>
+        <div class="visualClear"></div>
+
+      </article>
+
+     
+    
+
+      <article itemscope="" itemtype="http://data-vocabulary.org/Event" class="vevent">
+
+        <ul class="hCalendar-hidden">
+          <li itemprop="startDate" class="dtstart">2014-11-17T09:00:00+01:00</li>
+          <li itemprop="endDate" class="dtend">2014-11-19T12:30:00+01:00</li>
+        </ul>
+
+        <div class="cal_date">
+            <span class="cal_wkday_dkrz">Mo,</span>
+            <span class="cal_day_dkrz">17.</span>
+            <span class="cal_month_dkrz">Nov</span>
+            <span class="cal_year_dkrz">2014</span>
+        </div>
+
+        <div class="cal_info">
+          <h2><a href="https://is.enes.org/archive-1/phase-2/events/workshop-on-design-of-scientific-portals" itemprop="url" class="url">
+            <span itemprop="summary" class="summary">Workshop on design of scientific portals</span>
+          </a></h2>
+          <div class="documentByLine">
+            
+
+
+  
+    <abbr class="dtstart" title="2014-11-17T09:00:00+01:00"> <span class="explain"> Nov 17, 2014 09:00 AM </span> </abbr>
+    to
+    <abbr class="dtend" title="2014-11-19T12:30:00+01:00"> <span class="explain"> Nov 19, 2014 12:30 PM </span> </abbr>
+  
+
+  
+
+
+
+
+            <div itemprop="location" class="location">KNMI, De Bilt, Netherlands</div>
+          </div>
+
+          <p itemprop="description" class="description">This meeting was organised jointly by the CLIPC and IS-ENES2 projects.
+
+</p>
+
+          <ul class="horizontal metadata">
+
+            <li itemprop="eventType" class="category">
+              <span>Project Event</span>
+            </li>
+
+            <li>
+              <a class="event_url" title="" href="http://www.ceda.ac.uk/projects/clipc/meetings/workshop-on-design-of-scientific-portals/">Web</a>
+            </li>
+
+            <li>
+              <span>
+                Email:
+              </span>
+              <a class="cwxprotectemails contact_email" title="" href="[Email protection active, please enable JavaScript.]" data-cwxprotectemails-1="href|bWFpbHRvOm1hcnRpbi5qdWNrZXNAc3RmYy5hYy51aw==&#10;">
+                
+                <span>Martin Juckes</span>
+              </a>
+            </li>
+
+            
+
+            <li>
+              <a class="event_ical" title="Download this event in iCal format" href="https://is.enes.org/archive-1/phase-2/events/workshop-on-design-of-scientific-portals/ics_view">
+                <img src="https://is.enes.org/++resource++plone.app.event/icon_export_ical.png" alt="" />
+                <span>iCal</span>
+              </a>
+            </li>
+
+          </ul>
+
+        </div>
+        <div class="visualClear"></div>
+
+      </article>
+
+     
+    
+
+      <article itemscope="" itemtype="http://data-vocabulary.org/Event" class="vevent">
+
+        <ul class="hCalendar-hidden">
+          <li itemprop="startDate" class="dtstart">2015-03-18T10:30:00+01:00</li>
+          <li itemprop="endDate" class="dtend">2015-03-20T14:00:00+01:00</li>
+        </ul>
+
+        <div class="cal_date">
+            <span class="cal_wkday_dkrz">We,</span>
+            <span class="cal_day_dkrz">18.</span>
+            <span class="cal_month_dkrz">Mar</span>
+            <span class="cal_year_dkrz">2015</span>
+        </div>
+
+        <div class="cal_info">
+          <h2><a href="https://is.enes.org/archive-1/phase-2/events/climate-services-training-application-of-climate-data-in-policy-and-planning-for-consultants" itemprop="url" class="url">
+            <span itemprop="summary" class="summary">Climate Services training: application of climate data in policy and planning for consultants</span>
+          </a></h2>
+          <div class="documentByLine">
+            
+
+
+  
+    <abbr class="dtstart" title="2015-03-18T10:30:00+01:00"> <span class="explain"> Mar 18, 2015 10:30 AM </span> </abbr>
+    to
+    <abbr class="dtend" title="2015-03-20T14:00:00+01:00"> <span class="explain"> Mar 20, 2015 02:00 PM </span> </abbr>
+  
+
+  
+
+
+
+
+            <div itemprop="location" class="location">Impulse building, Wageningen Campus, Netherlands</div>
+          </div>
+
+          <p itemprop="description" class="description">This session aims at training consultants using global and regional climate model data, and providers of climate data (CMIP5 and CORDEX data, resp.) on their application in different decision making contexts.
+Results of this training will be reported in Deliverable 6.3 of IS-ENES2 project. 
+</p>
+
+          <ul class="horizontal metadata">
+
+            <li itemprop="eventType" class="category">
+              <span>Project Event</span>
+            </li>
+
+            <li>
+              <a class="event_url" title="" href="http://www.climate-kic.nl/professional-education/short-course-climate-service-training/">Web</a>
+            </li>
+
+            <li>
+              <span>
+                Email:
+              </span>
+              <a class="cwxprotectemails contact_email" title="" href="[Email protection active, please enable JavaScript.]" data-cwxprotectemails-1="href|bWFpbHRvOnBhdWxpbmUudGljaGVsZXJAY2xpbWF0ZS1raWMub3Jn&#10;">
+                
+                <span>Pauline Ticheler</span>
+              </a>
+            </li>
+
+            <li title="label_phone">
+              <span>Phone</span>:
+              <a class="contact_phone" title="" href="tel:+31-(0)317-481786">+31-(0)317-481786</a>
+            </li>
+
+            <li>
+              <a class="event_ical" title="Download this event in iCal format" href="https://is.enes.org/archive-1/phase-2/events/climate-services-training-application-of-climate-data-in-policy-and-planning-for-consultants/ics_view">
+                <img src="https://is.enes.org/++resource++plone.app.event/icon_export_ical.png" alt="" />
+                <span>iCal</span>
+              </a>
+            </li>
+
+          </ul>
+
+        </div>
+        <div class="visualClear"></div>
+
+      </article>
+
+     
+    
+
+      <article itemscope="" itemtype="http://data-vocabulary.org/Event" class="vevent">
+
+        <ul class="hCalendar-hidden">
+          <li itemprop="startDate" class="dtstart">2015-03-25T10:30:00+01:00</li>
+          <li itemprop="endDate" class="dtend">2015-03-25T17:00:00+01:00</li>
+        </ul>
+
+        <div class="cal_date">
+            <span class="cal_wkday_dkrz">We,</span>
+            <span class="cal_day_dkrz">25.</span>
+            <span class="cal_month_dkrz">Mar</span>
+            <span class="cal_year_dkrz">2015</span>
+        </div>
+
+        <div class="cal_info">
+          <h2><a href="https://is.enes.org/archive-1/phase-2/events/is-enes2-mid-term-review" itemprop="url" class="url">
+            <span itemprop="summary" class="summary">IS-ENES2 Mid-term Review</span>
+          </a></h2>
+          <div class="documentByLine">
+            
+
+
+  
+
+  
+    
+    
+    
+      <span class="datedisplay">Mar 25, 2015</span>
+      from
+      <abbr class="dtstart" title="2015-03-25T10:30:00+01:00">10:30 AM</abbr>
+      to
+      <abbr class="dtend" title="2015-03-25T17:00:00+01:00">05:00 PM</abbr>
+    
+  
+
+
+
+
+            <div itemprop="location" class="location">8 Squares Frère-Orban  1050 Bruxelles/Brussel </div>
+          </div>
+
+          <p itemprop="description" class="description">This meeting aims at assessing the work carried out under the project over the first two years. Such review will cover scientific work, but also technical aspects related to the proper execution of the project.
+</p>
+
+          <ul class="horizontal metadata">
+
+            <li itemprop="eventType" class="category">
+              <span>Project Event</span>
+            </li>
+
+            
+
+            <li>
+              <span>
+                Email:
+              </span>
+              <a class="cwxprotectemails contact_email" title="" href="[Email protection active, please enable JavaScript.]" data-cwxprotectemails-1="href|bWFpbHRvOm1hcmllLnBhcmluZXRAbHNjZS5pcHNsLmZy&#10;">
+                
+                <span>Marie Parinet</span>
+              </a>
+            </li>
+
+            
+
+            <li>
+              <a class="event_ical" title="Download this event in iCal format" href="https://is.enes.org/archive-1/phase-2/events/is-enes2-mid-term-review/ics_view">
+                <img src="https://is.enes.org/++resource++plone.app.event/icon_export_ical.png" alt="" />
+                <span>iCal</span>
+              </a>
+            </li>
+
+          </ul>
+
+        </div>
+        <div class="visualClear"></div>
+
+      </article>
+
+     
+    
+
+      <article itemscope="" itemtype="http://data-vocabulary.org/Event" class="vevent">
+
+        <ul class="hCalendar-hidden">
+          <li itemprop="startDate" class="dtstart">2015-04-01T13:00:00+02:00</li>
+          <li itemprop="endDate" class="dtend">2015-04-03T17:00:00+02:00</li>
+        </ul>
+
+        <div class="cal_date">
+            <span class="cal_wkday_dkrz">We,</span>
+            <span class="cal_day_dkrz">1.</span>
+            <span class="cal_month_dkrz">Apr</span>
+            <span class="cal_year_dkrz">2015</span>
+        </div>
+
+        <div class="cal_info">
+          <h2><a href="https://is.enes.org/archive-1/phase-2/events/climate4impact-coding-sprint-1" itemprop="url" class="url">
+            <span itemprop="summary" class="summary">Climate4impact Coding sprint</span>
+          </a></h2>
+          <div class="documentByLine">
+            
+
+
+  
+    <abbr class="dtstart" title="2015-04-01T13:00:00+02:00"> <span class="explain"> Apr 01, 2015 01:00 PM </span> </abbr>
+    to
+    <abbr class="dtend" title="2015-04-03T17:00:00+02:00"> <span class="explain"> Apr 03, 2015 05:00 PM </span> </abbr>
+  
+
+  
+
+
+
+
+            <div itemprop="location" class="location">KNMI, De Bilt, Netherlands</div>
+          </div>
+
+          <p itemprop="description" class="description">The next coding sprint for climate4impact developments will be organized at KNMI.</p>
+
+          <ul class="horizontal metadata">
+
+            <li itemprop="eventType" class="category">
+              <span>Project Event</span>
+            </li>
+
+            
+
+            <li>
+              <span>
+                Email:
+              </span>
+              <a class="cwxprotectemails contact_email" title="" href="[Email protection active, please enable JavaScript.]" data-cwxprotectemails-1="href|bWFpbHRvOnBsaWVnZXJAa25taS5ubA==&#10;">
+                
+                <span>Maarten Plieger </span>
+              </a>
+            </li>
+
+            
+
+            <li>
+              <a class="event_ical" title="Download this event in iCal format" href="https://is.enes.org/archive-1/phase-2/events/climate4impact-coding-sprint-1/ics_view">
+                <img src="https://is.enes.org/++resource++plone.app.event/icon_export_ical.png" alt="" />
+                <span>iCal</span>
+              </a>
+            </li>
+
+          </ul>
+
+        </div>
+        <div class="visualClear"></div>
+
+      </article>
+
+     
+    
+
+      <article itemscope="" itemtype="http://data-vocabulary.org/Event" class="vevent">
+
+        <ul class="hCalendar-hidden">
+          <li itemprop="startDate" class="dtstart">2015-04-20T00:00:00+02:00</li>
+          <li itemprop="endDate" class="dtend">2015-04-22T00:00:00+02:00</li>
+        </ul>
+
+        <div class="cal_date">
+            <span class="cal_wkday_dkrz">Mo,</span>
+            <span class="cal_day_dkrz">20.</span>
+            <span class="cal_month_dkrz">Apr</span>
+            <span class="cal_year_dkrz">2015</span>
+        </div>
+
+        <div class="cal_info">
+          <h2><a href="https://is.enes.org/archive-1/phase-2/events/3rd-workshop-on-coupling-technologies-for-earth-system-models" itemprop="url" class="url">
+            <span itemprop="summary" class="summary">3rd Workshop on Coupling Technologies for Earth System Models (MS3.2)</span>
+          </a></h2>
+          <div class="documentByLine">
+            
+
+
+  
+    <abbr class="dtstart" title="2015-04-20T00:00:00+02:00"> <span class="explain"> Apr 20, 2015 12:00 AM </span> </abbr>
+    to
+    <abbr class="dtend" title="2015-04-22T00:00:00+02:00"> <span class="explain"> Apr 22, 2015 12:00 AM </span> </abbr>
+  
+
+  
+
+
+
+
+            <div itemprop="location" class="location">Manchester Art Gallery, Manchester, U.K.</div>
+          </div>
+
+          <p itemprop="description" class="description">The workshop aims to bring together leading researchers and practitioners in the field of coupling infrastructure for Earth System models. This workshop is the third in a series, the first being held at CERFACS in December 2010 and the second at NCAR in February 2013. </p>
+
+          <ul class="horizontal metadata">
+
+            <li itemprop="eventType" class="category">
+              <span>Project Event</span>
+            </li>
+
+            
+
+            
+
+            
+
+            <li>
+              <a class="event_ical" title="Download this event in iCal format" href="https://is.enes.org/archive-1/phase-2/events/3rd-workshop-on-coupling-technologies-for-earth-system-models/ics_view">
+                <img src="https://is.enes.org/++resource++plone.app.event/icon_export_ical.png" alt="" />
+                <span>iCal</span>
+              </a>
+            </li>
+
+          </ul>
+
+        </div>
+        <div class="visualClear"></div>
+
+      </article>
+
+     
+    
+
+      <article itemscope="" itemtype="http://data-vocabulary.org/Event" class="vevent">
+
+        <ul class="hCalendar-hidden">
+          <li itemprop="startDate" class="dtstart">2015-10-13T09:00:00+02:00</li>
+          <li itemprop="endDate" class="dtend">2015-10-14T17:00:00+02:00</li>
+        </ul>
+
+        <div class="cal_date">
+            <span class="cal_wkday_dkrz">Tu,</span>
+            <span class="cal_day_dkrz">13.</span>
+            <span class="cal_month_dkrz">Oct</span>
+            <span class="cal_year_dkrz">2015</span>
+        </div>
+
+        <div class="cal_info">
+          <h2><a href="https://is.enes.org/archive-1/phase-2/events/coding-sprint-on-esgf-publication-workflow" itemprop="url" class="url">
+            <span itemprop="summary" class="summary">Coding sprint on ESGF Publication workflow</span>
+          </a></h2>
+          <div class="documentByLine">
+            
+
+
+  
+    <abbr class="dtstart" title="2015-10-13T09:00:00+02:00"> <span class="explain"> Oct 13, 2015 09:00 AM </span> </abbr>
+    to
+    <abbr class="dtend" title="2015-10-14T17:00:00+02:00"> <span class="explain"> Oct 14, 2015 05:00 PM </span> </abbr>
+  
+
+  
+
+
+
+
+            <div itemprop="location" class="location">IPSL, Paris</div>
+          </div>
+
+          <p itemprop="description" class="description">Gathering of some ENES Data Task Force members, aiming to draft a document on « ESGF publication best practices » and focus on further improvements of our publication tool. Conclusions will be then broadcasted and discussed with the ESGF community.
+
+</p>
+
+          <ul class="horizontal metadata">
+
+            <li itemprop="eventType" class="category">
+              <span>Project Event</span>
+            </li>
+
+            
+
+            <li>
+              <span>
+                Email:
+              </span>
+              <a class="cwxprotectemails contact_email" title="" href="[Email protection active, please enable JavaScript.]" data-cwxprotectemails-1="href|bWFpbHRvOmdsaXBzbEBpcHNsLmp1c3NpZXUuZnI=&#10;">
+                
+                <span>Guillaume Levavasseur</span>
+              </a>
+            </li>
+
+            
+
+            <li>
+              <a class="event_ical" title="Download this event in iCal format" href="https://is.enes.org/archive-1/phase-2/events/coding-sprint-on-esgf-publication-workflow/ics_view">
+                <img src="https://is.enes.org/++resource++plone.app.event/icon_export_ical.png" alt="" />
+                <span>iCal</span>
+              </a>
+            </li>
+
+          </ul>
+
+        </div>
+        <div class="visualClear"></div>
+
+      </article>
+
+     
+    
+
+      <article itemscope="" itemtype="http://data-vocabulary.org/Event" class="vevent">
+
+        <ul class="hCalendar-hidden">
+          <li itemprop="startDate" class="dtstart">2015-10-13T09:00:00+02:00</li>
+          <li itemprop="endDate" class="dtend">2015-10-15T17:00:00+02:00</li>
+        </ul>
+
+        <div class="cal_date">
+            <span class="cal_wkday_dkrz">Tu,</span>
+            <span class="cal_day_dkrz">13.</span>
+            <span class="cal_month_dkrz">Oct</span>
+            <span class="cal_year_dkrz">2015</span>
+        </div>
+
+        <div class="cal_info">
+          <h2><a href="https://is.enes.org/archive-1/phase-2/events/birdhouse-wps-joint-workshop" itemprop="url" class="url">
+            <span itemprop="summary" class="summary">Birdhouse WPS Joint Workshop</span>
+          </a></h2>
+          <div class="documentByLine">
+            
+
+
+  
+    <abbr class="dtstart" title="2015-10-13T09:00:00+02:00"> <span class="explain"> Oct 13, 2015 09:00 AM </span> </abbr>
+    to
+    <abbr class="dtend" title="2015-10-15T17:00:00+02:00"> <span class="explain"> Oct 15, 2015 05:00 PM </span> </abbr>
+  
+
+  
+
+
+
+
+            <div itemprop="location" class="location">Paris</div>
+          </div>
+
+          
+
+          <ul class="horizontal metadata">
+
+            
+
+            
+
+            <li>
+              <span>
+                Email:
+              </span>
+              <a class="cwxprotectemails contact_email" title="" href="[Email protection active, please enable JavaScript.]" data-cwxprotectemails-1="href|bWFpbHRvOm5pbHMuaGVtcGVsbWFubkBsc2NlLmlwc2wuZnI=&#10;">
+                <span class="cwxprotectemails" data-cwxprotectemails-0="bmlscy5oZW1wZWxtYW5uQGxzY2UuaXBzbC5mcg==&#10;">[Email protection active, please enable JavaScript.]</span>
+                
+              </a>
+            </li>
+
+            
+
+            <li>
+              <a class="event_ical" title="Download this event in iCal format" href="https://is.enes.org/archive-1/phase-2/events/birdhouse-wps-joint-workshop/ics_view">
+                <img src="https://is.enes.org/++resource++plone.app.event/icon_export_ical.png" alt="" />
+                <span>iCal</span>
+              </a>
+            </li>
+
+          </ul>
+
+        </div>
+        <div class="visualClear"></div>
+
+      </article>
+
+     
+    </section>
+    
+
+  </div>
+
+  
+
+    <!-- Navigation -->
+
+
+  <div class="pagination listingBar">
+
+    
+    <a class="previous" href="https://is.enes.org/archive-1/phase-2/events?b_start:int=0">
+      «
+      
+        Previous
+        10
+        items
+      
+    </a>
+
+    
+    <a class="next" href="https://is.enes.org/archive-1/phase-2/events?b_start:int=20">
+      
+        Next
+        10
+        items
+      
+      »
+    </a>
+
+    
+    
+
+    
+    
+
+    
+    <a href="https://is.enes.org/archive-1/phase-2/events?b_start:int=0">1</a>
+
+    
+    <span class="current">2</span>
+
+    
+    <a href="https://is.enes.org/archive-1/phase-2/events?b_start:int=20">3</a>
+    <a href="https://is.enes.org/archive-1/phase-2/events?b_start:int=30">4</a>
+
+    
+    
+
+    
+    
+
+  </div>
+
+
+
+
+
+
+
+
+
+                             </div><!-- :end --><div id="viewlet-below-content-body">
+                  <!-- begin: --><!-- :end -->
+                <div class="visualClear"></div>
+                <!-- begin: --> <!--div class="documentActions"> braucht kein Mensch .- oder?!
+                  <h5 class="hiddenStructure">Artikelaktionen</h5>
+                  <ul>
+                    <li id="document-action-print">
+                      <a href="javascript:this.print();" title="">Drucken</a>
+                    </li>
+                  </ul>
+                </div--><!-- :end -->
+                </div></div>
+            </div>
+            <div id="viewlet-below-content">
+              <!-- begin: --><!-- :end -->
+              <!-- begin: --><!-- :end -->
+              <div class="row">
+                <!-- begin: --><!-- :end -->
+              </div>
+              <!-- begin: --><!-- :end -->
+            </div>
+          </div>
+          <!-- begin: --><div id="portal-column-one" class="cell width-1:4 position-0">
+            
+                
+<div class="portletWrapper" data-portlethash="706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f4953454e4553332f617263686976652d310a6e617669676174696f6e" id="portletwrapper-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f4953454e4553332f617263686976652d310a6e617669676174696f6e">
+<dl class="portlet portletNavigationTree">
+
+    <dt class="portletHeader hiddenStructure">
+        <span class="portletTopLeft"></span>
+        <a href="https://is.enes.org/sitemap" class="tile">Navigation</a>
+        <span class="portletTopRight"></span>
+    </dt>
+
+    <dd class="portletItem lastItem">
+        <ul class="navTree navTreeLevel0">
+            <li class="navTreeItem navTreeTopNode nav-section-archive">
+                <div>
+                   <a href="https://is.enes.org/archive-1" class="contenttype-folder" title="">
+                   
+                   
+                   Archive
+                   </a>
+                </div>
+            </li>
+            
+
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-archive">
+
+    
+
+
+        <a href="https://is.enes.org/archive-1/archive" class="state-published navTreeFolderish contenttype-folder" title="All the content from the IS-ENES 1 webpage">
+            
+            <span>Phase 1</span>
+        </a>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeItemInPath navTreeFolderish section-phase-2">
+
+    
+
+
+        <a href="https://is.enes.org/archive-1/phase-2" class="state-published navTreeItemInPath navTreeFolderish contenttype-folder" title="All the content from the IS-ENES 2 webpage : Description of the project, Events, Dissemination Documents and Services">
+            
+            <span>Phase 2</span>
+        </a>
+
+    <ul class="navTree navTreeLevel1">
+        
+
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-project">
+
+    
+
+
+        <a href="https://is.enes.org/archive-1/phase-2/project" class="state-published navTreeFolderish contenttype-folder" title="">
+            
+            <span>Project</span>
+        </a>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeCurrentNode navTreeFolderish section-events">
+
+    
+
+
+        <a href="https://is.enes.org/archive-1/phase-2/events" class="state-published navTreeCurrentItem navTreeCurrentNode navTreeFolderish contenttype-folder" title="">
+            
+            <span>Events</span>
+        </a>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-documents">
+
+    
+
+
+        <a href="https://is.enes.org/archive-1/phase-2/documents" class="state-published navTreeFolderish contenttype-folder" title="">
+            
+            <span>Documents</span>
+        </a>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-ressources">
+
+    
+
+
+        <a href="https://is.enes.org/archive-1/phase-2/ressources" class="state-published navTreeFolderish contenttype-folder" title="">
+            
+            <span>SERVICES</span>
+        </a>
+
+    
+    
+</li>
+
+
+
+
+    </ul>
+    
+</li>
+
+
+
+
+        </ul>
+        <span class="portletBottomLeft"></span>
+        <span class="portletBottomRight"></span>
+    </dd>
+</dl>
+
+</div>
+
+<div class="portletWrapper" data-portlethash="706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f4953454e4553332f617263686976652d310a706f72746c65745f737461746963" id="portletwrapper-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f4953454e4553332f617263686976652d310a706f72746c65745f737461746963"><div class="portletStaticText portlet-static-logos"><p><a href="http://www.europa.eu/"> <img src="https://is.enes.org/images-1/flag_eu.png" alt="flag_eu.png" class="image-inline" title="flag_eu.png" /> </a> <a href="http://cordis.europa.eu/fp7"> <img src="https://is.enes.org/images-1/FP7-cap-RGB.gif" alt="FP7-cap-RGB_h40px.gif" class="image-inline" title="FP7-cap-RGB_h40px.gif" /> </a></p></div>
+
+</div>
+
+
+
+
+            
+        </div><!-- :end -->
+          <!-- begin: --><!-- :end -->
+        </div>
+      </div>
+      <!--div class="portal-shadow-bottom cell width-full position-0"></div-->
+      <div class="portal-shadow-bottom row"></div>
+      <div class="portal-bottom-wrapper row">
+        <div class="cell width-full position-0">
+          <div class="portal-bottom-margin">
+              <!-- begin: --><div id="portal-colophon">
+              <div class="colophonWrapper">
+              <span>© Copyright ENES Portal 2011</span>
+              </div>
+            </div><!-- :end -->   
+            <!-- begin: --><div id="doormat-container" class="columns-1">
+
+  
+  <div class="doormatColumn column-0">
+    
+    <dl class="doormatSection">
+      
+      <dd class="doormatSectionBody">
+        
+        <p class=" "><a href="http://www.europa.eu/"> <img src="https://is.enes.org/images-1/flag_eu.png" alt="flag_eu.png" class="image-left" title="flag_eu.png" /> </a></p>
+<p class=" "> </p>
+<p class=" ">IS-ENES3 has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 824084</p>
+      </dd>
+    </dl>
+  </div>
+</div><!-- :end -->
+          </div>
+        </div>
+
+        <!-- begin: --><!-- :end -->
+        
+     
+      </div>
+    </div></body>
+</html>

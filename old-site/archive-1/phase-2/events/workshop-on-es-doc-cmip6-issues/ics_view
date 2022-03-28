@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Plone.org//NONSGML plone.app.event//EN
+X-WR-TIMEZONE:Europe/Vienna
+BEGIN:VEVENT
+SUMMARY:Workshop  on ES-DOC/CMIP6  issues 
+DTSTART;TZID=Europe/Vienna;VALUE=DATE-TIME:20160308T090000
+DTEND;TZID=Europe/Vienna;VALUE=DATE-TIME:20160311T130000
+DTSTAMP;VALUE=DATE-TIME:20220328T140446Z
+UID:9e8d9b7e6b5b4e27b92952fcd4df3874@plone7:8080
+ATTENDEE;CN="Chris Blanton NOAA-GFDL, Princeton University, US";ROLE=REQ-P
+ ARTICIPANT:Chris Blanton NOAA-GFDL, Princeton University, US
+ATTENDEE;CN="Mark Elkington Met Office Hadley Centre, Exeter, UK";ROLE=REQ
+ -PARTICIPANT:Mark Elkington Met Office Hadley Centre, Exeter, UK
+ATTENDEE;CN="David Hassell NCAS / University of Reading, Reading, UK";ROLE
+ =REQ-PARTICIPANT:David Hassell NCAS / University of Reading, Reading, UK
+ATTENDEE;CN="Mark Greenslade Institut Pierre Simon Laplace, Paris, France"
+ ;ROLE=REQ-PARTICIPANT:Mark Greenslade Institut Pierre Simon Laplace, Paris
+ , France
+ATTENDEE;CN="Eric Guilyardi Institut Pierre Simon Laplace, Paris, France -
+  NCAS / University of Reading, Reading, UK";ROLE=REQ-PARTICIPANT:Eric Guil
+ yardi Institut Pierre Simon Laplace, Paris, France - NCAS / University of 
+ Reading, Reading, UK
+ATTENDEE;CN="Emma Hibling Met Office Hadley Centre, Exeter, UK";ROLE=REQ-P
+ ARTICIPANT:Emma Hibling Met Office Hadley Centre, Exeter, UK
+ATTENDEE;CN="Bryan Lawrence NCAS / University of Reading, Reading, UK";ROL
+ E=REQ-PARTICIPANT:Bryan Lawrence NCAS / University of Reading, Reading, UK
+ATTENDEE;CN="Charlotte Pascoe NCAS / Science & Technology Facilities Counc
+ il, UK";ROLE=REQ-PARTICIPANT:Charlotte Pascoe NCAS / Science & Technology 
+ Facilities Council, UK
+ATTENDEE;CN="Allyn Treshansky NOAA, Boulder, US";ROLE=REQ-PARTICIPANT:Ally
+ n Treshansky NOAA, Boulder, US
+CATEGORIES:Project Event
+CATEGORIES:WP11
+CONTACT:Mark A. Greenslade\, momipsl@ipsl.jussieu.fr
+CREATED;VALUE=DATE-TIME:20160627T104414Z
+DESCRIPTION:Under the auspices of ISENES-2\, the Earth System Documentatio
+ n (ES-DOC) project has held a workshop hosted by the Science & Facilities 
+ Technology Council in the United Kingdom.  The workshop brought together p
+ roject partners in order to coordinate ongoing ES-DOC activities in suppor
+ t of CMIP6.  \n\n
+LAST-MODIFIED;VALUE=DATE-TIME:20170418T083302Z
+LOCATION:Science & Technology Facilities Council\, Coseners House\, 15-16A
+ bbey Close\, Abingdon\, UK
+URL:https://is.enes.org/archive-1/phase-2/events/workshop-on-es-doc-cmip6-
+ issues
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+X-LIC-LOCATION:Europe/Vienna
+BEGIN:STANDARD
+DTSTART;VALUE=DATE-TIME:20151025T020000
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+END:VCALENDAR

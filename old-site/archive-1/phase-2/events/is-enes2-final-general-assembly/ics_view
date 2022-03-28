@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Plone.org//NONSGML plone.app.event//EN
+X-WR-TIMEZONE:Europe/Vienna
+BEGIN:VEVENT
+SUMMARY:IS-ENES2 final General Assembly
+DTSTART;TZID=Europe/Vienna;VALUE=DATE-TIME:20170116T120000
+DTEND;TZID=Europe/Vienna;VALUE=DATE-TIME:20170118T130000
+DTSTAMP;VALUE=DATE-TIME:20220328T140449Z
+UID:61572c8c264c4015a05969eec82ea70d@plone7:8080
+CONTACT:Marie Parinet\, marie.parinet@lsce.ipsl.fr
+CREATED;VALUE=DATE-TIME:20170105T143354Z
+DESCRIPTION:IS-ENES2 final General Assembly will take place in January 201
+ 7 in Paris. It will be the opportunity to prepare the last periodic report
+  as well as the final report and discuss the future of the infrastructure.
+   
+LAST-MODIFIED;VALUE=DATE-TIME:20190514T121208Z
+LOCATION:Campus UPMC\, Jussieu\, Paris
+URL:https://is.enes.org/archive-1/phase-2/events/is-enes2-final-general-as
+ sembly
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+X-LIC-LOCATION:Europe/Vienna
+BEGIN:STANDARD
+DTSTART;VALUE=DATE-TIME:20161030T020000
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+END:VCALENDAR

@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+<channel rdf:about="https://is.enes.org/search_rss">
+  <title>IS-ENES 3</title>
+  <link>https://is.enes.org</link>
+
+  <image rdf:resource="https://is.enes.org/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms5-4_synthesis-report-on-metadata-requirements-regarding-relevant-data-archives/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms5-2_consultations-on-data-access-protocols/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d5-4_enes-data-service-infrastructure-requirements/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d5-2_assessment-of-impact-communities2019-requirements/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d5-3_report-on-basic-data-access-protocols-and-data-quality-control/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d5-1_enes-data-service-infrastructure-requirements-and-recommendations/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/presentations/scpecs-4th-ga/a-user-friendly-portal-to-give-access-to-climate-scenarios-and-prediction-data/view"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms5-4_synthesis-report-on-metadata-requirements-regarding-relevant-data-archives/view">
+    <title>IS-ENES2_MS5.4_Synthesis report on metadata requirements regarding relevant data archives</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms5-4_synthesis-report-on-metadata-requirements-regarding-relevant-data-archives/view</link>
+    <description>This milestone is presented in the shape of a WIP white paper lead by Martin Juckes,
+CMIP6 ESGF Publication Requirements</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>WP5</dc:subject>
+    
+    
+      <dc:subject>Milestone</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms5-2_consultations-on-data-access-protocols/view">
+    <title>IS-ENES2_MS5.2_Consultations on Data Access Protocols</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms5-2_consultations-on-data-access-protocols/view</link>
+    <description>The milestones MS 5.2 and MS 5.3 gather information for the deliverable D 5.3 (due M42) which is the Report on basic data access protocols and data quality control. In this sense they are preparations for D5.3.
+We give an overview about the situation of data access protocols in some of the main projects relevant in the ENES context. This comprises legal and technical issues.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>WP5</dc:subject>
+    
+    
+      <dc:subject>Milestone</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d5-4_enes-data-service-infrastructure-requirements/view">
+    <title>IS-ENES2_D5.4_ENES Data Service Infrastructure requirements</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d5-4_enes-data-service-infrastructure-requirements/view</link>
+    <description>The Infrastructure Support for the European Network of Earth System Modelling for climate (IS-ENES2) project has contributed to a range of vocabularies used for managing climate data. The vocabularies facilitate efficient management and dissemination of climate data. This work complements work done in WP11 on meta-data services and reported in D11.4. The vocabularies described here are designed for use in file meta-data: in the naming of files and the internal meta-data.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    
+      <dc:subject>WP5</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d5-2_assessment-of-impact-communities2019-requirements/view">
+    <title>IS-ENES2_D5.2_Assessment of impact communities’ requirements</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d5-2_assessment-of-impact-communities2019-requirements/view</link>
+    <description>This report aims at evaluating and improving the climate4impact portal in view of users' requirements and needs. Several types of users have been considered in this analysis. Key conclusions and perspectives for further development of climate4impact and climate data portals have been identified.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    
+      <dc:subject>WP5</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d5-3_report-on-basic-data-access-protocols-and-data-quality-control/view">
+    <title>IS-ENES2_D5.3_Report on basic data access protocols and data quality control</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d5-3_report-on-basic-data-access-protocols-and-data-quality-control/view</link>
+    <description>The deliverable aims at summarizing the present status of standards in various projects of Earth System science. It refers to data quality and data access, legal and technical, in order to ease interdisciplinary data exchange from/to the European climate community. The situation is refereed with respect to various European projects. Different aspects of existing standards are reviewed, for a legal standard a recommendation is given. This report is based on the results of interviews and literature analyses as given in Milestones MS5.2 on Consultation on Data Access Protocols and MS5.3 Consultation on Quality Control Requirements of the IS-ENES2 project.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    
+      <dc:subject>WP5</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d5-1_enes-data-service-infrastructure-requirements-and-recommendations/view">
+    <title>IS-ENES2_D5.1_ENES Data Service Infrastructure requirements and recommendations</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d5-1_enes-data-service-infrastructure-requirements-and-recommendations/view</link>
+    <description>The data service infrastructure links together existing resources within and beyond Europe. This document reviews institutional, procedural and technical requirements.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    
+      <dc:subject>WP5</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/presentations/scpecs-4th-ga/a-user-friendly-portal-to-give-access-to-climate-scenarios-and-prediction-data/view">
+    <title>A user friendly portal to give access to climate scenarios and prediction data</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/presentations/scpecs-4th-ga/a-user-friendly-portal-to-give-access-to-climate-scenarios-and-prediction-data/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>WP5</dc:subject>
+    
+    
+      <dc:subject>Presentation</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+
+</rdf:RDF>

@@ -1,0 +1,109 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Plone.org//NONSGML plone.app.event//EN
+X-WR-TIMEZONE:Europe/Vienna
+BEGIN:VEVENT
+SUMMARY:ISENES2 Workshop on Workflow Solutions in Earth System Modelling_W
+ P4-NA3
+DTSTART;TZID=Europe/Vienna;VALUE=DATE-TIME:20140603T100000
+DTEND;TZID=Europe/Vienna;VALUE=DATE-TIME:20140605T160000
+DTSTAMP;VALUE=DATE-TIME:20220328T140003Z
+UID:c1aa4d7cd1364c4d85e43aa2ee5c6a13@plone7:8080
+ATTENDEE;CN="Giovanni Aloisio (CMCC)";ROLE=REQ-PARTICIPANT:Giovanni Aloisi
+ o (CMCC)
+ATTENDEE;CN="V. Balaji (GFDL)";ROLE=REQ-PARTICIPANT:V. Balaji (GFDL)
+ATTENDEE;CN="Joachim Biercamp (DKRZ)";ROLE=REQ-PARTICIPANT:Joachim Biercam
+ p (DKRZ)
+ATTENDEE;CN="Patrick Brockmann (IPSL)";ROLE=REQ-PARTICIPANT:Patrick Brockm
+ ann (IPSL)
+ATTENDEE;CN="Reinhard Budich (MPI-M)";ROLE=REQ-PARTICIPANT:Reinhard Budich
+  (MPI-M)
+ATTENDEE;CN="Andy Clark (UKMO)";ROLE=REQ-PARTICIPANT:Andy Clark (UKMO)
+ATTENDEE;CN="John Dennis (UCAR)";ROLE=REQ-PARTICIPANT:John Dennis (UCAR)
+ATTENDEE;CN="Sebastien Denvil (IPSL)";ROLE=REQ-PARTICIPANT:Sebastien Denvi
+ l (IPSL)
+ATTENDEE;CN="Steve Easterbrook (Uni of Toronto)";ROLE=REQ-PARTICIPANT:Stev
+ e Easterbrook (Uni of Toronto)
+ATTENDEE;CN="Kerstin Fieg (DKRZ)";ROLE=REQ-PARTICIPANT:Kerstin Fieg (DKRZ)
+ATTENDEE;CN="Sandro Fiore (CMCC)";ROLE=REQ-PARTICIPANT:Sandro Fiore (CMCC)
+ATTENDEE;CN="Uwe Fladrich (SMHI)";ROLE=REQ-PARTICIPANT:Uwe Fladrich (SMHI)
+ATTENDEE;CN="Marie-Alice Foujols (IPSL)";ROLE=REQ-PARTICIPANT:Marie-Alice 
+ Foujols (IPSL)
+ATTENDEE;CN="Bernadette Fritzsch (AWI)";ROLE=REQ-PARTICIPANT:Bernadette Fr
+ itzsch (AWI)
+ATTENDEE;CN="Ksenia Gorges (DKRZ)";ROLE=REQ-PARTICIPANT:Ksenia Gorges (DKR
+ Z)
+ATTENDEE;CN="Rob Haines (Uni of Manchester)";ROLE=REQ-PARTICIPANT:Rob Hain
+ es (Uni of Manchester)
+ATTENDEE;CN="Nils Hempelmann (Climate Service Center)";ROLE=REQ-PARTICIPAN
+ T:Nils Hempelmann (Climate Service Center)
+ATTENDEE;CN="Stephan Kindermann (DKRZ)";ROLE=REQ-PARTICIPANT:Stephan Kinde
+ rmann (DKRZ)
+ATTENDEE;CN="Deike Kleberg (MPI-M)";ROLE=REQ-PARTICIPANT:Deike Kleberg (MP
+ I-M)
+ATTENDEE;CN="Luis Kornblueh (MPI-M)";ROLE=REQ-PARTICIPANT:Luis Kornblueh (
+ MPI-M)
+ATTENDEE;CN="Amy Langenhorst (GFDL)";ROLE=REQ-PARTICIPANT:Amy Langenhorst 
+ (GFDL)
+ATTENDEE;CN="Grenville Lister (Uni of Reading)";ROLE=REQ-PARTICIPANT:Grenv
+ ille Lister (Uni of Reading)
+ATTENDEE;CN="Michael Lautenschlager (DKRZ)";ROLE=REQ-PARTICIPANT:Michael L
+ autenschlager (DKRZ)
+ATTENDEE;CN="Thomas Ludwig (DKRZ)";ROLE=REQ-PARTICIPANT:Thomas Ludwig (DKR
+ Z)
+ATTENDEE;CN="Domingo Manubens (IC3)";ROLE=REQ-PARTICIPANT:Domingo Manubens
+  (IC3)
+ATTENDEE;CN="Dave Matthews (UKMO)";ROLE=REQ-PARTICIPANT:Dave Matthews (UKM
+ O)
+ATTENDEE;CN="Craig MacLachlan (UKMO)";ROLE=REQ-PARTICIPANT:Craig MacLachla
+ n (UKMO)
+ATTENDEE;CN="Hilary Oliver (NIWA)";ROLE=REQ-PARTICIPANT:Hilary Oliver (NIW
+ A)
+ATTENDEE;CN="Christian Page (CERFACS)";ROLE=REQ-PARTICIPANT:Christian Page
+  (CERFACS)
+ATTENDEE;CN="Kerstin Ronneberger (DKRZ)";ROLE=REQ-PARTICIPANT:Kerstin Ronn
+ eberger (DKRZ)
+ATTENDEE;CN="Stephane Senesi (MeteoFrance)";ROLE=REQ-PARTICIPANT:Stephane 
+ Senesi (MeteoFrance)
+ATTENDEE;CN="Pavan Siligam (DKRZ)";ROLE=REQ-PARTICIPANT:Pavan Siligam (DKR
+ Z)
+ATTENDEE;CN="Martina Stockhause (DKRZ)";ROLE=REQ-PARTICIPANT:Martina Stock
+ hause (DKRZ)
+ATTENDEE;CN="Ufuk Turunczoglu (ITU)";ROLE=REQ-PARTICIPANT:Ufuk Turunczoglu
+  (ITU)
+ATTENDEE;CN="Jeremy Walton (UKMO)";ROLE=REQ-PARTICIPANT:Jeremy Walton (UKM
+ O)
+ATTENDEE;CN="Kalle Wieners (MPI-M)";ROLE=REQ-PARTICIPANT:Kalle Wieners (MP
+ I-M)
+ATTENDEE;CN="Dean Williams (PCMDI)";ROLE=REQ-PARTICIPANT:Dean Williams (PC
+ MDI)
+ATTENDEE;CN="Chandin Wilson (GFDL)";ROLE=REQ-PARTICIPANT:Chandin Wilson (G
+ FDL)
+ATTENDEE;CN="(last updated May, 23)";ROLE=REQ-PARTICIPANT:(last updated Ma
+ y, 23)
+CATEGORIES:Project Event
+CONTACT:Reinhard Budich\, Kerstin Fieg\, Fieg@dkrz.de
+CREATED;VALUE=DATE-TIME:20141006T072555Z
+DESCRIPTION:This workshop focused on sharing experiences and best practice
+ s regarding existing and new workflow methods and tools. It discussed the 
+ varied requirements e.g. of data oriented and process oriented workflows (
+ e.g. data metadata vs. provenance metadata) not only of climate simulation
+ s\, but also of seasonal to decadal predictions. \nGeneral upgradability a
+ nd readiness for future developments of existing and new approaches were a
+ lso be topics. \n
+LAST-MODIFIED;VALUE=DATE-TIME:20170901T124854Z
+LOCATION:DKRZ\, Hamburg
+URL:https://is.enes.org/archive-1/phase-2/events/isenes2-workshop-on-workf
+ lows
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+X-LIC-LOCATION:Europe/Vienna
+BEGIN:DAYLIGHT
+DTSTART;VALUE=DATE-TIME:20140330T030000
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+END:VCALENDAR

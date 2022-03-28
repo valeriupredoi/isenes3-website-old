@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Plone.org//NONSGML plone.app.event//EN
+X-WR-TIMEZONE:Europe/Vienna
+BEGIN:VEVENT
+SUMMARY:Climate Services training: application of climate data in policy a
+ nd planning for consultants
+DTSTART;TZID=Europe/Vienna;VALUE=DATE-TIME:20150318T103000
+DTEND;TZID=Europe/Vienna;VALUE=DATE-TIME:20150320T140000
+DTSTAMP;VALUE=DATE-TIME:20220328T140444Z
+UID:62ae26f6894249b19339dfcedda6cb23@plone7:8080
+CATEGORIES:Project Event
+CONTACT:Pauline Ticheler\, +31-(0)317-481786\, pauline.ticheler@climate-ki
+ c.org\, http://www.climate-kic.nl/professional-education/short-course-clim
+ ate-service-training/
+CREATED;VALUE=DATE-TIME:20150213T143556Z
+DESCRIPTION:This session aims at training consultants using global and reg
+ ional climate model data\, and providers of climate data (CMIP5 and CORDEX
+  data\, resp.) on their application in different decision making contexts.
+ \nResults of this training will be reported in Deliverable 6.3 of IS-ENES2
+  project. \n
+LAST-MODIFIED;VALUE=DATE-TIME:20150217T155745Z
+LOCATION:Impulse building\, Wageningen Campus\, Netherlands
+URL:https://is.enes.org/archive-1/phase-2/events/climate-services-training
+ -application-of-climate-data-in-policy-and-planning-for-consultants
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+X-LIC-LOCATION:Europe/Vienna
+BEGIN:STANDARD
+DTSTART;VALUE=DATE-TIME:20141026T020000
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+END:VCALENDAR

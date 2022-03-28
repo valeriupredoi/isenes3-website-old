@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Plone.org//NONSGML plone.app.event//EN
+X-WR-TIMEZONE:Europe/Vienna
+BEGIN:VEVENT
+SUMMARY:3rd IS-ENES2 Workshop on Metadata for Climate Indices
+DTSTART;TZID=Europe/Vienna;VALUE=DATE-TIME:20170315T090000
+DTEND;TZID=Europe/Vienna;VALUE=DATE-TIME:20170316T170000
+DTSTAMP;VALUE=DATE-TIME:20220328T140450Z
+UID:50bd208897284f07b57812c2af138c7b@plone7:8080
+ATTENDEE;CN="Lars Bärring (SMHI), Christian Pagé (CERFACS), Maryvonne Ke
+ rdoncuff (Météo-France), Nicholas Herold (University of New South Wales)
+ , David Hassell (NCAS/University of Reading), Elizabeth Lewis (University 
+ of Newcastle), Maarten Plieger (KNMI), Wim Som de Cerff (KNMI), Alessandro
+  Spinusa (KNMI), Gerard van der Schrier (KNMI)";ROLE=REQ-PARTICIPANT:Lars 
+ Bärring (SMHI), Christian Pagé (CERFACS), Maryvonne Kerdoncuff (Météo-
+ France), Nicholas Herold (University of New South Wales), David Hassell (N
+ CAS/University of Reading), Elizabeth Lewis (University of Newcastle), Maa
+ rten Plieger (KNMI), Wim Som de Cerff (KNMI), Alessandro Spinusa (KNMI), G
+ erard van der Schrier (KNMI)
+CATEGORIES:Project Event
+CREATED;VALUE=DATE-TIME:20170503T150203Z
+LAST-MODIFIED;VALUE=DATE-TIME:20170503T150507Z
+LOCATION:KNMI\, De Bilt\, Netherlands
+URL:https://is.enes.org/archive-1/phase-2/events/3rd-is-enes2-workshop-on-
+ metadata-for-climate-indices
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+X-LIC-LOCATION:Europe/Vienna
+BEGIN:STANDARD
+DTSTART;VALUE=DATE-TIME:20161030T020000
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+END:VCALENDAR

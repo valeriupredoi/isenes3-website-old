@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+<channel rdf:about="https://is.enes.org/archive-1/phase-2/project/na4-wp5-data-networking/RSS">
+  <title>NA4 (WP5): Data Networking</title>
+  <link>https://is.enes.org/archive-1/phase-2/project/na4-wp5-data-networking</link>
+  <description></description>
+  <image rdf:resource="https://is.enes.org/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+
+</rdf:RDF>

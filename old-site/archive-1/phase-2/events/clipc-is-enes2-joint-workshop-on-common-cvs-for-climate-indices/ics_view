@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Plone.org//NONSGML plone.app.event//EN
+X-WR-TIMEZONE:Europe/Vienna
+BEGIN:VEVENT
+SUMMARY:CLIPC/IS-ENES2 Joint Workshop on Common CVs for climate indices 
+DTSTART;TZID=Europe/Vienna;VALUE=DATE-TIME:20160210T090000
+DTEND;TZID=Europe/Vienna;VALUE=DATE-TIME:20160212T170000
+DTSTAMP;VALUE=DATE-TIME:20220328T140446Z
+UID:ac47efa3b26646d99adadc40f5ee29db@plone7:8080
+CATEGORIES:Project Event
+CONTACT:Christian Page\, page@cerfacs.fr
+CREATED;VALUE=DATE-TIME:20160122T172017Z
+DESCRIPTION:This workshop is on invitation only\, still looking for more i
+ nterested people. 
+LAST-MODIFIED;VALUE=DATE-TIME:20160122T172031Z
+LOCATION:CERFACS\, Toulouse\, France
+URL:https://is.enes.org/archive-1/phase-2/events/clipc-is-enes2-joint-work
+ shop-on-common-cvs-for-climate-indices
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+X-LIC-LOCATION:Europe/Vienna
+BEGIN:STANDARD
+DTSTART;VALUE=DATE-TIME:20151025T020000
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+END:VCALENDAR

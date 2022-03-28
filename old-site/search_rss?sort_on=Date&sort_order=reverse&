@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+<channel rdf:about="https://is.enes.org/search_rss">
+  <title>IS-ENES 3</title>
+  <link>https://is.enes.org</link>
+
+  <image rdf:resource="https://is.enes.org/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="https://is.enes.org/documents/newsletter/newsletter-10-march-2022"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/events/trainings-and-education/is-enes3-eastern-europe-spring-schools-on-climate-data-and-impact-assessments"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/events/is-enes3-webinar-on-oasis3_mct"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/documents/publications/swirrl-managing-provenance-aware-and-reproducible-workspaces"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/events/workshops/is-enes3-egu2022"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/events/workshops/7th-enes-hpc-workshop-barcelona-2022"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/images-1/ENESHPCWorkshopv1.png/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/documents/is-enes3-reports-and-kpis/is-enes3-1st-periodic-report-jan-2019-june-2020/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/documents/deliverables/d5-2-technical-standards-for-diagnostic-tools/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/documents/presentations/ems2021/experiences-with-virtual-schools-on-201cclimate-data-for-impact-assessments201d/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/documents/presentations/ems2021"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/documents/deliverables/d6-3-second-periodical-report-on-service-statistics-for-models-and-tools/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/documents/deliverables/d7-3-second-kpi-and-ta-report-for-enes-cdi-data-services/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/documents/is-enes3-reports-and-kpis/oasis3-mct-technical-reports"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/documents/publications/the-ec-earth3-earth-system-model-for-the-climate-model-intercomparison-project-6"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="https://is.enes.org/documents/newsletter/newsletter-10-march-2022">
+    <title>Newsletter 10 - March 2022</title>
+    <link>https://is.enes.org/documents/newsletter/newsletter-10-march-2022</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    <dc:date>2022/03/23 12:29:27 GMT+1</dc:date>
+    <dc:type>Link</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/events/trainings-and-education/is-enes3-eastern-europe-spring-schools-on-climate-data-and-impact-assessments">
+    <title>IS-ENES3 Eastern Europe Spring Schools on Climate data and Impact assessments</title>
+    <link>https://is.enes.org/events/trainings-and-education/is-enes3-eastern-europe-spring-schools-on-climate-data-and-impact-assessments</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    <dc:date>2022/03/18 12:10:21 GMT+1</dc:date>
+    <dc:type>Event</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/events/is-enes3-webinar-on-oasis3_mct">
+    <title>IS-ENES3 Webinar on OASIS3_MCT</title>
+    <link>https://is.enes.org/events/is-enes3-webinar-on-oasis3_mct</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    <dc:date>2022/03/18 10:48:41 GMT+1</dc:date>
+    <dc:type>Event</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/documents/publications/swirrl-managing-provenance-aware-and-reproducible-workspaces">
+    <title>SWIRRL. Managing Provenance-aware and Reproducible Workspaces </title>
+    <link>https://is.enes.org/documents/publications/swirrl-managing-provenance-aware-and-reproducible-workspaces</link>
+    <description>Alessandro Spinuso et al., Published on 7 March 2022.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    <dc:date>2022/03/17 17:25:00 GMT+1</dc:date>
+    <dc:type>Link</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/events/workshops/is-enes3-egu2022">
+    <title>IS-ENES3@EGU2022</title>
+    <link>https://is.enes.org/events/workshops/is-enes3-egu2022</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    <dc:date>2022/03/14 14:55:00 GMT+1</dc:date>
+    <dc:type>Event</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/events/workshops/7th-enes-hpc-workshop-barcelona-2022">
+    <title> 7th ENES HPC Workshop (Barcelona, 2022) </title>
+    <link>https://is.enes.org/events/workshops/7th-enes-hpc-workshop-barcelona-2022</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    <dc:date>2022/03/14 14:50:00 GMT+1</dc:date>
+    <dc:type>Event</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/images-1/ENESHPCWorkshopv1.png/view">
+    <title></title>
+    <link>https://is.enes.org/images-1/ENESHPCWorkshopv1.png/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    <dc:date></dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/documents/is-enes3-reports-and-kpis/is-enes3-1st-periodic-report-jan-2019-june-2020/view">
+    <title>IS-ENES3 1st Periodic Report (Jan. 2019 - June 2020)</title>
+    <link>https://is.enes.org/documents/is-enes3-reports-and-kpis/is-enes3-1st-periodic-report-jan-2019-june-2020/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/documents/deliverables/d5-2-technical-standards-for-diagnostic-tools/view">
+    <title>D5.2 -Technical standards for diagnostic tools</title>
+    <link>https://is.enes.org/documents/deliverables/d5-2-technical-standards-for-diagnostic-tools/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/documents/presentations/ems2021/experiences-with-virtual-schools-on-201cclimate-data-for-impact-assessments201d/view">
+    <title>Experiences with virtual schools on “Climate data for impact assessments”</title>
+    <link>https://is.enes.org/documents/presentations/ems2021/experiences-with-virtual-schools-on-201cclimate-data-for-impact-assessments201d/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/documents/presentations/ems2021">
+    <title>EMS2021</title>
+    <link>https://is.enes.org/documents/presentations/ems2021</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    <dc:date>2022/02/14 17:21:14 GMT+1</dc:date>
+    <dc:type>Folder</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/documents/deliverables/d6-3-second-periodical-report-on-service-statistics-for-models-and-tools/view">
+    <title>D6.3 - Second periodical report on service statistics for models and tools</title>
+    <link>https://is.enes.org/documents/deliverables/d6-3-second-periodical-report-on-service-statistics-for-models-and-tools/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/documents/deliverables/d7-3-second-kpi-and-ta-report-for-enes-cdi-data-services/view">
+    <title>D7.3 - Second KPI and TA report for ENES CDI data services</title>
+    <link>https://is.enes.org/documents/deliverables/d7-3-second-kpi-and-ta-report-for-enes-cdi-data-services/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/documents/is-enes3-reports-and-kpis/oasis3-mct-technical-reports">
+    <title>OASIS3-MCT Technical reports</title>
+    <link>https://is.enes.org/documents/is-enes3-reports-and-kpis/oasis3-mct-technical-reports</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    <dc:date>2022/01/31 17:26:35 GMT+1</dc:date>
+    <dc:type>Folder</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/documents/publications/the-ec-earth3-earth-system-model-for-the-climate-model-intercomparison-project-6">
+    <title>The EC-Earth3 Earth System Model for the Climate Model Intercomparison Project 6</title>
+    <link>https://is.enes.org/documents/publications/the-ec-earth3-earth-system-model-for-the-climate-model-intercomparison-project-6</link>
+    <description>Döscher, R. et al., </description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    <dc:date>2022/01/31 16:35:00 GMT+1</dc:date>
+    <dc:type>Link</dc:type>
+  </item>
+
+
+
+</rdf:RDF>

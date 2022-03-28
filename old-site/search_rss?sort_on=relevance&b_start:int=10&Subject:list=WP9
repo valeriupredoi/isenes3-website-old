@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+<channel rdf:about="https://is.enes.org/search_rss">
+  <title>IS-ENES 3</title>
+  <link>https://is.enes.org</link>
+
+  <image rdf:resource="https://is.enes.org/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms9-8_new-i-o-server-release/view"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms9-8_new-i-o-server-release/view">
+    <title>IS-ENES2_MS9.8_New I/O server release </title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms9-8_new-i-o-server-release/view</link>
+    <description>XIOS 2 has now more than one year development and is now suitable to be used into models. Development has been focused on new internal design, enabling more easily the implementation of new functionalities. We think that XIOS 2 is now ready to be used, and although syntax is no strictly retro-compatible with XIOS 1, changes are minor, so we think it must be easy to manage the 2 versions in the same model for an overlapping time.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>WP9</dc:subject>
+    
+    
+      <dc:subject>Milestone</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+
+</rdf:RDF>

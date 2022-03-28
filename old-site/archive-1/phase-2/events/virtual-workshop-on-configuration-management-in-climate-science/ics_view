@@ -1,0 +1,172 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Plone.org//NONSGML plone.app.event//EN
+X-WR-TIMEZONE:Europe/Vienna
+BEGIN:VEVENT
+SUMMARY:Virtual Workshop on Configuration Management  in Climate Science. 
+DTSTART;TZID=Europe/Vienna;VALUE=DATE-TIME:20160201T090000
+DTEND;TZID=Europe/Vienna;VALUE=DATE-TIME:20160228T170000
+DTSTAMP;VALUE=DATE-TIME:20220328T140446Z
+UID:055bb894fc344cfeadd4722671a42799@plone7:8080
+ATTENDEE;CN="Ag Stephens (Science and Technology Facilities Council)";ROLE
+ =REQ-PARTICIPANT:Ag Stephens (Science and Technology Facilities Council)
+ATTENDEE;CN="Rupert Ford (Science and Technology Facilities Council)";ROLE
+ =REQ-PARTICIPANT:Rupert Ford (Science and Technology Facilities Council)
+ATTENDEE;CN="Alf Grini (Meteorologisk Institut)";ROLE=REQ-PARTICIPANT:Alf 
+ Grini (Meteorologisk Institut)
+ATTENDEE;CN="Amy Langenhorst (National Oceanographic and Atmospheric Admin
+ istration)";ROLE=REQ-PARTICIPANT:Amy Langenhorst (National Oceanographic a
+ nd Atmospheric Administration)
+ATTENDEE;CN="Antonio S. Cofino (Universidad de Cantabria)";ROLE=REQ-PARTIC
+ IPANT:Antonio S. Cofino (Universidad de Cantabria)
+ATTENDEE;CN="Arnaud Caubel (Centre National de la Recherche Scientifique)"
+ ;ROLE=REQ-PARTICIPANT:Arnaud Caubel (Centre National de la Recherche Scien
+ tifique)
+ATTENDEE;CN="Marie-Alice Foujols (Centre National de la Recherche Scientif
+ ique)";ROLE=REQ-PARTICIPANT:Marie-Alice Foujols (Centre National de la Rec
+ herche Scientifique)
+ATTENDEE;CN="Christoph Heinze (Universitetet i Bergen) )";ROLE=REQ-PARTICI
+ PANT:Christoph Heinze (Universitetet i Bergen) )
+ATTENDEE;CN="Camiel Severijns (Koninklijk Nederlands Meteorologisch Instit
+ uut)";ROLE=REQ-PARTICIPANT:Camiel Severijns (Koninklijk Nederlands Meteoro
+ logisch Instituut)
+ATTENDEE;CN="Colin Jones UK Earth system modelling project, National Centr
+ e for Atmospheric Science and Met Office)";ROLE=REQ-PARTICIPANT:Colin Jone
+ s UK Earth system modelling project, National Centre for Atmospheric Scien
+ ce and Met Office)
+ATTENDEE;CN="Claire Levy (Laboratoire d'Océanographie et du Climat)";ROLE
+ =REQ-PARTICIPANT:Claire Levy (Laboratoire d'Océanographie et du Climat)
+ATTENDEE;CN="Giovanni Aloisio (Centro Euro-Mediterraneo sui Cambiamenti Cl
+ imatici)";ROLE=REQ-PARTICIPANT:Giovanni Aloisio (Centro Euro-Mediterraneo 
+ sui Cambiamenti Climatici)
+ATTENDEE;CN="Silvia Mocavero (Centro Euro-Mediterraneo sui Cambiamenti Cli
+ matici)";ROLE=REQ-PARTICIPANT:Silvia Mocavero (Centro Euro-Mediterraneo su
+ i Cambiamenti Climatici)
+ATTENDEE;CN="Glenn Carver (European Centre for Medium-Range Weather Foreca
+ sts)";ROLE=REQ-PARTICIPANT:Glenn Carver (European Centre for Medium-Range 
+ Weather Forecasts)
+ATTENDEE;CN="Paul Burton (European Centre for Medium-Range Weather Forecas
+ ts)";ROLE=REQ-PARTICIPANT:Paul Burton (European Centre for Medium-Range We
+ ather Forecasts)
+ATTENDEE;CN="Graham Riley (The University of Manchester),";ROLE=REQ-PARTIC
+ IPANT:Graham Riley (The University of Manchester),
+ATTENDEE;CN="Grenville Lister (The University of Reading - National Centre
+  for Atmospheric Science)";ROLE=REQ-PARTICIPANT:Grenville Lister (The Univ
+ ersity of Reading - National Centre for Atmospheric Science)
+ATTENDEE;CN="Hamish Struthers (Linkopings Universitet)";ROLE=REQ-PARTICIPA
+ NT:Hamish Struthers (Linkopings Universitet)
+ATTENDEE;CN="Yoonjae Kim (Korea Meteorological Administration)";ROLE=REQ-P
+ ARTICIPANT:Yoonjae Kim (Korea Meteorological Administration)
+ATTENDEE;CN="Johan Lee(Korea Meteorological Administration)";ROLE=REQ-PART
+ ICIPANT:Johan Lee(Korea Meteorological Administration)
+ATTENDEE;CN="Kerstin Fieg: DKRZ (Deutsches Klimarechenzentrum, GMBH)";ROLE
+ =REQ-PARTICIPANT:Kerstin Fieg: DKRZ (Deutsches Klimarechenzentrum, GMBH)
+ATTENDEE;CN="Laurent Chardon (Environment and Climate Change Canada)";ROLE
+ =REQ-PARTICIPANT:Laurent Chardon (Environment and Climate Change Canada)
+ATTENDEE;CN="Mariana Vertenstein (National Center for Atmospheric Research
+ )";ROLE=REQ-PARTICIPANT:Mariana Vertenstein (National Center for Atmospher
+ ic Research)
+ATTENDEE;CN="Marius Matriata (Institutul National de Hidrologie si Gospoda
+ rire a Apelor)";ROLE=REQ-PARTICIPANT:Marius Matriata (Institutul National 
+ de Hidrologie si Gospodarire a Apelor)
+ATTENDEE;CN="Mick Carter  (Met Office)";ROLE=REQ-PARTICIPANT:Mick Carter  
+ (Met Office)
+ATTENDEE;CN="Dave Matthews  (Met Office)";ROLE=REQ-PARTICIPANT:Dave Matthe
+ ws  (Met Office)
+ATTENDEE;CN="Keir Bovis (Met Office)";ROLE=REQ-PARTICIPANT:Keir Bovis (Met
+  Office)
+ATTENDEE;CN="Jean Christophe Rioual (Met Office)";ROLE=REQ-PARTICIPANT:Jea
+ n Christophe Rioual (Met Office)
+ATTENDEE;CN="Mark Elkington (Met Office)";ROLE=REQ-PARTICIPANT:Mark Elking
+ ton (Met Office)
+ATTENDEE;CN="Glenn Greed (Met Office)";ROLE=REQ-PARTICIPANT:Glenn Greed (M
+ et Office)
+ATTENDEE;CN="Steve Mullerworh (Met Office)";ROLE=REQ-PARTICIPANT:Steve Mul
+ lerworh (Met Office)
+ATTENDEE;CN="Jeremy Walton (Met Office)";ROLE=REQ-PARTICIPANT:Jeremy Walto
+ n (Met Office)
+ATTENDEE;CN="Michael Naughton (Bureau of Meteorology)";ROLE=REQ-PARTICIPAN
+ T:Michael Naughton (Bureau of Meteorology)
+ATTENDEE;CN="Michael Uddstrom (National Institute of Water and Atmospheric
+  Research)";ROLE=REQ-PARTICIPANT:Michael Uddstrom (National Institute of W
+ ater and Atmospheric Research)
+ATTENDEE;CN="Hilary Oliver (National Institute of Water and Atmospheric Re
+ search)";ROLE=REQ-PARTICIPANT:Hilary Oliver (National Institute of Water a
+ nd Atmospheric Research)
+ATTENDEE;CN="Neil Chue Hong (The Software Sustainability Institute)";ROLE=
+ REQ-PARTICIPANT:Neil Chue Hong (The Software Sustainability Institute)
+ATTENDEE;CN="Simon Hettrick (The Software Sustainability Institute)";ROLE=
+ REQ-PARTICIPANT:Simon Hettrick (The Software Sustainability Institute)
+ATTENDEE;CN="Ole Bøssing Christensen(Danmarks Meteorologiske Institut)";R
+ OLE=REQ-PARTICIPANT:Ole Bøssing Christensen(Danmarks Meteorologiske Insti
+ tut)
+ATTENDEE;CN="Oriol Mula Valls (Institut Català de Ciències del Clima)";R
+ OLE=REQ-PARTICIPANT:Oriol Mula Valls (Institut Català de Ciències del Cl
+ ima)
+ATTENDEE;CN="Domingo Manubens  (Institut Català de Ciències del Clima)";
+ ROLE=REQ-PARTICIPANT:Domingo Manubens  (Institut Català de Ciències del 
+ Clima)
+ATTENDEE;CN="Reinhard Budich (Max-Planck-Gesellschaft zur Förderung der W
+ issenschaften)";ROLE=REQ-PARTICIPANT:Reinhard Budich (Max-Planck-Gesellsch
+ aft zur Förderung der Wissenschaften)
+ATTENDEE;CN="Luis Kornblueh (Max-Planck-Gesellschaft zur Förderung der Wi
+ ssenschaften)";ROLE=REQ-PARTICIPANT:Luis Kornblueh (Max-Planck-Gesellschaf
+ t zur Förderung der Wissenschaften)
+ATTENDEE;CN="Karl-Hermann Wieners (Max-Planck-Gesellschaft zur Förderung 
+ der Wissenschaften)";ROLE=REQ-PARTICIPANT:Karl-Hermann Wieners (Max-Planck
+ -Gesellschaft zur Förderung der Wissenschaften)
+ATTENDEE;CN="Scott Wales (Australian Research Council Centre of Excellence
+  for Climate System Science)";ROLE=REQ-PARTICIPANT:Scott Wales (Australian
+  Research Council Centre of Excellence for Climate System Science)
+ATTENDEE;CN="Sophie Valcke (Centre Européen de Recherche et de Formation 
+ Avancée en Calcul Scientifique)";ROLE=REQ-PARTICIPANT:Sophie Valcke (Cent
+ re Européen de Recherche et de Formation Avancée en Calcul Scientifique)
+ATTENDEE;CN="Stéphane Sénési (Meteo-France)";ROLE=REQ-PARTICIPANT:Stép
+ hane Sénési (Meteo-France)
+ATTENDEE;CN="Uwe Fladrich (Sveriges Meteorologiska och Hydrologiska Instit
+ ut)";ROLE=REQ-PARTICIPANT:Uwe Fladrich (Sveriges Meteorologiska och Hydrol
+ ogiska Institut)
+ATTENDEE;CN="Martin Evaldsson (Sveriges Meteorologiska och Hydrologiska In
+ stitut)";ROLE=REQ-PARTICIPANT:Martin Evaldsson (Sveriges Meteorologiska oc
+ h Hydrologiska Institut)
+ATTENDEE;CN="V. Balaji (Geophysical Fluid Dynamics Laboratory)";ROLE=REQ-P
+ ARTICIPANT:V. Balaji (Geophysical Fluid Dynamics Laboratory)
+ATTENDEE;CN="Veronika Eyring (Deutsches Zentrum für Luft- und Raumfahrt)"
+ ;ROLE=REQ-PARTICIPANT:Veronika Eyring (Deutsches Zentrum für Luft- und Ra
+ umfahrt)
+ATTENDEE;CN="Axel Lauer (Deutsches Zentrum für Luft- und Raumfahrt)";ROLE
+ =REQ-PARTICIPANT:Axel Lauer (Deutsches Zentrum für Luft- und Raumfahrt)
+ATTENDEE;CN="Dean N. Williams (Lawrence Livermore National Laboratory)";RO
+ LE=REQ-PARTICIPANT:Dean N. Williams (Lawrence Livermore National Laborator
+ y)
+ATTENDEE;CN="Sasha Ames (Lawrence Livermore National Laboratory)";ROLE=REQ
+ -PARTICIPANT:Sasha Ames (Lawrence Livermore National Laboratory)
+ATTENDEE;CN="Tim Bradshaw (Met Office Hadley Centre)";ROLE=REQ-PARTICIPANT
+ :Tim Bradshaw (Met Office Hadley Centre)
+ATTENDEE;CN="Alistair Sellar (Met Office Hadley Centre)";ROLE=REQ-PARTICIP
+ ANT:Alistair Sellar (Met Office Hadley Centre)
+CATEGORIES:Project Event
+CONTACT:Mick Carter\, mick.carter@metoffice.gov.uk\, https://verc.enes.org
+ /ISENES2/documents/na3-documents/cm-documents
+CREATED;VALUE=DATE-TIME:20160122T165019Z
+DESCRIPTION:The workshop will develop a "best practice guide" on Configura
+ tion Management (CM). Also\, short papers on CM and model build systems wi
+ ll be exchanged electronically.\nPlease express an interest to contribute 
+ or be a registered reader by emailing Mick Carter (mick.carter@metoffice.g
+ ov.uk).
+LAST-MODIFIED;VALUE=DATE-TIME:20160303T163357Z
+LOCATION:Virtual
+URL:https://is.enes.org/archive-1/phase-2/events/virtual-workshop-on-confi
+ guration-management-in-climate-science
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+X-LIC-LOCATION:Europe/Vienna
+BEGIN:STANDARD
+DTSTART;VALUE=DATE-TIME:20151025T020000
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+END:VCALENDAR

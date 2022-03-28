@@ -1,0 +1,50 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Plone.org//NONSGML plone.app.event//EN
+X-WR-TIMEZONE:Europe/Vienna
+BEGIN:VEVENT
+SUMMARY:Workshop on design of scientific portals
+DTSTART;TZID=Europe/Vienna;VALUE=DATE-TIME:20141117T090000
+DTEND;TZID=Europe/Vienna;VALUE=DATE-TIME:20141119T123000
+DTSTAMP;VALUE=DATE-TIME:20220328T140443Z
+UID:0fd1703f0b934ea88245e6de860d9fe2@plone7:8080
+ATTENDEE;CN="Christian Pagé (CERFACS), Manuel Vega Saldarriaga (UNICAN), 
+ Chris Jack (CSAG), Elke Keup-Thiel (CSC, HZG), Philip Kershaw (CEDA, STFC 
+ RAL), Juliane Otto (CSC 2.0), Peter Thijsse (MARIS), Bert Broeren (MARIS),
+  Adam Leadbetter (BODC), Stephan Kindermann (DKRZ), Fokke de Jong (Alterra
+ , WU), Rob Swart (Alterra, WU), Baudouin Raoult (ECMWF), Antonio S. Cofiñ
+ o (UNICAN), T. Loubrieu (Ifremer), Jordan Maduro (MARIS), Heinz-Dieter Hol
+ lweg (DKRZ), A. De Rudder (IASB-BIRA), Dominique Fonteyn (BIRA-IASB), Mich
+ ael Kolax (SMHI), Carsten Ehbrecht (DKRZ), Rob Thomas (BODC), Eduardo Dama
+ sio-da-Costa (CEDA/BADC), Jörg Schulz (EUMETSAT)";ROLE=REQ-PARTICIPANT:Ch
+ ristian Pagé (CERFACS), Manuel Vega Saldarriaga (UNICAN), Chris Jack (CSA
+ G), Elke Keup-Thiel (CSC, HZG), Philip Kershaw (CEDA, STFC RAL), Juliane O
+ tto (CSC 2.0), Peter Thijsse (MARIS), Bert Broeren (MARIS), Adam Leadbette
+ r (BODC), Stephan Kindermann (DKRZ), Fokke de Jong (Alterra, WU), Rob Swar
+ t (Alterra, WU), Baudouin Raoult (ECMWF), Antonio S. Cofiño (UNICAN), T. 
+ Loubrieu (Ifremer), Jordan Maduro (MARIS), Heinz-Dieter Hollweg (DKRZ), A.
+  De Rudder (IASB-BIRA), Dominique Fonteyn (BIRA-IASB), Michael Kolax (SMHI
+ ), Carsten Ehbrecht (DKRZ), Rob Thomas (BODC), Eduardo Damasio-da-Costa (C
+ EDA/BADC), Jörg Schulz (EUMETSAT)
+CATEGORIES:Project Event
+CONTACT:Martin Juckes\, martin.juckes@stfc.ac.uk\, http://www.ceda.ac.uk/p
+ rojects/clipc/meetings/workshop-on-design-of-scientific-portals/
+CREATED;VALUE=DATE-TIME:20150121T153042Z
+DESCRIPTION:This meeting was organised jointly by the CLIPC and IS-ENES2 p
+ rojects.\n\n
+LAST-MODIFIED;VALUE=DATE-TIME:20160627T165610Z
+LOCATION:KNMI\, De Bilt\, Netherlands
+URL:https://is.enes.org/archive-1/phase-2/events/workshop-on-design-of-sci
+ entific-portals
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+X-LIC-LOCATION:Europe/Vienna
+BEGIN:STANDARD
+DTSTART;VALUE=DATE-TIME:20141026T020000
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+END:VCALENDAR

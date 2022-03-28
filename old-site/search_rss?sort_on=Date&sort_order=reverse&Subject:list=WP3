@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+<channel rdf:about="https://is.enes.org/search_rss">
+  <title>IS-ENES 3</title>
+  <link>https://is.enes.org</link>
+
+  <image rdf:resource="https://is.enes.org/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d3-3_report-on-common-radiation-code/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d3-2_crossing-the-chasm-how-to-develop-weather-and-climate-codes-for-next-generation-computers/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/deliverables/report-on-nemo-and-icon-models-re-design/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d3-1_report-on-the-technology-tracking/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/presentations/egu-2016/xavier-yepes-simulation-based-performance-analysis-of-ec-earth-3-2-0-using-dimemas/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/events/workshop-on-cosp-network-support-and-optimisation"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/events/fourth-workshop-on-coupling-technologies-for-earth-system-models"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/publications/sharing-experiences-and-outlook-on-coupling-technologies-for-earth-system-models/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/na2-working-documents"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d3-3_report-on-common-radiation-code/view">
+    <title>IS-ENES2_D3.3_Report on common radiation code</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d3-3_report-on-common-radiation-code/view</link>
+    <description>We developed a software toolkit for computing radiative transfer in the atmosphere. It is an improvement over existing libraries for the same purpose, with increased portability, modularity and maintainability. The prototype version has been successfully adopted by different research groups, each with different technical constraints and scientific requirements, for which the previously available tools were inadequate. In addition, the CFMIP Observation Simulator Package (COSP) code has been improved and optimized, and a workshop allowed the emergence of a developers and users community.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    
+      <dc:subject>WP3</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d3-2_crossing-the-chasm-how-to-develop-weather-and-climate-codes-for-next-generation-computers/view">
+    <title>IS-ENES2_D3.2_Crossing the Chasm: How to Develop Weather and Climate Codes for Next Generation Computers</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d3-2_crossing-the-chasm-how-to-develop-weather-and-climate-codes-for-next-generation-computers/view</link>
+    <description>Weather and climate models are complex software with many components, ranging from science to infrastructure. Preparing these for future computing is likely to be problematic, leading to the possibility that such models will arrive at a chasm separating scientific aspiration from ability to exploit new hardware. Shared (converged) code is part of the
+solution. This paper outlines (a) the problems anticipated as models deal with the increasing concurrency needed to exploit next generation hardware, (b) a range of projects aimed at addressing the difficulties anticipated, and (c) a set of criteria for libraries, codes, and institutional behaviours necessary for crossing the anticipated chasm. The main body of the paper appears in the format for the Geoscientific Model Development journal, since it will also be submitted there for publication in summer 2017.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    
+      <dc:subject>WP3</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/deliverables/report-on-nemo-and-icon-models-re-design/view">
+    <title>IS-ENES2_D3.4_Report on NEMO and ICON models re-design</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/deliverables/report-on-nemo-and-icon-models-re-design/view</link>
+    <description>During the first three years of the project, some activities of WP3/NA2 have been focused on the analysis of NEMO and ICON models computational performance in order to identify the main limits to their scalability. Moreover, the technology tracking activity has allowed putting together the main European and global initiatives focusing on the models improvement at exascale as well as bringing this knowledge into the ENES community. These preliminary activities allow defining a strategy for the two models re-design, taking into account the technology trend. The present document aims at proposing the re-design strategy.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    
+      <dc:subject>WP3</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d3-1_report-on-the-technology-tracking/view">
+    <title>IS-ENES2_D3.1_Report on the technology tracking_Revised Version</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d3-1_report-on-the-technology-tracking/view</link>
+    <description>The deliverable aims at summarizing the European and global activities addressing developments both in next generation models including exascale issues and in coupling technologies in order to bring that knowledge into the European climate community. Starting from the analysis of the main exascale issues in climate change research, it provides an overview of the new parallel approaches for the climate models. Moreover, it reports some details about the first attempts of co-design work to establish the interrelationship among physics, algorithms, system software and hardware. Some work towards the interoperability of coupling technologies is also reported. This report is based on the results presented at the ENES workshop on Exascale Techologies and Innovation in HPC for Climate Models, held in Hamburg on March,17-19, 2014.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    
+      <dc:subject>WP3</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/presentations/egu-2016/xavier-yepes-simulation-based-performance-analysis-of-ec-earth-3-2-0-using-dimemas/view">
+    <title>Xavier Yepes, Simulation-based performance analysis of EC-Earth 3.2.0 using Dimemas</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/presentations/egu-2016/xavier-yepes-simulation-based-performance-analysis-of-ec-earth-3-2-0-using-dimemas/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Poster</dc:subject>
+    
+    
+      <dc:subject>WP3</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/events/workshop-on-cosp-network-support-and-optimisation">
+    <title>Workshop on COSP Network Support and Optimisation</title>
+    <link>https://is.enes.org/archive-1/phase-2/events/workshop-on-cosp-network-support-and-optimisation</link>
+    <description>This workshop is related to WP3 activity. The goal is to facilitate the integration and future maintenance of the growing number of COSP modules that are currently under development. </description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Project Event</dc:subject>
+    
+    
+      <dc:subject>WP3</dc:subject>
+    
+    <dc:date>2016/12/16 19:25:00 GMT+1</dc:date>
+    <dc:type>Event</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/events/fourth-workshop-on-coupling-technologies-for-earth-system-models">
+    <title>Fourth Workshop on Coupling Technologies for Earth System Models</title>
+    <link>https://is.enes.org/archive-1/phase-2/events/fourth-workshop-on-coupling-technologies-for-earth-system-models</link>
+    <description>The Fourth Workshop on Coupling Technologies for Earth System Models (CW2017) will be held on the 20th-22nd of March, 2017 at the Princeton Center for Theoretical Science on the campus of Princeton University, USA. IS-ENES2 contributes to the organisation of this workshop as part of activity carried out in WP3. </description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Project Event</dc:subject>
+    
+    
+      <dc:subject>WP3</dc:subject>
+    
+    <dc:date>2016/09/21 17:15:00 GMT+1</dc:date>
+    <dc:type>Event</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/publications/sharing-experiences-and-outlook-on-coupling-technologies-for-earth-system-models/view">
+    <title>S. Valcke &amp; others, Sharing experiences and outlook on coupling technologies for Earth System Models</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/publications/sharing-experiences-and-outlook-on-coupling-technologies-for-earth-system-models/view</link>
+    <description>S. Valcke, A. Craig, R. Dunlap, and G. D. Riley, 2016. Sharing experiences and outlook on Coupling Technologies for Earth System Models, Bull. Amer. Meteor. Soc., March 2016
+doi:10.1175/BAMS-D-15-00239.1</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Publication</dc:subject>
+    
+    
+      <dc:subject>WP3</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/na2-working-documents">
+    <title>NA2 Working documents</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/na2-working-documents</link>
+    <description>This folder contains working documents drafted by the workpackage team in order to keep trace of the work acheived (reports on results, guides, user lists...)</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Work document</dc:subject>
+    
+    
+      <dc:subject>WP3</dc:subject>
+    
+    <dc:date>2015/01/19 10:55:00 GMT+1</dc:date>
+    <dc:type>Folder</dc:type>
+  </item>
+
+
+
+</rdf:RDF>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+<channel rdf:about="https://is.enes.org/archive-1/phase-2/project/jra1-wp9-multi-model-multi-member-high-resolution-earth-system-models/RSS">
+  <title>JRA1 (WP9): Multi-model, multi-member high resolution Earth System Models</title>
+  <link>https://is.enes.org/archive-1/phase-2/project/jra1-wp9-multi-model-multi-member-high-resolution-earth-system-models</link>
+  <description></description>
+  <image rdf:resource="https://is.enes.org/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/jra1-working-documents/autosubmit-leaflet/view"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/jra1-working-documents/autosubmit-leaflet/view">
+    <title>Autosubmit leaflet</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/jra1-working-documents/autosubmit-leaflet/view</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Work document</dc:subject>
+    
+    
+      <dc:subject>WP9</dc:subject>
+    
+    <dc:date>2016-04-11T13:31:59Z</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+
+</rdf:RDF>

@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+<channel rdf:about="https://is.enes.org/search_rss">
+  <title>IS-ENES 3</title>
+  <link>https://is.enes.org</link>
+
+  <image rdf:resource="https://is.enes.org/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/events/second-european-earth-system-and-climate-modeling-school-2nd-e2scms"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/events/training-on-oasis3-mct-at-cerfacs"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/events/virtual-workshop-on-configuration-management-in-climate-science"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/events/workshop-on-cosp-network-support-and-optimisation"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/events/workshop-on-design-of-scientific-portals"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/events/workshop-on-es-doc-cmip6-issues"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/events/workshop-on-nemo-in-cmip6"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/events/workshops/is-enes3-kick-off-meeting"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/events/second-european-earth-system-and-climate-modeling-school-2nd-e2scms">
+    <title>Second European Earth System and Climate Modeling School: 2nd E2SCMS </title>
+    <link>https://is.enes.org/archive-1/phase-2/events/second-european-earth-system-and-climate-modeling-school-2nd-e2scms</link>
+    <description>The school is launched by the European Network for Earth System modelling (ENES) with support of the FP7 project IS-ENES2 (http://is.enes.org). The Barcelona Supercomputing Center (BSC, Spain) will host the school, which merges two very successful summer schools: the Earth System Modelling School by MPI for Meteorology (MPI-M, http://issmes.enes.org) and the Climate Modelling Summer School of the British National Centre for Atmospheric Science (NCAS, http://ncasweb.leeds.ac.uk/climatesummerschool). Three European models - HAD-GEM, MPI-ESM and EC-Earth - will be employed at the 2nd E2SCMS.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Project Event</dc:subject>
+    
+    <dc:date>2014/05/06 14:30:00 GMT+1</dc:date>
+    <dc:type>Event</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/events/training-on-oasis3-mct-at-cerfacs">
+    <title>Training on OASIS3-MCT at CERFACS</title>
+    <link>https://is.enes.org/archive-1/phase-2/events/training-on-oasis3-mct-at-cerfacs</link>
+    <description>The objectives of this course are to help the participants learn how to use OASIS and install it on their own computing platforms.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Project Event</dc:subject>
+    
+    <dc:date>2014/04/18 10:10:41 GMT+1</dc:date>
+    <dc:type>Event</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/events/virtual-workshop-on-configuration-management-in-climate-science">
+    <title>Virtual Workshop on Configuration Management  in Climate Science. </title>
+    <link>https://is.enes.org/archive-1/phase-2/events/virtual-workshop-on-configuration-management-in-climate-science</link>
+    <description>The workshop will develop a "best practice guide" on Configuration Management (CM). Also, short papers on CM and model build systems will be exchanged electronically.
+Please express an interest to contribute or be a registered reader by emailing Mick Carter (mick.carter@metoffice.gov.uk).</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Project Event</dc:subject>
+    
+    <dc:date>2016/01/22 17:50:00 GMT+1</dc:date>
+    <dc:type>Event</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/events/workshop-on-cosp-network-support-and-optimisation">
+    <title>Workshop on COSP Network Support and Optimisation</title>
+    <link>https://is.enes.org/archive-1/phase-2/events/workshop-on-cosp-network-support-and-optimisation</link>
+    <description>This workshop is related to WP3 activity. The goal is to facilitate the integration and future maintenance of the growing number of COSP modules that are currently under development. </description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Project Event</dc:subject>
+    
+    
+      <dc:subject>WP3</dc:subject>
+    
+    <dc:date>2016/12/16 19:25:00 GMT+1</dc:date>
+    <dc:type>Event</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/events/workshop-on-design-of-scientific-portals">
+    <title>Workshop on design of scientific portals</title>
+    <link>https://is.enes.org/archive-1/phase-2/events/workshop-on-design-of-scientific-portals</link>
+    <description>This meeting was organised jointly by the CLIPC and IS-ENES2 projects.
+
+</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Project Event</dc:subject>
+    
+    <dc:date>2015/01/21 16:35:00 GMT+1</dc:date>
+    <dc:type>Event</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/events/workshop-on-es-doc-cmip6-issues">
+    <title>Workshop  on ES-DOC/CMIP6  issues </title>
+    <link>https://is.enes.org/archive-1/phase-2/events/workshop-on-es-doc-cmip6-issues</link>
+    <description>Under the auspices of ISENES-2, the Earth System Documentation (ES-DOC) project has held a workshop hosted by the Science &amp; Facilities Technology Council in the United Kingdom.  The workshop brought together project partners in order to coordinate ongoing ES-DOC activities in support of CMIP6.  
+
+</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Project Event</dc:subject>
+    
+    
+      <dc:subject>WP11</dc:subject>
+    
+    <dc:date>2016/06/27 11:45:00 GMT+1</dc:date>
+    <dc:type>Event</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/events/workshop-on-nemo-in-cmip6">
+    <title>Workshop  on NEMO in CMIP6</title>
+    <link>https://is.enes.org/archive-1/phase-2/events/workshop-on-nemo-in-cmip6</link>
+    <description>This workshop is jointly organised by the NEMO system team and the IS-ENES2 project to analyse and discuss the preliminary results of NEMO in CMIP6. </description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Project Event</dc:subject>
+    
+    
+      <dc:subject>WP7</dc:subject>
+    
+    
+      <dc:subject>WP1</dc:subject>
+    
+    <dc:date>2017/01/11 10:35:00 GMT+1</dc:date>
+    <dc:type>Event</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/events/workshops/is-enes3-kick-off-meeting">
+    <title>IS-ENES3 Kick-off Meeting</title>
+    <link>https://is.enes.org/events/workshops/is-enes3-kick-off-meeting</link>
+    <description>Kickoff meeeting of the third phase of IS-ENES (2019-2022, 22 partners).  </description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Project Event</dc:subject>
+    
+    
+      <dc:subject>News IS-ENES</dc:subject>
+    
+    <dc:date>2019/01/08 16:35:00 GMT+1</dc:date>
+    <dc:type>Event</dc:type>
+  </item>
+
+
+
+</rdf:RDF>

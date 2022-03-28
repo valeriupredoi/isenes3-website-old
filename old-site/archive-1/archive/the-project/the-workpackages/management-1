@@ -1,0 +1,1323 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><base href="https://is.enes.org/archive-1/archive/the-project/the-workpackages/management-1" /><!--[if lt IE 7]></base><![endif]--><link rel="stylesheet" type="text/css" media="screen" href="https://is.enes.org/portal_css/Sunburst%20Theme/reset-cachekey-e9bd6f3273fbd0c7c9f4df840390c63f.css" /><link rel="stylesheet" type="text/css" href="https://is.enes.org/portal_css/Sunburst%20Theme/base-cachekey-ea702ce66a867dd6372ecc66f032e94f.css" /><link rel="stylesheet" type="text/css" media="screen" href="https://is.enes.org/portal_css/Sunburst%20Theme/resourceplone.app.jquerytools.dateinput-cachekey-3085abc22224c63874892c6c181bc0ca.css" /><style type="text/css" media="screen">@import url(https://is.enes.org/portal_css/Sunburst%20Theme/resourceProducts.Doormat.stylesheetsdoormat-cachekey-81b1ab13b023dd6e98179d326cf4e416.css);</style><style type="text/css" media="screen">@import url(https://is.enes.org/portal_css/Sunburst%20Theme/resourceeasyslider-portlet-cachekey-ca05abde4bd9dd3b4a167aa61d95609d.css);</style><style type="text/css" media="screen">@import url(https://is.enes.org/portal_css/Sunburst%20Theme/resourcefourdigits.portlet.twitter.stylesheetstwitterportlet-cachekey-94aafbb5d567d9526cbcaf4447e0582a.css);</style><link rel="stylesheet" type="text/css" href="https://is.enes.org/portal_css/Sunburst%20Theme/themedkrz.themeenesstylesheetscontent-cachekey-342e5d4944783e1c6a5926aa348aa53e.css" /><script type="text/javascript" src="https://is.enes.org/portal_javascripts/Sunburst%20Theme/resourceplone.app.jquery-cachekey-9053f00138fbd70c03dfcc38bd398be2.js"></script><script type="text/javascript" src="https://is.enes.org/portal_javascripts/Sunburst%20Theme/resourceeasyslider-portlet-cachekey-127c964e1d494ac103b084dd3f03be5b.js"></script><script type="text/javascript" src="https://is.enes.org/portal_javascripts/Sunburst%20Theme/kss-bbb-cachekey-80470048d0f344ea23e780a1fd230b3e.js"></script><script type="text/javascript" src="https://is.enes.org/portal_javascripts/Sunburst%20Theme/++resource++cwx.protectemails.javascripts/jquery.base64.min.js"></script><script type="text/javascript" src="https://is.enes.org/portal_javascripts/Sunburst%20Theme/++resource++cwx.protectemails.javascripts/protectemails.js"></script><script type="text/javascript" src="https://is.enes.org/portal_javascripts/Sunburst%20Theme/resourcecollective.js.momentmoment-cachekey-9766d125c4c2c28894627dc7b3dd6f78.js"></script><title>Management  — IS-ENES 3</title><link rel="canonical" href="https://is.enes.org/archive-1/archive/the-project/the-workpackages/management-1" /><link rel="apple-touch-icon" href="https://is.enes.org/touch_icon.png" /><script type="text/javascript">
+        jQuery(function($){
+            if (typeof($.datepicker) != "undefined"){
+              $.datepicker.setDefaults(
+                jQuery.extend($.datepicker.regional[''],
+                {dateFormat: 'mm/dd/yy'}));
+            }
+        });
+        </script><link rel="search" href="https://is.enes.org/@@search" title="Search this site" /><meta name="viewport" content="width=device-width, initial-scale=0.6666, maximum-scale=1.0, minimum-scale=0.6666" /><meta name="generator" content="Plone - http://plone.org" />
+
+    
+    
+        
+    
+    
+
+    
+
+    
+    <link rel="shortcut icon" type="image/x-icon" href="/++theme++dkrz.themeenes/images/favicon.ico" />
+
+    
+    
+    
+    <script type="text/javascript">
+        try {
+            // This is the URL where mobile
+            detectmobile.defaultMobileURL = "http://m";
+            detectmobile.process();
+        } catch(e) {
+          // Make sure that in the fault modes
+          // we do not interrupt execution of other Javascript code
+        }
+    </script>
+
+    
+    
+    
+    
+    
+
+    
+
+    <link rel="stylesheet" type="text/css" media="screen" href="/++theme++dkrz.themeenes/stylesheets/layout.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="/++theme++dkrz.themeenes/stylesheets/main.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="/++theme++dkrz.themeenes/stylesheets/colors.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="/++theme++dkrz.themeenes/stylesheets/adaptation_isenes2.css" />
+    
+  </head>
+
+  <body class="template-document_view portaltype-document site-ISENES3 section-archive-1 subsection-archive subsection-archive-the-project subsection-archive-the-project-the-workpackages userrole-anonymous colorkey-6" dir="ltr" style="background-color:#808080;"><div id="visual-portal-wrapper" class="shadow">
+      <div class="head-background">
+        <div class="head-wrapper">
+          <div id="portal-top" class="row">
+            <div class="cell width-full position-0">
+              <div id="portal-header">
+                <p class="hiddenStructure">
+                  <a accesskey="2" href="#content">Direkt zum Inhalt</a> |
+                  <a accesskey="6" href="#portlet-navigation-tree">Direkt zur Navigation</a>
+                </p>
+                <!-- begin: --><div id="portal-personaltools-wrapper">
+
+<p class="hiddenStructure">Personal tools</p>
+
+
+
+
+
+</div><!-- :end -->
+                <!-- begin: --><ul id="portal-siteactions">
+
+    <li id="siteaction-sitemap"><a href="https://is.enes.org/sitemap" accesskey="3" title="Site Map">Site Map</a></li>
+    <li id="siteaction-copy_of_contact"><a href="https://is.enes.org/project/privacy-policy" accesskey="" title="Privacy Policy">Privacy Policy</a></li>
+    <li id="siteaction-contact"><a href="https://is.enes.org/project/contact" accesskey="9" title="Contact">Contact</a></li>
+    <li id="siteaction-login"><a href="https://is.enes.org/login" accesskey="" title="Log in">Log in</a></li>
+</ul><!-- :end -->
+                <!-- begin: --><!-- :end -->
+                <!-- begin: --><!-- :end -->
+                <h5 class="hiddenStructure">Sektionen</h5>
+                <div class="menu-wrapper">
+                  <a id="portal-logo" title="IS-ENES 3" accesskey="1" href="https://is.enes.org">
+                  <img src="/++theme++dkrz.themeenes/images_isenes2/logo.png" alt="" title="" height="74" width="300" /></a>
+                  <!-- begin: --><ul id="portal-globalnav"><li id="portaltab-project" class="plain colorkey-1"><a href="https://is.enes.org/project" class="plain" title="About the IS-ENES3 Project">About</a>
+                <ul class="submenu colorkey-1">
+                    <li>
+
+    
+
+        <a href="https://is.enes.org/project/objectives" class="state-published" title="About the aims and objectives of the Project">
+            
+            Objectives
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/project/description-of-work" class="state-published" title="">
+            
+            Description of Work
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/project/partners" class="state-published" title="">
+            
+            Partners
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/project/contact" class="state-published" title="">
+            
+            Contact
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li id="portaltab-events" class="plain colorkey-2"><a href="https://is.enes.org/events" class="plain" title="Site Events">Events</a>
+                <ul class="submenu colorkey-2">
+                    <li>
+
+    
+
+        <a href="https://is.enes.org/events/call-announcements" class="state-published" title="">
+            
+            Call announcements
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/events/trainings-and-education" class="state-published" title="">
+            
+            Trainings and Education
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/events/workshops" class="state-published" title="">
+            
+            Workshops
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li id="portaltab-documents" class="plain colorkey-3"><a href="https://is.enes.org/documents" class="plain" title="IS-ENES3 documents">Documents</a>
+                <ul class="submenu colorkey-3">
+                    <li>
+
+    
+
+        <a href="https://is.enes.org/documents/deliverables" class="state-published" title="">
+            
+            Deliverables
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/documents/milestones" class="state-published" title="List of public reports associated with milestones. ">
+            
+            Milestones
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/documents/publications" class="state-published" title="IS-ENES3 Publications">
+            
+            Publications 
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/documents/presentations" class="state-published" title="Find more IS-ENES3 presentations on our ZENODO community: https://zenodo.org/communities/is-enes3/?page=1&amp;size=20">
+            
+            Presentations
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/documents/is-enes3-reports-and-kpis" class="state-published" title="">
+            
+            IS-ENES3 reports
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/documents/flyers-logos" class="state-published" title="">
+            
+            Flyers &amp; logos 
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/documents/newsletter" class="state-published" title="">
+            
+            Newsletter
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li id="portaltab-ressources" class="plain colorkey-4"><a href="https://is.enes.org/ressources" class="plain" title="">SERVICES</a></li><li id="portaltab-internal" class="plain colorkey-5"><a href="https://is.enes.org/internal" class="plain" title="Internal project collaboration area">Internal</a></li><li id="portaltab-archive-1" class="selected colorkey-6"><a href="https://is.enes.org/archive-1" class="plain" title="">Archive</a>
+                <ul class="submenu colorkey-6">
+                    <li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/archive" class="state-published hasDropDown" title="All the content from the IS-ENES 1 webpage">
+            
+            Phase 1
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/archive/the-project" class="state-published hasDropDown" title="About the IS-ENES Project">
+            
+            Project
+        </a>
+
+        <ul class="submenu navTree navTreeLevel2">
+            
+
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/archive/the-project/aims-and-objectives" class="state-published" title="About the aims and objectives of the project">
+            
+            Objectives
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/archive/the-project/the-partners" class="state-published" title="About the IS-ENES Consortium">
+            
+            Partners
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/archive/the-project/the-workpackages" class="state-published" title="Worpackages table and short description">
+            
+            Description of work
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/archive/the-project/deliverables" class="state-published" title="Here are collected all the deliverables achieved during the project">
+            
+            Deliverables
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/archive/events" class="state-published" title="Site Events">
+            
+            Events
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes" class="state-published hasDropDown" title="">
+            
+            Dissemination Activities
+        </a>
+
+        <ul class="submenu navTree navTreeLevel2">
+            
+
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/dissemination-activities" class="state-published" title="">
+            
+            Publications
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/scientific-publications" class="state-published" title="">
+            
+            Scientific papers
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides" class="state-published" title="">
+            
+            Presentations (Posters &amp; slides)
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/phase-2" class="state-published hasDropDown" title="All the content from the IS-ENES 2 webpage : Description of the project, Events, Dissemination Documents and Services">
+            
+            Phase 2
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/phase-2/project" class="state-published hasDropDown" title="">
+            
+            Project
+        </a>
+
+        <ul class="submenu navTree navTreeLevel2">
+            
+
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/phase-2/project/objectives" class="state-published" title="About the aims and objectives of the Project">
+            
+            Objectives
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/phase-2/project/description-of-work" class="state-published" title="">
+            
+            Description of Work
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/phase-2/project/partners" class="state-published" title="">
+            
+            Partners
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/phase-2/events" class="state-published" title="">
+            
+            Events
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/phase-2/documents" class="state-published hasDropDown" title="">
+            
+            Documents
+        </a>
+
+        <ul class="submenu navTree navTreeLevel2">
+            
+
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/phase-2/documents/deliverables" class="state-published" title="">
+            
+            Deliverables
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/phase-2/documents/milestones" class="state-published" title="List of public reports associated with milestones. ">
+            
+            Milestones
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/phase-2/documents/publications" class="state-published" title="IS-ENES2 Publications">
+            
+            Publications
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/phase-2/documents/presentations" class="state-published" title="Slides presenting the IS-ENES2 project">
+            
+            Presentations
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/phase-2/documents/contractual-documents" class="state-published" title="">
+            
+            IS-ENES2 reports
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/phase-2/documents/flyers" class="state-published" title="">
+            
+            Flyers &amp; logos
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/phase-2/documents/newsletters" class="state-published" title="IS-ENES2 informs on project activities and community news">
+            
+            Newsletter
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/phase-2/ressources" class="state-published" title="">
+            
+            SERVICES
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+                </ul>
+            </li></ul>
+                </div><!-- :end -->
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="portal-shadow">
+        <div id="portal-columns" class="row">
+          <div id="portal-headimage"></div>
+          <div class="visualClear"></div>
+          <div id="portal-column-content" class="cell width-3:4 position-1:4">
+            <div id="viewlet-above-content">
+              <!-- begin: --><div id="portal-breadcrumbs">
+
+    <span id="breadcrumbs-you-are-here">You
+are here:</span>
+    <span id="breadcrumbs-home">
+        <a href="https://is.enes.org">Home</a>
+        <span class="breadcrumbSeparator">
+            »
+            
+        </span>
+    </span>
+    <span id="breadcrumbs-1" dir="ltr">
+        
+            <a href="https://is.enes.org/archive-1">Archive</a>
+            <span class="breadcrumbSeparator">
+                »
+                
+            </span>
+            
+         
+    </span>
+    <span id="breadcrumbs-2" dir="ltr">
+        
+            <a href="https://is.enes.org/archive-1/archive">Phase 1</a>
+            <span class="breadcrumbSeparator">
+                »
+                
+            </span>
+            
+         
+    </span>
+    <span id="breadcrumbs-3" dir="ltr">
+        
+            <a href="https://is.enes.org/archive-1/archive/the-project">Project</a>
+            <span class="breadcrumbSeparator">
+                »
+                
+            </span>
+            
+         
+    </span>
+    <span id="breadcrumbs-4" dir="ltr">
+        
+            <a href="https://is.enes.org/archive-1/archive/the-project/the-workpackages">Description of work</a>
+            <span class="breadcrumbSeparator">
+                »
+                
+            </span>
+            
+         
+    </span>
+    <span id="breadcrumbs-5" dir="ltr">
+        
+            
+            
+            <span id="breadcrumbs-current">Management </span>
+         
+    </span>
+
+</div><!-- :end -->
+              <!-- begin: ><div id="plone-lock-status">  
+                <dl class="portalMessage info">
+                  <dt>Gesperrt</dt>
+                  <dd>
+                    Dieser Artikel wurde von <a
+                    href="index.html/author/test123">test123</a>
+                    vor <span>1 Minute</span> gesperrt.
+                    <form action="index.html/@@plone_lock_operations/force_unlock">
+                      <span>Wenn Sie sicher sind, dass dieser Benutzer
+                      den Artikel nicht mehr bearbeitet, k&#246;nnen Sie den
+                      Artikel <input type="submit" value="Entsperren" />
+                      und bearbeiten.</span>
+                    </form>
+                  </dd>
+                </dl>
+              </div><:end -->
+            </div>
+            <div>
+              <!-- begin: --><!--dl class="portalMessage info" id="kssPortalMessage">
+                <dt>Information</dt>
+                <dd>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed
+                diam nonumy eirmod tempor invidunt ut labore et dolore magna
+                aliquyam erat, sed diam voluptua.</dd>
+              </dl--><!-- :end -->
+              <div id="content"><dl class="portalMessage info" id="kssPortalMessage" style="display:none">
+        <dt>Info</dt>
+        <dd></dd>
+    </dl><!-- begin:  
+                <dl class="portalMessage">
+                  <dt>Gesperrt</dt>
+                  <dd>
+                    Dieser Artikel wurde von <a
+                    href="index.html/author/test123">test123</a>
+                    vor <span>1 Minute</span> gesperrt.
+                    <form action="index.html/@@plone_lock_operations/force_unlock">
+                      <span>Wenn Sie sicher sind, dass dieser Benutzer
+                      den Artikel nicht mehr bearbeitet, k&#246;nnen Sie den
+                      Artikel <input type="submit" value="Entsperren" />
+                      und bearbeiten.</span>
+                    </form>
+                  </dd>
+                </dl>--><!-- :end --><div id="viewlet-above-content-title"></div><!-- begin: --><h1 id="parent-fieldname-title" class="documentFirstHeading">
+                    Management 
+                </h1><!-- :end --><div id="viewlet-below-content-title">
+                  <!-- begin: --><!-- :end -->
+                </div><!-- begin: --><!-- :end --><div id="viewlet-above-content-body">
+                  <!-- begin: --><!-- :end -->
+                  <!-- begin: --><!-- :end -->
+                </div><!-- begin: --><div id="content-core">
+                                 
+    
+        
+        <div class="" id="parent-fieldname-text-23e4f13a0b1f0da8fbcbe992072d6d5e">
+            
+<p> </p>
+<h3><a title="The Coordinator" href="#the-coordinator">The Coordinator</a></h3>
+<div align="left">
+<table class="plain">
+<tbody>
+<tr>
+<td>
+<p>The
+<strong>Coordinator </strong>is the legal entity acting as the intermediary between the Parties
+and the European Commission. <br />The Coordinator will, in addition to its
+responsibilities as a Party, perform the tasks assigned to it as it is
+described in <br />the Grant Agreement and the Consortium Agreement.</p>
+<p>The
+Coordinator is responsible for the adherence to the contractual obligations in
+all activities of the Project, including <br />prompt delivery of all reports and
+deliverables required by the European Commission.</p>
+<p>In
+particular, the Coordinator will be responsible for:</p>
+<ul><li>monitoring
+compliance by the Parties with their obligations,</li></ul>
+<ul><li>keeping the
+address list of members and other contact persons updated and available
+collecting,</li></ul>
+<ul><li>reviewing
+to verify consistency and submitting reports and other deliverables (including
+financial statements and <br />related certifications) to the European Commission,</li></ul>
+<ul><li>transmitting
+documents and information connected with the Project.</li></ul>
+<p>The
+Coordinator will take care of changes in contact information, and any other
+Parties concerned administering the <br />Community financial contribution and
+fulfilling the financial tasks providing, upon request, the Parties with
+official copies <br />or originals of documents which are in the sole possession of
+the Coordinator when such copies or originals are necessary <br />for the Parties to
+present claims. The Coordinator will implement and monitor the Gender Action
+Plan described in section 5.</p>
+<p>The
+Coordinator will represent the Consortium in the outside world.</p>
+</td>
+<td>
+<div align="center"> </div>
+<p align="center"><img src="https://is.enes.org/archive-1/archive/images/sylvie%20joussaume.jpg/image_preview" title="Sylvie JOUSSAUME" height="209" width="148" alt="Sylvie JOUSSAUME" class="image-inline" /></p>
+<p align="left">Dr. Sylvie
+  JOUSSAUME</p>
+<div align="left"> </div>
+Organisation:
+  CNRS-IPSL
+<div align="left"> </div>
+<p align="left"><a class="cwxprotectemails external-link" href="[Email protection active, please enable JavaScript.]" data-cwxprotectemails-1="href|bWFpbHRvOnN5bHZpZS5qb3Vzc2F1bWVAbHNjZS5pcHNsLmZy&#10;"><span class="cwxprotectemails" data-cwxprotectemails-0="c3lsdmllLmpvdXNzYXVtZUBsc2NlLmlwc2wuZnI=&#10;">[Email protection active, please enable JavaScript.]</span></a></p>
+<p align="left">Phone: +33
+  (1) 68 08 56 74</p>
+<div align="center">
+<div align="left">Fax: +33 (1) 69 08 30</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p> </p>
+<h3><a title="The Technical Coordinator" href="#the-technical-coordinator">The Technical Coordinator</a><br /></h3>
+<table class="plain">
+<tbody>
+<tr>
+<td>
+<p>The <strong>technical coordinator</strong> will coordinate the technical aspects of the infrastructure.</p>
+<p align="justify">The Coordinator has proposed to strengthen the coordination by defining a Technical Coordination.</p>
+<ul><li>
+The Technical Coordinator will coordinate the 
+technical aspects of the infrastructure such as:</li></ul>
+<ul><li>the IS-ENES portal, </li></ul>
+<ul><li>the 
+interaction with supercomputing centres and industry, </li></ul>
+<ul><li>and the use of ICT
+ technologies. </li></ul>
+<br />He will also help implementing the IS-ENES web site and 
+develop the use of e-collaboration tools.                                <br /></td>
+<td>
+<p><img src="https://is.enes.org/archive-1/archive/images/Reinhard%20Budich.jpg/image_preview" alt="Reinhard BUDICH" class="image-inline" title="Reinhard BUDICH" /></p>
+Dr. Reinhard G. BUDICH<br />Organisation: MPIMet<br /><br /><a class="cwxprotectemails external-link" href="[Email protection active, please enable JavaScript.]" data-cwxprotectemails-1="href|bWFpbHRvOnJlaW5oYXJkLmJ1ZGljaEB6bWF3LmRl&#10;"><span class="cwxprotectemails" data-cwxprotectemails-0="cmVpbmhhcmQuYnVkaWNoQHptYXcuZGU=&#10;">[Email protection active, please enable JavaScript.]</span> </a><br /><br />Phone: +49 40 41173 369<br />
+Fax: +49 40 41173 616  <br /></td>
+</tr>
+</tbody>
+</table>
+<table class="plain">
+<tbody>
+<tr></tr>
+</tbody>
+</table>
+<table class="plain">
+<tbody>
+<tr></tr>
+</tbody>
+</table>
+ 
+<h3><a title="The Work Package Leaders" name="the-work-package-leaders" href="#the-work-package-leaders" id="the-work-package-leaders">The Work Package Leaders</a><strong></strong><br /></h3>
+<table class="plain">
+<tbody>
+<tr>
+<td>
+<p>The WPL are in charge of the coordination of activities inside their 
+Work Package and achieving the goals set in the work plan. Each Work 
+Package Leader is in charge of the
+coordination of activities inside their Work Package and achieving the
+goals set in the work plan.</p>
+<p>IS-ENES has also designated Work
+Package Co-Leaders that will help the Work Package leaders in the
+coordination of their activities. They will also supplement the Work
+Package leaders at meetings or teleconference if they are available.They
+ will help with the reports. <br /><br />They will also ensure the link between the 
+different WP activities.</p>
+</td>
+<td>
+<table class="vertical listing">
+<thead>
+<tr>
+<th align="center">WP Number</th>
+<th align="center">WP Leader </th>
+<th align="center">WP Co-Leader<br /></th>
+</tr>
+<tr>
+<td align="left">WP1/Coord<br /></td>
+<td align="center">Sylvie JOUSSAUME (CNRS - IPSL)<br /></td>
+<td align="center">Reinhard BUDICH (MPG/MPIMet)<br /></td>
+</tr>
+<tr>
+<td align="center">WP2/NA1<br /></td>
+<td align="center">Sylvie JOUSSAUME (CNRS - IPSL)</td>
+<td align="center">Jochem MAROTZKE (MPG/MPIMet)<br /></td>
+</tr>
+<tr>
+<td align="center">WP3/NA2<br /></td>
+<td align="center">Joachim BIERCAMP (DKRZ)<br /></td>
+<td align="center">Giovanni ALOISO (CMCC)<br /></td>
+</tr>
+<tr>
+<td align="center">WP4/NA3<br /></td>
+<td align="center">Sophie VALCKE (CERFACS)<br /></td>
+<td align="center">Marie-Alice FOUJOLS (CNRS - IPSL)<br /></td>
+</tr>
+<tr>
+<td align="center">WP5/SA1<br /></td>
+<td align="center">Johan SILEN (FMI)<br /></td>
+<td align="center">Joachim BIERCAMP (DKRZ)</td>
+</tr>
+<tr>
+<td align="center">WP6/SA2<br /></td>
+<td align="center">Michael LAUTENSCHLAGER (MPG/M&amp;D)<br /></td>
+<td align="center">Martin JUCKES (STFC)<br /></td>
+</tr>
+<tr>
+<td align="center">WP7/JRA1<br /></td>
+<td align="center">Steve MULLERWORTH (METOFFICE)<br /></td>
+<td align="center">Graham RILEY (UNIMAN)<br /></td>
+</tr>
+<tr>
+<td align="center">WP8/JRA2<br /></td>
+<td align="center">Graham RILEY (UNIMAN)</td>
+<td align="center">Steve MULLERWORTH (METOFFICE)</td>
+</tr>
+<tr>
+<td align="center">WP9/JRA3<br /></td>
+<td align="center">George TSELIOUDIS (AA)<br /></td>
+<td align="center">Michael SCHULZ (CNRS - IPSL)<br /></td>
+</tr>
+<tr>
+<td align="center">WP10/JRA4<br /></td>
+<td align="center">Martin JUCKES (STFC)<br /></td>
+<td align="center">Michael LAUTENSCHLAGER (MPG/M&amp;D)</td>
+</tr>
+<tr>
+<td align="center">WP11/JRA5<br /></td>
+<td align="center">Christian PAGE &amp; Laurent TERRAY (CERFACS)<br /></td>
+<td align="center">Pascale BRACONNOT (CNRS - IPSL)<br /></td>
+</tr>
+</thead>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<h3><a title="The Executive Board" href="#the-executive-board">The Executive Board</a><br /></h3>
+<p> </p>
+
+<p style="text-align: justify;">The Executive Board is the supervisory body for
+the execution of the Project which will report to and be accountable to the
+General Assembly.</p>
+<p style="text-align: justify;">The Executive Board will consist of the
+Coordinator, the Technical Coordinator, and all of the Work Package Leaders as
+appointed by the General Assembly. The Coordinator will chair all meetings of
+the Executive Board, unless decided otherwise.</p>
+<p style="text-align: justify;">The Executive Board will prepare the meetings,
+propose decisions and prepare the agenda of the General Assembly. The Executive
+Board will be responsible for the proper execution and implementation of the
+decisions of the General Assembly. It shall seek a consensus among the Parties.
+The Executive Board will monitor the effective and efficient implementation of
+the Project. In addition, the Executive Board will collect information at least
+every 6 months on the progress of the Project, examine that information to
+assess the compliance of the Project with the work plan and, if necessary,
+propose modifications of the work plan to the General Assembly.</p>
+<p style="text-align: justify;">The Executive Board will:</p>
+<ul><li>initiate and coordinate the Work Packages,</li></ul>
+<ul><li>support the Coordinator and the European Project Manager in preparing meetings
+with the European Commission and in preparing related data and deliverables,</li></ul>
+<ul><li> prepare the content and timing of press releases and joint publications by the
+Consortium or proposed by the European Commission.</li></ul>
+<p style="text-align: justify;">In the case of abolished tasks as a result of a
+decision of the General Assembly, the Executive Board will advise the General
+Assembly on ways to rearrange tasks and budgets of the Parties concerned. Such
+rearrangement will take into consideration the legitimate commitments taken
+prior to the decisions, which cannot be cancelled.</p>
+<p style="text-align: justify;"> </p>
+<h3 style="text-align: justify;"><a title="The Scientific Advisory Board" href="#the-scientific-advisory-board">The Scientific Advisory Board</a></h3>
+<p> </p>
+<p>The Scientific Advisory Board will advise the General Assembly and the Coordinator on scientific issues. It will provide a general 
+guidance to the project. In particular, it will advise the General 
+Assembly and the Coordinator on the overall programme of activities and 
+on its insertion in the international programmes (WCRP and IGBP). The 
+Scientific Advisory Board will be involved in the WP2 on the strategy 
+aspects of the ENES community.</p>
+<p style="text-align: justify;">The Scientific Advisory Board shall consist of senior
+ individuals with relevant technical and scientific expertise and 
+experience in the field. IS-ENES will look for synergy with the ENES 
+Scientific Board.</p>
+<ul><li>
+<p><strong>Composition of the </strong><strong>Scientific Advisory Board:</strong></p>
+<p align="left">       - Guy P. BRASSEUR, NCAR, USA<br />       - Timothy N. PALMER, ECMWF, UK<br />       - Christoph HEINZE, BCCR, NO<br />       - Cecilia DELUCA, NCAR, USA<br />       - Filipo GIORGI, ICTP, IT</p>
+</li></ul>
+<p> </p>
+<h3><a title="The General Assembly" name="the-general-assembly" href="#the-general-assembly" id="the-general-assembly">The General Assembly</a></h3>
+<p> </p>
+The General Assembly will be the ultimate decision-making body of the Consortium. The GA is the decision-making body of 
+the Consortium. Decision power will extend to all important issues, in 
+particular:
+<p align="justify">       * research strategies, in cooperation with the Scientific Advisory Board,<br />       * significant modification of the work plan such as the rescheduling or abandon of a task,<br />       * all budget-related matters,<br />       * acceptance and/or exclusion of new participants,<br />       * implementation or modification of the consortium agreement,<br />       * approval of reports of the Coordinator.</p>
+<p>The General Assembly will consist of one 
+representative of each Party. The Coordinator will chair all meetings of
+ the General Assembly, unless otherwise decided by the General Assembly.</p>
+<p> </p>
+<h3><a title="The European Project Manager" name="the-european-project-manager" href="#the-european-project-manager" id="the-european-project-manager">The European Project Manager</a></h3>
+<p> </p>
+The EPM will help the Coordinator in its coordination tasks.
+<p align="left">Marie GARCIA <br />Organisation: CNRS-IPSL<br /><a class="cwxprotectemails external-link" href="[Email protection active, please enable JavaScript.]" data-cwxprotectemails-1="href|bWFpbHRvOm1hcmllLmdhcmNpYUBsc2NlLmlwc2wuZnI=&#10;"><span class="cwxprotectemails" data-cwxprotectemails-0="bWFyaWUuZ2FyY2lhQGxzY2UuaXBzbC5mcg==&#10;">[Email protection active, please enable JavaScript.]</span></a><br /><br />Phone: +33 1 69 08 85 95<br />Fax: +33 1 69 08 30 73</p>
+<div align="center"> </div>
+<p align="center"> </p>
+
+            
+        </div>
+    
+    
+
+                             </div><!-- :end --><div id="viewlet-below-content-body">
+                  <!-- begin: --><!-- :end -->
+                <div class="visualClear"></div>
+                <!-- begin: --> <!--div class="documentActions"> braucht kein Mensch .- oder?!
+                  <h5 class="hiddenStructure">Artikelaktionen</h5>
+                  <ul>
+                    <li id="document-action-print">
+                      <a href="javascript:this.print();" title="">Drucken</a>
+                    </li>
+                  </ul>
+                </div--><!-- :end -->
+                </div></div>
+            </div>
+            <div id="viewlet-below-content">
+              <!-- begin: --><!-- :end -->
+              <!-- begin: --><!-- :end -->
+              <div class="row">
+                <!-- begin: --><!-- :end -->
+              </div>
+              <!-- begin: --><!-- :end -->
+            </div>
+          </div>
+          <!-- begin: --><div id="portal-column-one" class="cell width-1:4 position-0">
+            
+                
+<div class="portletWrapper" data-portlethash="706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f4953454e4553332f617263686976652d310a6e617669676174696f6e" id="portletwrapper-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f4953454e4553332f617263686976652d310a6e617669676174696f6e">
+<dl class="portlet portletNavigationTree">
+
+    <dt class="portletHeader hiddenStructure">
+        <span class="portletTopLeft"></span>
+        <a href="https://is.enes.org/sitemap" class="tile">Navigation</a>
+        <span class="portletTopRight"></span>
+    </dt>
+
+    <dd class="portletItem lastItem">
+        <ul class="navTree navTreeLevel0">
+            <li class="navTreeItem navTreeTopNode nav-section-archive">
+                <div>
+                   <a href="https://is.enes.org/archive-1" class="contenttype-folder" title="">
+                   
+                   
+                   Archive
+                   </a>
+                </div>
+            </li>
+            
+
+
+
+<li class="navTreeItem visualNoMarker navTreeItemInPath navTreeFolderish section-archive">
+
+    
+
+
+        <a href="https://is.enes.org/archive-1/archive" class="state-published navTreeItemInPath navTreeFolderish contenttype-folder" title="All the content from the IS-ENES 1 webpage">
+            
+            <span>Phase 1</span>
+        </a>
+
+    <ul class="navTree navTreeLevel1">
+        
+
+
+
+<li class="navTreeItem visualNoMarker navTreeItemInPath navTreeFolderish section-the-project">
+
+    
+
+
+        <a href="https://is.enes.org/archive-1/archive/the-project" class="state-published navTreeItemInPath navTreeFolderish contenttype-folder" title="About the IS-ENES Project">
+            
+            <span>Project</span>
+        </a>
+
+    <ul class="navTree navTreeLevel2">
+        
+
+
+
+<li class="navTreeItem visualNoMarker section-aims-and-objectives">
+
+    
+
+
+        <a href="https://is.enes.org/archive-1/archive/the-project/aims-and-objectives" class="state-published contenttype-document" title="About the aims and objectives of the project">
+            
+            <span>Objectives</span>
+        </a>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-the-partners">
+
+    
+
+
+        <a href="https://is.enes.org/archive-1/archive/the-project/the-partners" class="state-published navTreeFolderish contenttype-folder" title="About the IS-ENES Consortium">
+            
+            <span>Partners</span>
+        </a>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeItemInPath navTreeFolderish section-the-workpackages">
+
+    
+
+
+        <a href="https://is.enes.org/archive-1/archive/the-project/the-workpackages" class="state-published navTreeItemInPath navTreeFolderish contenttype-folder" title="Worpackages table and short description">
+            
+            <span>Description of work</span>
+        </a>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-deliverables">
+
+    
+
+
+        <a href="https://is.enes.org/archive-1/archive/the-project/deliverables" class="state-published navTreeFolderish contenttype-topic" title="Here are collected all the deliverables achieved during the project">
+            
+            <span>Deliverables</span>
+        </a>
+
+    
+    
+</li>
+
+
+
+
+    </ul>
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-events">
+
+    
+
+
+        <a href="https://is.enes.org/archive-1/archive/events" class="state-published navTreeFolderish contenttype-folder" title="Site Events">
+            
+            <span>Events</span>
+        </a>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-dissemination-documents-about-is-enes">
+
+    
+
+
+        <a href="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes" class="state-published navTreeFolderish contenttype-folder" title="">
+            
+            <span>Dissemination Activities</span>
+        </a>
+
+    
+    
+</li>
+
+
+
+
+    </ul>
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-phase-2">
+
+    
+
+
+        <a href="https://is.enes.org/archive-1/phase-2" class="state-published navTreeFolderish contenttype-folder" title="All the content from the IS-ENES 2 webpage : Description of the project, Events, Dissemination Documents and Services">
+            
+            <span>Phase 2</span>
+        </a>
+
+    
+    
+</li>
+
+
+
+
+        </ul>
+        <span class="portletBottomLeft"></span>
+        <span class="portletBottomRight"></span>
+    </dd>
+</dl>
+
+</div>
+
+<div class="portletWrapper" data-portlethash="706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f4953454e4553332f617263686976652d310a706f72746c65745f737461746963" id="portletwrapper-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f4953454e4553332f617263686976652d310a706f72746c65745f737461746963"><div class="portletStaticText portlet-static-logos"><p><a href="http://www.europa.eu/"> <img src="https://is.enes.org/images-1/flag_eu.png" alt="flag_eu.png" class="image-inline" title="flag_eu.png" /> </a> <a href="http://cordis.europa.eu/fp7"> <img src="https://is.enes.org/images-1/FP7-cap-RGB.gif" alt="FP7-cap-RGB_h40px.gif" class="image-inline" title="FP7-cap-RGB_h40px.gif" /> </a></p></div>
+
+</div>
+
+
+
+
+            
+        </div><!-- :end -->
+          <!-- begin: --><!-- :end -->
+        </div>
+      </div>
+      <!--div class="portal-shadow-bottom cell width-full position-0"></div-->
+      <div class="portal-shadow-bottom row"></div>
+      <div class="portal-bottom-wrapper row">
+        <div class="cell width-full position-0">
+          <div class="portal-bottom-margin">
+              <!-- begin: --><div id="portal-colophon">
+              <div class="colophonWrapper">
+              <span>© Copyright ENES Portal 2011</span>
+              </div>
+            </div><!-- :end -->   
+            <!-- begin: --><div id="doormat-container" class="columns-1">
+
+  
+  <div class="doormatColumn column-0">
+    
+    <dl class="doormatSection">
+      
+      <dd class="doormatSectionBody">
+        
+        <p class=" "><a href="http://www.europa.eu/"> <img src="https://is.enes.org/images-1/flag_eu.png" alt="flag_eu.png" class="image-left" title="flag_eu.png" /> </a></p>
+<p class=" "> </p>
+<p class=" ">IS-ENES3 has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 824084</p>
+      </dd>
+    </dl>
+  </div>
+</div><!-- :end -->
+          </div>
+        </div>
+
+        <!-- begin: --><!-- :end -->
+        
+     
+      </div>
+    </div></body>
+</html>

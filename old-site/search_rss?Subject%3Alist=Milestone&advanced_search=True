@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+<channel rdf:about="https://is.enes.org/search_rss">
+  <title>IS-ENES 3</title>
+  <link>https://is.enes.org</link>
+
+  <image rdf:resource="https://is.enes.org/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms11-8_review-climate4impact-services-and-objectives/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms11-7_integration-of-services-for-indices-and-averaging/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms11-5_review-requirements-and-resources-for-pre-computed-products/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms11-3_revised-generic-questionnaire-s-w-package-available/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms11-2_web-processing-services-report-on-synergies-between-task-1-and-3/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms11-1_monitoring-system-and-dashboard-design-document/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms10-5_benchmark-versions-of-icon/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms10-4_implementation-of-the-benchmark-suite-for-evaluation-of-coupling-strategies/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms10-3_kernels-extracted-from-icon-and-nemo/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms10-2_benchmark-version-of-the-four-coupled-models/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms10-1_definition-of-the-benchmark-suite-for-evaluation-of-coupling-strategies/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms9-9_release-of-autosubmit-to-the-enes-community-through-a-gnu-license/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms9-8_new-i-o-server-release/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms9-7_model-interface-updates-for-compliance-with-new-oasis-coupler/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms9-6_new-cdi-release-with-i-o-developments-from-is-enes1-and-icomex/view"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms11-8_review-climate4impact-services-and-objectives/view">
+    <title>IS-ENES2_MS11.8_Review CLIMATE4IMPACT services and objectives</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms11-8_review-climate4impact-services-and-objectives/view</link>
+    <description>The climate4impact portal exposes several services to the impact user communities. This document aims at consolidating the climate4impact objectives with respect to the user needs, linking them to the services the portal provides. A complete description of those services is provided here, along with their philosophy and their intended use.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>WP11</dc:subject>
+    
+    
+      <dc:subject>Milestone</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms11-7_integration-of-services-for-indices-and-averaging/view">
+    <title>IS-ENES2_MS11.7_Integration of services for indices and averaging</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms11-7_integration-of-services-for-indices-and-averaging/view</link>
+    <description>The climate4impact portal data processing facilities is extended with services for indices and averaging of any data accessible in ESGF, via OpenDAP URL or uploaded to climate4impact (data must be NetCDF and CF compliant).
+The services are facilitated by the ICCLIM software package, wrapped in pyWPS services to provide a standardized web interface. The services are integrated in the climate4impact portal and available after login.
+Next step is to provide a more user friendly ‘wizard’ style web interface for the end users.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Milestone</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms11-5_review-requirements-and-resources-for-pre-computed-products/view">
+    <title>IS-ENES2_MS11.5_Review requirements and resources for pre-computed products </title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms11-5_review-requirements-and-resources-for-pre-computed-products/view</link>
+    <description>Pre-computed products will be generated and provided through the climate4impact portal. Though most of the products delivered by climate4impact will be on-demand with an interactive interface, some products will still be pre-computed notably through a tight collaboration with the FP7 CLIPC project. This short report mainly describes the standard requirements for the pre-computed products, along with the hardware characteristics that are needed.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Milestone</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms11-3_revised-generic-questionnaire-s-w-package-available/view">
+    <title>IS-ENES2_MS11.3_Revised generic questionnaire s/w package available</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms11-3_revised-generic-questionnaire-s-w-package-available/view</link>
+    <description>The es-doc system needs tools to create, maintain, and view content. For CMIP5, content was mainly provided by utilizing the “CMIP5 questionnaire”, a python tool using Django and deployed at CEDA. The original objective in IS-ENES2 was to update and extend this tool to support a new version of the CIM, CIM2.0. However, after extensive discussion amongst the international es-doc partners, it was decided to establish at least three different routes for
+content creation in the CMIP6 era: (1) a new questionnaire, to be built from the ground up by NOAA, (2) a method based on using python scripts to directly inject content, and (3) a new tool which could run standalone on a desktop. This latter tool, now called “the notebook” was to be used for content creation during testing and development, and might play a role post and/or outside CMIP6. IS-ENES2 took on responsibility for methods (2) and
+(3). The second method, based on the “pyesdoc” framework, will be described elsewhere, but because the notebook became the route for CIM2 development, the software associated with the notebook has become the key milestone for IS-ENES2. This milestone briefly describes the relevant software package and it’s availability.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>WP11</dc:subject>
+    
+    
+      <dc:subject>Milestone</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms11-2_web-processing-services-report-on-synergies-between-task-1-and-3/view">
+    <title>IS-ENES2_MS11.2_Web processing services: report on synergies between task 1 and 3 </title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms11-2_web-processing-services-report-on-synergies-between-task-1-and-3/view</link>
+    <description>The Open Geospatial Consortium (OGC) Web Processing Service (WPS) protocol provides a broad inter-disciplinary standard for implementing processing services. That is, it provides a protocol whereby requests for processing activity on a server can be submitted remotely.
+Most users of such service will not interact with them directly, but instead go through a client which takes input from a user interface and submits requests to the WPS itself. In this configuration, the WPS protocol provides a means of maintaining a clean separation between the client handling communication with the user and the server dealing with structured processing requests.
+Because of the breadth of scope of the OGC WPS standard, there are many options for implementation. IS-ENES has contributed to development of 3 WPS implementations at DKRZ, KNMI and STFC. The 3 implementations are influenced by a range of differing requirements and institutional constraints.
+This report aims to support the development of these services and their integration into a
+harmonised service or bundle of servers.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>WP11</dc:subject>
+    
+    
+      <dc:subject>Milestone</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms11-1_monitoring-system-and-dashboard-design-document/view">
+    <title>IS-ENES2_MS11.1_Monitoring system and dashboard design document </title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms11-1_monitoring-system-and-dashboard-design-document/view</link>
+    <description>This document is part of WP11/JRA3 "Developing software infrastructure for data archive services" and its purpose is to provide a comprehensive view of the design phase of the Federated Archive System Monitoring (FASM) package. This service will be composed of the FASM-N module, responsible for collecting and storing a high volume of heterogeneous metrics, and the FASM-D module, which will provide the user with a dashboard including local (node-level) and global (federation-level) views, aggregated statistics and monitoring information.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Milestone</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms10-5_benchmark-versions-of-icon/view">
+    <title>IS-ENES2_MS10.5_Benchmark version of ICON </title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms10-5_benchmark-versions-of-icon/view</link>
+    <description>According to the proposed working plan, the ICON benchmark has been made available.
+Instructions on running the benchmark and evaluation of results as well as the performance reference for two different HPC systems are provided.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>WP10</dc:subject>
+    
+    
+      <dc:subject>Milestone</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms10-4_implementation-of-the-benchmark-suite-for-evaluation-of-coupling-strategies/view">
+    <title>IS-ENES2_MS10.4_Implementation of the benchmark suite for evaluation of coupling strategies</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms10-4_implementation-of-the-benchmark-suite-for-evaluation-of-coupling-strategies/view</link>
+    <description>This milestone is linked to the WP10 task 3 « Evaluation of coupling strategies ». The
+intention of this task is to define and implement a suite of coupled benchmarks based on
+simplified model components that capture the essence of the coupling challenges in climate
+models without the complexities of the science. After having defined the main features of
+the benchmark suite in M10.1, we detail here the test cases that will, in a first step,
+practically implement the benchmark suite and we report on the part of these test cases that
+have been already coded by the different partners. In a next step, the test cases chosen will
+be run on different computing platforms and analysed to compare key characteristics of few
+coupling technologies.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>WP10</dc:subject>
+    
+    
+      <dc:subject>Milestone</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms10-3_kernels-extracted-from-icon-and-nemo/view">
+    <title>IS-ENES2_MS10.3_Kernels extracted from ICON and NEMO </title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms10-3_kernels-extracted-from-icon-and-nemo/view</link>
+    <description>The document reports the instructions to run a representative NEMO kernel on HPC systems and related benchmark results on the CMCC iDataPlex system. The kernel has been extracted as mini-app and does not require the installation of additional libraries to be executed. The kernel code and an example of the script needed to run the mini-app, are available for download at the following link https://redmine.dkrz.de/projects/nemo-kernels/files.
+The ICON code has been constantly and considerably evolving during recent years. Especially a major re-factoring of the code structure has been ongoing (outside of the IS-ENES project) to considerably improve code quality and scalability. We therefore decided to first release the full ICON benchmark (Task 10.2b) which will be based on the re-factored version. Based on profiling of this benchmark - which can be considered as sufficiently representative for a production version of ICON - MPG and DKRZ will then decide on the options for extracting meaningful kernels and to define a light weight "mini app".</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>WP10</dc:subject>
+    
+    
+      <dc:subject>Milestone</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms10-2_benchmark-version-of-the-four-coupled-models/view">
+    <title>IS-ENES2_MS10.2_Benchmark version of the four coupled models</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms10-2_benchmark-version-of-the-four-coupled-models/view</link>
+    <description>Following the documentation on benchmarking framework (D10.1) different benchmarks have been described on https://verc.enes.org/pa. The web portal has been created and is operated by participants of WP10/JRA2 of the IS-ENES2 project. This document presents some pages extracted from the website to illustrate the main achievements related to the Milestone M10.2: Benchmark version of the four coupled models..</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Milestone</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms10-1_definition-of-the-benchmark-suite-for-evaluation-of-coupling-strategies/view">
+    <title>IS-ENES2_MS10.1_Benchmark definition for evaluation of coupling strategies</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms10-1_definition-of-the-benchmark-suite-for-evaluation-of-coupling-strategies/view</link>
+    <description>The first steps of the WP10 task 3 « Evaluation of coupling strategies » have been achieved as reported in this document. First, a series of mindmaps gathering the characteristics of the coupling technologies themselves but also the characteristics of the components and of the coupled model supported by the coupling technology was produced. Then coupling characteristics to benchmark in priority have been identified. Finally, a benchmark suite for evaluation of coupling strategies has been defined and is detailed here. It will consist of a number of pre-coded, stand-alone components running on different grids, a number of coupling configurations between these components, and a list of test cases that the different partners commit to implement.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Milestone</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms9-9_release-of-autosubmit-to-the-enes-community-through-a-gnu-license/view">
+    <title>IS-ENES2_MS9.9_Release of Autosubmit to the ENES community through a GNU license </title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms9-9_release-of-autosubmit-to-the-enes-community-through-a-gnu-license/view</link>
+    <description>Autosubmit is a python tool to create, manage and monitor experiments by using computing resources available at computing clusters and supercomputers. It offers support for experiments running in more than one platform and for different workflow configurations. Autosubmit manages the submission of jobs to queue scheduler remotely via ssh, until there is no job left to be run. Additionally, it also provides features to suspend, resume, restart and extend similar experiment at a later stage. Autosubmit includes a general-purpose wrapper that packs multi-member simulations into a single executable with suitable job control.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Milestone</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms9-8_new-i-o-server-release/view">
+    <title>IS-ENES2_MS9.8_New I/O server release </title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms9-8_new-i-o-server-release/view</link>
+    <description>XIOS 2 has now more than one year development and is now suitable to be used into models. Development has been focused on new internal design, enabling more easily the implementation of new functionalities. We think that XIOS 2 is now ready to be used, and although syntax is no strictly retro-compatible with XIOS 1, changes are minor, so we think it must be easy to manage the 2 versions in the same model for an overlapping time.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>WP9</dc:subject>
+    
+    
+      <dc:subject>Milestone</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms9-7_model-interface-updates-for-compliance-with-new-oasis-coupler/view">
+    <title>IS-ENES2_MS9.7_Model interface updates for compliance with new OASIS coupler</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms9-7_model-interface-updates-for-compliance-with-new-oasis-coupler/view</link>
+    <description>This document focuses on the upgrade impact on 3 models participating to the multi-model multi-member experiment described in IS-ENES2 WP9: the Met Office Global Coupled model, EC-Earth and CNRM-CM. The initial interfaces (model code routines where are located the calls to the OASIS API) needed to be adapted to the new coupling routines. Groups took this opportunity to rethink or extend their coupling strategy: grid to grid interpolations were changed, more model component added to the coupled system (ESM).</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>WP9</dc:subject>
+    
+    
+      <dc:subject>Milestone</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms9-6_new-cdi-release-with-i-o-developments-from-is-enes1-and-icomex/view">
+    <title>IS-ENES2_MS9.6_New release of CDO with improved parallel performance</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms9-6_new-cdi-release-with-i-o-developments-from-is-enes1-and-icomex/view</link>
+    <description>Max-Planck-Institute for Meteorology has developed the Climate Data Operators CDO to
+pre- and post-process climate data in different formats.
+This report describes the operators, the activities in the ISENES2-project to improve the
+performance of the CDO on parallel computer architectures, and release new versions of the
+CDO. Furthermore, planned and possible next steps are described.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>WP9</dc:subject>
+    
+    
+      <dc:subject>Milestone</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+
+</rdf:RDF>

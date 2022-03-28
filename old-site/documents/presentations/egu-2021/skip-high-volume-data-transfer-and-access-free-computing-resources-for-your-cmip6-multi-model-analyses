@@ -1,0 +1,610 @@
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="google-site-verification" content="5fPGCLllnWrvFxH9QWI0l1TadV7byeEvfPcyK2VkS_s"/>
+    <meta name="google-site-verification" content="Rp5zp04IKW-s1IbpTOGB7Z6XY60oloZD5C3kTM-AiY4"/>
+
+<meta name="norton-safeweb-site-verification" content="umenay8zh4kswbi568zqp19bqb-jvngusibub1ygib0x3jne9rig0fnmtofm8abb7lkzgltqp5yhm68s5qz4iqqkm39xl2o-p5foixd-1xfq4yig07ugcd1sp5kmyvpe" />
+    <title>Skip high-volume data transfer and access free computing resources for your CMIP6 multi-model analyses | Zenodo</title>
+    <link rel="shortcut icon" href="/static/favicon.ico"/>
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/static/apple-touch-icon-144-precomposed.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/static/apple-touch-icon-114-precomposed.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/static/apple-touch-icon-72-precomposed.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="/static/apple-touch-icon-57-precomposed.png"/>
+<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,100,italic" rel="stylesheet">
+<link href="/static/gen/zenodo.5fb6164a.css" rel="stylesheet">
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+  
+    <meta name="description" content="Tired of downloading tons of model results? Is your internet connection flakey? Are you about to overload your computer’s memory with the constant increase of data volume and you need more computing resources? You can request free of charge computing time at one of the supercomputers of the Infrastructure of the European Network of Earth System modelling (IS-ENES)1, the European part of Earth System Grid Federation (ESGF)2, which also hosts and maintains more than 6 Petabytes of CMIP6 and CORDEX data. Thanks to this new EU Commission funded service, you can run your own scripts in your favorite programming language and straightforward pre- and post-process model data. There is no need for heavy data transfer, just load with one line of code the data slice you need because your script will directly access the data pool. Therefore, days-lasting calculations will be done in seconds. You can test the service, we very easily provide pre-access activities. In this session we will run Jupyter notebooks directly on the German Climate Computing Center (DKRZ)3, one of the ENES high performance computers and a ESGF data center, showing how to load, filter, concatenate, take means, and plot several CMIP6 models to compare their results, use some CMIP6 models to calculate some climate indexes for any location and period, and evaluate model skills with observational data. We will use Climate Data Operators (cdo)4 and Python packages for Big Data manipulation, as Intake5, to easily extract the data from the huge catalog, and Xarray6, to easily read NetDCF files and scale to parallel computing. We are continuously creating more use cases for multi-model evaluation, mechanisms of variability, and impact analysis, visit the demos, find more information, and apply here: https://portal.enes.org/data/data-metadata-service/analysis-platforms. [1] https://is.enes.org/ [2] https://esgf.llnl.gov/ [3] https://www.dkrz.de/ [4] https://code.mpimet.mpg.de/projects/cdo/ [5] https://intake.readthedocs.io/en/latest/ [6] http://xarray.pydata.org/en/stable/" />
+    <meta name="citation_title" content="Skip high-volume data transfer and access free computing resources for your CMIP6 multi-model analyses" />
+    <meta name="citation_author" content="Kindermann, Stephan" />
+    <meta name="citation_author" content="Moreno de Castro, Maria" />
+    <meta name="citation_author" content="Kulüke, Marco" />
+    <meta name="citation_author" content="Wachsmann, Fabian" />
+    <meta name="citation_author" content="Kwee-Hinzmann, Regina" />
+    <meta name="citation_author" content="Nassisi, Paola" />
+    <meta name="citation_author" content="Levavasseur, Guillaume" />
+    <meta name="citation_author" content="Fiore, Sandro" />
+    <meta name="citation_author" content="Pascoe, Charlotte" />
+    <meta name="citation_author" content="Juckes, Martin" />
+    <meta name="citation_author" content="Morellon, Sophie" />
+    <meta name="citation_author" content="Joussaume, Sylvie" />
+    <meta name="citation_publication_date" content="2021/04/29" />
+    <meta name="citation_doi" content="10.5194/egusphere-egu21-2513" />
+    <meta name="citation_abstract_html_url" content="https://zenodo.org/record/4738991" />
+    <meta name="citation_pdf_url" content="https://zenodo.org/record/4738991/files/EGU21-2513_presentation-h546598.pdf" />
+    <meta property="og:title" content="Skip high-volume data transfer and access free computing resources for your CMIP6 multi-model analyses" />
+    <meta property="og:description" content="Tired of downloading tons of model results? Is your internet connection flakey? Are you about to overload your computer’s memory with the constant increase of data volume and you need more computing resources? You can request free of charge computing time at one of the supercomputers of the Infrastructure of the European Network of Earth System modelling (IS-ENES)1, the European part of Earth System Grid Federation (ESGF)2, which also hosts and maintains more than 6 Petabytes of CMIP6 and CORDEX data. Thanks to this new EU Commission funded service, you can run your own scripts in your favorite programming language and straightforward pre- and post-process model data. There is no need for heavy data transfer, just load with one line of code the data slice you need because your script will directly access the data pool. Therefore, days-lasting calculations will be done in seconds. You can test the service, we very easily provide pre-access activities. In this session we will run Jupyter notebooks directly on the German Climate Computing Center (DKRZ)3, one of the ENES high performance computers and a ESGF data center, showing how to load, filter, concatenate, take means, and plot several CMIP6 models to compare their results, use some CMIP6 models to calculate some climate indexes for any location and period, and evaluate model skills with observational data. We will use Climate Data Operators (cdo)4 and Python packages for Big Data manipulation, as Intake5, to easily extract the data from the huge catalog, and Xarray6, to easily read NetDCF files and scale to parallel computing. We are continuously creating more use cases for multi-model evaluation, mechanisms of variability, and impact analysis, visit the demos, find more information, and apply here: https://portal.enes.org/data/data-metadata-service/analysis-platforms. [1] https://is.enes.org/ [2] https://esgf.llnl.gov/ [3] https://www.dkrz.de/ [4] https://code.mpimet.mpg.de/projects/cdo/ [5] https://intake.readthedocs.io/en/latest/ [6] http://xarray.pydata.org/en/stable/" />
+    <meta property="og:url" content="https://zenodo.org/record/4738991" />
+    <meta property="og:site_name" content="Zenodo" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@zenodo_org" />
+    <meta name="twitter:title" content="Skip high-volume data transfer and access free computing resources for your CMIP6 multi-model analyses" />
+    <meta name="twitter:description" content="Tired of downloading tons of model results? Is your internet connection flakey? Are you about to overload your computer’s memory with the constant increase of data volume and you need more computing resources? You can request free of charge computing time at one of the supercomputers of the Infrastructure of the European Network of Earth System modelling (IS-ENES)1, the European part of Earth System Grid Federation (ESGF)2, which also hosts and maintains more than 6 Petabytes of CMIP6 and CORDEX data. Thanks to this new EU Commission funded service, you can run your own scripts in your favorite programming language and straightforward pre- and post-process model data. There is no need for heavy data transfer, just load with one line of code the data slice you need because your script will directly access the data pool. Therefore, days-lasting calculations will be done in seconds. You can test the service, we very easily provide pre-access activities. In this session we will run Jupyter notebooks directly on the German Climate Computing Center (DKRZ)3, one of the ENES high performance computers and a ESGF data center, showing how to load, filter, concatenate, take means, and plot several CMIP6 models to compare their results, use some CMIP6 models to calculate some climate indexes for any location and period, and evaluate model skills with observational data. We will use Climate Data Operators (cdo)4 and Python packages for Big Data manipulation, as Intake5, to easily extract the data from the huge catalog, and Xarray6, to easily read NetDCF files and scale to parallel computing. We are continuously creating more use cases for multi-model evaluation, mechanisms of variability, and impact analysis, visit the demos, find more information, and apply here: https://portal.enes.org/data/data-metadata-service/analysis-platforms. [1] https://is.enes.org/ [2] https://esgf.llnl.gov/ [3] https://www.dkrz.de/ [4] https://code.mpimet.mpg.de/projects/cdo/ [5] https://intake.readthedocs.io/en/latest/ [6] http://xarray.pydata.org/en/stable/" />
+    <link rel="canonical" href="https://zenodo.org/record/4738991">
+    <link rel="alternate" type="application/pdf" href="https://zenodo.org/record/4738991/files/EGU21-2513_presentation-h546598.pdf">
+  </head>
+  <body ng-csp  itemscope itemtype="http://schema.org/WebPage" data-spy="scroll" data-target=".scrollspy-target">
+    <!--[if lt IE 8]>
+      <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+
+<header>
+  <nav class="navbar navbar-default navbar-static-top">
+    <div class="container">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+          <a href="/"><img class="navbar-brand" src="/static/img/zenodo.svg" alt="Zenodo" /></a>
+      </div>
+      <div id="navbar" class="navbar-collapse collapse">
+<form class="navbar-form navbar-left navbar-search" action="/search" role="search">
+  <div class="form-group">
+    <div class="input-group">
+      <input type="text" class="form-control search" name="q" placeholder="Search">
+      <div class="input-group-btn">
+        <button type="submit" class="btn btn-default"><i class="fa fa-search"></i></button>
+      </div>
+    </div>
+  </div>
+</form>
+        <ul class="nav navbar-nav">
+            <li><a href="/deposit">Upload</a></li>
+            <li><a href="/communities/">Communities</a></li>
+        </ul>
+<form class="navbar-form navbar-right">
+  <a href="/login/?next=%2Frecord%2F4738991" class="btn btn-default"><i class="fa fa-sign-in"></i> Log in</a>
+  <a href="/signup/" type="submit" class="btn btn-default btn-warning"><i class="fa fa-edit"></i> Sign up</a>
+</form>
+      </div>
+    </div>
+  </nav>
+
+
+</header>
+<div class="container record-detail">
+  <div class="row">
+    <div class="col-sm-8 col-md-8 col-left">
+      <p>
+        <time datetime="April 29, 2021" data-toggle="tooltip" title="Publication date">April 29, 2021</time>
+        <span class="pull-right">
+          
+<span class="label label-default">Presentation</span>
+          
+<span class="label label-success">
+Open Access
+</span>
+        </span>
+      </p>
+      <h1>Skip high-volume data transfer and access free computing resources for your CMIP6 multi-model analyses</h1>
+      <p>
+<a href="https://orcid.org/0000-0001-9335-1093"><img class="inline-orcid" src="/static/img/orcid.png" /></a>
+<span class="text-muted" data-toggle="tooltip" title="DKRZ">Kindermann, Stephan</span>; 
+<a href="https://orcid.org/0000-0003-0440-0864"><img class="inline-orcid" src="/static/img/orcid.png" /></a>
+<span class="text-muted" data-toggle="tooltip" title="DKRZ">Moreno de Castro, Maria</span>; 
+<a href="https://orcid.org/0000-0003-0611-2567"><img class="inline-orcid" src="/static/img/orcid.png" /></a>
+<span class="text-muted" data-toggle="tooltip" title="DKRZ">Kulüke, Marco</span>; 
+<span class="text-muted" data-toggle="tooltip" title="DKRZ">Wachsmann, Fabian</span>; 
+<a href="https://orcid.org/0000-0002-2476-7658"><img class="inline-orcid" src="/static/img/orcid.png" /></a>
+<span class="text-muted" data-toggle="tooltip" title="DKRZ">Kwee-Hinzmann, Regina</span>; 
+<a href="https://orcid.org/0000-0003-2857-4391"><img class="inline-orcid" src="/static/img/orcid.png" /></a>
+<span class="text-muted" data-toggle="tooltip" title="CMCC">Nassisi, Paola</span>; 
+<span class="text-muted" data-toggle="tooltip" title="IPSL-CNRS">Levavasseur, Guillaume</span>; 
+<span class="text-muted" data-toggle="tooltip" title="CMCC">Fiore, Sandro</span>; 
+<span class="text-muted" data-toggle="tooltip" title="UKRI">Pascoe, Charlotte</span>; 
+<a href="https://orcid.org/0000-0003-1770-2132"><img class="inline-orcid" src="/static/img/orcid.png" /></a>
+<span class="text-muted" data-toggle="tooltip" title="UKRI">Juckes, Martin</span>; 
+<span class="text-muted" data-toggle="tooltip" title="IPSL-CNRS">Morellon, Sophie</span>; 
+<span class="text-muted" data-toggle="tooltip" title="IPSL-CNRS">Joussaume, Sylvie</span></p>
+      <div class="record-description"><p>Tired of downloading tons of model results? Is your internet connection flakey? Are you about to overload your computer&rsquo;s memory with the constant increase of data volume and you need more computing resources? You can request free of charge computing time at one of the supercomputers of the Infrastructure of the European Network of Earth System modelling (IS-ENES)<sup>1</sup>, the European part of Earth System Grid Federation (ESGF)<sup>2</sup>, which also hosts and maintains more than 6 Petabytes of CMIP6 and CORDEX data.</p>
+
+<p>Thanks to this new EU Commission funded service, you can run your own scripts in your favorite programming language and straightforward pre- and post-process model data. There is no need for heavy data transfer, just load with one line of code the data slice you need because your script will directly access the data pool. Therefore, days-lasting calculations will be done in seconds. You can test the service, we very easily provide pre-access activities.</p>
+
+<p>In this session we will run Jupyter notebooks directly on the German Climate Computing Center (DKRZ)<sup>3</sup>, one of the ENES high performance computers and a ESGF data center, showing how to load, filter, concatenate, take means, and plot several CMIP6 models to compare their results, use some CMIP6 models to calculate some climate indexes for any location and period, and evaluate model skills with observational data. We will use Climate Data Operators (cdo)<sup>4</sup> and Python packages for Big Data manipulation, as Intake<sup>5</sup>, to easily extract the data from the huge catalog, and Xarray<sup>6</sup>, to easily read NetDCF files and scale to parallel computing. We are continuously creating more use cases for multi-model evaluation, mechanisms of variability, and impact analysis, visit the demos, find more information, and apply here: https://portal.enes.org/data/data-metadata-service/analysis-platforms.</p>
+
+<p>[1] https://is.enes.org/<br>
+[2] https://esgf.llnl.gov/<br>
+[3] https://www.dkrz.de/<br>
+[4] https://code.mpimet.mpg.de/projects/cdo/<br>
+[5] https://intake.readthedocs.io/en/latest/<br>
+[6] http://xarray.pydata.org/en/stable/</p></div>
+
+
+  <div class="panel panel-default" id="preview">
+    <div class="panel-heading">
+      <a class="panel-toggle" data-toggle="collapse" href="#collapseOne">
+        Preview
+        <span class="pull-right show-on-collapsed"><i class="fa fa-chevron-right"></i></span>
+        <span class="pull-right hide-on-collapsed"><i class="fa fa-chevron-down"></i></span>
+      </a>
+    </div>
+    <div id="collapseOne" class="collapse in">
+  <iframe
+   class="preview-iframe"
+   id="preview-iframe"
+   width="100%"
+   height="400"
+   src="/record/4738991/preview/EGU21-2513_presentation-h546598.pdf"></iframe>
+    </div>
+  </div><div class="panel panel-default files-box" id="files">
+  <div class="panel-heading">
+    <a class="panel-toggle" data-toggle="collapse" href="#collapseTwo">
+      Files
+      <span class="pull-right show-on-collapsed"><i class="fa fa-chevron-right"></i></span>
+      <span class="pull-right hide-on-collapsed"><i class="fa fa-chevron-down"></i></span>
+    </a>
+    <small class="text-muted"> (1.5 MB)</small>
+  </div>
+  <div class="collapse in" id="collapseTwo">
+  <table class="table table-striped" >
+    <thead>
+      <tr class="">
+        <th>Name</th>
+        <th>Size</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <a class="filename" href="/record/4738991/files/EGU21-2513_presentation-h546598.pdf?download=1">EGU21-2513_presentation-h546598.pdf</a>
+          <br/><small class="text-muted nowrap">md5:a018c8c4af4ed74e54d742b8eb7f914f <i class="fa fa-question-circle text-muted" data-toggle="tooltip" tooltip data-placement="top" title="This is the file fingerprint (MD5 checksum), which can be used to verify the file integrity."></i></small>
+        </td>
+        <td class="nowrap">1.5 MB</td>
+        <td class="nowrap"><span class="pull-right"><button class="btn preview-link btn-xs btn-default" data-filename="EGU21-2513_presentation-h546598.pdf"><i class="fa fa-eye"></i> Preview</button> <a class="btn btn-xs btn-default" href="/record/4738991/files/EGU21-2513_presentation-h546598.pdf?download=1"><i class="fa fa-download"></i> Download</a></span></td>
+      </tr></tbody>
+    </table>
+  </div>
+</div>
+
+
+
+
+
+
+<div id="citations">
+  <invenio-search
+   disable-url-handler="true"
+   search-endpoint="https://zenodo-broker.web.cern.ch/api/relationships"
+   search-extra-params='{"group_by": "version", "id": "10.5194/egusphere-egu21-2513", "page": 1, "size": 10}'
+   search-hidden-params='{"relation": "isCitedBy", "scheme": "doi"}'
+   search-headers='{"Accept": "application/json"}' >
+    <div class="panel panel-default" id="citation">
+      <div class="panel-heading">
+        <!-- Beta ribbon -->
+        <div class="row" style="margin-bottom: -15px;">
+          <div class="col-sm-1">
+            <div class="ribbon-wrapper-green">
+              <a href="https://help.zenodo.org/#citations" target="_blank" rel="noopener noreferrer">
+                <div class="corner-ribbon top-left ribbon-green">Beta</div>
+              </a>
+            </div>
+          </div>
+          <div class="col-sm-11" style="margin-top: 5px;">
+            <a class="panel-toggle" data-toggle="collapse" href="#collapseCitations" style="margin-left:-25px;">
+              Citations
+            </a>
+            <a href="https://help.zenodo.org/#citations" target="_blank" rel="noopener noreferrer">
+              <i class="fa fa-question-circle"></i>
+            </a>
+            <small class="text-muted">
+              <invenio-search-count template="/static/templates/citations/count.html">
+              </invenio-search-count>
+            </small>
+            <a class="panel-toggle" data-toggle="collapse" href="#collapseCitations" style="margin-left:-25px;">
+              <span class="pull-right show-on-collapsed"><i class="fa fa-chevron-right"></i></span>
+              <span class="pull-right hide-on-collapsed"><i class="fa fa-chevron-down"></i></span>
+            </a>
+          </div>
+        </div>
+
+        <!-- Without beta ribbon -->
+        <!--<a class="panel-toggle" data-toggle="collapse" href="#collapseCitations">-->
+          <!--Citations-->
+          <!--<small class="text-muted">-->
+            <!--<invenio-search-count-->
+            <!--template="/static/templates/citations/count.html">-->
+            <!--</invenio-search-count>-->
+          <!--</small>-->
+          <!--<span class="pull-right show-on-collapsed"><i class="fa fa-chevron-right"></i></span>-->
+          <!--<span class="pull-right hide-on-collapsed"><i class="fa fa-chevron-down"></i></span>-->
+        <!--</a>-->
+
+      </div>
+      <div id="collapseCitations" class="collapse in">
+        <div class="search-page">
+          <div class="container-fluid facets">
+            <div class="row">
+              <div class="col-sm-9">
+                <invenio-search-facets
+                   ng-init="vm.record_id='10.5194/egusphere-egu21-2513'; vm.version_id='10.5194/egusphere-egu21-2513'"
+                   template="/static/templates/citations/facets.html">
+                </invenio-search-facets>
+              </div>
+              <div class="col-sm-3">
+                <invenio-search-bar
+                  template="/static/templates/invenio_search_ui/searchbar.html"
+                  placeholder="Search">
+                </invenio-search-bar>
+              </div>
+            </div>
+          </div>
+          <div class="container-fluid">
+          <invenio-search-error
+            template="/static/templates/zenodo_search_ui/error.html"
+            message="Error">
+          </invenio-search-error>
+          </div>
+          <invenio-search-results
+           template="/static/templates/citations/results.html">
+          </invenio-search-results>
+          <div class="row">
+            <div class="col-md-2 col-sm-12">
+            </div>
+            <div class="col-md-7 col-sm-12 text-center">
+              <invenio-search-pagination
+                template="/static/templates/citations/pagination.html">
+              </invenio-search-pagination>
+            </div>
+            <div class="col-md-3 col-sm-12" style="padding-top: 5px;">
+              <invenio-search-select-box
+                 sort-key="size"
+                 available-options='{
+                  "options": [
+                     {
+                       "title": "10",
+                       "value": "10"
+                     },
+                     {
+                       "title": "20",
+                       "value": "20"
+                     },
+                     {
+                       "title": "50",
+                       "value": "50"
+                     }
+                  ]}'
+                 template="/static/templates/citations/selectbox.html">
+                </invenio-search-select-box>
+            </div>
+          </div>
+      </div>
+    </div>
+    </div>
+  </invenio-search>
+</div>
+
+    </div>
+    <div class="col-sm-4 col-md-4 col-right">
+
+
+
+      
+      <div class="well"><!-- Stats -->
+<div class="row stats-box">
+  <div id="accordion">
+    <!-- Banner --><div class="row">
+      <div class="col-sm-6">
+        <span class="stats-data">48</span>
+      </div>
+      <div class="col-sm-6">
+        <span class="stats-data">48</span>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-6">
+        <i class="fa fa-eye " data-toggle="tooltip" tooltip data-placement="top" title="Total views." data-original-title="Total views."></i> views
+      </div>
+      <div class="col-sm-6">
+        <i class="fa fa-download " data-toggle="tooltip" tooltip data-placement="top" title="Total downloads." data-original-title="Total downloads."></i> downloads
+      </div>
+    </div>
+
+    <!-- Collapsed details -->
+    <div id="toggle-stats" class="row">
+      <div class="col-sm-12">
+        <a style="cursor: pointer;" class="panel-toggle" data-toggle="collapse" data-target="#collapse-stats" aria-expanded="true" aria-controls="collapse-stats">
+          See more details...
+        </a>
+      </div>
+    </div>
+    <div id="collapse-stats" class="collapse" aria-labelledby="toggle-stats" data-parent="#accordion">
+      <table class="table stats-table">
+        <!-- Skip table header if no versions --><tr>
+          <td>Views <i class="fa fa-question-circle text-muted" data-toggle="tooltip" tooltip data-placement="top" title="Total views." data-original-title="Total views."></i></td><td>48</td>
+        </tr>
+        <tr>
+          <td>Downloads <i class="fa fa-question-circle text-muted" data-toggle="tooltip" tooltip data-placement="top" title="Total downloads." data-original-title="Total downloads."></i></td><td>48</td>
+        </tr>
+        <tr>
+          <td>Data volume <i class="fa fa-question-circle text-muted" data-toggle="tooltip" tooltip data-placement="top" title="Total download volume." data-original-title="Total download volume."></i></td><td>74.3 MB</td>
+        </tr>
+        <tr>
+          <td>Unique views <i class="fa fa-question-circle text-muted" data-toggle="tooltip" tooltip data-placement="top" title="Views in one hour user-sessions are counted only once." data-original-title="Views in one hour user-sessions are counted only once."></i></td><td>38</td>
+        </tr>
+        <tr>
+          <td>Unique downloads <i class="fa fa-question-circle text-muted" data-toggle="tooltip" tooltip data-placement="top" title="Downloads in one hour user-sessions are counted only once." data-original-title="Downloads in one hour user-sessions are counted only once."></i></td><td>43</td>
+        </tr>
+      </table>
+      <div class="row">
+        <a href="https://help.zenodo.org/#statistics">More info on how stats are collected.</a>
+      </div>
+    </div>
+  </div>
+</div>
+      </div>
+<div class="well metadata">
+  
+    <small class="text-muted">Indexed in</small>
+    <a href="https://explore.openaire.eu/search/publication?pid=10.5194/egusphere-egu21-2513">
+      <img src="/static/img/openaire-horizontal-old.png" class="img-thumbnail" width="100%" />
+    </a>
+</div>
+      <div class="well metadata"><dl>
+    <dt>Publication date:</dt>
+    <dd>April 29, 2021</dd>
+    <dt>DOI:</dt>
+    <dd>
+      <a href="https://doi.org/10.5194/egusphere-egu21-2513" target="_blank">
+        <img src="/badge/DOI/10.5194/egusphere-egu21-2513.svg" alt="10.5194/egusphere-egu21-2513"></img>
+      </a>
+    </dd>
+
+  
+    <dt>Grants:</dt>
+    <dd>
+        <u>European Commission:</u><br />
+        <ul>
+          <li>
+          IS-ENES3 - Infrastructure for the European Network for Earth System modelling - Phase 3 (824084) 
+          </li>
+        </ul>
+    </dd>
+    <dt>Communities:</dt>
+    <dd>
+      <ul class="list-unstyled">
+        <li><a href="/communities/is-enes3/">IS-ENES3</a></li>
+      </ul>
+    </dd>
+    <dt>License (for files):</dt>
+    <dd><a rel="license" href="https://creativecommons.org/licenses/by/4.0/legalcode"><i class="fa fa-external-link"></i> Creative Commons Attribution 4.0 International</a></dd>
+  </dl>
+      </div>
+      <div class="well"><h4>Share</h4>
+  <!-- AddThis Button BEGIN -->
+  <div class="addthis_toolbox addthis_default_style addthis_32x32_style"/record/4738991">
+  <a class="addthis_button_mendeley"></a>
+  <a class="addthis_button_citeulike"></a>
+  <a class="addthis_button_twitter"></a>
+  <a class="addthis_button_preferred_1"></a>
+  <a class="addthis_button_preferred_2"></a>
+  <a class="addthis_button_compact"></a>
+  </div>
+  <!-- AddThis Button END -->
+  <h4>Cite as</h4>
+  <div id='invenio-csl'>
+    
+    <invenio-csl
+        ng-init="vm.citationResult = 'Kindermann, Stephan, Moreno de Castro, Maria, Kulüke, Marco, Wachsmann, Fabian, Kwee-Hinzmann, Regina, Nassisi, Paola, Levavasseur, Guillaume, Fiore, Sandro, Pascoe, Charlotte, Juckes, Martin, Morellon, Sophie, &amp; Joussaume, Sylvie. (2021, April 29). Skip high-volume data transfer and access free computing resources for your CMIP6 multi-model analyses. https://doi.org/10.5194/egusphere-egu21-2513'"
+    >
+      <invenio-csl-citeproc
+       endpoint="/api/records/4738991"
+       template="/static/templates/invenio_csl/citeproc.html"></invenio-csl-citeproc>
+      <invenio-csl-error
+       template="/static/node_modules/invenio-csl-js/dist/templates/error.html"></invenio-csl-error>
+      <invenio-csl-loading
+       template="/static/node_modules/invenio-csl-js/dist/templates/loading.html"></invenio-csl-loading>
+      <invenio-csl-typeahead
+       lazy="true"
+       placeholder="Start typing a citation style..."
+       remote="/api/csl/styles"
+       template="/static/node_modules/invenio-csl-js/dist/templates/typeahead.html"
+       item-template="/static/templates/invenio_csl/item.html">
+      </invenio-csl-typeahead>
+    </invenio-csl>
+  </div>
+      </div>
+      <div class="well"><h4>Export</h4>
+<ul class="list-inline">
+  <li><a href="/record/4738991/export/hx">BibTeX</a></li>
+  <li><a href="/record/4738991/export/csl">CSL</a></li>
+  <li><a href="/record/4738991/export/dcite4">DataCite</a></li>
+  <li><a href="/record/4738991/export/xd">Dublin Core</a></li>
+  <li><a href="/record/4738991/export/dcat">DCAT</a></li>
+  <li><a href="/record/4738991/export/json">JSON</a></li>
+  <li><a href="/record/4738991/export/schemaorg_jsonld">JSON-LD</a></li>
+  <li><a href="/record/4738991/export/geojson">GeoJSON</a></li>
+  <li><a href="/record/4738991/export/xm">MARCXML</a></li>
+  <li><a href="https://www.mendeley.com/import/?url=https://zenodo.org/record/4738991"><i class="fa fa-external-link"></i> Mendeley</a></li>
+</ul>
+      </div>
+    </div>
+  </div>
+</div>
+<footer class="footer">
+  <div class="menu-wrapper">
+    <div class="container">
+      <div class="row footer-menu">
+        <div class="col-xs-12 col-md-8">
+          <div class="row">
+            <div class="col-xs-2 col-md-2">
+              <h5>About</h5>
+              <ul class="list-unstyled">
+                <li><a href="http://about.zenodo.org">About</a></li>
+                <li><a href="http://about.zenodo.org/policies">Policies</a></li>
+                <li><a href="http://about.zenodo.org/infrastructure">Infrastructure</a></li>
+                <li><a href="http://about.zenodo.org/principles">Principles</a></li>
+                <li><a href="http://about.zenodo.org/contact">Contact</a></li>
+              </ul>
+            </div>
+            <div class="col-xs-2 col-md-2">
+              <h5>Blog</h5>
+              <ul class="list-unstyled">
+                <li><a href="http://blog.zenodo.org">Blog</a></li>
+              </ul>
+            </div>
+            <div class="col-xs-2 col-md-2">
+              <h5>Help</h5>
+              <ul class="list-unstyled">
+                <li><a href="http://help.zenodo.org">FAQ</a></li>
+                <li><a href="http://help.zenodo.org/features">Features</a></li>
+                <li><a href="/support">Support</a></li>
+              </ul>
+            </div>
+            <div class="col-xs-2 col-md-2">
+              <h5>Developers</h5>
+              <ul class="list-unstyled">
+              <li><a href="http://developers.zenodo.org">REST API</a></li>
+              <li><a href="http://developers.zenodo.org#oai-pmh">OAI-PMH</a></li>
+              </ul>
+            </div>
+            <div class="col-xs-2 col-md-2">
+              <h5>Contribute</h5>
+              <ul class="list-unstyled">
+                <li><a href="https://github.com/zenodo/zenodo"><i class="fa fa-external-link"></i> GitHub</a></li>
+                <li><a href="/donate"><i class="fa fa-external-link"></i> Donate</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="col-xs-12 col-md-4">
+          <div class="pull-right-md text-center-sm text-center-xs">
+            <h5>Funded by</h5>
+            <ul class="list-inline">
+              <li><a href="https://home.cern"><img src="/static/img/cern.png" width="60" height="60" /></a></li>
+              <li><a href="https://www.openaire.eu"><img src="/static/img/openaire.png" width="80" /></a></li>
+              <li><a href="https://ec.europa.eu/programmes/horizon2020/"><img src="/static/img/eu.png" width="88" height="60" /></a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12 col-sm-6 col-sm-push-6">
+        <div class="pull-right-sm text-center-xs">
+          <ul class="list-inline">
+            <li><a href="https://stats.uptimerobot.com/vlYOVuWgM">Status</a></li>
+            <li><a href="http://about.zenodo.org/privacy-policy">Privacy policy</a></li>
+            <li><a href="http://about.zenodo.org/terms">Terms of Use</a></li>
+            <li><a href="/support">Support</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-xs-12 col-sm-6 col-sm-pull-6 text-center-xs">
+        <p><a title="Except where otherwise noted, content on this site is licensed under a Creative Commons Attribution 4.0 International License." rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" height="20" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>&nbsp; Powered by <a href="https://home.cern/science/computing/data-centre">CERN Data Centre</a> &amp; <a href="http://inveniosoftware.org">Invenio</a>.</p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script type='application/ld+json'>{"@context": "https://schema.org/", "@id": "https://doi.org/10.5194/egusphere-egu21-2513", "@type": "PresentationDigitalDocument", "creator": [{"@id": "https://orcid.org/0000-0001-9335-1093", "@type": "Person", "affiliation": "DKRZ", "name": "Kindermann, Stephan"}, {"@id": "https://orcid.org/0000-0003-0440-0864", "@type": "Person", "affiliation": "DKRZ", "name": "Moreno de Castro, Maria"}, {"@id": "https://orcid.org/0000-0003-0611-2567", "@type": "Person", "affiliation": "DKRZ", "name": "Kul\u00fcke, Marco"}, {"@type": "Person", "affiliation": "DKRZ", "name": "Wachsmann, Fabian"}, {"@id": "https://orcid.org/0000-0002-2476-7658", "@type": "Person", "affiliation": "DKRZ", "name": "Kwee-Hinzmann, Regina"}, {"@id": "https://orcid.org/0000-0003-2857-4391", "@type": "Person", "affiliation": "CMCC", "name": "Nassisi, Paola"}, {"@type": "Person", "affiliation": "IPSL-CNRS", "name": "Levavasseur, Guillaume"}, {"@type": "Person", "affiliation": "CMCC", "name": "Fiore, Sandro"}, {"@type": "Person", "affiliation": "UKRI", "name": "Pascoe, Charlotte"}, {"@id": "https://orcid.org/0000-0003-1770-2132", "@type": "Person", "affiliation": "UKRI", "name": "Juckes, Martin"}, {"@type": "Person", "affiliation": "IPSL-CNRS", "name": "Morellon, Sophie"}, {"@type": "Person", "affiliation": "IPSL-CNRS", "name": "Joussaume, Sylvie"}], "datePublished": "2021-04-29", "description": "\u003cp\u003eTired of downloading tons of model results? Is your internet connection flakey? Are you about to overload your computer\u0026rsquo;s memory with the constant increase of data volume and you need more computing resources? You can request free of charge computing time at one of the supercomputers of the Infrastructure of the European Network of Earth System modelling (IS-ENES)\u003csup\u003e1\u003c/sup\u003e, the European part of Earth System Grid Federation (ESGF)\u003csup\u003e2\u003c/sup\u003e, which also hosts and maintains more than 6 Petabytes of CMIP6 and CORDEX data.\u003c/p\u003e\n\n\u003cp\u003eThanks to this new EU Commission funded service, you can run your own scripts in your favorite programming language and straightforward pre- and post-process model data. There is no need for heavy data transfer, just load with one line of code the data slice you need because your script will directly access the data pool. Therefore, days-lasting calculations will be done in seconds. You can test the service, we very easily provide pre-access activities.\u003c/p\u003e\n\n\u003cp\u003eIn this session we will run Jupyter notebooks directly on the German Climate Computing Center (DKRZ)\u003csup\u003e3\u003c/sup\u003e, one of the ENES high performance computers and a ESGF data center, showing how to load, filter, concatenate, take means, and plot several CMIP6 models to compare their results, use some CMIP6 models to calculate some climate indexes for any location and period, and evaluate model skills with observational data. We will use Climate Data Operators (cdo)\u003csup\u003e4\u003c/sup\u003e and Python packages for Big Data manipulation, as Intake\u003csup\u003e5\u003c/sup\u003e, to easily extract the data from the huge catalog, and Xarray\u003csup\u003e6\u003c/sup\u003e, to easily read NetDCF files and scale to parallel computing. We are continuously creating more use cases for multi-model evaluation, mechanisms of variability, and impact analysis, visit the demos, find more information, and apply here: https://portal.enes.org/data/data-metadata-service/analysis-platforms.\u003c/p\u003e\n\n\u003cp\u003e[1] https://is.enes.org/\u003cbr\u003e\n[2] https://esgf.llnl.gov/\u003cbr\u003e\n[3] https://www.dkrz.de/\u003cbr\u003e\n[4] https://code.mpimet.mpg.de/projects/cdo/\u003cbr\u003e\n[5] https://intake.readthedocs.io/en/latest/\u003cbr\u003e\n[6] http://xarray.pydata.org/en/stable/\u003c/p\u003e", "identifier": "https://doi.org/10.5194/egusphere-egu21-2513", "license": "https://creativecommons.org/licenses/by/4.0/legalcode", "name": "Skip high-volume data transfer and access free computing resources for your CMIP6 multi-model analyses", "url": "https://zenodo.org/record/4738991"}</script>
+
+<script src="/static/gen/zenodo.f843b7ec.js"></script>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script src="/static/gen/zenodo.search.ff7bb1ad.js"></script>
+<script type="text/javascript">var addthis_config = {"data_track_addressbar": true};</script>
+<script type="text/javascript">
+  // Bootstrap the Invenio CSL Formatter and invenio-search-js
+  require([
+    "jquery",
+    'typeahead.js',
+    'bloodhound',
+    "node_modules/angular/angular",
+    "node_modules/invenio-csl-js/dist/invenio-csl-js",
+    "node_modules/invenio-search-js/dist/invenio-search-js",
+    "js/zenodo/module"
+    ], function(typeahead, Bloodhound) {
+      angular.element(document).ready(function() {
+
+        // FIXME: This is already defined in js/zenodo_deposit/filters.js.
+        // It should be moved to a common place...
+        angular.module('zenodo.filters').filter('limitToEllipsis', function () {
+          return function(text, n) {
+            return (text.length > n) ? text.substr(0, n-1) + '&hellip;' : text;
+          };
+        });
+
+        angular.bootstrap(document.getElementById("citations"), [
+            'invenioSearch',
+            'zenodo.filters',
+            'mgcrea.ngStrap.tooltip',
+          ]
+        );
+
+        angular.bootstrap(document.getElementById("invenio-csl"), [
+            'invenioCsl',
+          ]
+        );
+      });
+    }
+  );
+  require([
+    "jquery",
+    "js/zenodo/functions",
+    ], function($, recordCommunityCurate) {
+      $(function () {
+        $("#recordCommunityCuration .btn").click(recordCommunityCurate);
+        $('.preview-link').on('click', function(event) {
+          $('#preview').show();
+          var filename = encodeURIComponent($(event.target).data('filename'));
+          $('#preview-iframe').attr("src","/record/4738991/preview/" + filename);
+        });
+      });
+    }
+  );
+  $(function () {
+    $('[data-toggle="tooltip"]').tooltip();
+  });
+</script>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5137aff66ad9c2a1"></script>
+
+<script type="text/javascript">
+var _paq = _paq || [];
+_paq.push(["setDomains", ["*.zenodo.org","*.zenodo.cern.ch","*.zenodo.eu","*.zenodo.net"]]);
+_paq.push(["trackPageView"]);
+_paq.push(["enableLinkTracking"]);
+
+(function() {
+  var u=(("https:" == document.location.protocol) ? "https" : "http") + "://piwik.web.cern.ch/";
+  _paq.push(["setTrackerUrl", u+"piwik.php"]);
+  _paq.push(["setSiteId", "57"]);
+  var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; g.type="text/javascript";
+  g.defer=true; g.async=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s);
+})();
+</script>
+  </body>
+</html>

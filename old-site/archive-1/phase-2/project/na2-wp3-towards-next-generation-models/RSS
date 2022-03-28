@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+<channel rdf:about="https://is.enes.org/archive-1/phase-2/project/na2-wp3-towards-next-generation-models/RSS">
+  <title>NA2 (WP3): Towards next generation models</title>
+  <link>https://is.enes.org/archive-1/phase-2/project/na2-wp3-towards-next-generation-models</link>
+  <description></description>
+  <image rdf:resource="https://is.enes.org/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/na2-working-documents"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/na2-working-documents">
+    <title>NA2 Working documents</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/na2-working-documents</link>
+    <description>This folder contains working documents drafted by the workpackage team in order to keep trace of the work acheived (reports on results, guides, user lists...)</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Work document</dc:subject>
+    
+    
+      <dc:subject>WP3</dc:subject>
+    
+    <dc:date>2015-01-19T09:55:00Z</dc:date>
+    <dc:type>Folder</dc:type>
+  </item>
+
+
+
+</rdf:RDF>

@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Plone.org//NONSGML plone.app.event//EN
+X-WR-TIMEZONE:Europe/Vienna
+BEGIN:VEVENT
+SUMMARY:Workshop on innovation in HPC for climate  models
+DTSTART;TZID=Europe/Vienna;VALUE=DATE-TIME:20161130T120000
+DTEND;TZID=Europe/Vienna;VALUE=DATE-TIME:20170112T120000
+DTSTAMP;VALUE=DATE-TIME:20220328T140449Z
+UID:e8adbcef3b0e4c51b466cb88fcbfbbc3@plone7:8080
+CONTACT:Kerstin Fieg\, fieg@dkrz.de
+CREATED;VALUE=DATE-TIME:20170104T113326Z
+DESCRIPTION:Deutsches Klimarechenzentrum (DKRZ) and Max-Planck-Institute f
+ or Meteorology (MPI-M) are organising in collaboration with EU funded proj
+ ects IS-ENES2 and ESiWACE  (Centre of Excellence in Simulation of Weather 
+ and Climate in Europe) a series of talks on Innovation Technologies in HPC
+ .
+LAST-MODIFIED;VALUE=DATE-TIME:20170313T134457Z
+LOCATION:Hamburg\, Germany
+URL:https://is.enes.org/archive-1/phase-2/events/workshop-on-innovation-in
+ -hpc-for-climate-models
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+X-LIC-LOCATION:Europe/Vienna
+BEGIN:STANDARD
+DTSTART;VALUE=DATE-TIME:20161030T020000
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+END:VCALENDAR

@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Plone.org//NONSGML plone.app.event//EN
+X-WR-TIMEZONE:Europe/Vienna
+BEGIN:VEVENT
+SUMMARY:IS-ENES 2 coding sprint  KNMI
+DTSTART;TZID=Europe/Vienna;VALUE=DATE-TIME:20160620T090000
+DTEND;TZID=Europe/Vienna;VALUE=DATE-TIME:20160622T170000
+DTSTAMP;VALUE=DATE-TIME:20220328T140447Z
+UID:671b67d71afb48ada73e68dd4e52ebcf@plone7:8080
+ATTENDEE;CN="Christian Page (CERFACS, France)";ROLE=REQ-PARTICIPANT:Christ
+ ian Page (CERFACS, France)
+ATTENDEE;CN="Manuel Vega Saldarriaga (University of Cantabria, Spain)";ROL
+ E=REQ-PARTICIPANT:Manuel Vega Saldarriaga (University of Cantabria, Spain)
+ATTENDEE;CN="Fokke de Jong (Alterra, the Netherlands)";ROLE=REQ-PARTICIPAN
+ T:Fokke de Jong (Alterra, the Netherlands)
+ATTENDEE;CN="Ronald Hutjes (Alterra, the Netherlands)";ROLE=REQ-PARTICIPAN
+ T:Ronald Hutjes (Alterra, the Netherlands)
+ATTENDEE;CN="Wim Som de Cerff (KNMI, the Netherlands)";ROLE=REQ-PARTICIPAN
+ T:Wim Som de Cerff (KNMI, the Netherlands)
+ATTENDEE;CN="Ernst de Vreede (KNMI, the Netherlands)";ROLE=REQ-PARTICIPANT
+ :Ernst de Vreede (KNMI, the Netherlands)
+ATTENDEE;CN="Maarten Plieger (KNMI, the Netherlands)";ROLE=REQ-PARTICIPANT
+ :Maarten Plieger (KNMI, the Netherlands)
+CATEGORIES:Project Event
+CREATED;VALUE=DATE-TIME:20160727T133142Z
+DESCRIPTION:IS-ENES2 organized a code sprint to work on the climate4impact
+  portal.\n
+LAST-MODIFIED;VALUE=DATE-TIME:20160727T133149Z
+LOCATION:KNMI\, the Netherlands.
+URL:https://is.enes.org/archive-1/phase-2/events/is-enes-2-coding-sprint-k
+ nmi
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+X-LIC-LOCATION:Europe/Vienna
+BEGIN:DAYLIGHT
+DTSTART;VALUE=DATE-TIME:20160327T030000
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+END:VCALENDAR

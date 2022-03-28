@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Plone.org//NONSGML plone.app.event//EN
+X-WR-TIMEZONE:Europe/Vienna
+BEGIN:VEVENT
+SUMMARY:Workshop on Coupling Technologies characterization (WP10\, T3)
+DTSTART;TZID=Europe/Vienna;VALUE=DATE-TIME:20140212T100000
+DTEND;TZID=Europe/Vienna;VALUE=DATE-TIME:20140213T170000
+DTSTAMP;VALUE=DATE-TIME:20220328T140001Z
+UID:17c77f23bd9a4806ba5e8dca3dd25469@plone7:8080
+CONTACT:Sophie Valcke\, valcke@cerfacs.fr
+CREATED;VALUE=DATE-TIME:20140114T151356Z
+DESCRIPTION:This workshop is organized to create mind maps characterizing 
+ all aspects of different coupling technologies\, such as OASIS3-MCT\, BFG\
+ , ESMF\, Open-PALM\, etc. 
+LAST-MODIFIED;VALUE=DATE-TIME:20140214T101458Z
+LOCATION:Met Office\, Exeter\, UK
+URL:https://is.enes.org/archive-1/phase-2/events/workshop-on-coupling-tech
+ nologies-characterization-wp10-t3
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+X-LIC-LOCATION:Europe/Vienna
+BEGIN:STANDARD
+DTSTART;VALUE=DATE-TIME:20131027T020000
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+END:VCALENDAR

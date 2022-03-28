@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Plone.org//NONSGML plone.app.event//EN
+X-WR-TIMEZONE:Europe/Vienna
+BEGIN:VEVENT
+SUMMARY:EGU 2010 - Townhall Meeting: The European Network for Earth System
+  Modelling (ENES) Strategy and Resource Centre
+DTSTART;TZID=Europe/Vienna;VALUE=DATE-TIME:20100506T190000
+DTEND;TZID=Europe/Vienna;VALUE=DATE-TIME:20100506T200000
+DTSTAMP;VALUE=DATE-TIME:20220328T135944Z
+UID:e7dddec9942f439db32a35febaee74ad@plone7:8080
+CATEGORIES:Project Event
+CONTACT:Martin Juckes\, martin.juckes@stfc.ac.uk\, http://meetingorganizer
+ .copernicus.org/EGU2010/session/3642
+CREATED;VALUE=DATE-TIME:20100412T143426Z
+DESCRIPTION:EGU 2010 - Townhall Meeting\, Room 15 / Thu\, 06 May\, 19:00
+ –20:00
+LAST-MODIFIED;VALUE=DATE-TIME:20160628T105521Z
+LOCATION:EGU 2010 - Vienna\, Austria
+URL:https://is.enes.org/archive-1/archive/events/egu-2010-townhall-meeting
+ -the-european-network-for-earth-system-modelling-enes-strategy-and-resourc
+ e-centre
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+X-LIC-LOCATION:Europe/Vienna
+BEGIN:DAYLIGHT
+DTSTART;VALUE=DATE-TIME:20100328T030000
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+END:VCALENDAR

@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+<channel rdf:about="https://is.enes.org/search_rss">
+  <title>IS-ENES 3</title>
+  <link>https://is.enes.org</link>
+
+  <image rdf:resource="https://is.enes.org/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/dissemination-activities/ENES%20Newsletter%20-%20Issue2.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/dissemination-activities/flyer-for-e2scms/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/dissemination-activities/ENES%20Newsletter%20-%20Issue%201.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/dissemination-activities/IS_ENES_Sylvie_Joussaume-1.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/dissemination-activities/GEOSSforClimate_Brochure_B5_09.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/dissemination-activities/is-enes.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/dissemination-activities/PSCA_Article_200909.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/scientific-publications/AeroComI_paper-1.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/scientific-publications/s.-valcke-10-co-authors-coupling-technologies-for-earth-system-modelling-2012/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/scientific-publications/s.-valcke-the-oasis3-coupler-a-european-climate-modelling-community-software-2012/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/scientific-publications/a.-gettelman-8-co-authors-a-community-diagnostic-tool-for-chemistry-climate-model-validation-2012/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/scientific-publications/mitchell-j-budich-r-joussaume-s-lawrence-b-and-marotzke-j-2012-infrastructure-strategy-for-the-european-earth-system-modelling-community-2012-2022/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides/EGU13_SPM127_pliegeregusplinter.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides/EGU13_IS-ENES_130408_NH1.8.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides/Poster_EGU_2013_CP_SJ.pdf/view"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/dissemination-activities/ENES%20Newsletter%20-%20Issue2.pdf/view">
+    <title>ENES newsletter, Issue #2 February 2012</title>
+    <link>https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/dissemination-activities/ENES%20Newsletter%20-%20Issue2.pdf/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Publication</dc:subject>
+    
+    
+      <dc:subject>IS-ENES Phase 1</dc:subject>
+    
+    <dc:date>2012/03/20 14:50:00 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/dissemination-activities/flyer-for-e2scms/view">
+    <title>Flyer for E2SCMS, January 2012</title>
+    <link>https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/dissemination-activities/flyer-for-e2scms/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Publication</dc:subject>
+    
+    
+      <dc:subject>IS-ENES Phase 1</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/dissemination-activities/ENES%20Newsletter%20-%20Issue%201.pdf/view">
+    <title>ENES Newsletter, Issue #1 June 2011</title>
+    <link>https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/dissemination-activities/ENES%20Newsletter%20-%20Issue%201.pdf/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Publication</dc:subject>
+    
+    
+      <dc:subject>IS-ENES Phase 1</dc:subject>
+    
+    <dc:date>2011/06/30 12:55:00 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/dissemination-activities/IS_ENES_Sylvie_Joussaume-1.pdf/view">
+    <title>S. Joussaume, Innovation through integration, October 2010</title>
+    <link>https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/dissemination-activities/IS_ENES_Sylvie_Joussaume-1.pdf/view</link>
+    <description>researchmedia.eu 2010</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Publication</dc:subject>
+    
+    
+      <dc:subject>IS-ENES Phase 1</dc:subject>
+    
+    <dc:date>2011/03/16 13:00:00 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/dissemination-activities/GEOSSforClimate_Brochure_B5_09.pdf/view">
+    <title>GEOSS for Climate brochure, 2010</title>
+    <link>https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/dissemination-activities/GEOSSforClimate_Brochure_B5_09.pdf/view</link>
+    <description>Examples of contribution from European and the European Commission-funded projects benefiting to the specific societal area or to the GEOSS building blocks </description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Publication</dc:subject>
+    
+    
+      <dc:subject>IS-ENES Phase 1</dc:subject>
+    
+    <dc:date>2011/03/16 13:55:00 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/dissemination-activities/is-enes.pdf/view">
+    <title>Factsheet presenting the project, November 2009</title>
+    <link>https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/dissemination-activities/is-enes.pdf/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Publication</dc:subject>
+    
+    
+      <dc:subject>IS-ENES Phase 1</dc:subject>
+    
+    <dc:date>2011/03/16 13:40:00 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/dissemination-activities/PSCA_Article_200909.pdf/view">
+    <title>S. Joussaume, The European Network for Earth System Modelling, September 2009</title>
+    <link>https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/dissemination-activities/PSCA_Article_200909.pdf/view</link>
+    <description>Paper introducing ENES and IS-ENES published in "Public Service Review: Science and Technology 4" - September 2009</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Publication</dc:subject>
+    
+    
+      <dc:subject>IS-ENES Phase 1</dc:subject>
+    
+    <dc:date>2011/03/16 13:35:00 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/scientific-publications/AeroComI_paper-1.pdf/view">
+    <title>B. Koffi and 23 co authors, Application of the CALIOP layer product to evaluate the vertical distribution of aerosols estimated by global models: AeroCom phase I results, 2012</title>
+    <link>https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/scientific-publications/AeroComI_paper-1.pdf/view</link>
+    <description>Koffi, B., and 23 co authors
+J. Geophys. Res., 117, D10201, doi: 10.1029/2011JD016858. </description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Scientific Papers</dc:subject>
+    
+    
+      <dc:subject>IS-ENES Phase 1</dc:subject>
+    
+    <dc:date>2013/04/26 11:35:00 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/scientific-publications/s.-valcke-10-co-authors-coupling-technologies-for-earth-system-modelling-2012/view">
+    <title>S. Valcke &amp; 10 co-authors, Coupling technologies for Earth System Modelling, 2012</title>
+    <link>https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/scientific-publications/s.-valcke-10-co-authors-coupling-technologies-for-earth-system-modelling-2012/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Scientific Papers</dc:subject>
+    
+    
+      <dc:subject>IS-ENES Phase 1</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/scientific-publications/s.-valcke-the-oasis3-coupler-a-european-climate-modelling-community-software-2012/view">
+    <title>S. Valcke, The OASIS3 coupler: a European climate modelling community software, 2012</title>
+    <link>https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/scientific-publications/s.-valcke-the-oasis3-coupler-a-european-climate-modelling-community-software-2012/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Scientific Papers</dc:subject>
+    
+    
+      <dc:subject>IS-ENES Phase 1</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/scientific-publications/a.-gettelman-8-co-authors-a-community-diagnostic-tool-for-chemistry-climate-model-validation-2012/view">
+    <title>A. Gettelman &amp;  8 co-authors, A community diagnostic tool for chemistry climate model validation, 2012</title>
+    <link>https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/scientific-publications/a.-gettelman-8-co-authors-a-community-diagnostic-tool-for-chemistry-climate-model-validation-2012/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Scientific Papers</dc:subject>
+    
+    
+      <dc:subject>IS-ENES Phase 1</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/scientific-publications/mitchell-j-budich-r-joussaume-s-lawrence-b-and-marotzke-j-2012-infrastructure-strategy-for-the-european-earth-system-modelling-community-2012-2022/view">
+    <title>Mitchell J, Budich R, Joussaume S, Lawrence B and Marotzke J  (2012), Infrastructure strategy for the European Earth System Modelling community 2012-2022</title>
+    <link>https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/scientific-publications/mitchell-j-budich-r-joussaume-s-lawrence-b-and-marotzke-j-2012-infrastructure-strategy-for-the-european-earth-system-modelling-community-2012-2022/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Scientific Papers</dc:subject>
+    
+    
+      <dc:subject>IS-ENES Phase 1</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides/EGU13_SPM127_pliegeregusplinter.pdf/view">
+    <title>M. Plieger &amp; W. Som de Cerff, Search access and work with CMIP5 data, April 2013</title>
+    <link>https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides/EGU13_SPM127_pliegeregusplinter.pdf/view</link>
+    <description>Wim Som de Cerff, Sylvie Joussaume, Martin Juckes, Christian Pagé
+EGU 2013, Splinter Session 1.27, talk and demo, April 11th 2013</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Presentation</dc:subject>
+    
+    
+      <dc:subject>IS-ENES Phase 1</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides/EGU13_IS-ENES_130408_NH1.8.pdf/view">
+    <title>S. Joussaume, InfraStructure for the European Network for Earth System Modelling, April 2013</title>
+    <link>https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides/EGU13_IS-ENES_130408_NH1.8.pdf/view</link>
+    <description>Sylvie Joussaume, 
+EGU 2013, NH1.8 session “ICT-based hydrometeorology science and natural disaster societal impact assessment”, April 8th, 2013</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Presentation</dc:subject>
+    
+    
+      <dc:subject>IS-ENES Phase 1</dc:subject>
+    
+    <dc:date>2013/04/18 13:30:00 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides/Poster_EGU_2013_CP_SJ.pdf/view">
+    <title>Poster - Bridging the gap between the impact and climate communities: lessons from the IS-ENES use cases, April 2013 </title>
+    <link>https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides/Poster_EGU_2013_CP_SJ.pdf/view</link>
+    <description>EGU_2013</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Presentation</dc:subject>
+    
+    
+      <dc:subject>IS-ENES Phase 1</dc:subject>
+    
+    <dc:date>2013/04/22 13:50:00 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+
+</rdf:RDF>

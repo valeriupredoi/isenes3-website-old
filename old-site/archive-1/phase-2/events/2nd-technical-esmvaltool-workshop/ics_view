@@ -1,0 +1,80 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Plone.org//NONSGML plone.app.event//EN
+X-WR-TIMEZONE:Europe/Vienna
+BEGIN:VEVENT
+SUMMARY:2nd Technical ESMValTool Workshop
+DTSTART;TZID=Europe/Vienna;VALUE=DATE-TIME:20161115T090000
+DTEND;TZID=Europe/Vienna;VALUE=DATE-TIME:20161116T170000
+DTSTAMP;VALUE=DATE-TIME:20220328T140449Z
+UID:6a83cd5414864ed9bc047b8e11e06003@plone7:8080
+ATTENDEE;CN="Veronika Eyring (DLR, DE, Convener)";ROLE=REQ-PARTICIPANT:Ver
+ onika Eyring (DLR, DE, Convener)
+ATTENDEE;CN="Björn Brötz (DLR, DE, Convener)";ROLE=REQ-PARTICIPANT:Björ
+ n Brötz (DLR, DE, Convener)
+ATTENDEE;CN="Alexander Löw (LMU, DE, Convener)";ROLE=REQ-PARTICIPANT:Alex
+ ander Löw (LMU, DE, Convener)
+ATTENDEE;CN="Axel Lauer (DLR, DE y, Convener)";ROLE=REQ-PARTICIPANT:Axel L
+ auer (DLR, DE y, Convener)
+ATTENDEE;CN="Ben Müller (LMU, DE, Convener)";ROLE=REQ-PARTICIPANT:Ben Mü
+ ller (LMU, DE, Convener)
+ATTENDEE;CN="Mattia Righi (DLR, DE, Convener)";ROLE=REQ-PARTICIPANT:Mattia
+  Righi (DLR, DE, Convener)
+ATTENDEE;CN="Niels Drost (Esciencecenter, NL)";ROLE=REQ-PARTICIPANT:Niels 
+ Drost (Esciencecenter, NL)
+ATTENDEE;CN="Paul Earnshaw (MetOffice, UK)";ROLE=REQ-PARTICIPANT:Paul Earn
+ shaw (MetOffice, UK)
+ATTENDEE;CN="Carsten Ehbrecht (DKRZ, DE)";ROLE=REQ-PARTICIPANT:Carsten Ehb
+ recht (DKRZ, DE)
+ATTENDEE;CN="Martin Evaldsson (SMHI, SE)";ROLE=REQ-PARTICIPANT:Martin Eval
+ dsson (SMHI, SE)
+ATTENDEE;CN="Christopher Kadow (FUB, DE)";ROLE=REQ-PARTICIPANT:Christopher
+  Kadow (FUB, DE)
+ATTENDEE;CN="Nikolay Kadygrov (IPSL, FR)";ROLE=REQ-PARTICIPANT:Nikolay Kad
+ ygrov (IPSL, FR)
+ATTENDEE;CN="Stephan Kindermann (DKRZ, DE)";ROLE=REQ-PARTICIPANT:Stephan K
+ indermann (DKRZ, DE)
+ATTENDEE;CN="John Krasting (GFDL, USA)";ROLE=REQ-PARTICIPANT:John Krasting
+  (GFDL, USA)
+ATTENDEE;CN="Mateusz Kuzak (Esciencecenter,NL)";ROLE=REQ-PARTICIPANT:Mateu
+ sz Kuzak (Esciencecenter,NL)
+ATTENDEE;CN="Javier Vegas Regidor (BSC, ES)";ROLE=REQ-PARTICIPANT:Javier V
+ egas Regidor (BSC, ES)
+ATTENDEE;CN="Thomas Schartner (FUB, DE)";ROLE=REQ-PARTICIPANT:Thomas Schar
+ tner (FUB, DE)
+ATTENDEE;CN="Jerome Servonnat (IPSL, FR)";ROLE=REQ-PARTICIPANT:Jerome Serv
+ onnat (IPSL, FR)
+ATTENDEE;CN="Willem van Hage (Esciencecenter, NL)";ROLE=REQ-PARTICIPANT:Wi
+ llem van Hage (Esciencecenter, NL)
+ATTENDEE;CN="Thomas Voigt (MetOffice, UK)";ROLE=REQ-PARTICIPANT:Thomas Voi
+ gt (MetOffice, UK)
+ATTENDEE;CN="Jost von Hardenberg (ISAC, IT)";ROLE=REQ-PARTICIPANT:Jost von
+  Hardenberg (ISAC, IT)
+ATTENDEE;CN="Jeremy Walton (MetOffice, UK)";ROLE=REQ-PARTICIPANT:Jeremy Wa
+ lton (MetOffice, UK)
+ATTENDEE;CN="Keith Williams (MetOffice, UK)";ROLE=REQ-PARTICIPANT:Keith Wi
+ lliams (MetOffice, UK)
+ATTENDEE;CN="Chunxue Yang (ISAC, IT)";ROLE=REQ-PARTICIPANT:Chunxue Yang (I
+ SAC, IT)
+CATEGORIES:Project Event
+CREATED;VALUE=DATE-TIME:20160728T103012Z
+DESCRIPTION:A 2nd workshop on the technical development of the Earth Syste
+ m Evaluation Tool (ESMValTool\, Eyring et al. [2016b]) will be held at the
+  Ludwig‐Maximilians‐Universität München (LMU) in the Department of G
+ eography from 15‐16 November 2016.
+LAST-MODIFIED;VALUE=DATE-TIME:20161123T134333Z
+LOCATION:Ludwig‐Maximilians‐Universität München (Germany)
+URL:https://is.enes.org/archive-1/phase-2/events/2nd-technical-esmvaltool-
+ workshop
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+X-LIC-LOCATION:Europe/Vienna
+BEGIN:STANDARD
+DTSTART;VALUE=DATE-TIME:20161030T020000
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+END:VCALENDAR

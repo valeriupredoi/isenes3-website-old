@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+<channel rdf:about="https://is.enes.org/search_rss">
+  <title>IS-ENES 3</title>
+  <link>https://is.enes.org</link>
+
+  <image rdf:resource="https://is.enes.org/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="https://is.enes.org/events/workshops/is-enes3-kick-off-meeting"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/events/climate-and-weather-coe-preparatory-meeting-1"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="https://is.enes.org/events/workshops/is-enes3-kick-off-meeting">
+    <title>IS-ENES3 Kick-off Meeting</title>
+    <link>https://is.enes.org/events/workshops/is-enes3-kick-off-meeting</link>
+    <description>Kickoff meeeting of the third phase of IS-ENES (2019-2022, 22 partners).  </description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Project Event</dc:subject>
+    
+    
+      <dc:subject>News IS-ENES</dc:subject>
+    
+    <dc:date>2019/01/08 16:35:00 GMT+1</dc:date>
+    <dc:type>Event</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/events/climate-and-weather-coe-preparatory-meeting-1">
+    <title>Climate and weather CoE preparatory meeting 1</title>
+    <link>https://is.enes.org/archive-1/phase-2/events/climate-and-weather-coe-preparatory-meeting-1</link>
+    <description>The meeting will be held at ECMWF headquarters.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Project Event</dc:subject>
+    
+    
+      <dc:subject>News IS-ENES</dc:subject>
+    
+    <dc:date>2014/09/10 16:30:00 GMT+1</dc:date>
+    <dc:type>Event</dc:type>
+  </item>
+
+
+
+</rdf:RDF>

@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Plone.org//NONSGML plone.app.event//EN
+X-WR-TIMEZONE:Europe/Vienna
+BEGIN:VEVENT
+SUMMARY:Third European Earth System and Climate Modeling School: 3rd E2SCM
+ S 
+DTSTART;TZID=Europe/Vienna;VALUE=DATE-TIME:20160609T090000
+DTEND;TZID=Europe/Vienna;VALUE=DATE-TIME:20160621T170000
+DTSTAMP;VALUE=DATE-TIME:20220328T140447Z
+UID:8a4c3a91be1d4e0e937aecc6489b95d3@plone7:8080
+CREATED;VALUE=DATE-TIME:20170519T095232Z
+DESCRIPTION:Initiated by the European Network for Earth System modelling (
+ ENES) with support of the FP7 project IS-ENES2\, the E2SCMS Earth System a
+ nd Climate Modeling Summer School is open to early career scientists (adva
+ nced PhD candidates\, postdoctoral scientists\, scientific programmers) wh
+ o are affiliated with European research institutions.\n
+LAST-MODIFIED;VALUE=DATE-TIME:20170519T095237Z
+LOCATION:HelsinkiHelsinki
+URL:https://is.enes.org/archive-1/phase-2/events/third-european-earth-syst
+ em-and-climate-modeling-school-3rd-e2scms
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+X-LIC-LOCATION:Europe/Vienna
+BEGIN:DAYLIGHT
+DTSTART;VALUE=DATE-TIME:20160327T030000
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+END:VCALENDAR

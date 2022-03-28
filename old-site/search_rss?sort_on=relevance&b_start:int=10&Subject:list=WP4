@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+<channel rdf:about="https://is.enes.org/search_rss">
+  <title>IS-ENES 3</title>
+  <link>https://is.enes.org</link>
+
+  <image rdf:resource="https://is.enes.org/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms4-6_final-workshop-on-meta-data-generation-during-experiments/view"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms4-6_final-workshop-on-meta-data-generation-during-experiments/view">
+    <title>IS-ENES2_MS4.6_Final workshop on meta-data generation during  experiments </title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms4-6_final-workshop-on-meta-data-generation-during-experiments/view</link>
+    <description>From 2016-09-27 to 29 a common workshop was held in Lisbon for IS-ENES2 milestones 4.6 (metadata generation) and 4.7 (workflows). This paper is to document the metadata part of the workshop which aimed to explore methodologies that make metadata capture more efficient, investigate any options for sharing existing software to do this and also aimed to influence the development of the meta-data standards and central tools that the community will need to use in future CMIP and related inter comparison projects.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>WP4</dc:subject>
+    
+    
+      <dc:subject>Milestone</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+
+</rdf:RDF>

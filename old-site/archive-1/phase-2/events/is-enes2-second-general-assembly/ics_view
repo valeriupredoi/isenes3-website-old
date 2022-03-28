@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Plone.org//NONSGML plone.app.event//EN
+X-WR-TIMEZONE:Europe/Vienna
+BEGIN:VEVENT
+SUMMARY:IS-ENES2 second General Assembly
+DTSTART;TZID=Europe/Vienna;VALUE=DATE-TIME:20160216T120000
+DTEND;TZID=Europe/Vienna;VALUE=DATE-TIME:20160218T140000
+DTSTAMP;VALUE=DATE-TIME:20220328T140446Z
+UID:1ec60c4b84524a8da72feef0e682b881@plone7:8080
+ATTENDEE;CN="Giovanni Aloisio, Joachim Biercamp, Reinhard Budich, Nicolas 
+ Carenton, Mick Carter, Ole B. Christensen, Antonio S. Cofiño, Sébastien 
+ Denvil, Francisco Doblas-Reyes, Irina Fast, Kerstin Fieg, Sandro Fiore, Uw
+ e Fladrich, Marie-Alice Foujols, Mark Greenslade, Alf Grini, Francesca Gug
+ lielmo, Christoph Heinze, Sylvie Joussaume, Martin	Juckes, Stephan Kinderm
+ ann, Ingo Kirchner, Michael Lautenschlager, Bryan	Lawrence, Guillaume Leva
+ vasseur, Grenville Lister, Eric Maisonnave, Domingo Manubens, Jochem Marot
+ zke, Marius Matreata, Silvia Mocavero, Christian Pagé, Marie Parinet, Maa
+ rten Plieger, Torsten Rathmann, Kerstin, Ronneberger, Enrico Scoccimarro, 
+ Stéphane Sénési, Wim Som de Cerff, Martina Stockhause, Hamish Struthers
+ , Frank Toussaint, Sophie	Valcke, Erik Van Slobbe, Manuel Vega";ROLE=REQ-P
+ ARTICIPANT:Giovanni Aloisio, Joachim Biercamp, Reinhard Budich, Nicolas Ca
+ renton, Mick Carter, Ole B. Christensen, Antonio S. Cofiño, Sébastien De
+ nvil, Francisco Doblas-Reyes, Irina Fast, Kerstin Fieg, Sandro Fiore, Uwe 
+ Fladrich, Marie-Alice Foujols, Mark Greenslade, Alf Grini, Francesca Gugli
+ elmo, Christoph Heinze, Sylvie Joussaume, Martin	Juckes, Stephan Kinderman
+ n, Ingo Kirchner, Michael Lautenschlager, Bryan	Lawrence, Guillaume Levava
+ sseur, Grenville Lister, Eric Maisonnave, Domingo Manubens, Jochem Marotzk
+ e, Marius Matreata, Silvia Mocavero, Christian Pagé, Marie Parinet, Maart
+ en Plieger, Torsten Rathmann, Kerstin, Ronneberger, Enrico Scoccimarro, St
+ éphane Sénési, Wim Som de Cerff, Martina Stockhause, Hamish Struthers, 
+ Frank Toussaint, Sophie	Valcke, Erik Van Slobbe, Manuel Vega
+CATEGORIES:Project Event
+CONTACT:Marie Parinet\, +33 1 69 08 85 95\, marie.parinet@lsce.ipsl.fr
+CREATED;VALUE=DATE-TIME:20160122T163002Z
+DESCRIPTION:The 2nd General Assembly of our project will be held on 16th-1
+ 8th February 2016\, in Hamburg\, Germany.
+LAST-MODIFIED;VALUE=DATE-TIME:20160317T121711Z
+LOCATION:Instituto Cervantes\, Chilehaus\, Hamburg\, Germany
+URL:https://is.enes.org/archive-1/phase-2/events/is-enes2-second-general-a
+ ssembly
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+X-LIC-LOCATION:Europe/Vienna
+BEGIN:STANDARD
+DTSTART;VALUE=DATE-TIME:20151025T020000
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+END:VCALENDAR

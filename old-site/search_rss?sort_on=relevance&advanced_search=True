@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+<channel rdf:about="https://is.enes.org/search_rss">
+  <title>IS-ENES 3</title>
+  <link>https://is.enes.org</link>
+
+  <image rdf:resource="https://is.enes.org/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="https://is.enes.org/documents/publications/swirrl-managing-provenance-aware-and-reproducible-workspaces"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/events/is-enes3-webinar-on-oasis3_mct"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/events/trainings-and-education/is-enes3-eastern-europe-spring-schools-on-climate-data-and-impact-assessments"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/documents/newsletter/newsletter-10-march-2022"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/files/ISENES3WorkshopClimateindicesEasternEuropeperspectiveAgendavf.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/files/ISENES3WorkshopClimateindicesEasternEuropeanperspectiveAgendavf.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/documents/milestones/m3-3-evaluation-of-the-first-short-trainings-and-webinars/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/documents/newsletter/newsletter-7-march-2021"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/documents/presentations/agu-2020/esmvalcore-and-esmvaltool-analyzing-cmip-data-made-easy/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/events/workshops/is-enes3-first-general-assembly"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/images-1/esgf.png/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/events/workshops/9th-esgf-face-to-face-conference"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/files/Agenda_ISENES3_Virtual_GA2_v3.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/events/workshops/7th-technical-esmvaltool-coding-workshop"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/images-1/Image4.png/view"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="https://is.enes.org/documents/publications/swirrl-managing-provenance-aware-and-reproducible-workspaces">
+    <title>SWIRRL. Managing Provenance-aware and Reproducible Workspaces </title>
+    <link>https://is.enes.org/documents/publications/swirrl-managing-provenance-aware-and-reproducible-workspaces</link>
+    <description>Alessandro Spinuso et al., Published on 7 March 2022.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    <dc:date>2022/03/17 17:25:00 GMT+1</dc:date>
+    <dc:type>Link</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/events/is-enes3-webinar-on-oasis3_mct">
+    <title>IS-ENES3 Webinar on OASIS3_MCT</title>
+    <link>https://is.enes.org/events/is-enes3-webinar-on-oasis3_mct</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    <dc:date>2022/03/18 10:48:41 GMT+1</dc:date>
+    <dc:type>Event</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/events/trainings-and-education/is-enes3-eastern-europe-spring-schools-on-climate-data-and-impact-assessments">
+    <title>IS-ENES3 Eastern Europe Spring Schools on Climate data and Impact assessments</title>
+    <link>https://is.enes.org/events/trainings-and-education/is-enes3-eastern-europe-spring-schools-on-climate-data-and-impact-assessments</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    <dc:date>2022/03/18 12:10:21 GMT+1</dc:date>
+    <dc:type>Event</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/documents/newsletter/newsletter-10-march-2022">
+    <title>Newsletter 10 - March 2022</title>
+    <link>https://is.enes.org/documents/newsletter/newsletter-10-march-2022</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    <dc:date>2022/03/23 12:29:27 GMT+1</dc:date>
+    <dc:type>Link</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/files/ISENES3WorkshopClimateindicesEasternEuropeperspectiveAgendavf.pdf/view">
+    <title></title>
+    <link>https://is.enes.org/files/ISENES3WorkshopClimateindicesEasternEuropeperspectiveAgendavf.pdf/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/files/ISENES3WorkshopClimateindicesEasternEuropeanperspectiveAgendavf.pdf/view">
+    <title></title>
+    <link>https://is.enes.org/files/ISENES3WorkshopClimateindicesEasternEuropeanperspectiveAgendavf.pdf/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/documents/milestones/m3-3-evaluation-of-the-first-short-trainings-and-webinars/view">
+    <title>M3.3 - Evaluation of the first short trainings and webinars</title>
+    <link>https://is.enes.org/documents/milestones/m3-3-evaluation-of-the-first-short-trainings-and-webinars/view</link>
+    <description>This report gives an overview and evaluation of the events and webinars organized in the first 2 years of the project and the impact of COVID-19. Besides, the experiences with face-to-face and online events are described. Due to COVID-19 and based on these experiences a slightly adjusted set-up for the rest of the short events/webinars is suggested.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/documents/newsletter/newsletter-7-march-2021">
+    <title>Newsletter 7 - March 2021</title>
+    <link>https://is.enes.org/documents/newsletter/newsletter-7-march-2021</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    <dc:date>2021/03/25 11:34:40 GMT+1</dc:date>
+    <dc:type>Link</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/documents/presentations/agu-2020/esmvalcore-and-esmvaltool-analyzing-cmip-data-made-easy/view">
+    <title>ESMValCore and ESMValTool : analyzing CMIP data made easy</title>
+    <link>https://is.enes.org/documents/presentations/agu-2020/esmvalcore-and-esmvaltool-analyzing-cmip-data-made-easy/view</link>
+    <description>Presented at AGU 2020</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/events/workshops/is-enes3-first-general-assembly">
+    <title>IS-ENES3 First Virtual General Assembly </title>
+    <link>https://is.enes.org/events/workshops/is-enes3-first-general-assembly</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    <dc:date>2019/09/23 15:25:00 GMT+1</dc:date>
+    <dc:type>Event</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/images-1/esgf.png/view">
+    <title>ESGF</title>
+    <link>https://is.enes.org/images-1/esgf.png/view</link>
+    <description>ESGF</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    <dc:date></dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/events/workshops/9th-esgf-face-to-face-conference">
+    <title>9th ESGF Face-to-Face Conference</title>
+    <link>https://is.enes.org/events/workshops/9th-esgf-face-to-face-conference</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    <dc:date>2019/09/25 15:55:00 GMT+1</dc:date>
+    <dc:type>Event</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/files/Agenda_ISENES3_Virtual_GA2_v3.pdf/view">
+    <title></title>
+    <link>https://is.enes.org/files/Agenda_ISENES3_Virtual_GA2_v3.pdf/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/events/workshops/7th-technical-esmvaltool-coding-workshop">
+    <title>7th Technical ESMValTool Coding workshop</title>
+    <link>https://is.enes.org/events/workshops/7th-technical-esmvaltool-coding-workshop</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    <dc:date>2020/11/20 09:55:00 GMT+1</dc:date>
+    <dc:type>Event</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/images-1/Image4.png/view">
+    <title></title>
+    <link>https://is.enes.org/images-1/Image4.png/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    <dc:date></dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+
+</rdf:RDF>

@@ -1,0 +1,66 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Plone.org//NONSGML plone.app.event//EN
+X-WR-TIMEZONE:Europe/Vienna
+BEGIN:VEVENT
+SUMMARY:Exascale Technologies & Innovation in HPC for Climate Models - 3rd
+  HPC Workshop
+DTSTART;TZID=Europe/Vienna;VALUE=DATE-TIME:20140317T100000
+DTEND;TZID=Europe/Vienna;VALUE=DATE-TIME:20140319T170000
+DTSTAMP;VALUE=DATE-TIME:20220328T140002Z
+UID:2522fced15d041288196ee61df08ee1e@plone7:8080
+ATTENDEE;CN="(last updated: Mar. 4th) Panagiotis Adamidis,	Giovanni Aloisi
+ o,	Jean-Claude Andree,	Mike Ashworth,	Chandan Basu,	Peter Bauer,	Joachim B
+ iercamp, Hendryk Bockelmann,	Reinhard Budich,	Paul Carpenter,	Claude Cohen
+ ,	Luisa D'Amore,	Damien Declat, Sébastien Denvil, Francisco Doblas-reyes,
+ 	John Donners, Italo Epicoco, Irina Fast, Dave Fellinger, Rudolf Fischer, 
+ Uwe Fladrich, Rupert Ford,	Marie-Alice Foujols, Anreas Göttlicher, Laura 
+ Grigori,	William Gropp,	Alok Kumar Gupta, Sylvie Joussaume,	Robert Jacob, 
+ Martin Juckes,	Christopher Kerr, Ingo Kirchner, Axel Koehler, Peter Korn, 
+ Luis Kornblueh,	Julian Kunkel,	Jesus Labarta,	Xavier Lapillonne, Erwin Lau
+ re,	Bryan Lawrence, Leonidas Linardikis, Rich Loft,	Thomas Ludwig,	Yvon Ma
+ day,	Christopher Meynard, Eric Maisonnave, Georgios Markomanolis,	Jochem M
+ arotzke,	Hendrik Merx,	Yann Meurdesoif,	Silvia Mocavero, Steve Mullerworth
+ ,	Almerico Murli,	Per Nyberg,	Marie Parinet,	Stan Posey, Christoph Pospiec
+ h, Markus Ramp, Rene Redler,	Mike Rezny,	Graham Riley,	Steven Sandbach,	Ma
+ rie-Christine Sawley,	William Barton Sawyer,	Thomas Schulthess, Stéphane 
+ Senesi, Bjorn Stevens, Francois Thomas,	Sophie Valcke,	Pier-Luigi Vidale, 
+ Franck Vigilant, Shuting Yang";ROLE=REQ-PARTICIPANT:(last updated: Mar. 4t
+ h) Panagiotis Adamidis,	Giovanni Aloisio,	Jean-Claude Andree,	Mike Ashwort
+ h,	Chandan Basu,	Peter Bauer,	Joachim Biercamp, Hendryk Bockelmann,	Reinha
+ rd Budich,	Paul Carpenter,	Claude Cohen,	Luisa D'Amore,	Damien Declat, Sé
+ bastien Denvil, Francisco Doblas-reyes,	John Donners, Italo Epicoco, Irina
+  Fast, Dave Fellinger, Rudolf Fischer, Uwe Fladrich, Rupert Ford,	Marie-Al
+ ice Foujols, Anreas Göttlicher, Laura Grigori,	William Gropp,	Alok Kumar 
+ Gupta, Sylvie Joussaume,	Robert Jacob, Martin Juckes,	Christopher Kerr, In
+ go Kirchner, Axel Koehler, Peter Korn, Luis Kornblueh,	Julian Kunkel,	Jesu
+ s Labarta,	Xavier Lapillonne, Erwin Laure,	Bryan Lawrence, Leonidas Linard
+ ikis, Rich Loft,	Thomas Ludwig,	Yvon Maday,	Christopher Meynard, Eric Mais
+ onnave, Georgios Markomanolis,	Jochem Marotzke,	Hendrik Merx,	Yann Meurdes
+ oif,	Silvia Mocavero, Steve Mullerworth,	Almerico Murli,	Per Nyberg,	Marie
+  Parinet,	Stan Posey, Christoph Pospiech, Markus Ramp, Rene Redler,	Mike R
+ ezny,	Graham Riley,	Steven Sandbach,	Marie-Christine Sawley,	William Barto
+ n Sawyer,	Thomas Schulthess, Stéphane Senesi, Bjorn Stevens, Francois Tho
+ mas,	Sophie Valcke,	Pier-Luigi Vidale, Franck Vigilant, Shuting Yang
+CONTACT:Giovanni Aloisio\, Joachim Biercamp\, biercamp@dkrz.de
+CREATED;VALUE=DATE-TIME:20140127T104334Z
+DESCRIPTION:After two successful events in Lecce in December 2011 and Toul
+ ouse in January 2013 this will be the 3rd workshop dealing with challenges
+  the community of climate modellers faces\, through the development of hig
+ h performance computing organized by ENES\, the European Network for Earth
+  System Modelling\n
+LAST-MODIFIED;VALUE=DATE-TIME:20140919T092909Z
+LOCATION:Cap San Diego\, Überseebrücke\, 20459 Hamburg\, Germany
+URL:https://is.enes.org/archive-1/phase-2/events/ws3
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+X-LIC-LOCATION:Europe/Vienna
+BEGIN:STANDARD
+DTSTART;VALUE=DATE-TIME:20131027T020000
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+END:VCALENDAR

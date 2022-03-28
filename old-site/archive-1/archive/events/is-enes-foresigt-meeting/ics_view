@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Plone.org//NONSGML plone.app.event//EN
+X-WR-TIMEZONE:Europe/Vienna
+BEGIN:VEVENT
+SUMMARY:IS-ENES foresigt meeting\, 2-4 February 2011
+DTSTART;TZID=Europe/Vienna;VALUE=DATE-TIME:20110202T000000
+DTEND;TZID=Europe/Vienna;VALUE=DATE-TIME:20110204T130000
+DTSTAMP;VALUE=DATE-TIME:20220328T135945Z
+UID:63f73241352d4a2a9261c00f646af96f@plone7:8080
+CATEGORIES:Project Event
+CONTACT:Marie Garcia\, +33 (0)1 69 08 85 95\, marie.garcia@lsce.ipsl.fr
+CREATED;VALUE=DATE-TIME:20110307T085629Z
+DESCRIPTION: \n  \n  \nThis foresight meeting continues the work on the EN
+ ES future strategy initiated in March 2010 during the Scoping meeting in M
+ ontvillargenne
+LAST-MODIFIED;VALUE=DATE-TIME:20130729T091623Z
+LOCATION:Hamburg\, Germany
+URL:https://is.enes.org/archive-1/archive/events/is-enes-foresigt-meeting
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+X-LIC-LOCATION:Europe/Vienna
+BEGIN:STANDARD
+DTSTART;VALUE=DATE-TIME:20101031T020000
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+END:VCALENDAR

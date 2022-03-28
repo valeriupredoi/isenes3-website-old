@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+<channel rdf:about="https://is.enes.org/archive-1/phase-2/project/na3-wp4-earth-system-modelling-environments-1/RSS">
+  <title>NA3 (WP4): Earth System Modelling Environments</title>
+  <link>https://is.enes.org/archive-1/phase-2/project/na3-wp4-earth-system-modelling-environments-1</link>
+  <description></description>
+  <image rdf:resource="https://is.enes.org/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/na3-documents/wp4-esm-environments-recommendations/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/na3-documents/cm-documents"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/na3-documents/cm-documents/evaluation-of-fcm-in-ipsl-earth-system-model/view"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/na3-documents/wp4-esm-environments-recommendations/view">
+    <title>WP4 ESM Environments Recommendations</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/na3-documents/wp4-esm-environments-recommendations/view</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>WP4</dc:subject>
+    
+    
+      <dc:subject>Work document</dc:subject>
+    
+    <dc:date>2015-07-08T14:30:48Z</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/na3-documents/cm-documents">
+    <title>WP4 - T2: Configuration Management Virtual Workshop</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/na3-documents/cm-documents</link>
+    <description>This page will link to the Configuration Management Best Practice Guide, coordinated by IS-ENES2 in association with colleagues around the world. It will also link to other papers provided to the virtual workshop.</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>WP4</dc:subject>
+    
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    
+      <dc:subject>Work document</dc:subject>
+    
+    <dc:date>2016-01-22T17:15:00Z</dc:date>
+    <dc:type>Folder</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/na3-documents/cm-documents/evaluation-of-fcm-in-ipsl-earth-system-model/view">
+    <title>Evaluation of FCM in IPSL Earth System model</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/na3-documents/cm-documents/evaluation-of-fcm-in-ipsl-earth-system-model/view</link>
+    <description>Evaluation of FCM in IPSL Earth System model</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>WP4</dc:subject>
+    
+    
+      <dc:subject>WP4 documents</dc:subject>
+    
+    
+      <dc:subject>Work document</dc:subject>
+    
+    
+      <dc:subject>Publication</dc:subject>
+    
+    <dc:date>2016-01-27T16:47:36Z</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+
+</rdf:RDF>

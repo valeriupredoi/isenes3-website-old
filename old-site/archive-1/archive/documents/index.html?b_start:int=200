@@ -1,0 +1,2403 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><base href="https://is.enes.org/archive-1/archive/documents/" /><!--[if lt IE 7]></base><![endif]--><meta content="Container for all documents of the IS-ENES website" name="description" /><link rel="stylesheet" type="text/css" media="screen" href="https://is.enes.org/portal_css/Sunburst%20Theme/reset-cachekey-e9bd6f3273fbd0c7c9f4df840390c63f.css" /><link rel="stylesheet" type="text/css" href="https://is.enes.org/portal_css/Sunburst%20Theme/base-cachekey-ea702ce66a867dd6372ecc66f032e94f.css" /><link rel="stylesheet" type="text/css" media="screen" href="https://is.enes.org/portal_css/Sunburst%20Theme/resourceplone.app.jquerytools.dateinput-cachekey-3085abc22224c63874892c6c181bc0ca.css" /><style type="text/css" media="screen">@import url(https://is.enes.org/portal_css/Sunburst%20Theme/resourceProducts.Doormat.stylesheetsdoormat-cachekey-81b1ab13b023dd6e98179d326cf4e416.css);</style><style type="text/css" media="screen">@import url(https://is.enes.org/portal_css/Sunburst%20Theme/resourceeasyslider-portlet-cachekey-ca05abde4bd9dd3b4a167aa61d95609d.css);</style><style type="text/css" media="screen">@import url(https://is.enes.org/portal_css/Sunburst%20Theme/resourcefourdigits.portlet.twitter.stylesheetstwitterportlet-cachekey-94aafbb5d567d9526cbcaf4447e0582a.css);</style><link rel="stylesheet" type="text/css" href="https://is.enes.org/portal_css/Sunburst%20Theme/themedkrz.themeenesstylesheetscontent-cachekey-342e5d4944783e1c6a5926aa348aa53e.css" /><script type="text/javascript" src="https://is.enes.org/portal_javascripts/Sunburst%20Theme/resourceplone.app.jquery-cachekey-9053f00138fbd70c03dfcc38bd398be2.js"></script><script type="text/javascript" src="https://is.enes.org/portal_javascripts/Sunburst%20Theme/resourceeasyslider-portlet-cachekey-127c964e1d494ac103b084dd3f03be5b.js"></script><script type="text/javascript" src="https://is.enes.org/portal_javascripts/Sunburst%20Theme/kss-bbb-cachekey-80470048d0f344ea23e780a1fd230b3e.js"></script><script type="text/javascript" src="https://is.enes.org/portal_javascripts/Sunburst%20Theme/++resource++cwx.protectemails.javascripts/jquery.base64.min.js"></script><script type="text/javascript" src="https://is.enes.org/portal_javascripts/Sunburst%20Theme/++resource++cwx.protectemails.javascripts/protectemails.js"></script><script type="text/javascript" src="https://is.enes.org/portal_javascripts/Sunburst%20Theme/resourcecollective.js.momentmoment-cachekey-9766d125c4c2c28894627dc7b3dd6f78.js"></script><title>Documents — IS-ENES 3</title><link rel="canonical" href="https://is.enes.org/archive-1/archive/documents" /><link rel="apple-touch-icon" href="https://is.enes.org/touch_icon.png" /><script type="text/javascript">
+        jQuery(function($){
+            if (typeof($.datepicker) != "undefined"){
+              $.datepicker.setDefaults(
+                jQuery.extend($.datepicker.regional[''],
+                {dateFormat: 'mm/dd/yy'}));
+            }
+        });
+        </script><link rel="search" href="https://is.enes.org/@@search" title="Search this site" /><meta name="viewport" content="width=device-width, initial-scale=0.6666, maximum-scale=1.0, minimum-scale=0.6666" /><meta name="generator" content="Plone - http://plone.org" />
+
+    
+    
+        
+    
+    
+
+    
+
+    
+    <link rel="shortcut icon" type="image/x-icon" href="/++theme++dkrz.themeenes/images/favicon.ico" />
+
+    
+    
+    
+    <script type="text/javascript">
+        try {
+            // This is the URL where mobile
+            detectmobile.defaultMobileURL = "http://m";
+            detectmobile.process();
+        } catch(e) {
+          // Make sure that in the fault modes
+          // we do not interrupt execution of other Javascript code
+        }
+    </script>
+
+    
+    
+    
+    
+    
+
+    
+
+    <link rel="stylesheet" type="text/css" media="screen" href="/++theme++dkrz.themeenes/stylesheets/layout.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="/++theme++dkrz.themeenes/stylesheets/main.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="/++theme++dkrz.themeenes/stylesheets/colors.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="/++theme++dkrz.themeenes/stylesheets/adaptation_isenes2.css" />
+    
+  </head>
+
+  <body class="template-folder_listing portaltype-folder site-ISENES3 section-archive-1 subsection-archive subsection-archive-documents userrole-anonymous colorkey-6" dir="ltr" style="background-color:#808080;"><div id="visual-portal-wrapper" class="shadow">
+      <div class="head-background">
+        <div class="head-wrapper">
+          <div id="portal-top" class="row">
+            <div class="cell width-full position-0">
+              <div id="portal-header">
+                <p class="hiddenStructure">
+                  <a accesskey="2" href="#content">Direkt zum Inhalt</a> |
+                  <a accesskey="6" href="#portlet-navigation-tree">Direkt zur Navigation</a>
+                </p>
+                <!-- begin: --><div id="portal-personaltools-wrapper">
+
+<p class="hiddenStructure">Personal tools</p>
+
+
+
+
+
+</div><!-- :end -->
+                <!-- begin: --><ul id="portal-siteactions">
+
+    <li id="siteaction-sitemap"><a href="https://is.enes.org/sitemap" accesskey="3" title="Site Map">Site Map</a></li>
+    <li id="siteaction-copy_of_contact"><a href="https://is.enes.org/project/privacy-policy" accesskey="" title="Privacy Policy">Privacy Policy</a></li>
+    <li id="siteaction-contact"><a href="https://is.enes.org/project/contact" accesskey="9" title="Contact">Contact</a></li>
+    <li id="siteaction-login"><a href="https://is.enes.org/login" accesskey="" title="Log in">Log in</a></li>
+</ul><!-- :end -->
+                <!-- begin: --><!-- :end -->
+                <!-- begin: --><!-- :end -->
+                <h5 class="hiddenStructure">Sektionen</h5>
+                <div class="menu-wrapper">
+                  <a id="portal-logo" title="IS-ENES 3" accesskey="1" href="https://is.enes.org">
+                  <img src="/++theme++dkrz.themeenes/images_isenes2/logo.png" alt="" title="" height="74" width="300" /></a>
+                  <!-- begin: --><ul id="portal-globalnav"><li id="portaltab-project" class="plain colorkey-1"><a href="https://is.enes.org/project" class="plain" title="About the IS-ENES3 Project">About</a>
+                <ul class="submenu colorkey-1">
+                    <li>
+
+    
+
+        <a href="https://is.enes.org/project/objectives" class="state-published" title="About the aims and objectives of the Project">
+            
+            Objectives
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/project/description-of-work" class="state-published" title="">
+            
+            Description of Work
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/project/partners" class="state-published" title="">
+            
+            Partners
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/project/contact" class="state-published" title="">
+            
+            Contact
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li id="portaltab-events" class="plain colorkey-2"><a href="https://is.enes.org/events" class="plain" title="Site Events">Events</a>
+                <ul class="submenu colorkey-2">
+                    <li>
+
+    
+
+        <a href="https://is.enes.org/events/call-announcements" class="state-published" title="">
+            
+            Call announcements
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/events/trainings-and-education" class="state-published" title="">
+            
+            Trainings and Education
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/events/workshops" class="state-published" title="">
+            
+            Workshops
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li id="portaltab-documents" class="plain colorkey-3"><a href="https://is.enes.org/documents" class="plain" title="IS-ENES3 documents">Documents</a>
+                <ul class="submenu colorkey-3">
+                    <li>
+
+    
+
+        <a href="https://is.enes.org/documents/deliverables" class="state-published" title="">
+            
+            Deliverables
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/documents/milestones" class="state-published" title="List of public reports associated with milestones. ">
+            
+            Milestones
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/documents/publications" class="state-published" title="IS-ENES3 Publications">
+            
+            Publications 
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/documents/presentations" class="state-published" title="Find more IS-ENES3 presentations on our ZENODO community: https://zenodo.org/communities/is-enes3/?page=1&amp;size=20">
+            
+            Presentations
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/documents/is-enes3-reports-and-kpis" class="state-published" title="">
+            
+            IS-ENES3 reports
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/documents/flyers-logos" class="state-published" title="">
+            
+            Flyers &amp; logos 
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/documents/newsletter" class="state-published" title="">
+            
+            Newsletter
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li id="portaltab-ressources" class="plain colorkey-4"><a href="https://is.enes.org/ressources" class="plain" title="">SERVICES</a></li><li id="portaltab-internal" class="plain colorkey-5"><a href="https://is.enes.org/internal" class="plain" title="Internal project collaboration area">Internal</a></li><li id="portaltab-archive-1" class="selected colorkey-6"><a href="https://is.enes.org/archive-1" class="plain" title="">Archive</a>
+                <ul class="submenu colorkey-6">
+                    <li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/archive" class="state-published hasDropDown" title="All the content from the IS-ENES 1 webpage">
+            
+            Phase 1
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/archive/the-project" class="state-published hasDropDown" title="About the IS-ENES Project">
+            
+            Project
+        </a>
+
+        <ul class="submenu navTree navTreeLevel2">
+            
+
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/archive/the-project/aims-and-objectives" class="state-published" title="About the aims and objectives of the project">
+            
+            Objectives
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/archive/the-project/the-partners" class="state-published" title="About the IS-ENES Consortium">
+            
+            Partners
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/archive/the-project/the-workpackages" class="state-published" title="Worpackages table and short description">
+            
+            Description of work
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/archive/the-project/deliverables" class="state-published" title="Here are collected all the deliverables achieved during the project">
+            
+            Deliverables
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/archive/events" class="state-published" title="Site Events">
+            
+            Events
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes" class="state-published hasDropDown" title="">
+            
+            Dissemination Activities
+        </a>
+
+        <ul class="submenu navTree navTreeLevel2">
+            
+
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/dissemination-activities" class="state-published" title="">
+            
+            Publications
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/scientific-publications" class="state-published" title="">
+            
+            Scientific papers
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes/presentation-on-is-enes-slides" class="state-published" title="">
+            
+            Presentations (Posters &amp; slides)
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/phase-2" class="state-published hasDropDown" title="All the content from the IS-ENES 2 webpage : Description of the project, Events, Dissemination Documents and Services">
+            
+            Phase 2
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/phase-2/project" class="state-published hasDropDown" title="">
+            
+            Project
+        </a>
+
+        <ul class="submenu navTree navTreeLevel2">
+            
+
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/phase-2/project/objectives" class="state-published" title="About the aims and objectives of the Project">
+            
+            Objectives
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/phase-2/project/description-of-work" class="state-published" title="">
+            
+            Description of Work
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/phase-2/project/partners" class="state-published" title="">
+            
+            Partners
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/phase-2/events" class="state-published" title="">
+            
+            Events
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/phase-2/documents" class="state-published hasDropDown" title="">
+            
+            Documents
+        </a>
+
+        <ul class="submenu navTree navTreeLevel2">
+            
+
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/phase-2/documents/deliverables" class="state-published" title="">
+            
+            Deliverables
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/phase-2/documents/milestones" class="state-published" title="List of public reports associated with milestones. ">
+            
+            Milestones
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/phase-2/documents/publications" class="state-published" title="IS-ENES2 Publications">
+            
+            Publications
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/phase-2/documents/presentations" class="state-published" title="Slides presenting the IS-ENES2 project">
+            
+            Presentations
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/phase-2/documents/contractual-documents" class="state-published" title="">
+            
+            IS-ENES2 reports
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/phase-2/documents/flyers" class="state-published" title="">
+            
+            Flyers &amp; logos
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/phase-2/documents/newsletters" class="state-published" title="IS-ENES2 informs on project activities and community news">
+            
+            Newsletter
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="https://is.enes.org/archive-1/phase-2/ressources" class="state-published" title="">
+            
+            SERVICES
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+                </ul>
+            </li></ul>
+                </div><!-- :end -->
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="portal-shadow">
+        <div id="portal-columns" class="row">
+          <div id="portal-headimage"></div>
+          <div class="visualClear"></div>
+          <div id="portal-column-content" class="cell width-3:4 position-1:4">
+            <div id="viewlet-above-content">
+              <!-- begin: --><div id="portal-breadcrumbs">
+
+    <span id="breadcrumbs-you-are-here">You
+are here:</span>
+    <span id="breadcrumbs-home">
+        <a href="https://is.enes.org">Home</a>
+        <span class="breadcrumbSeparator">
+            »
+            
+        </span>
+    </span>
+    <span id="breadcrumbs-1" dir="ltr">
+        
+            <a href="https://is.enes.org/archive-1">Archive</a>
+            <span class="breadcrumbSeparator">
+                »
+                
+            </span>
+            
+         
+    </span>
+    <span id="breadcrumbs-2" dir="ltr">
+        
+            <a href="https://is.enes.org/archive-1/archive">Phase 1</a>
+            <span class="breadcrumbSeparator">
+                »
+                
+            </span>
+            
+         
+    </span>
+    <span id="breadcrumbs-3" dir="ltr">
+        
+            
+            
+            <span id="breadcrumbs-current">Documents</span>
+         
+    </span>
+
+</div><!-- :end -->
+              <!-- begin: ><div id="plone-lock-status">  
+                <dl class="portalMessage info">
+                  <dt>Gesperrt</dt>
+                  <dd>
+                    Dieser Artikel wurde von <a
+                    href="index.html/author/test123">test123</a>
+                    vor <span>1 Minute</span> gesperrt.
+                    <form action="index.html/@@plone_lock_operations/force_unlock">
+                      <span>Wenn Sie sicher sind, dass dieser Benutzer
+                      den Artikel nicht mehr bearbeitet, k&#246;nnen Sie den
+                      Artikel <input type="submit" value="Entsperren" />
+                      und bearbeiten.</span>
+                    </form>
+                  </dd>
+                </dl>
+              </div><:end -->
+            </div>
+            <div>
+              <!-- begin: --><!--dl class="portalMessage info" id="kssPortalMessage">
+                <dt>Information</dt>
+                <dd>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed
+                diam nonumy eirmod tempor invidunt ut labore et dolore magna
+                aliquyam erat, sed diam voluptua.</dd>
+              </dl--><!-- :end -->
+              <div id="content"><dl class="portalMessage info" id="kssPortalMessage" style="display:none">
+        <dt>Info</dt>
+        <dd></dd>
+    </dl><!-- begin:  
+                <dl class="portalMessage">
+                  <dt>Gesperrt</dt>
+                  <dd>
+                    Dieser Artikel wurde von <a
+                    href="index.html/author/test123">test123</a>
+                    vor <span>1 Minute</span> gesperrt.
+                    <form action="index.html/@@plone_lock_operations/force_unlock">
+                      <span>Wenn Sie sicher sind, dass dieser Benutzer
+                      den Artikel nicht mehr bearbeitet, k&#246;nnen Sie den
+                      Artikel <input type="submit" value="Entsperren" />
+                      und bearbeiten.</span>
+                    </form>
+                  </dd>
+                </dl>--><!-- :end --><div id="viewlet-above-content-title"></div><!-- begin: --><h1 id="parent-fieldname-title" class="documentFirstHeading">
+                    Documents
+                </h1><!-- :end --><div id="viewlet-below-content-title">
+                  <!-- begin: --><!-- :end -->
+                </div><!-- begin: --><div id="parent-fieldname-description" class="documentDescription">
+                   Container for all documents of the IS-ENES website
+                </div><!-- :end --><div id="viewlet-above-content-body">
+                  <!-- begin: --><!-- :end -->
+                  <!-- begin: --><!-- :end -->
+                </div><!-- begin: --><div id="content-core">
+                                 
+
+
+    
+
+    
+    
+    
+
+        <dl>
+            
+            
+                
+                <dt class="">
+
+                    <span class="summary">
+                        
+                        <a href="https://is.enes.org/archive-1/archive/documents/ISENES-D9.2-Evaluation%20Portal%20Finalization%20Report.pdf/view" class="contenttype-file state-published url">D9.2-Listings of required model fields and interface software</a>
+                    </span>
+
+                    <span class="documentByLine">
+                        
+                        
+                        
+                         
+                        
+                    </span>
+
+                </dt>
+
+                <dd>
+                    
+                </dd>
+            
+            
+            
+            
+            
+                
+                <dt class="">
+
+                    <span class="summary">
+                        
+                        <a href="https://is.enes.org/archive-1/archive/documents/Draft%20Agenda_IS%20ENES%20GA.pdf/view" class="contenttype-file state-published url">IS-ENES 3rd General Assembly</a>
+                    </span>
+
+                    <span class="documentByLine">
+                        
+                        
+                        
+                         
+                        
+                    </span>
+
+                </dt>
+
+                <dd>
+                    
+                </dd>
+            
+            
+            
+            
+            
+                
+                <dt class="">
+
+                    <span class="summary">
+                        
+                        <a href="https://is.enes.org/archive-1/archive/documents/HPC%202nd%20Workshop%20Agenda_v130111.docx/view" class="contenttype-file state-published url">Agenda_2nd HPC workshop</a>
+                    </span>
+
+                    <span class="documentByLine">
+                        
+                        
+                        
+                         
+                        
+                    </span>
+
+                </dt>
+
+                <dd>
+                    
+                </dd>
+            
+            
+            
+            
+            
+                
+                <dt class="">
+
+                    <span class="summary">
+                        
+                        <a href="https://is.enes.org/archive-1/archive/documents/IS-ENES%203rd%20GA%20Agenda.pdf/view" class="contenttype-file state-published url">IS-ENES 3rd GA agenda</a>
+                    </span>
+
+                    <span class="documentByLine">
+                        
+                        
+                        
+                         
+                        
+                    </span>
+
+                </dt>
+
+                <dd>
+                    
+                </dd>
+            
+            
+            
+            
+            
+                
+                <dt class="">
+
+                    <span class="summary">
+                        
+                        <a href="https://is.enes.org/archive-1/archive/documents/IS-ENES%203rd%20GA_List%20of%20participants.pdf/view" class="contenttype-file state-published url">IS-ENES 3rd GA List of participants</a>
+                    </span>
+
+                    <span class="documentByLine">
+                        
+                        
+                        
+                         
+                        
+                    </span>
+
+                </dt>
+
+                <dd>
+                    
+                </dd>
+            
+            
+            
+            
+            
+                
+                <dt class="">
+
+                    <span class="summary">
+                        
+                        <a href="https://is.enes.org/archive-1/archive/documents/NA1_overview_day%201.pdf/view" class="contenttype-file state-published url">IS ENES GA3 NA1 overview</a>
+                    </span>
+
+                    <span class="documentByLine">
+                        
+                        
+                        
+                         
+                        
+                    </span>
+
+                </dt>
+
+                <dd>
+                    
+                </dd>
+            
+            
+            
+            
+            
+                
+                <dt class="">
+
+                    <span class="summary">
+                        
+                        <a href="https://is.enes.org/archive-1/archive/documents/NA2_overview_day%201.pdf/view" class="contenttype-file state-published url">IS ENES GA3 NA2 overview</a>
+                    </span>
+
+                    <span class="documentByLine">
+                        
+                        
+                        
+                         
+                        
+                    </span>
+
+                </dt>
+
+                <dd>
+                    
+                </dd>
+            
+            
+            
+            
+            
+                
+                <dt class="">
+
+                    <span class="summary">
+                        
+                        <a href="https://is.enes.org/archive-1/archive/documents/NA3_overview_day%201.pdf/view" class="contenttype-file state-published url">IS ENES GA3 NA3 overview</a>
+                    </span>
+
+                    <span class="documentByLine">
+                        
+                        
+                        
+                         
+                        
+                    </span>
+
+                </dt>
+
+                <dd>
+                    
+                </dd>
+            
+            
+            
+            
+            
+                
+                <dt class="">
+
+                    <span class="summary">
+                        
+                        <a href="https://is.enes.org/archive-1/archive/documents/SA1_Overview_day%201.pdf/view" class="contenttype-file state-published url">IS ENES GA3 SA1 overview</a>
+                    </span>
+
+                    <span class="documentByLine">
+                        
+                        
+                        
+                         
+                        
+                    </span>
+
+                </dt>
+
+                <dd>
+                    
+                </dd>
+            
+            
+            
+            
+            
+                
+                <dt class="">
+
+                    <span class="summary">
+                        
+                        <a href="https://is.enes.org/archive-1/archive/documents/SA2-JRA4%20Overview_day1.pdf/view" class="contenttype-file state-published url">IS ENES GA3 SA2 overview</a>
+                    </span>
+
+                    <span class="documentByLine">
+                        
+                        
+                        
+                         
+                        
+                    </span>
+
+                </dt>
+
+                <dd>
+                    
+                </dd>
+            
+            
+            
+            
+            
+                
+                <dt class="">
+
+                    <span class="summary">
+                        
+                        <a href="https://is.enes.org/archive-1/archive/documents/JRA3_overview_day1.pdf/view" class="contenttype-file state-published url">IS ENES GA3 JRA3 overview</a>
+                    </span>
+
+                    <span class="documentByLine">
+                        
+                        
+                        
+                         
+                        
+                    </span>
+
+                </dt>
+
+                <dd>
+                    
+                </dd>
+            
+            
+            
+            
+            
+                
+                <dt class="">
+
+                    <span class="summary">
+                        
+                        <a href="https://is.enes.org/archive-1/archive/documents/JRA5_overview_day%201.pdf/view" class="contenttype-file state-published url">IS ENES GA3 JRA5 overview</a>
+                    </span>
+
+                    <span class="documentByLine">
+                        
+                        
+                        
+                         
+                        
+                    </span>
+
+                </dt>
+
+                <dd>
+                    
+                </dd>
+            
+            
+            
+            
+            
+                
+                <dt class="">
+
+                    <span class="summary">
+                        
+                        <a href="https://is.enes.org/archive-1/archive/documents/JRA4_overview_day%201.pdf/view" class="contenttype-file state-published url">IS ENES GA3 JRA4 overview</a>
+                    </span>
+
+                    <span class="documentByLine">
+                        
+                        
+                        
+                         
+                        
+                    </span>
+
+                </dt>
+
+                <dd>
+                    
+                </dd>
+            
+            
+            
+            
+            
+                
+                <dt class="">
+
+                    <span class="summary">
+                        
+                        <a href="https://is.enes.org/archive-1/archive/documents/JRA1_overview_day%201.pdf/view" class="contenttype-file state-published url">IS ENES GA3 JRA1 overview</a>
+                    </span>
+
+                    <span class="documentByLine">
+                        
+                        
+                        
+                         
+                        
+                    </span>
+
+                </dt>
+
+                <dd>
+                    
+                </dd>
+            
+            
+            
+            
+            
+                
+                <dt class="">
+
+                    <span class="summary">
+                        
+                        <a href="https://is.enes.org/archive-1/archive/documents/JRA2_overview_day%201.pdf/view" class="contenttype-file state-published url">IS ENES GA3 JRA2 overview</a>
+                    </span>
+
+                    <span class="documentByLine">
+                        
+                        
+                        
+                         
+                        
+                    </span>
+
+                </dt>
+
+                <dd>
+                    
+                </dd>
+            
+            
+            
+            
+            
+                
+                <dt class="">
+
+                    <span class="summary">
+                        
+                        <a href="https://is.enes.org/archive-1/archive/documents/GA3_Day%201_welcome.pdf/view" class="contenttype-file state-published url">IS ENES GA3 Welcome</a>
+                    </span>
+
+                    <span class="documentByLine">
+                        
+                        
+                        
+                         
+                        
+                    </span>
+
+                </dt>
+
+                <dd>
+                    
+                </dd>
+            
+            
+            
+            
+            
+                
+                <dt class="">
+
+                    <span class="summary">
+                        
+                        <a href="https://is.enes.org/archive-1/archive/documents/IS-ENES1_GA_ESGF.pdf/view" class="contenttype-file state-published url">IS ENES GA3 ESGF</a>
+                    </span>
+
+                    <span class="documentByLine">
+                        
+                        
+                        
+                         
+                        
+                    </span>
+
+                </dt>
+
+                <dd>
+                    
+                </dd>
+            
+            
+            
+            
+            
+                
+                <dt class="">
+
+                    <span class="summary">
+                        
+                        <a href="https://is.enes.org/archive-1/archive/documents/EUDAT_ENES.pdf/view" class="contenttype-file state-published url">IS ENES GA3 EUDAT</a>
+                    </span>
+
+                    <span class="documentByLine">
+                        
+                        
+                        
+                         
+                        
+                    </span>
+
+                </dt>
+
+                <dd>
+                    
+                </dd>
+            
+            
+            
+            
+            
+                
+                <dt class="">
+
+                    <span class="summary">
+                        
+                        <a href="https://is.enes.org/archive-1/archive/documents/Impacts_Swart.pdf/view" class="contenttype-file state-published url">IS ENES GA3 impacts</a>
+                    </span>
+
+                    <span class="documentByLine">
+                        
+                        
+                        
+                         
+                        
+                    </span>
+
+                </dt>
+
+                <dd>
+                    
+                </dd>
+            
+            
+            
+            
+            
+                
+                <dt class="">
+
+                    <span class="summary">
+                        
+                        <a href="https://is.enes.org/archive-1/archive/documents/Obs4MIPS_Chepfer.pdf/view" class="contenttype-file state-published url">IS ENES GA3 Obs4MIPS</a>
+                    </span>
+
+                    <span class="documentByLine">
+                        
+                        
+                        
+                         
+                        
+                    </span>
+
+                </dt>
+
+                <dd>
+                    
+                </dd>
+            
+            
+            
+            
+            
+                
+                <dt class="">
+
+                    <span class="summary">
+                        
+                        <a href="https://is.enes.org/archive-1/archive/documents/RI%20in%20H2020.pdf/view" class="contenttype-file state-published url">IS ENES GA3 RIs in H2020</a>
+                    </span>
+
+                    <span class="documentByLine">
+                        
+                        
+                        
+                         
+                        
+                    </span>
+
+                </dt>
+
+                <dd>
+                    
+                </dd>
+            
+            
+            
+            
+            
+                
+                <dt class="">
+
+                    <span class="summary">
+                        
+                        <a href="https://is.enes.org/archive-1/archive/documents/ES-DOC-IS-ENES%203rd%20General%20Assembly.pdf/view" class="contenttype-file state-published url">IS ENES GA3 ES-Doc</a>
+                    </span>
+
+                    <span class="documentByLine">
+                        
+                        
+                        
+                         
+                        
+                    </span>
+
+                </dt>
+
+                <dd>
+                    
+                </dd>
+            
+            
+            
+            
+            
+                
+                <dt class="">
+
+                    <span class="summary">
+                        
+                        <a href="https://is.enes.org/archive-1/archive/documents/GA3_dissemination.pdf/view" class="contenttype-file state-published url">IS ENES GA3 Dissemination</a>
+                    </span>
+
+                    <span class="documentByLine">
+                        
+                        
+                        
+                         
+                        
+                    </span>
+
+                </dt>
+
+                <dd>
+                    
+                </dd>
+            
+            
+            
+            
+            
+                
+                <dt class="">
+
+                    <span class="summary">
+                        
+                        <a href="https://is.enes.org/archive-1/archive/documents/reporting%20guidelines.pdf/view" class="contenttype-file state-published url">IS ENES GA3 Reporting guidelines</a>
+                    </span>
+
+                    <span class="documentByLine">
+                        
+                        
+                        
+                         
+                        
+                    </span>
+
+                </dt>
+
+                <dd>
+                    
+                </dd>
+            
+            
+            
+            
+            
+                
+                <dt class="">
+
+                    <span class="summary">
+                        
+                        <a href="https://is.enes.org/archive-1/archive/documents/ECEARTH_summary.pdf/view" class="contenttype-file state-published url">IS ENES GA3 prace 1IP EC EARTH</a>
+                    </span>
+
+                    <span class="documentByLine">
+                        
+                        
+                        
+                         
+                        
+                    </span>
+
+                </dt>
+
+                <dd>
+                    
+                </dd>
+            
+            
+            
+            
+            
+                
+                <dt class="">
+
+                    <span class="summary">
+                        
+                        <a href="https://is.enes.org/archive-1/archive/documents/PRACE_2IP_WP8_Overview.pdf/view" class="contenttype-file state-published url">IS ENES GA3 PRACE2IP</a>
+                    </span>
+
+                    <span class="documentByLine">
+                        
+                        
+                        
+                         
+                        
+                    </span>
+
+                </dt>
+
+                <dd>
+                    
+                </dd>
+            
+            
+            
+            
+            
+                
+                <dt class="">
+
+                    <span class="summary">
+                        
+                        <a href="https://is.enes.org/archive-1/archive/documents/SessionModelsHPCIS-ENES1GAv3.pdf/view" class="contenttype-file state-published url">IS ENES GA3 hpc models sessions</a>
+                    </span>
+
+                    <span class="documentByLine">
+                        
+                        
+                        
+                         
+                        
+                    </span>
+
+                </dt>
+
+                <dd>
+                    
+                </dd>
+            
+            
+            
+            
+            
+                
+                <dt class="">
+
+                    <span class="summary">
+                        
+                        <a href="https://is.enes.org/archive-1/archive/documents/ISENES_Deliverable_WP4_D4_4.pdf/view" class="contenttype-file state-published url">D4.4 - CDO complete web site accessible via the v.E.R.C. portal</a>
+                    </span>
+
+                    <span class="documentByLine">
+                        
+                        
+                        
+                         
+                        
+                    </span>
+
+                </dt>
+
+                <dd>
+                    
+                </dd>
+            
+            
+            
+            
+            
+                
+                <dt class="">
+
+                    <span class="summary">
+                        
+                        <a href="https://is.enes.org/archive-1/archive/documents/ISENES_Deliverables_4.6.pdf/view" class="contenttype-file state-published url">D4.6 - ESM revised documentation following the full CIM metadata</a>
+                    </span>
+
+                    <span class="documentByLine">
+                        
+                        
+                        
+                         
+                        
+                    </span>
+
+                </dt>
+
+                <dd>
+                    
+                </dd>
+            
+            
+            
+            
+            
+                
+                <dt class="">
+
+                    <span class="summary">
+                        
+                        <a href="https://is.enes.org/archive-1/archive/documents/D8.3%202013%20Towards%20Flexible%20Construction%20of%20ESMs%20using%20BFG_final.pdf/view" class="contenttype-file state-published url">D8.3 - Towards Flexible Construction of ESMs using BFG</a>
+                    </span>
+
+                    <span class="documentByLine">
+                        
+                        
+                        
+                         
+                        
+                    </span>
+
+                </dt>
+
+                <dd>
+                    
+                </dd>
+            
+            
+            
+            
+            
+                
+                <dt class="">
+
+                    <span class="summary">
+                        
+                        <a href="https://is.enes.org/archive-1/archive/documents/IS-ENES_2_D2.2.pdf/view" class="contenttype-file state-published url">D2.2 - Policy position paper on “Climate data needs in support of the EU Climate Adaptation Strategy”</a>
+                    </span>
+
+                    <span class="documentByLine">
+                        
+                        
+                        
+                         
+                        
+                    </span>
+
+                </dt>
+
+                <dd>
+                    
+                </dd>
+            
+            
+            
+            
+            
+                
+                <dt class="">
+
+                    <span class="summary">
+                        
+                        <a href="https://is.enes.org/archive-1/archive/documents/IS-ENES_D2.3.pdf/view" class="contenttype-file state-published url">D2.3 - ENES First Prototype Summer School on Earth System Modelling</a>
+                    </span>
+
+                    <span class="documentByLine">
+                        
+                        
+                        
+                         
+                        
+                    </span>
+
+                </dt>
+
+                <dd>
+                    
+                </dd>
+            
+            
+            
+            
+            
+                
+                <dt class="">
+
+                    <span class="summary">
+                        
+                        <a href="https://is.enes.org/archive-1/archive/documents/IS-ENES_D2.4.pdf/view" class="contenttype-file state-published url">D2.4 - Foresight position paper on the “ENES strategy and its implementation plan”</a>
+                    </span>
+
+                    <span class="documentByLine">
+                        
+                        
+                        
+                         
+                        
+                    </span>
+
+                </dt>
+
+                <dd>
+                    
+                </dd>
+            
+            
+            
+            
+            
+                
+                <dt class="">
+
+                    <span class="summary">
+                        
+                        <a href="https://is.enes.org/archive-1/archive/documents/IS-ENES_D2.5.pdf/view" class="contenttype-file state-published url">D2.5 - Science Policy delivery of “The ENES Strategy and its implementation Plan”</a>
+                    </span>
+
+                    <span class="documentByLine">
+                        
+                        
+                        
+                         
+                        
+                    </span>
+
+                </dt>
+
+                <dd>
+                    
+                </dd>
+            
+            
+            
+            
+            
+                
+                <dt class="">
+
+                    <span class="summary">
+                        
+                        <a href="https://is.enes.org/archive-1/archive/documents/IS-ENES_D2.6.pdf/view" class="contenttype-file state-published url">D2.6 - Final plan for the use and dissemination of foreground</a>
+                    </span>
+
+                    <span class="documentByLine">
+                        
+                        
+                        
+                         
+                        
+                    </span>
+
+                </dt>
+
+                <dd>
+                    
+                </dd>
+            
+            
+            
+            
+            
+                
+                <dt class="">
+
+                    <span class="summary">
+                        
+                        <a href="https://is.enes.org/archive-1/archive/documents/IS-ENES_D3.5.pdf/view" class="contenttype-file state-published url">D3.5 - The suite of reference workflows</a>
+                    </span>
+
+                    <span class="documentByLine">
+                        
+                        
+                        
+                         
+                        
+                    </span>
+
+                </dt>
+
+                <dd>
+                    
+                </dd>
+            
+            
+            
+            
+            
+                
+                <dt class="">
+
+                    <span class="summary">
+                        
+                        <a href="https://is.enes.org/archive-1/archive/documents/IS-ENES_D3.6.pdf/view" class="contenttype-file state-published url">D3.6 - Remarks to a Unified HPC Environment</a>
+                    </span>
+
+                    <span class="documentByLine">
+                        
+                        
+                        
+                         
+                        
+                    </span>
+
+                </dt>
+
+                <dd>
+                    
+                </dd>
+            
+            
+            
+            
+            
+                
+                <dt class="">
+
+                    <span class="summary">
+                        
+                        <a href="https://is.enes.org/archive-1/archive/documents/IS-ENES_D3.7.pdf/view" class="contenttype-file state-published url">D3.7 - Final and comprehensive report on virtual ESM Resource Center</a>
+                    </span>
+
+                    <span class="documentByLine">
+                        
+                        
+                        
+                         
+                        
+                    </span>
+
+                </dt>
+
+                <dd>
+                    
+                </dd>
+            
+            
+            
+            
+            
+                
+                <dt class="">
+
+                    <span class="summary">
+                        
+                        <a href="https://is.enes.org/archive-1/archive/documents/IS-ENES_D3.8.pdf/view" class="contenttype-file state-published url">D3.8 - Report on Training Sessions</a>
+                    </span>
+
+                    <span class="documentByLine">
+                        
+                        
+                        
+                         
+                        
+                    </span>
+
+                </dt>
+
+                <dd>
+                    
+                </dd>
+            
+            
+            
+            
+            
+                
+                <dt class="">
+
+                    <span class="summary">
+                        
+                        <a href="https://is.enes.org/archive-1/archive/documents/IS-ENES_D4.7.pdf/view" class="contenttype-file state-published url">D4.7 - OASIS Dedicated User Support</a>
+                    </span>
+
+                    <span class="documentByLine">
+                        
+                        
+                        
+                         
+                        
+                    </span>
+
+                </dt>
+
+                <dd>
+                    
+                </dd>
+            
+            
+            
+            
+            
+                
+                <dt class="">
+
+                    <span class="summary">
+                        
+                        <a href="https://is.enes.org/archive-1/archive/documents/IS-ENES_D4.8.pdf/view" class="contenttype-file state-published url">D4.8 - web NEMO configurations database filled up by NEMO team and partners</a>
+                    </span>
+
+                    <span class="documentByLine">
+                        
+                        
+                        
+                         
+                        
+                    </span>
+
+                </dt>
+
+                <dd>
+                    
+                </dd>
+            
+            
+            
+            
+            
+                
+                <dt class="">
+
+                    <span class="summary">
+                        
+                        <a href="https://is.enes.org/archive-1/archive/documents/IS-ENES_D7.3.pdf/view" class="contenttype-file state-published url">D7.3 - Reference implementations of Parallel I/O and of I/O Server</a>
+                    </span>
+
+                    <span class="documentByLine">
+                        
+                        
+                        
+                         
+                        
+                    </span>
+
+                </dt>
+
+                <dd>
+                    
+                </dd>
+            
+            
+            
+            
+            
+                
+                <dt class="">
+
+                    <span class="summary">
+                        
+                        <a href="https://is.enes.org/archive-1/archive/documents/IS-ENES_D7.4.pdf/view" class="contenttype-file state-published url">D7.4 - OASIS3-MCT parallel coupler</a>
+                    </span>
+
+                    <span class="documentByLine">
+                        
+                        
+                        
+                         
+                        
+                    </span>
+
+                </dt>
+
+                <dd>
+                    
+                </dd>
+            
+            
+            
+            
+            
+                
+                <dt class="">
+
+                    <span class="summary">
+                        
+                        <a href="https://is.enes.org/archive-1/archive/documents/IS-ENES_D7.5.pdf/view" class="contenttype-file state-published url">D7.5 - Reference implementations of IO server combined with Parallel I/O</a>
+                    </span>
+
+                    <span class="documentByLine">
+                        
+                        
+                        
+                         
+                        
+                    </span>
+
+                </dt>
+
+                <dd>
+                    
+                </dd>
+            
+            
+            
+            
+            
+                
+                <dt class="">
+
+                    <span class="summary">
+                        
+                        <a href="https://is.enes.org/archive-1/archive/documents/IS-ENES_D8.4.pdf/view" class="contenttype-file state-published url">D8.4 - Final Report on Portability and Performance in IS-ENES ESMs</a>
+                    </span>
+
+                    <span class="documentByLine">
+                        
+                        
+                        
+                         
+                        
+                    </span>
+
+                </dt>
+
+                <dd>
+                    
+                </dd>
+            
+            
+            
+            
+            
+                
+                <dt class="">
+
+                    <span class="summary">
+                        
+                        <a href="https://is.enes.org/archive-1/archive/documents/IS-ENES_D8.5.pdf/view" class="contenttype-file state-published url">D8.5 - Towards Flexible Construction of ESMs using BFG, Final Report</a>
+                    </span>
+
+                    <span class="documentByLine">
+                        
+                        
+                        
+                         
+                        
+                    </span>
+
+                </dt>
+
+                <dd>
+                    
+                </dd>
+            
+            
+            
+            
+            
+                
+                <dt class="">
+
+                    <span class="summary">
+                        
+                        <a href="https://is.enes.org/archive-1/archive/documents/IS-ENES_D9.4.pdf/view" class="contenttype-file state-published url">D9.4 - Report on the pilot study on the implementation of evaluation toolkits on CNRS-IPSL ESM output</a>
+                    </span>
+
+                    <span class="documentByLine">
+                        
+                        
+                        
+                         
+                        
+                    </span>
+
+                </dt>
+
+                <dd>
+                    
+                </dd>
+            
+            
+            
+            
+            
+                
+                <dt class="">
+
+                    <span class="summary">
+                        
+                        <a href="https://is.enes.org/archive-1/archive/documents/IS-ENES_D10.3.pdf/view" class="contenttype-file state-published url">D10.3 - Operational service package</a>
+                    </span>
+
+                    <span class="documentByLine">
+                        
+                        
+                        
+                         
+                        
+                    </span>
+
+                </dt>
+
+                <dd>
+                    
+                </dd>
+            
+            
+            
+            
+            
+                
+                <dt class="">
+
+                    <span class="summary">
+                        
+                        <a href="https://is.enes.org/archive-1/archive/documents/IS-ENES_D10.4.pdf/view" class="contenttype-file state-published url">D10.4 - User service package</a>
+                    </span>
+
+                    <span class="documentByLine">
+                        
+                        
+                        
+                         
+                        
+                    </span>
+
+                </dt>
+
+                <dd>
+                    
+                </dd>
+            
+            
+            
+            
+            
+                
+                <dt class="">
+
+                    <span class="summary">
+                        
+                        <a href="https://is.enes.org/archive-1/archive/documents/IS-ENES_D11.4.pdf/view" class="contenttype-file state-published url">D11.4 - Software Code and e-impact-portal full documentation</a>
+                    </span>
+
+                    <span class="documentByLine">
+                        
+                        
+                        
+                         
+                        
+                    </span>
+
+                </dt>
+
+                <dd>
+                    
+                </dd>
+            
+            
+            
+            
+            
+                
+                <dt class="">
+
+                    <span class="summary">
+                        
+                        <a href="https://is.enes.org/archive-1/archive/documents/IS-ENES_D11.5.pdf/view" class="contenttype-file state-published url">D11.5 - Report and manuscript journal paper on key characteristics for a prototype of an e-based pan-European climate data service network</a>
+                    </span>
+
+                    <span class="documentByLine">
+                        
+                        
+                        
+                         
+                        
+                    </span>
+
+                </dt>
+
+                <dd>
+                    
+                </dd>
+            
+            
+            
+            
+            
+                
+                <dt class="">
+
+                    <span class="summary">
+                        
+                        <a href="https://is.enes.org/archive-1/archive/documents/is-enes-final-report/view" class="contenttype-file state-published url">IS-ENES Final Report </a>
+                    </span>
+
+                    <span class="documentByLine">
+                        
+                        
+                        
+                         
+                        
+                    </span>
+
+                </dt>
+
+                <dd>
+                    
+                </dd>
+            
+            
+            
+        </dl>
+
+        
+
+    <!-- Navigation -->
+
+
+  <div class="pagination listingBar">
+
+    
+    <a class="previous" href="https://is.enes.org/archive-1/archive/documents/?b_start:int=100">
+      «
+      
+        Previous
+        100
+        items
+      
+    </a>
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    <a href="https://is.enes.org/archive-1/archive/documents/?b_start:int=0">1</a>
+    <a href="https://is.enes.org/archive-1/archive/documents/?b_start:int=100">2</a>
+
+    
+    <span class="current">3</span>
+
+    
+
+    
+    
+
+    
+    
+
+  </div>
+
+
+
+
+
+
+    
+    
+        
+    
+
+    
+    
+
+
+
+                             </div><!-- :end --><div id="viewlet-below-content-body">
+                  <!-- begin: --><!-- :end -->
+                <div class="visualClear"></div>
+                <!-- begin: --> <!--div class="documentActions"> braucht kein Mensch .- oder?!
+                  <h5 class="hiddenStructure">Artikelaktionen</h5>
+                  <ul>
+                    <li id="document-action-print">
+                      <a href="javascript:this.print();" title="">Drucken</a>
+                    </li>
+                  </ul>
+                </div--><!-- :end -->
+                </div></div>
+            </div>
+            <div id="viewlet-below-content">
+              <!-- begin: --><!-- :end -->
+              <!-- begin: --><!-- :end -->
+              <div class="row">
+                <!-- begin: --><!-- :end -->
+              </div>
+              <!-- begin: --><!-- :end -->
+            </div>
+          </div>
+          <!-- begin: --><div id="portal-column-one" class="cell width-1:4 position-0">
+            
+                
+<div class="portletWrapper" data-portlethash="706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f4953454e4553332f617263686976652d310a6e617669676174696f6e" id="portletwrapper-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f4953454e4553332f617263686976652d310a6e617669676174696f6e">
+<dl class="portlet portletNavigationTree">
+
+    <dt class="portletHeader hiddenStructure">
+        <span class="portletTopLeft"></span>
+        <a href="https://is.enes.org/sitemap" class="tile">Navigation</a>
+        <span class="portletTopRight"></span>
+    </dt>
+
+    <dd class="portletItem lastItem">
+        <ul class="navTree navTreeLevel0">
+            <li class="navTreeItem navTreeTopNode nav-section-archive">
+                <div>
+                   <a href="https://is.enes.org/archive-1" class="contenttype-folder" title="">
+                   
+                   
+                   Archive
+                   </a>
+                </div>
+            </li>
+            
+
+
+
+<li class="navTreeItem visualNoMarker navTreeItemInPath navTreeFolderish section-archive">
+
+    
+
+
+        <a href="https://is.enes.org/archive-1/archive" class="state-published navTreeItemInPath navTreeFolderish contenttype-folder" title="All the content from the IS-ENES 1 webpage">
+            
+            <span>Phase 1</span>
+        </a>
+
+    <ul class="navTree navTreeLevel1">
+        
+
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-the-project">
+
+    
+
+
+        <a href="https://is.enes.org/archive-1/archive/the-project" class="state-published navTreeFolderish contenttype-folder" title="About the IS-ENES Project">
+            
+            <span>Project</span>
+        </a>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-events">
+
+    
+
+
+        <a href="https://is.enes.org/archive-1/archive/events" class="state-published navTreeFolderish contenttype-folder" title="Site Events">
+            
+            <span>Events</span>
+        </a>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-dissemination-documents-about-is-enes">
+
+    
+
+
+        <a href="https://is.enes.org/archive-1/archive/dissemination-documents-about-is-enes" class="state-published navTreeFolderish contenttype-folder" title="">
+            
+            <span>Dissemination Activities</span>
+        </a>
+
+    
+    
+</li>
+
+
+
+
+    </ul>
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-phase-2">
+
+    
+
+
+        <a href="https://is.enes.org/archive-1/phase-2" class="state-published navTreeFolderish contenttype-folder" title="All the content from the IS-ENES 2 webpage : Description of the project, Events, Dissemination Documents and Services">
+            
+            <span>Phase 2</span>
+        </a>
+
+    
+    
+</li>
+
+
+
+
+        </ul>
+        <span class="portletBottomLeft"></span>
+        <span class="portletBottomRight"></span>
+    </dd>
+</dl>
+
+</div>
+
+<div class="portletWrapper" data-portlethash="706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f4953454e4553332f617263686976652d310a706f72746c65745f737461746963" id="portletwrapper-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f4953454e4553332f617263686976652d310a706f72746c65745f737461746963"><div class="portletStaticText portlet-static-logos"><p><a href="http://www.europa.eu/"> <img src="https://is.enes.org/images-1/flag_eu.png" alt="flag_eu.png" class="image-inline" title="flag_eu.png" /> </a> <a href="http://cordis.europa.eu/fp7"> <img src="https://is.enes.org/images-1/FP7-cap-RGB.gif" alt="FP7-cap-RGB_h40px.gif" class="image-inline" title="FP7-cap-RGB_h40px.gif" /> </a></p></div>
+
+</div>
+
+
+
+
+            
+        </div><!-- :end -->
+          <!-- begin: --><!-- :end -->
+        </div>
+      </div>
+      <!--div class="portal-shadow-bottom cell width-full position-0"></div-->
+      <div class="portal-shadow-bottom row"></div>
+      <div class="portal-bottom-wrapper row">
+        <div class="cell width-full position-0">
+          <div class="portal-bottom-margin">
+              <!-- begin: --><div id="portal-colophon">
+              <div class="colophonWrapper">
+              <span>© Copyright ENES Portal 2011</span>
+              </div>
+            </div><!-- :end -->   
+            <!-- begin: --><div id="doormat-container" class="columns-1">
+
+  
+  <div class="doormatColumn column-0">
+    
+    <dl class="doormatSection">
+      
+      <dd class="doormatSectionBody">
+        
+        <p class=" "><a href="http://www.europa.eu/"> <img src="https://is.enes.org/images-1/flag_eu.png" alt="flag_eu.png" class="image-left" title="flag_eu.png" /> </a></p>
+<p class=" "> </p>
+<p class=" ">IS-ENES3 has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 824084</p>
+      </dd>
+    </dl>
+  </div>
+</div><!-- :end -->
+          </div>
+        </div>
+
+        <!-- begin: --><!-- :end -->
+        
+     
+      </div>
+    </div></body>
+</html>

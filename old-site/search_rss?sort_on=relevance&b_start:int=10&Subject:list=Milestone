@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+<channel rdf:about="https://is.enes.org/search_rss">
+  <title>IS-ENES 3</title>
+  <link>https://is.enes.org</link>
+
+  <image rdf:resource="https://is.enes.org/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2-combined-milestone-ms7-1-ms7-2-ms7.3/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms7-5_documentation-of-the-reference-and-sensitivity-experiments-based-on-orca025-configuration-of-nemo/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms7-7_documentation-of-the-reference-and-sensitivity-experiments-based-on-the-activation-of-lim3-in-orca025/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms8-1_enes-climate-data-infrastructure-help-desk/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms8-2_set-up-of-the-review-committee/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms8-5_jra3-developed-services-deployed-on-climate4impacts/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms8-6_improved-version-of-cmip5-quality-control-available-to-enes-cdi/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms8-8_climate4impacts-components-available-for-use-in-tailored-impact-portals/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms9-1_multi-member-hr-prediction-experiment-using-autosubmit-on-tier-1/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms9-2_further-developments-of-autosubmit/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms9-3_evaluate-other-esms-compatibility-with-ipsl-i-o-server/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms9-4_fully-parallel-coupling-library-ported-and-optimized-on-tier1-0/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/milestones/ms9-5-new-cdi-release-with-i-o-developments-from-is-enes1-and-icomex/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms9-6_new-cdi-release-with-i-o-developments-from-is-enes1-and-icomex/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms9-7_model-interface-updates-for-compliance-with-new-oasis-coupler/view"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2-combined-milestone-ms7-1-ms7-2-ms7.3/view">
+    <title>IS-ENES2_Combined milestone MS7.1, MS7.2, MS7.3</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2-combined-milestone-ms7-1-ms7-2-ms7.3/view</link>
+    <description>This document reports on the 3 milestones of WP7/SA1 targeted and reached during the first 18-month reporting period, i.e.:
+• MS7.1 “Contact person identified and contact details available for each European ESM” : At least one contact person is identified for each European ESM and his/her name with linked mail address is available on the portal at https://verc.enes.org/ models/earthsystem-models.
+• MS7.2 “Level 2 service on ESM available”: level 2 services are available since the beginning of the project on the Unified Model (by MetO) and on EC-Earth (SMHI and KNMI).
+• MS7.3 (03/2014) “Set-up of the review committee”: The SA1 review committee is formally set-up since April 2014 when Dr Kamal Puri and Dr Andreas Will formally accepted to act as reviewer of the SA1 services.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Milestone</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms7-5_documentation-of-the-reference-and-sensitivity-experiments-based-on-orca025-configuration-of-nemo/view">
+    <title>IS-ENES2_MS7.5_Documentation of the reference and sensitivity experiments based on ORCA025 configuration of NEMO</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms7-5_documentation-of-the-reference-and-sensitivity-experiments-based-on-orca025-configuration-of-nemo/view</link>
+    <description>The Milestone «7.5 Documentation of the reference and sensitivity experiments based on
+ORCA025 configuration of NEMO » is part of Task 3: Services on NEMO ocean model component (installation 8) (CNRS-IPSL).
+After a first stage during IS_ENES1 in which the service activities of NEMO have been set up for the global 2° resolution configuration ORCA2, the work has been carried on with the global ¼° ORCA025.
+This report demonstrates that the major objectives of the milestone have been reached although the 6-month delay of starting date of work does induce some remaining work which will be done in the coming months, in relation with the still on going scientific decisions.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>WP7</dc:subject>
+    
+    
+      <dc:subject>Milestone</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms7-7_documentation-of-the-reference-and-sensitivity-experiments-based-on-the-activation-of-lim3-in-orca025/view">
+    <title>IS-ENES2_MS7.7_Documentation of the reference and sensitivity experiments based on the activation of LIM3 in ORCA025</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms7-7_documentation-of-the-reference-and-sensitivity-experiments-based-on-the-activation-of-lim3-in-orca025/view</link>
+    <description>This milestone is part of the services on NEMO in the context of building the future generation of Earth System Models for climate studies. This service is of course linked to the ongoing work for CMIP6 in Europe, since NEMO is the ocean component of six European ESMs involved in CMIP6 experiments.
+The milestone has been successfully reached: first sensitivity analyses have been produced, and were presented during the DRAKKAR meeting in January 2017. These analyses are now available on the shaconemo forge project.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>WP7</dc:subject>
+    
+    
+      <dc:subject>Milestone</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms8-1_enes-climate-data-infrastructure-help-desk/view">
+    <title>IS-ENES2_MS8.1_ENES Climate Data Infrastructure Help Desk </title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms8-1_enes-climate-data-infrastructure-help-desk/view</link>
+    <description>AskBot is a community-driven question and answer web application which enables users to both ask and answer questions.
+The ESGF AskBot was initially launched in July 2013 by PCMDI. It was redeployed at STFC in February 2014 where it is maintained under the IS-ENES2 project. Members of IS-ENES work within the ESGF Support Working Team, acting as expert agents on the site. SA2 members monitor the system to answer the questions that are posted.
+AskBot integrates well with the ESGF authentication system allowing users to login with their ESGF OpenIDs.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Milestone</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms8-2_set-up-of-the-review-committee/view">
+    <title>IS-ENES2_MS8.2_Set-up of the review committee </title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms8-2_set-up-of-the-review-committee/view</link>
+    <description>This document reports on the milestone MS 8.2 of WP8/SA2 targeted and reached during the first 18-month reporting period.
+MS 8.2 “Set-up of the review committee”: The WP8/SA2 review committee is formally set-up since June 2014 when Dr Tim Carter and Dr Jens Klump formally accepted to act as reviewer of the SA2 services.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Milestone</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms8-5_jra3-developed-services-deployed-on-climate4impacts/view">
+    <title>IS-ENES2_MS8.5_JRA3 developed services deployed on CLIMATE4IMPACTS</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms8-5_jra3-developed-services-deployed-on-climate4impacts/view</link>
+    <description>The climate4impact portal provides services to impact researchers to facilitate easy data discovery and data processing. Besides these services, also extensive documentation and guidance is provided. The discovery and data processing services are also provided to other portals (e.g., CLIPC portal on www.clipc-eu.org).
+This document describes the services deployed on climate4impact and developed in JRA work package. These services are:1) improved faceted search, 2) indicator calculations 3) statistical downscaling 4) credential and basket management 5) Convert and subset wizard.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>WP8</dc:subject>
+    
+    
+      <dc:subject>Milestone</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms8-6_improved-version-of-cmip5-quality-control-available-to-enes-cdi/view">
+    <title>IS-ENES2_MS8.6_Improved version of CMIP5 Quality Control available to ENES CDI </title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms8-6_improved-version-of-cmip5-quality-control-available-to-enes-cdi/view</link>
+    <description>The core of the Quality Assurance (QA-DKRZ) package was modularised and additionally expanded to the CORDEX project. CF Metadata Conventions, DRS, CV, variable requirements, and text based project rules are checked. Simple installation, automatic updating, and a default configuration (albeit still customisable) and check-lists, which make only a few site-specific options necessary. Check annotations are issued in the YAML format and stored unambiguously. The package is commonly accessible from https://github.com/IS-ENES-Data/QA-DKRZ. A user-guide is available on https://readthedocs.org/projects/qa-dkrz. At present, QA-DKRZ is used in Europe, Canada, and Asia.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>WP8</dc:subject>
+    
+    
+      <dc:subject>Milestone</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms8-8_climate4impacts-components-available-for-use-in-tailored-impact-portals/view">
+    <title>IS-ENES2_MS8.8_CLIMATE4IMPACTS components available for use in  tailored impact portals</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms8-8_climate4impacts-components-available-for-use-in-tailored-impact-portals/view</link>
+    <description>Climate4impact (C4I) provides services components which can be tailored and used by other portals. As C4I makes use of well-defined international standards (OGC WMS, WPS, OPeNDAP, OAUTH2, NetCDF-CF).
+The services made available encompass: Map viewing services, convert and subset, ICCLIM indicator calculations, time averaging and combining two fields. These services can be applied on ESGF data, data uploaded by the user or just by providing an OPeNDAP URL to the services.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Milestone</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms9-1_multi-member-hr-prediction-experiment-using-autosubmit-on-tier-1/view">
+    <title>IS-ENES2_MS9.1_Multi-member HR prediction experiment using Autosubmit on Tier-1 </title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms9-1_multi-member-hr-prediction-experiment-using-autosubmit-on-tier-1/view</link>
+    <description>M-9.1, “multi-member HR prediction experiment using Autosubmit on Tier-1 machine”, is a milestone due in month 12, ahead of the M-9.2 deliverable D-9.1 “Further developments of Autosubmit”. IC3 have set up Autosubmit and run EC-Earth3 model in MareNostrum 3. In the context of work package 9, common high resolution (HR) simulations have been tested and evaluated with regard to the computational performance.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Milestone</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms9-2_further-developments-of-autosubmit/view">
+    <title>IS-ENES2_MS9.2_Further developments of Autosubmit</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms9-2_further-developments-of-autosubmit/view</link>
+    <description>M-9.1, “multi-member HR prediction experiment using Autosubmit on Tier-1 machine”, is a milestone due in month 12, ahead of the M-9.2 deliverable D-9.1 “Further developments of Autosubmit”. IC3 have set up Autosubmit and run EC-Earth3 model in MareNostrum 3. In the context of work package 9, common high resolution (HR) simulations have been tested and evaluated with regard to the computational performance.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Milestone</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms9-3_evaluate-other-esms-compatibility-with-ipsl-i-o-server/view">
+    <title>IS-ENES2_MS9.3_Evaluate other ESMs compatibility with IPSL I/O server </title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms9-3_evaluate-other-esms-compatibility-with-ipsl-i-o-server/view</link>
+    <description>This milestone describes how XIOS IPSL I/O server has been experimented in various model components and whole coupled model in order to evaluate the compatibility of the XIOS approach for these. Feed-back of difficulty encountered, weakness or strong point are also reported in order to improved the current implementation and determine the potentiality of XIOS to be suitable or not for future strategy on I/O for climate models.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Milestone</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms9-4_fully-parallel-coupling-library-ported-and-optimized-on-tier1-0/view">
+    <title>IS-ENES2_MS9.4_Fully parallel coupling library ported and optimized on Tier1/0</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms9-4_fully-parallel-coupling-library-ported-and-optimized-on-tier1-0/view</link>
+    <description>The first version of OASIS3-MCT developed in IS-ENES1, was further developed, validated and optimized on Tier 0 platforms in the IS-ENES2 framework. The OASIS3-MCT_2.0 version was released 6 months after the beginning of the project. Today, a beta version of the next version, OASIS3-MCT_3.0, offering much more flexibility, ported and showing good performances on Tier0 HPC platforms is available. OASIS3-MCT_3.0 constitutes therefore an efficient and fully parallel coupling library that will most likely fulfil the needs of the climate community for the next 3 to 5 years.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Milestone</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/milestones/ms9-5-new-cdi-release-with-i-o-developments-from-is-enes1-and-icomex/view">
+    <title>IS-ENES2_MS9.5_New CDI release with I/O developments from IS-ENES1 and ICOMEX</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/milestones/ms9-5-new-cdi-release-with-i-o-developments-from-is-enes1-and-icomex/view</link>
+    <description>Serial I/O is likely the major performance hurdle to efficient operation of Earth System
+Models on modern high performance computing systems. The CDI package jointly
+developed by MPG and DKRZ provides generic solution for asynchronous and parallel
+writing of model output data to disk via dedicated I/O servers not involved into the
+computational part of model integration. CDI uses the external YAXT library to accomplish
+all steps required for data rearranging between compute tasks and I/O servers. Information
+on how to download the CDI and YAXT packages and to get support is provided in this
+document.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Milestone</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms9-6_new-cdi-release-with-i-o-developments-from-is-enes1-and-icomex/view">
+    <title>IS-ENES2_MS9.6_New release of CDO with improved parallel performance</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms9-6_new-cdi-release-with-i-o-developments-from-is-enes1-and-icomex/view</link>
+    <description>Max-Planck-Institute for Meteorology has developed the Climate Data Operators CDO to
+pre- and post-process climate data in different formats.
+This report describes the operators, the activities in the ISENES2-project to improve the
+performance of the CDO on parallel computer architectures, and release new versions of the
+CDO. Furthermore, planned and possible next steps are described.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>WP9</dc:subject>
+    
+    
+      <dc:subject>Milestone</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms9-7_model-interface-updates-for-compliance-with-new-oasis-coupler/view">
+    <title>IS-ENES2_MS9.7_Model interface updates for compliance with new OASIS coupler</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms9-7_model-interface-updates-for-compliance-with-new-oasis-coupler/view</link>
+    <description>This document focuses on the upgrade impact on 3 models participating to the multi-model multi-member experiment described in IS-ENES2 WP9: the Met Office Global Coupled model, EC-Earth and CNRM-CM. The initial interfaces (model code routines where are located the calls to the OASIS API) needed to be adapted to the new coupling routines. Groups took this opportunity to rethink or extend their coupling strategy: grid to grid interpolations were changed, more model component added to the coupled system (ESM).</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>WP9</dc:subject>
+    
+    
+      <dc:subject>Milestone</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+
+</rdf:RDF>

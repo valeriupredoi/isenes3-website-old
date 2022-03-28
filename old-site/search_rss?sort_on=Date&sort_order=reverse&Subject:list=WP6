@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+<channel rdf:about="https://is.enes.org/search_rss">
+  <title>IS-ENES 3</title>
+  <link>https://is.enes.org</link>
+
+  <image rdf:resource="https://is.enes.org/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d6-4_report-on-collaboration-between-enes-and-hpc-companies/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d6-2_report-on-needs-for-climate-services/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/deliverables/prototype-master-classes-for-smes-and-corporates/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d6-1_report-on-access-rights-for-cmip5-and-cordex-for-commercial-use/view"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d6-4_report-on-collaboration-between-enes-and-hpc-companies/view">
+    <title>IS-ENES2_D6.4_Report on Collaboration between ENES and HPC companies</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d6-4_report-on-collaboration-between-enes-and-hpc-companies/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    
+      <dc:subject>WP6</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d6-2_report-on-needs-for-climate-services/view">
+    <title>IS-ENES2_D6.2_Report on needs for climate services</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d6-2_report-on-needs-for-climate-services/view</link>
+    <description>In the context of the emergence of climate services, this report on « Needs for climate services » emphasizes the links between the IS-ENES infrastructure and needs for climate services in Europe. It compiles the information collected regarding the needs for climate services in Europe from different workshops and explains what IS-ENES infrastructure can contribute to climate services and provides recommendations for future activities.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    
+      <dc:subject>WP6</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/deliverables/prototype-master-classes-for-smes-and-corporates/view">
+    <title>IS-ENES2_D6.3_Prototype master classes for SMEs and corporates</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/deliverables/prototype-master-classes-for-smes-and-corporates/view</link>
+    <description>This deliverable presents a prototype masterclass on the use of climate services for SMEs and larger business. The prototype course is tailored to the needs of companies to enhance their skill to translate CMIP5 and CORDEX data to address their clients' policy challenges. The course uses real life case studies and active dialogue among climate experts and company representatives. A first attempt to test this prototype with SME representatives failed due to a disappointing number of participants. After this the prototype was successfully tested in a Wageningen University course with 50 international master students and this document reports on both the course and on lessons learned.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    
+      <dc:subject>WP6</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d6-1_report-on-access-rights-for-cmip5-and-cordex-for-commercial-use/view">
+    <title>IS-ENES2_D6.1_Report on access rights for CMIP5 and CORDEX for commercial use_Submited version</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/deliverables/is-enes2_d6-1_report-on-access-rights-for-cmip5-and-cordex-for-commercial-use/view</link>
+    <description>Institutions submitting data to the CMIP5 archive can specify one of two licenses for use of their data, one of which prohibits comAmbesrctiraal ucste of the data. This prohibition is also inherited by derived data products, unless an exemption is granted by a data supplier. The CORDEX regionally downscaled data can thus inherit restrictions imposed on CMIP5 data used to provide the large scale forcing. This deliverable summarises the status quo, based on correspondence with the relevant data providers and with Karl Taylor, who is leading the CMIP5 archive activity.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>deliverable</dc:subject>
+    
+    
+      <dc:subject>WP6</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+
+</rdf:RDF>

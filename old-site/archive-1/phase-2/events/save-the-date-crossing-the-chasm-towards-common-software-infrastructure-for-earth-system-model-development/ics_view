@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Plone.org//NONSGML plone.app.event//EN
+X-WR-TIMEZONE:Europe/Vienna
+BEGIN:VEVENT
+SUMMARY:Crossing the Chasm: Towards common Software Infrastructure for Ear
+ th System Model development.
+DTSTART;TZID=Europe/Vienna;VALUE=DATE-TIME:20161024T120000
+DTEND;TZID=Europe/Vienna;VALUE=DATE-TIME:20161024T120000
+DTSTAMP;VALUE=DATE-TIME:20220328T140448Z
+UID:b453b72efa7048479dd874e4d2e08b0d@plone7:8080
+CONTACT:Bryan Lawrence\, bryan.lawrence@ncas.ac.uk
+CREATED;VALUE=DATE-TIME:20160729T173613Z
+DESCRIPTION:An IS-ENES2 workshop. 
+LAST-MODIFIED;VALUE=DATE-TIME:20161104T172645Z
+LOCATION:Reading (UK)
+URL:https://is.enes.org/archive-1/phase-2/events/save-the-date-crossing-th
+ e-chasm-towards-common-software-infrastructure-for-earth-system-model-deve
+ lopment
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+X-LIC-LOCATION:Europe/Vienna
+BEGIN:DAYLIGHT
+DTSTART;VALUE=DATE-TIME:20160327T030000
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+END:VCALENDAR

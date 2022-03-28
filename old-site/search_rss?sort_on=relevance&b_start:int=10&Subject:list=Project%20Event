@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+<channel rdf:about="https://is.enes.org/search_rss">
+  <title>IS-ENES 3</title>
+  <link>https://is.enes.org</link>
+
+  <image rdf:resource="https://is.enes.org/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/events/is-enes-workshop-with-two-tutorials-on-grid-related-topics"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/events/is-enes2-working-session"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/events/the-is-enes-kick-off-meeting"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/events/workshop-on-dynamical-cores-for-climate-models"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/events/workshop-on-hpc-for-climate-models-january-30th-february-1st-2013-in-toulouse-france"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/events/workshop-scalable-io-in-climate-models"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/eu-internal/exchange-platform-2/jra5/workshop-climate-data-for-impact-studies-ways-forward/Janette%20Bessembinder.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/eu-internal/exchange-platform-2/jra5/workshop-climate-data-for-impact-studies-ways-forward/Enabling%20the%20use%20of%20climate%20model%20data%20for%20the%20Dutch%20climate%20effect%20community-%20De%20Cerff.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/eu-internal/exchange-platform-2/jra5/workshop-climate-data-for-impact-studies-ways-forward/Swedish%20case%20studies-%20Lars%20Barring.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/eu-internal/exchange-platform-2/jra5/workshop-climate-data-for-impact-studies-ways-forward/Portal%20User%20Evaluation-%20Fokke%20de%20Jong.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/eu-internal/exchange-platform-2/jra5/workshop-climate-data-for-impact-studies-ways-forward/CMCC%20Use%20Case%20Presentation-%20Edoardo%20Bucchignani.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/eu-internal/exchange-platform-2/jra5/workshop-climate-data-for-impact-studies-ways-forward/Bias%20correction%20and%20statistical%20downscaling%20Can%20we%20assist%20the%20impact%20researchers%20-%20Ronald%20Hutjes.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/eu-internal/exchange-platform-2/jra5/workshop-climate-data-for-impact-studies-ways-forward/Climate%20data%20access%20Current%20status%20and%20plans%20A%20providers%20view.%20Christian%20Page.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/eu-internal/exchange-platform-2/jra5/workshop-climate-data-for-impact-studies-ways-forward/15%20Recommendations%20Workshop%20user%20climate%20data%20needs-%20Rob%20Swart.pdf/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/archive/eu-internal/exchange-platform-2/jra5/workshop-climate-data-for-impact-studies-ways-forward/Portal%20development-%20Christian%20Page.pdf/view"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/events/is-enes-workshop-with-two-tutorials-on-grid-related-topics">
+    <title>IS-ENES workshop with two tutorials on grid related topics</title>
+    <link>https://is.enes.org/archive-1/archive/events/is-enes-workshop-with-two-tutorials-on-grid-related-topics</link>
+    <description>As part of EU project IS-ENES, workpackage NA2, a workshop on grid related topics with two tutorials will take place at DKRZ (Hamburg, Germany) in January</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Project Event</dc:subject>
+    
+    <dc:date>2012/11/07 09:45:00 GMT+1</dc:date>
+    <dc:type>Event</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/events/is-enes2-working-session">
+    <title>Future of IS-ENES working session, 31 August - 2 September 2011</title>
+    <link>https://is.enes.org/archive-1/archive/events/is-enes2-working-session</link>
+    <description>ON INVITATION </description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Project Event</dc:subject>
+    
+    <dc:date>2011/07/19 14:45:00 GMT+1</dc:date>
+    <dc:type>Event</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/events/the-is-enes-kick-off-meeting">
+    <title>The IS-ENES Kick Off Meeting, 30-31 March 2009</title>
+    <link>https://is.enes.org/archive-1/archive/events/the-is-enes-kick-off-meeting</link>
+    <description>Useful information and documents about the Kick Off</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Project Event</dc:subject>
+    
+    <dc:date>2009/11/17 11:10:00 GMT+1</dc:date>
+    <dc:type>Event</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/events/workshop-on-dynamical-cores-for-climate-models">
+    <title>Workshop on dynamical cores for climate models, 14-16 December 2011</title>
+    <link>https://is.enes.org/archive-1/archive/events/workshop-on-dynamical-cores-for-climate-models</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Project Event</dc:subject>
+    
+    <dc:date>2011/10/11 08:30:00 GMT+1</dc:date>
+    <dc:type>Event</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/events/workshop-on-hpc-for-climate-models-january-30th-february-1st-2013-in-toulouse-france">
+    <title>IS-ENES workshop on HPC for Climate Models, January 30th - February 1st, 2013 in Toulouse France</title>
+    <link>https://is.enes.org/archive-1/archive/events/workshop-on-hpc-for-climate-models-january-30th-february-1st-2013-in-toulouse-france</link>
+    <description>ON INVITATION ONLY</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Project Event</dc:subject>
+    
+    <dc:date>2012/10/15 13:50:00 GMT+1</dc:date>
+    <dc:type>Event</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/events/workshop-scalable-io-in-climate-models">
+    <title>Workshop: Scalable IO in climate models, 27-28 February 2012</title>
+    <link>https://is.enes.org/archive-1/archive/events/workshop-scalable-io-in-climate-models</link>
+    <description>by invitation</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Project Event</dc:subject>
+    
+    <dc:date>2012/01/13 10:30:00 GMT+1</dc:date>
+    <dc:type>Event</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/eu-internal/exchange-platform-2/jra5/workshop-climate-data-for-impact-studies-ways-forward/Janette%20Bessembinder.pdf/view">
+    <title>Presentation Janette Bessembinder</title>
+    <link>https://is.enes.org/archive-1/archive/eu-internal/exchange-platform-2/jra5/workshop-climate-data-for-impact-studies-ways-forward/Janette%20Bessembinder.pdf/view</link>
+    <description>Climate data for impacts: tailoring to user needs. Some experiences</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Project Event</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/eu-internal/exchange-platform-2/jra5/workshop-climate-data-for-impact-studies-ways-forward/Enabling%20the%20use%20of%20climate%20model%20data%20for%20the%20Dutch%20climate%20effect%20community-%20De%20Cerff.pdf/view">
+    <title>Enabling the use of climate model data for the Dutch climate effect community, De Cerff</title>
+    <link>https://is.enes.org/archive-1/archive/eu-internal/exchange-platform-2/jra5/workshop-climate-data-for-impact-studies-ways-forward/Enabling%20the%20use%20of%20climate%20model%20data%20for%20the%20Dutch%20climate%20effect%20community-%20De%20Cerff.pdf/view</link>
+    <description></description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Project Event</dc:subject>
+    
+    <dc:date>2013/02/11 00:00:00 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/eu-internal/exchange-platform-2/jra5/workshop-climate-data-for-impact-studies-ways-forward/Swedish%20case%20studies-%20Lars%20Barring.pdf/view">
+    <title>Swedish case studies, Lars Barring</title>
+    <link>https://is.enes.org/archive-1/archive/eu-internal/exchange-platform-2/jra5/workshop-climate-data-for-impact-studies-ways-forward/Swedish%20case%20studies-%20Lars%20Barring.pdf/view</link>
+    <description>Swedish case studies, Lars Barring</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Project Event</dc:subject>
+    
+    <dc:date>2013/02/11 00:00:00 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/eu-internal/exchange-platform-2/jra5/workshop-climate-data-for-impact-studies-ways-forward/Portal%20User%20Evaluation-%20Fokke%20de%20Jong.pdf/view">
+    <title>Portal User Evaluation, Fokke de Jong</title>
+    <link>https://is.enes.org/archive-1/archive/eu-internal/exchange-platform-2/jra5/workshop-climate-data-for-impact-studies-ways-forward/Portal%20User%20Evaluation-%20Fokke%20de%20Jong.pdf/view</link>
+    <description>Portal User Evaluation, Fokke de Jong</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Project Event</dc:subject>
+    
+    <dc:date>2013/02/11 00:00:00 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/eu-internal/exchange-platform-2/jra5/workshop-climate-data-for-impact-studies-ways-forward/CMCC%20Use%20Case%20Presentation-%20Edoardo%20Bucchignani.pdf/view">
+    <title>CMCC Use Case Presentation, Edoardo Bucchignani</title>
+    <link>https://is.enes.org/archive-1/archive/eu-internal/exchange-platform-2/jra5/workshop-climate-data-for-impact-studies-ways-forward/CMCC%20Use%20Case%20Presentation-%20Edoardo%20Bucchignani.pdf/view</link>
+    <description>CMCC Use Case Presentation, Edoardo Bucchignani</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Project Event</dc:subject>
+    
+    <dc:date>2013/02/11 00:00:00 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/eu-internal/exchange-platform-2/jra5/workshop-climate-data-for-impact-studies-ways-forward/Bias%20correction%20and%20statistical%20downscaling%20Can%20we%20assist%20the%20impact%20researchers%20-%20Ronald%20Hutjes.pdf/view">
+    <title>Bias correction and statistical downscaling: can we assist the impact researchers? Ronald Hutjes</title>
+    <link>https://is.enes.org/archive-1/archive/eu-internal/exchange-platform-2/jra5/workshop-climate-data-for-impact-studies-ways-forward/Bias%20correction%20and%20statistical%20downscaling%20Can%20we%20assist%20the%20impact%20researchers%20-%20Ronald%20Hutjes.pdf/view</link>
+    <description>Bias correction and statistical downscaling: can we assist the impact researchers? Ronald Hutjes</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Project Event</dc:subject>
+    
+    <dc:date>2013/02/11 00:00:00 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/eu-internal/exchange-platform-2/jra5/workshop-climate-data-for-impact-studies-ways-forward/Climate%20data%20access%20Current%20status%20and%20plans%20A%20providers%20view.%20Christian%20Page.pdf/view">
+    <title>Climate data access: current status and plans: A providers view. Christian Pagé</title>
+    <link>https://is.enes.org/archive-1/archive/eu-internal/exchange-platform-2/jra5/workshop-climate-data-for-impact-studies-ways-forward/Climate%20data%20access%20Current%20status%20and%20plans%20A%20providers%20view.%20Christian%20Page.pdf/view</link>
+    <description>Climate data access: current status and plans: A providers view. Christian Pagé</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Project Event</dc:subject>
+    
+    <dc:date>2013/02/11 00:00:00 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/eu-internal/exchange-platform-2/jra5/workshop-climate-data-for-impact-studies-ways-forward/15%20Recommendations%20Workshop%20user%20climate%20data%20needs-%20Rob%20Swart.pdf/view">
+    <title>15 RecommendationsWorkshop user climate data needs, Rob Swart</title>
+    <link>https://is.enes.org/archive-1/archive/eu-internal/exchange-platform-2/jra5/workshop-climate-data-for-impact-studies-ways-forward/15%20Recommendations%20Workshop%20user%20climate%20data%20needs-%20Rob%20Swart.pdf/view</link>
+    <description>15 RecommendationsWorkshop user climate data needs, Rob Swart</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Project Event</dc:subject>
+    
+    <dc:date>2013/02/11 00:00:00 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/archive/eu-internal/exchange-platform-2/jra5/workshop-climate-data-for-impact-studies-ways-forward/Portal%20development-%20Christian%20Page.pdf/view">
+    <title>Portal development, Christian Pagé</title>
+    <link>https://is.enes.org/archive-1/archive/eu-internal/exchange-platform-2/jra5/workshop-climate-data-for-impact-studies-ways-forward/Portal%20development-%20Christian%20Page.pdf/view</link>
+    <description>Portal development, Christian Pagé</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Project Event</dc:subject>
+    
+    <dc:date>2013/02/11 00:00:00 GMT+1</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+
+</rdf:RDF>

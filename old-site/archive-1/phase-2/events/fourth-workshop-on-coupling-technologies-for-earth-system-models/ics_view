@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Plone.org//NONSGML plone.app.event//EN
+X-WR-TIMEZONE:Europe/Vienna
+BEGIN:VEVENT
+SUMMARY:Fourth Workshop on Coupling Technologies for Earth System Models
+DTSTART;TZID=Europe/Vienna;VALUE=DATE-TIME:20170320T120000
+DTEND;TZID=Europe/Vienna;VALUE=DATE-TIME:20170322T120000
+DTSTAMP;VALUE=DATE-TIME:20220328T140450Z
+UID:2d0e56a7135b4ee3bc7b84632e63b596@plone7:8080
+CATEGORIES:Project Event
+CATEGORIES:WP3
+CONTACT:Marie Parinet\, marie.parinet@lsce.ipsl.fr
+CREATED;VALUE=DATE-TIME:20160921T161050Z
+DESCRIPTION:The Fourth Workshop on Coupling Technologies for Earth System 
+ Models (CW2017) will be held on the 20th-22nd of March\, 2017 at the Princ
+ eton Center for Theoretical Science on the campus of Princeton University\
+ , USA. IS-ENES2 contributes to the organisation of this workshop as part o
+ f activity carried out in WP3. 
+LAST-MODIFIED;VALUE=DATE-TIME:20170313T135848Z
+LOCATION: Princeton University\, USA
+URL:https://is.enes.org/archive-1/phase-2/events/fourth-workshop-on-coupli
+ ng-technologies-for-earth-system-models
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+X-LIC-LOCATION:Europe/Vienna
+BEGIN:STANDARD
+DTSTART;VALUE=DATE-TIME:20161030T020000
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+END:VCALENDAR

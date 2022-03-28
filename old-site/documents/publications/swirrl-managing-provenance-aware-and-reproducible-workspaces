@@ -1,0 +1,1928 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+
+<head>
+
+        <title>SWIRRL. Managing Provenance-aware and Reproducible Workspaces | Data Intelligence | MIT Press</title>
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js" type="text/javascript"></script>
+<script>window.jQuery || document.write('<script src="//mitp.silverchair-cdn.com/Themes/Silver/app/js/jquery.3.4.1.min.js" type="text/javascript">\x3C/script>')</script>
+<script src="//mitp.silverchair-cdn.com/Themes/Silver/app/vendor/v-637811651684546795/jquery-migrate-3.1.0.min.js" type="text/javascript"></script>
+
+
+
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+
+    
+    <meta charset="utf-8" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <!-- Turn off telephone number detection. -->
+    <meta name="format-detection" content="telephone=no" />
+
+<!-- Bookmark Icons -->
+  <link rel="apple-touch-icon" sizes="180x180" href="//mitp.silverchair-cdn.com/Themes/Client/app/img/favicons/v-637811651258196405/apple-touch-icon.png">
+  <link rel="icon" type="image/png" href="//mitp.silverchair-cdn.com/Themes/Client/app/img/favicons/v-637811651258246502/favicon-32x32.png" sizes="32x32">
+  <link rel="icon" type="image/png" href="//mitp.silverchair-cdn.com/Themes/Client/app/img/favicons/v-637811651258246502/favicon-16x16.png" sizes="16x16">
+  <link rel="mask-icon" href="//mitp.silverchair-cdn.com/Themes/Client/app/img/favicons/v-637811651258246502/safari-pinned-tab.svg" color="#5bbad5">
+  <link rel="shortcut icon" href="//mitp.silverchair-cdn.com/Themes/Client/app/img/favicons/v-637811651258246502/favicon.ico">
+  <link rel="manifest" href="//mitp.silverchair-cdn.com/Themes/Client/app/img/favicons/v-637811651258246502/manifest.json">
+  <meta name="msapplication-config" content="//mitp.silverchair-cdn.com/Themes/Client/app/img/favicons/v-637811651258196405/browserconfig.xml">
+  <meta name="theme-color" content="#002f65">
+
+
+    
+
+
+  <link rel="stylesheet" type="text/css" href="//mitp.silverchair-cdn.com/Themes/Client/app/css/v-637824684629516558/site.min.css" />
+  <link rel="stylesheet" type="text/css" href="//mitp.silverchair-cdn.com/Themes/Client/app/css/icons/v-637811651258196405/style.css" />
+  <link rel="stylesheet" type="text/css" href="//mitp.silverchair-cdn.com/Themes/Client/app/css/v-637811651258096448/bg_img.css" />
+
+<link href="/Themes/Client/app/css/SiteFonts/SiteFonts.css" rel="stylesheet" />
+
+
+                <link href=//mitp.silverchair-cdn.com/data/SiteBuilderAssets/Live/CSS/dint/site-1327208261.css rel="stylesheet" type="text/css" />
+
+            <script>
+                (function (w, d, s, l, i) {
+                    w[l] = w[l] || []; w[l].push({
+                        'gtm.start':
+                            new Date().getTime(), event: 'gtm.js'
+                    }); var f = d.getElementsByTagName(s)[0],
+                        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                        'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+                })(window, document, 'script', 'dataLayer', 'GTM-5P3FLZ8');
+            </script>
+
+    
+
+        <script type="text/javascript">
+            var App = App || {};
+            App.LoginUserInfo = {
+                isInstLoggedIn: 1,
+                isIndividualLoggedIn: 0
+            };
+
+            App.CurrentSubdomain = 'dint';
+            App.SiteURL = 'direct.mit.edu/dint';
+        </script>
+    
+    
+    <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/chartist.js/latest/chartist.min.css">
+
+    <meta name="citation_author" content="Spinuso, Alessandro" /><meta name="citation_author_institution" content="Koninklijk Nederlands Meteorologisch Instituut, De Bilt, Utrecht 3731 GA, The Netherlands" /><meta name="citation_author" content="Veldhuizen, Mats" /><meta name="citation_author_institution" content="Koninklijk Nederlands Meteorologisch Instituut, De Bilt, Utrecht 3731 GA, The Netherlands" /><meta name="citation_author" content="Bailo, Daniele" /><meta name="citation_author_institution" content="Istituto Nazionale Geofisica e Vulcanologia, Rome, Lazio 00143, Italy" /><meta name="citation_author" content="Vinciarelli, Valerio" /><meta name="citation_author_institution" content="Istituto Nazionale Geofisica e Vulcanologia, Rome, Lazio 00143, Italy" /><meta name="citation_author" content="Langeland, Tor" /><meta name="citation_author_institution" content="NORCE Norwegian Research Centre AS, Bergen, Hordaland NO-5838, Norway" /><meta name="citation_title" content="SWIRRL. Managing Provenance-aware and Reproducible Workspaces" /><meta name="citation_firstpage" content="1" /><meta name="citation_lastpage" content="16" /><meta name="citation_doi" content="10.1162/dint_a_00129" /><meta name="citation_journal_title" content="Data Intelligence" /><meta name="citation_journal_abbrev" content="Data Intelligence" /><meta name="citation_fulltext_world_readable" content="" /><meta name="citation_pdf_url" content="https://direct.mit.edu/dint/article-pdf/doi/10.1162/dint_a_00129/1996745/dint_a_00129.pdf" /><meta name="dc.identifier" content="10.1162/dint_a_00129" />
+
+<meta name="citation_xml_url" content="https://direct.mit.edu/dint/article-xml/doi/10.1162/dint_a_00129/109846" />
+
+
+
+    <link rel="canonical" href="https://direct.mit.edu/dint/article/doi/10.1162/dint_a_00129/109846/SWIRRL-Managing-Provenance-aware-and-Reproducible" />
+
+
+
+
+    <script type="application/ld+json">
+        {"@context":"https://schema.org","@type":"ScholarlyArticle","@id":"https://direct.mit.edu/dint/article/doi/10.1162/dint_a_00129/109846/SWIRRL-Managing-Provenance-aware-and-Reproducible","name":"SWIRRL. Managing Provenance-aware and Reproducible Workspaces","datePublished":"2022-03-07","isPartOf":{"@id":"https://direct.mit.edu/dint","@type":"Periodical","name":"Data Intelligence","issn":["2641-435X"]},"url":"https://dx.doi.org/10.1162/dint_a_00129","keywords":["Productivity","Data-analysis","Reproducibility","Provenance","Cloud-computing"],"inLanguage":"en","copyrightHolder":"","copyrightYear":"2022","publisher":"Oxford University Press","sameAs":"","author":[{"name":"Spinuso, Alessandro","affiliation":"Koninklijk Nederlands Meteorologisch Instituut, De Bilt, Utrecht 3731 GA, The Netherlands","@type":"Person"},{"name":"Veldhuizen, Mats","affiliation":"Koninklijk Nederlands Meteorologisch Instituut, De Bilt, Utrecht 3731 GA, The Netherlands","@type":"Person"},{"name":"Bailo, Daniele","affiliation":"Istituto Nazionale Geofisica e Vulcanologia, Rome, Lazio 00143, Italy","@type":"Person"},{"name":"Vinciarelli, Valerio","affiliation":"Istituto Nazionale Geofisica e Vulcanologia, Rome, Lazio 00143, Italy","@type":"Person"},{"name":"Langeland, Tor","affiliation":"NORCE Norwegian Research Centre AS, Bergen, Hordaland NO-5838, Norway","@type":"Person"}],"description":"Abstract. Modern interactive tools for data analysis and visualisation are designed to expose their functionalities as a service through the Web. We present in this paper a Web API (SWIRRL) that allows Virtual Research Environments (VREs) to easily integrate such tools in their websites and re-purpose them to their users. The API deals, on behalf of the clients, with the underlying complexity of allocating and managing resources within a target cloud platform. By combining storage and containerised services, offering analysis notebooks and other visualisation software, the API creates dedicated working sessions on-demand, which can be accessed collaboratively. Thanks to the API’s support for workflow execution, SWIRRL workspaces can be automatically populated with data of interest collected from external data providers. The system keeps track of updates and changes affecting the data and the tools by adopting versioning and standard provenance technologies. Users are provided with interactive controls enabling traceability and recovery actions, including the possibility of creating executable snapshots of their environments. SWIRRL is built in cooperation with two research infrastructures in the field of solid earth science and climate data modeling. We report on the particular adoptions and use cases.","pageStart":"1","pageEnd":"16","siteName":"MIT Press","thumbnailURL":"//mitp.silverchair-cdn.com/Themes/Silver/app/img/generic-cover.png","headline":"SWIRRL. Managing Provenance-aware and Reproducible Workspaces","image":"//mitp.silverchair-cdn.com/Themes/Silver/app/img/generic-cover.png","image:alt":""}
+    </script>
+        <meta property="og:site_name" content="MIT Press"/>
+        <meta property="og:type" content="article"/>
+        <meta property="og:title" content="SWIRRL. Managing Provenance-aware and Reproducible Workspaces"/>
+        <meta property="og:description" content="Abstract. Modern interactive tools for data analysis and visualisation are designed to expose their functionalities as a service through the Web. We present in this paper a Web API (SWIRRL) that allows Virtual Research Environments (VREs) to easily integrate such tools in their websites and re-purpose them to their users. The API deals, on behalf of the clients, with the underlying complexity of allocating and managing resources within a target cloud platform. By combining storage and containerised services, offering analysis notebooks and other visualisation software, the API creates dedicated working sessions on-demand, which can be accessed collaboratively. Thanks to the API’s support for workflow execution, SWIRRL workspaces can be automatically populated with data of interest collected from external data providers. The system keeps track of updates and changes affecting the data and the tools by adopting versioning and standard provenance technologies. Users are provided with interactive controls enabling traceability and recovery actions, including the possibility of creating executable snapshots of their environments. SWIRRL is built in cooperation with two research infrastructures in the field of solid earth science and climate data modeling. We report on the particular adoptions and use cases."/>
+        <meta property="og:url" content="https://direct.mit.edu/dint/article/doi/10.1162/dint_a_00129/109846/SWIRRL-Managing-Provenance-aware-and-Reproducible"/>
+        <meta property="og:updated_time" content="2022-03-07"/>
+        <meta property="og:image" content="//mitp.silverchair-cdn.com/Themes/Silver/app/img/generic-cover.png"/>
+        <meta property="og:image:alt" content=""/>
+
+
+
+
+    
+    
+
+
+<script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+<script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+
+    googletag.cmd.push(function () {
+    googletag.pubads().disableInitialLoad();
+
+    
+    });
+</script>
+
+
+    
+    
+
+
+
+<script src="https://servedbyadbutler.com/app.js" type="text/javascript"></script>
+    
+
+
+
+
+
+
+    <script src="https://scholar.google.com/scholar_js/casa.js" async></script>
+
+</head>
+
+<body data-sitename="dataintelligence" class="off-canvas pg_Article pg_article   " theme-dint data-sitestyletemplate="Journal" >
+            <noscript>
+                <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5P3FLZ8"
+                        height="0" width="0" style="display:none;visibility:hidden"></iframe>
+            </noscript>
+            <a href="#skipNav" class="skipnav">Skip to Main Content</a>
+<input id="hdnSiteID" name="hdnSiteID" type="hidden" value="1000035" /><input id="hdnAdDelaySeconds" name="hdnAdDelaySeconds" type="hidden" value="3000" /><input id="hdnAdConfigurationTop" name="hdnAdConfigurationTop" type="hidden" value="basic" /><input id="hdnAdConfigurationRightRail" name="hdnAdConfigurationRightRail" type="hidden" value="basic" />
+    
+
+
+
+
+    <section class="master-header row vt-site-header">
+
+    <div class="ad-banner js-ad-banner">
+
+    <div class="widget-AdBlock widget-instance-HeaderAd">
+            
+
+    <input type="hidden"
+           class="hfAdBlockInfo"
+           data-divid="placement_451251_adBlockHeader"
+           data-slotname="451251"
+           data-targetname="179758"
+           data-sizes="[[728, 90]]"
+           data-enabled-on-mobile="True"
+           data-adprovider-typeid="2"
+           data-accountid=""
+           data-outofpagead="False"
+           data-sticky-time="5"/>
+    <div class="adblock-wrap js-adblock-wrap " style="width:728px;">
+                <p class="adblock-advertisement-text js-adblock-advertisement-text hide">Advertisement</p>
+
+            <div id="placement_451251_adBlockHeader" adslot="451251" class="adblock-slot-placeholder js-adblock" style="width:728px; height:90px;"></div>
+
+    </div>
+ 
+    </div>
+
+    </div>
+
+    <div class="widget-SitePageHeader widget-instance-SitePageHeader">
+            <div class="site-theme-header">
+        <div class="site-theme-header_contents global-nav-base">
+
+
+
+<div class="global-nav">
+            <a class="js-dropdown-trigger global-nav-trigger" href="javascript:;">
+            <picture>
+                <source media="(min-width: 601px)" srcset="//mitp.silverchair-cdn.com/UI/app/svg/umbrella/logo.svg">
+                <img class="logo-DataIntelligence site-theme-header-image" src="//mitp.silverchair-cdn.com/UI/app/svg/umbrella/logo.svg" alt="Umbrella Alt Text" />
+            </picture>
+                <i class="icon-general_arrow-down arrow-icon"></i>
+        </a>
+        <nav class="navbar-menu global-nav-dropdown js-dropdown">
+            <div class="site-theme-header-logo">
+                <a href="/" class="site-theme-header-image-wrap">
+                        <picture>
+                            <source media="(min-width: 601px)" srcset="//mitp.silverchair-cdn.com/UI/app/svg/umbrella/logo.svg">
+                            <img class="logo-DataIntelligence site-theme-header-image" src="//mitp.silverchair-cdn.com/UI/app/svg/umbrella/logo.svg" alt="Umbrella Alt Text" />
+                        </picture>
+                </a>
+                <a href="javascript:;" class="icon-general-close menu-close"><span class="screenreader-text">Close</span></a>
+            </div>
+                    <ul class="site-menu site-menu-lvl-0 js-theme-dropdown">
+                <li class="site-menu-item site-menu-lvl-0 site-menu-item-Books " id="site-menu-item-13393">
+                        <a href="javascript:;" class="nav-link js-theme-dropdown-trigger" aria-expanded="false">Books <i class="icon-general_arrow-down arrow-icon"></i></a>
+
+                            <ul class="site-menu site-menu-lvl-1 js-theme-dropdown">
+                <li class="site-menu-item site-menu-lvl-1 site-menu-item-Books-Home " id="site-menu-item-13395">
+                        <a href="/books" class="nav-link">Books Home </a>
+
+                    
+                </li>
+                <li class="site-menu-item site-menu-lvl-1 site-menu-item-Browse-Books " id="site-menu-item-13396">
+                        <a href="/books/search-results?fl_SiteID=5&amp;page=1&amp;f_ContentType=Book" class="nav-link">Browse Books </a>
+
+                    
+                </li>
+        </ul>
+
+                </li>
+                <li class="site-menu-item site-menu-lvl-0 site-menu-item-Journals " id="site-menu-item-13394">
+                        <a href="javascript:;" class="nav-link js-theme-dropdown-trigger" aria-expanded="false">Journals <i class="icon-general_arrow-down arrow-icon"></i></a>
+
+                            <ul class="site-menu site-menu-lvl-1 js-theme-dropdown">
+                <li class="site-menu-item site-menu-lvl-1 site-menu-item-Journals-Home " id="site-menu-item-13397">
+                        <a href="/journals" class="nav-link">Journals Home </a>
+
+                    
+                </li>
+                <li class="site-menu-item site-menu-lvl-1 site-menu-item-Browse-Journals " id="site-menu-item-13398">
+                        <a href="/journals/pages/browse_by_title" class="nav-link">Browse Journals </a>
+
+                    
+                </li>
+        </ul>
+
+                </li>
+                <li class="site-menu-item site-menu-lvl-0 site-menu-item-About-MIT-Press-Direct " id="site-menu-item-13399">
+                        <a href="/books/pages/about" class="nav-link">About MIT Press Direct </a>
+
+                    
+                </li>
+        </ul>
+
+        </nav>
+    
+</div>
+
+
+        <div class="mobile-menu-trigger_wrap mobile-search_wrap">
+            <a href="javascript:;"
+               class="mobile-search_toggle at-search-toggle"
+               aria-controls="search-dropdown"
+               aria-expanded="false"
+               data-theme-dropdown-trigger="search-dropdown"><i class="icon-menu_search"><span class="screenreader-text">Search Dropdown Menu</span></i></a>
+        </div>
+    <div class="navbar-search-container mobile-dropdown search-dropdown" id="search-dropdown" data-theme-dropdown="search-dropdown">
+        <div class="navbar-search">
+            <div class="microsite-search js-MicrositeSearch">
+                <div class="navbar-search-input_wrap">
+                    <fieldset>
+                        <legend><span class="screenreader-text">nav  search</span></legend>
+                        <label for="MicrositeSearchTerm"><span class="screenreader-text">search input</span></label>
+                        
+                        <input class="navbar-search-input microsite-search-term at-microsite-search-term search-term-autosuggest" 
+                               data-autosuggest-hint="micrositeSearchTermInputHint-SitePageHeader"
+                               data-autosuggest-results="micrositeAutoCompleteResults-SitePageHeader"
+                               data-autosuggest-id="MicrositeSearchTerm-SitePageHeader"
+                               data-searchfilter="search-filter-SitePageHeader" 
+                               placeholder="Search..." type="text" maxlength="255" id="MicrositeSearchTerm" title="search input">
+                        
+                        <input type="hidden" name="hfSolrAutoSuggestMinimumCharactersLength" id="hfSolrAutoSuggestMinimumCharactersLength" value="2" />
+                        <input type="hidden" name="hfSolrJournalName" id="hfSolrJournalName" value="" />
+                        <input type="hidden" name="hfSolrJournalID" id="hfSolrJournalID" value="" />
+                        <label for="micrositeSearchTermInputHint">
+                            <span class="screenreader-text">Search input auto suggest</span>
+                        </label>
+                        <input type="text" id="micrositeSearchTermInputHint" data-autosuggest-id="micrositeSearchTermInputHint-SitePageHeader" class="microsite-search-term-input-hint" autocomplete="off" />
+                        <ul id="micrositeAutoCompleteResults" data-autosuggest-id="micrositeAutoCompleteResults-SitePageHeader" class="term-list hidden"></ul>
+                    </fieldset>
+                </div>
+                    <div class="navbar-search-filter_wrap">
+                        <label for="navbar-search-filter-site">
+                            <span class="screenreader-text">search filter</span>
+                        </label>
+                        <select class="navbar-search-filter navbar-search-filter-site at-navbar-search-filter" id="navbar-search-filter-site" data-autosuggest-id="search-filter-SitePageHeader">
+<option class="header-search-bar-filters-item" value="/search-results?page=1&q={searchQuery}" data-siteid="0" >All Content</option><option class="header-search-bar-filters-item" value="/journals/search-results?page=1&q={searchQuery}&fl_SiteID=1000001&allJournals=1" data-siteid="1000001" >All Journals</option><option class="header-search-bar-filters-item selected" value="/dint/search-results?page=1&q={searchQuery}&fl_SiteID=1000035" data-siteid="1000035" selected>Data Intelligence</option>                        </select>
+                    </div>
+                <div class="navbar-search-submit_wrap">
+                    <a href="javascript:;"
+                       id="MicrositeSearchIcon"
+                       class="microsite-search-icon navbar-search-submit icon-menu_search"><span class="screenreader-text">Search</span></a>
+                </div>
+            </div><!-- /#MicrositeSearch -->
+        </div><!-- /.navbar-search -->
+<div class="navbar-search-advanced">
+    <a href="/advanced-search" class="advanced-search">Advanced Search</a>
+</div>    </div><!-- /.navbar-search-container -->
+
+    <input type="hidden" name="parentSiteName" id="hfParentSiteName" value="Journals Gateway" />
+    <input type="hidden" id="hfSolrMaxAllowSearchChar" value="100" />
+    <input type="hidden" id="hfJournalShortName" value="" />
+    <input type="hidden" id="hfSearchPlaceholder" value="" />
+    <input type="hidden" name="hfGlobalSearchSiteURL" id="hfGlobalSearchSiteURL" value="" />
+    <input type="hidden" name="hfSearchSiteURL" id="hfSiteURL" value="direct.mit.edu/dint" />
+    <input type="hidden" id="hfQuickSearchUrl" value="/dint/search-results?page=1&amp;q={searchQuery}&amp;fl_SiteID=1000035" />
+    <script type="text/javascript">
+        (function () {
+            var hfSiteUrl = document.getElementById('hfSiteURL');
+            var siteUrl = hfSiteUrl.value;
+            var subdomainIndex = siteUrl.indexOf('/');
+
+            hfSiteUrl.value = location.host + (subdomainIndex >= 0 ? siteUrl.substring(subdomainIndex) : '');
+        })();
+    </script>
+
+ 
+
+<div class="tablet-menu-trigger_wrap">
+    <!-- MOBILE SHOPPING CART ICON -->
+    <a href="javascript:;"
+       class="tablet-sign-in"
+       data-theme-dropdown-trigger="tablet-user-dropdown"
+       aria-controls="tablet-user-dropdown"
+       aria-expanded="false"><i class="icon-menu_account"><span class="screenreader-text">User Tools Dropdown</span></i></a>
+</div>
+<div class="site-theme-header-menu-item_wrap tablet-menu" id="tablet-user-dropdown" data-theme-dropdown="tablet-user-dropdown">
+    <!-- DESKTOP SHOPPING CART ICON -->
+
+    <!-- DESKTOP REGISTRATION -->
+        <div class="site-theme-header-menu-item"><a href="/my-account/register?siteId=1000035&amp;returnUrl=%2fdint%2farticle%2fdoi%2f10.1162%2fdint_a_00129%2f109846%2fSWIRRL-Managing-Provenance-aware-and-Reproducible" class="register at-register">Register</a></div>
+
+    <!-- DESKTOP INSTITUTIONS -->
+        <div class="site-theme-header-menu-item">
+            
+                <a href="javascript:;"
+                   class="dropdown-toggle institution at-institution"
+                   data-theme-dropdown-trigger="institution-dropdown"
+                   aria-controls="institution-dropdown"
+                   aria-expanded="false">UNIVERSITY OF READING <i class="icon-general_arrow-down arrow-icon"></i></a>
+            <div class="dropdown-panel dropdown-panel-institution" id="institution-dropdown" data-theme-dropdown="institution-dropdown">
+                <div class="dropdown-menu">
+                            <div class="dropdown-institution-item">
+                                UNIVERSITY OF READING
+                            </div>
+                                                        </div><!-- /.dropdown-menu -->
+            </div><!-- /.dropdown-panel .dropdown-panel-institution -->
+        </div><!-- /.site-theme-header-menu-item .desktop -->
+
+    <!-- DESKTOP SIGN IN -->
+
+
+    <div class="site-theme-header-menu-item not-authenicated">
+        <a href="javascript:;" 
+           class="dropdown-toggle signin at-signin-dropdown at-signin-username"
+           id="header-account-info-user-fullname"
+           data-login-location="/SignIn/LoginForm/LoginFormPopup?returnUrl="
+           data-theme-dropdown-trigger="sign-in-dropdown"
+           aria-controls="sign-in-dropdown"
+           aria-expanded="false">
+            
+Sign In            <i class="icon-general_arrow-down arrow-icon"></i>
+        </a>
+        <div class="dropdown-panel dropdown-panel-signin dropdown-panel-form at-signin-dropdown-panel" id="sign-in-dropdown" data-theme-dropdown="sign-in-dropdown">
+            <div class="spinner"></div>
+        </div><!-- /.dropdown-panel -->
+    </div>
+</div>
+
+        </div><!-- /.site-theme-header_content -->
+    </div><!-- /.site-theme-header- -->
+
+    <div class="journal-header journal-bg">
+        <div class="journal-header_content ">
+
+    <div class="journal-logo_wrap">
+        <a href="//direct.mit.edu/dint" class="journal-logo-link">
+            <picture>
+                <source media="(min-width: 601px)" srcset="//mitp.silverchair-cdn.com/data/SiteBuilderAssets/Live/Images/dint/DINT_title273299649.svg">
+                <img class="logo-DataIntelligence journal-logo" src="//mitp.silverchair-cdn.com/data/SiteBuilderAssets/Live/Images/dint/DINT_title273299649.svg" alt="Data Intelligence" />
+            </picture>
+        </a>
+    </div>
+
+            
+
+
+<div class="navbar-menu_wrap">
+            <a class="mobile-site-menu-toggle" data-theme-dropdown-trigger="microsite-nav-menu" aria-controls="microsite-nav-menu" aria-expanded="false" href="javascript:;"><i class="icon-menu_hamburger"><span class="screenreader-text">Toggle Menu</span></i><span class="tablet-menu-label">Menu</span></a>
+            <nav class="navbar-menu" id="microsite-nav-menu" data-theme-dropdown="microsite-nav-menu">
+                        <ul class="site-menu site-menu-lvl-0 js-theme-dropdown">
+                <li class="site-menu-item site-menu-lvl-0 " id="site-menu-item-10871">
+
+                        <a href="/dint/issue" class="nav-link">Issues</a>
+
+                    
+                </li>
+                <li class="site-menu-item site-menu-lvl-0 " id="site-menu-item-10872">
+
+                        <a href="/dint/online-early" class="nav-link">Online Early</a>
+
+                    
+                </li>
+                <li class="site-menu-item site-menu-lvl-0 " id="site-menu-item-10869">
+
+                        <a href="javascript:;" class="nav-link js-theme-dropdown-trigger" aria-expanded="false">About<i class="nav-arrow icon-general_arrow-down arrow-icon"></i></a>
+
+                            <ul class="site-menu site-menu-lvl-1 js-theme-dropdown">
+                <li class="site-menu-item site-menu-lvl-1 " id="site-menu-item-10873">
+
+                        <a href="/dint/pages/editorial-info" class="nav-link">Editorial Info</a>
+
+                    
+                </li>
+                <li class="site-menu-item site-menu-lvl-1 " id="site-menu-item-10874">
+
+                        <a href="/dint/pages/abstracting-indexing" class="nav-link">Abstracting and Indexing</a>
+
+                    
+                </li>
+                <li class="site-menu-item site-menu-lvl-1 " id="site-menu-item-10875">
+
+                        <a href="/dint/../journals/pages/release-schedule" class="nav-link">Release Schedule</a>
+
+                    
+                </li>
+                <li class="site-menu-item site-menu-lvl-1 " id="site-menu-item-10876">
+
+                        <a href="/dint/../journals/pages/rights-permissions" class="nav-link">Rights and Permissions</a>
+
+                    
+                </li>
+                <li class="site-menu-item site-menu-lvl-1 " id="site-menu-item-10877">
+
+                        <a href="/dint/../journals/pages/authors" class="nav-link">Author Resources</a>
+
+                    
+                </li>
+                <li class="site-menu-item site-menu-lvl-1 " id="site-menu-item-10878">
+
+                        <a href="/dint/../journals/pages/advertising-info" class="nav-link">Advertising Info</a>
+
+                    
+                </li>
+                <li class="site-menu-item site-menu-lvl-1 " id="site-menu-item-10879">
+
+                        <a href="/dint/../journals/pages/publication-ethics" class="nav-link">Publication Ethics</a>
+
+                    
+                </li>
+        </ul>
+
+                </li>
+                <li class="site-menu-item site-menu-lvl-0 " id="site-menu-item-10870">
+
+                        <a href="javascript:;" class="nav-link js-theme-dropdown-trigger" aria-expanded="false">Submit<i class="nav-arrow icon-general_arrow-down arrow-icon"></i></a>
+
+                            <ul class="site-menu site-menu-lvl-1 js-theme-dropdown">
+                <li class="site-menu-item site-menu-lvl-1 " id="site-menu-item-10880">
+
+                        <a href="/dint/pages/submission-guidelines" class="nav-link">Submission Guidelines</a>
+
+                    
+                </li>
+                <li class="site-menu-item site-menu-lvl-1 " id="site-menu-item-10881">
+
+                        <a href="/dint/../DocumentLibrary/PubAgreements/DINT_pub_agreement.pdf" class="nav-link">Publication Agreement</a>
+
+                    
+                </li>
+                <li class="site-menu-item site-menu-lvl-1 " id="site-menu-item-10882">
+
+                        <a href="/dint/../journals/pages/open-access#diamond" class="nav-link">Open Access</a>
+
+                    
+                </li>
+                <li class="site-menu-item site-menu-lvl-1 " id="site-menu-item-10883">
+
+                        <a href="/dint/../journals/pages/publication-ethics" class="nav-link">Publication Ethics</a>
+
+                    
+                </li>
+        </ul>
+
+                </li>
+        </ul>
+
+            </nav>
+</div><!-- /.navbar -->
+
+        </div><!-- /.center-inner-row -->
+
+    </div><!-- /.journal-header -->
+
+
+<input id="routename" name="RouteName" type="hidden" value="dint" /> 
+    </div>
+
+</section>
+
+    <div id="main" class="content-main js-main ui-base">
+        <section class="master-main row">
+            <div class="content-main_content">
+                <a href="#" id="skipNav" class="screenreader-text" tabindex="-1">Skip Nav Destination</a>
+                
+
+
+
+
+
+<div class="article-browse_content  clearfix">
+<div id="InfoColumn" class="page-column page-column--left">
+    <div class="mobile-content-topbar hide">
+        <button class="toggle-left-col toggle-left-col__article">Article Navigation</button>
+    </div>
+
+    <div class="info-inner-wrap can-stick empty">
+
+        <button class="toggle-left-col__close btn-as-icon icon-general-close">
+            <span class="screenreader-text">Close mobile search navigation</span>
+        </button>
+        <div class="responsive-nav-title">Article navigation</div>
+
+        <div class="info-widget-wrap">
+            
+            
+    <div class="widget-ArticleJumpLinks widget-instance-ArticleJumpLinks_Widget">
+        <div class="content-nav">
+    <ul class="jumplink-list">
+            <li class="section-jump-link head-1 abstract-section-jumplink" link-destination="3665324">
+                <div class="section-jump-link__link-wrap">
+
+                    <a class="jumplink scrollTo" href="#3665324">Abstract</a>
+                </div>
+            </li>
+    </ul>
+</div>
+ 
+    </div>
+
+
+
+        </div>
+    </div>
+</div> 
+        
+    <div class="article-browse_content-wrap">
+        <div id="ContentColumn" class="page-column page-column--center center-content can-stick">
+
+                <div class="widget-ArticleMainView widget-instance-ArticleMainView_Article">
+        
+<div class="article-browse-top article-browse-mobile-nav empty">
+    <div class="article-browse-mobile-nav-inner">
+        <button class="toggle-left-col toggle-left-col__article btn-as-link">
+            Article Navigation
+        </button>
+    </div>
+</div>    <div class="content-inner-wrap">
+        
+
+    <div class="widget-ArticleTopInfo widget-instance-ArticleTopInfo">
+        <div class="module-widget article-top-widget content-metadata_wrap">
+
+
+<div class="article-groups left-flag">
+        <span class="article-date">March 07 2022</span>
+</div>
+
+
+    <div class="widget-items">
+                <h1 class="wi-article-title article-title-main">
+                    SWIRRL. Managing Provenance-aware and Reproducible Workspaces
+<i class='icon-availability_open' title='Open Access' ></i>                </h1>
+
+<div class="wi-authors">
+    <div class="al-authors-list">
+                <div class="al-author-name">
+
+                        <!-- Keep these element on the same line, to prevent browsers from inserting a space between elements -->
+                        <a class="linked-name js-linked-name stats-author-info-trigger" href="javascript:;">Alessandro Spinuso</a><span class="al-author-delim">, </span>
+
+                    <div class="al-author-info-wrap arrow-up stats-author-info-panel">
+<div class="info-card-author authorInfo_ArticleTopInfo">
+    <div class="name-role-wrap">
+        <div class="info-card-name">
+    Alessandro Spinuso
+            <span class="info-card-footnote"><a reveal-id="cor1" data-open="cor1" class="link link-ref link-reveal xref-corresp"></a></span>
+</div>
+
+    </div>
+
+    <div class="info-card-affilitation">
+        <div class="aff">Koninklijk Nederlands Meteorologisch Instituut, De Bilt, Utrecht 3731 GA, The Netherlands</div>
+    </div>
+        <div class="info-card-note">
+            <p>Dr <strong>Alessandro Spinuso</strong> is a researcher at the R&amp;D Observations and Data Technology division of the Royal Netherlands Meteorological Institute (KNMI). He earned his Ph.D. in Computer Science at the University of Edinburgh (UK) in 2017. At KNMI, he covers the roles of Researcher and Product Owner within an Agile R&amp;D team developing Provenance-aware Data Analysis services. His main research interest is the management and the exploitation of provenance information in the context of user controlled computational environments providing notebooks and workflow systems for data-intensive analysis. He is involved in several EU initiatives (H2020, Copernicus), focusing on the development of e-science infrastructures for Earth Science research in Europe (EPOS, ENVRIFair, IS-ENES3, DARE, C3S). More recently, he is an invited expert to the IPCC TG-Data. A working group dedicated to the FAIR management of the data and methods that will be published in the next IPCC reports.</p>
+        </div>
+
+    <div class="info-author-correspondence">
+        Corresponding author: Alessandro Spinuso (Email: <a href="mailto:alessandro.spinuso@knmi.nl" target="_blank">alessandro.spinuso@knmi.nl</a>).
+    </div>
+    <div class="info-card-search-label">
+        Search for other works by this author on:
+    </div>
+
+<div class="info-card-search info-card-search-internal">
+    <a href="/dint/search-results?f_Authors=Alessandro+Spinuso">This Site</a>
+</div>
+
+    <div class="info-card-search info-card-search-google">
+        <a href="http://scholar.google.com/scholar?q=author:&quot;Spinuso A&quot;">Google Scholar</a>
+    </div>
+</div>                    </div>
+                </div>
+                <div class="al-author-name">
+
+                        <!-- Keep these element on the same line, to prevent browsers from inserting a space between elements -->
+                        <a class="linked-name js-linked-name stats-author-info-trigger" href="javascript:;">Mats Veldhuizen</a><span class="al-author-delim">, </span>
+
+                    <div class="al-author-info-wrap arrow-up stats-author-info-panel">
+<div class="info-card-author authorInfo_ArticleTopInfo">
+    <div class="name-role-wrap">
+        <div class="info-card-name">
+    Mats Veldhuizen
+</div>
+
+    </div>
+
+    <div class="info-card-affilitation">
+        <div class="aff">Koninklijk Nederlands Meteorologisch Instituut, De Bilt, Utrecht 3731 GA, The Netherlands</div>
+    </div>
+        <div class="info-card-note">
+            <p><strong>Mats Veldhuisen</strong> is a software developer for the Royal Netherlands Meteorological Institute (KNMI). Here he worked on the development of SWIRRL API, as well as other projects, in which there was always a focus on provenance. Before this he completed a double bachelor in Mathematics and Physics, followed by a Master’s degree in Computing Science at the university of Utrecht.</p>
+        </div>
+
+    <div class="info-card-search-label">
+        Search for other works by this author on:
+    </div>
+
+<div class="info-card-search info-card-search-internal">
+    <a href="/dint/search-results?f_Authors=Mats+Veldhuizen">This Site</a>
+</div>
+
+    <div class="info-card-search info-card-search-google">
+        <a href="http://scholar.google.com/scholar?q=author:&quot;Veldhuizen M&quot;">Google Scholar</a>
+    </div>
+</div>                    </div>
+                </div>
+                <div class="al-author-name">
+
+                        <!-- Keep these element on the same line, to prevent browsers from inserting a space between elements -->
+                        <a class="linked-name js-linked-name stats-author-info-trigger" href="javascript:;">Daniele Bailo</a><span class="al-author-delim">, </span>
+
+                    <div class="al-author-info-wrap arrow-up stats-author-info-panel">
+<div class="info-card-author authorInfo_ArticleTopInfo">
+    <div class="name-role-wrap">
+        <div class="info-card-name">
+    Daniele Bailo
+</div>
+
+    </div>
+
+    <div class="info-card-affilitation">
+        <div class="aff">Istituto Nazionale Geofisica e Vulcanologia, Rome, Lazio 00143, Italy</div>
+    </div>
+        <div class="info-card-note">
+            <p>Dr <strong>Daniele Bailo</strong> received the Graduate degree in Computer Sciences and Engineering and a Ph.D. degree in Material Science. From 2005 to 2011 he has been collaborating with the “Istituto di Struttura della Materia” (ISM)— National Research Council (CNR), Rome, with the main task of designing, setting up and implementing Virtual X-Ray Spectrometry Laboratories for Web experiments, and carrying on research on plastic solar cells. From 2011 he worked at “Istituto Nazionale di Geofisica e Vulcanologia” (INGV) on the European Plate Observing System (EPOS) project as Research Infrastructure manager and designer, and IT developments coordinator. Since 2019 he has been Technical Officer of the EPOS-ERIC Executive and Coordination office, with the role of coordinating technical developments of the EPOS Integrated Core Services platform. His current research interest and topics of expertise include: e-infrastructure management and design; interoperability of systems; metadata standards for interoperability; Virtual Research Environments; turning FAIR into real technical implementation. He is author of several peer-reviewed scientific journal articles. He is also involved in several European projects and initiatives as principal investigator representing EPOS community, and also member of advisory board as ICT expert in system integration and GeoScience system design.</p>
+        </div>
+
+    <div class="info-card-search-label">
+        Search for other works by this author on:
+    </div>
+
+<div class="info-card-search info-card-search-internal">
+    <a href="/dint/search-results?f_Authors=Daniele+Bailo">This Site</a>
+</div>
+
+    <div class="info-card-search info-card-search-google">
+        <a href="http://scholar.google.com/scholar?q=author:&quot;Bailo D&quot;">Google Scholar</a>
+    </div>
+</div>                    </div>
+                </div>
+                <div class="al-author-name">
+
+                        <!-- Keep these element on the same line, to prevent browsers from inserting a space between elements -->
+                        <a class="linked-name js-linked-name stats-author-info-trigger" href="javascript:;">Valerio Vinciarelli</a><span class="al-author-delim">, </span>
+
+                    <div class="al-author-info-wrap arrow-up stats-author-info-panel">
+<div class="info-card-author authorInfo_ArticleTopInfo">
+    <div class="name-role-wrap">
+        <div class="info-card-name">
+    Valerio Vinciarelli
+</div>
+
+    </div>
+
+    <div class="info-card-affilitation">
+        <div class="aff">Istituto Nazionale Geofisica e Vulcanologia, Rome, Lazio 00143, Italy</div>
+    </div>
+        <div class="info-card-note">
+            <p><strong>Valerio Vinciarelli</strong> is a software engineer for the EPOS ERIC Information Technology Unit. Since 2016, he has been involved in the design and realization of the technical architecture of the European Plate Observing Systems (EPOS—www.epos-eu.org). He received a bachelor’s degree in Computer Science from the university of Rome, La Sapienza. He has five years of experience working in e-infrastructure management and design, interoperability of heterogeneous systems, Virtual Research Environments, and service-oriented architectures. He has been actively working in international initiatives and collaborations contributing to several EU projects.</p>
+        </div>
+
+    <div class="info-card-search-label">
+        Search for other works by this author on:
+    </div>
+
+<div class="info-card-search info-card-search-internal">
+    <a href="/dint/search-results?f_Authors=Valerio+Vinciarelli">This Site</a>
+</div>
+
+    <div class="info-card-search info-card-search-google">
+        <a href="http://scholar.google.com/scholar?q=author:&quot;Vinciarelli V&quot;">Google Scholar</a>
+    </div>
+</div>                    </div>
+                </div>
+                <div class="al-author-name">
+
+                        <a class="linked-name js-linked-name stats-author-info-trigger" href="javascript:;">Tor Langeland</a>
+                    <div class="al-author-info-wrap arrow-up stats-author-info-panel">
+<div class="info-card-author authorInfo_ArticleTopInfo">
+    <div class="name-role-wrap">
+        <div class="info-card-name">
+    Tor Langeland
+</div>
+
+    </div>
+
+    <div class="info-card-affilitation">
+        <div class="aff">NORCE Norwegian Research Centre AS, Bergen, Hordaland NO-5838, Norway</div>
+    </div>
+        <div class="info-card-note">
+            <p><strong>Tor Langeland</strong> is a senior scientist affiliated with NORCE, a Norwegian research company. His main interests are within visualization and big data. Previous work includes development of systems for visualization of gas explosion data, illustrative visualizations of geological data and development of VR systems supporting cross disciplinary work processes in the oil &amp; gas industry. Later projects have been focusing on development of Web based data portals for interactive visual analysis, e.g., in the context of the EPOS project.</p>
+        </div>
+
+    <div class="info-card-search-label">
+        Search for other works by this author on:
+    </div>
+
+<div class="info-card-search info-card-search-internal">
+    <a href="/dint/search-results?f_Authors=Tor+Langeland">This Site</a>
+</div>
+
+    <div class="info-card-search info-card-search-google">
+        <a href="http://scholar.google.com/scholar?q=author:&quot;Langeland T&quot;">Google Scholar</a>
+    </div>
+</div>                    </div>
+                </div>
+    </div>
+</div>
+
+
+
+
+<div class="wi-crossmark-button">
+    <script src="https://crossmark-cdn.crossref.org/widget/v2.0/widget.js"></script>
+    <a href="javascript:;" class="stats-crossmark-updates" data-target="crossmark">
+        <img src="https://crossmark-cdn.crossref.org/widget/v2.0/logos/CROSSMARK_Color_horizontal.svg" width="150" alt="Crossmark: Check for Updates" />
+    </a>
+</div>
+
+    <div class="js-author-expand-collapse-metadata-wrap author-expand-collapse-metadata-wrap stats-article-metadata-trigger-wrap">
+        <a href="javascript:;" class="js-expand-collapse-metadata author-expand-collapse-metadata stats-article-metadata-trigger">
+            <i class="js-metadata-toggle-icon icon-general-add"></i>Author and Article Information
+        </a>
+    </div>
+    <div class="js-metadata-wrap metadata">
+<div id="authorInfoFullList" class="author-info-full-list">
+   <div class="author-info-wrap">
+
+            <div class="author-full-name">
+                Alessandro Spinuso
+                                                        <span class="author-notes">
+                            <p>Dr <strong>Alessandro Spinuso</strong> is a researcher at the R&amp;D Observations and Data Technology division of the Royal Netherlands Meteorological Institute (KNMI). He earned his Ph.D. in Computer Science at the University of Edinburgh (UK) in 2017. At KNMI, he covers the roles of Researcher and Product Owner within an Agile R&amp;D team developing Provenance-aware Data Analysis services. His main research interest is the management and the exploitation of provenance information in the context of user controlled computational environments providing notebooks and workflow systems for data-intensive analysis. He is involved in several EU initiatives (H2020, Copernicus), focusing on the development of e-science infrastructures for Earth Science research in Europe (EPOS, ENVRIFair, IS-ENES3, DARE, C3S). More recently, he is an invited expert to the IPCC TG-Data. A working group dedicated to the FAIR management of the data and methods that will be published in the next IPCC reports.</p>
+                        </span>
+                                        <span class="info-card-footnote"><a reveal-id="cor1" data-open="cor1" class="link link-ref link-reveal xref-corresp"></a></span>
+            </div>
+
+                <div class="author-affiliation">
+                    <div class="aff">Koninklijk Nederlands Meteorologisch Instituut, De Bilt, Utrecht 3731 GA, The Netherlands</div>
+                </div>
+        </div>
+   <div class="author-info-wrap">
+
+            <div class="author-full-name">
+                Mats Veldhuizen
+                                                        <span class="author-notes">
+                            <p><strong>Mats Veldhuisen</strong> is a software developer for the Royal Netherlands Meteorological Institute (KNMI). Here he worked on the development of SWIRRL API, as well as other projects, in which there was always a focus on provenance. Before this he completed a double bachelor in Mathematics and Physics, followed by a Master’s degree in Computing Science at the university of Utrecht.</p>
+                        </span>
+                            </div>
+
+                <div class="author-affiliation">
+                    <div class="aff">Koninklijk Nederlands Meteorologisch Instituut, De Bilt, Utrecht 3731 GA, The Netherlands</div>
+                </div>
+        </div>
+   <div class="author-info-wrap">
+
+            <div class="author-full-name">
+                Daniele Bailo
+                                                        <span class="author-notes">
+                            <p>Dr <strong>Daniele Bailo</strong> received the Graduate degree in Computer Sciences and Engineering and a Ph.D. degree in Material Science. From 2005 to 2011 he has been collaborating with the “Istituto di Struttura della Materia” (ISM)— National Research Council (CNR), Rome, with the main task of designing, setting up and implementing Virtual X-Ray Spectrometry Laboratories for Web experiments, and carrying on research on plastic solar cells. From 2011 he worked at “Istituto Nazionale di Geofisica e Vulcanologia” (INGV) on the European Plate Observing System (EPOS) project as Research Infrastructure manager and designer, and IT developments coordinator. Since 2019 he has been Technical Officer of the EPOS-ERIC Executive and Coordination office, with the role of coordinating technical developments of the EPOS Integrated Core Services platform. His current research interest and topics of expertise include: e-infrastructure management and design; interoperability of systems; metadata standards for interoperability; Virtual Research Environments; turning FAIR into real technical implementation. He is author of several peer-reviewed scientific journal articles. He is also involved in several European projects and initiatives as principal investigator representing EPOS community, and also member of advisory board as ICT expert in system integration and GeoScience system design.</p>
+                        </span>
+                            </div>
+
+                <div class="author-affiliation">
+                    <div class="aff">Istituto Nazionale Geofisica e Vulcanologia, Rome, Lazio 00143, Italy</div>
+                </div>
+        </div>
+   <div class="author-info-wrap">
+
+            <div class="author-full-name">
+                Valerio Vinciarelli
+                                                        <span class="author-notes">
+                            <p><strong>Valerio Vinciarelli</strong> is a software engineer for the EPOS ERIC Information Technology Unit. Since 2016, he has been involved in the design and realization of the technical architecture of the European Plate Observing Systems (EPOS—www.epos-eu.org). He received a bachelor’s degree in Computer Science from the university of Rome, La Sapienza. He has five years of experience working in e-infrastructure management and design, interoperability of heterogeneous systems, Virtual Research Environments, and service-oriented architectures. He has been actively working in international initiatives and collaborations contributing to several EU projects.</p>
+                        </span>
+                            </div>
+
+                <div class="author-affiliation">
+                    <div class="aff">Istituto Nazionale Geofisica e Vulcanologia, Rome, Lazio 00143, Italy</div>
+                </div>
+        </div>
+   <div class="author-info-wrap">
+
+            <div class="author-full-name">
+                Tor Langeland
+                                                        <span class="author-notes">
+                            <p><strong>Tor Langeland</strong> is a senior scientist affiliated with NORCE, a Norwegian research company. His main interests are within visualization and big data. Previous work includes development of systems for visualization of gas explosion data, illustrative visualizations of geological data and development of VR systems supporting cross disciplinary work processes in the oil &amp; gas industry. Later projects have been focusing on development of Web based data portals for interactive visual analysis, e.g., in the context of the EPOS project.</p>
+                        </span>
+                            </div>
+
+                <div class="author-affiliation">
+                    <div class="aff">NORCE Norwegian Research Centre AS, Bergen, Hordaland NO-5838, Norway</div>
+                </div>
+        </div>
+
+</div>
+                <div class="wi-footnotes">
+                        <div>
+                            <div class="article-footnote">
+                                Corresponding author: Alessandro Spinuso (Email: <a href="mailto:alessandro.spinuso@knmi.nl" target="_blank">alessandro.spinuso@knmi.nl</a>).
+                            </div>
+                        </div>
+                </div>
+                <div class="metadata-pubhistory">
+                        <div class="pubhistory-entry">
+                            <span class="pubhistory-state">Received:</span>
+                            <span class="pubhistory-date">July 30 2021</span>
+                        </div>
+                        <div class="pubhistory-entry">
+                            <span class="pubhistory-state">Accepted:</span>
+                            <span class="pubhistory-date">February 05 2022</span>
+                        </div>
+
+                </div>
+                <div class="metadata-copyright">
+                    <div class="copyright copyright-statement">© 2022 Chinese Academy of Sciences. Published under a Creative Commons Attribution 4.0 International (CC BY 4.0) license.</div><div class="copyright copyright-year">2022</div><div class="copyright copyright-holder">Chinese Academy of Sciences</div><div class="license"><div class="license-p">This is an open-access article distributed under the terms of the <a class="link link-uri" href="http://creativecommons.org/licenses/by/4.0/" target="_blank">Creative Commons Attribution 4.0 International License</a>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. For a full description of the license, please visit <a class="link link-uri" href="https://creativecommons.org/licenses/by/4.0/legalcode" target="_blank">https://creativecommons.org/licenses/by/4.0/legalcode</a>.</div></div>
+                </div>
+
+    </div>
+
+
+<div class="pub-history-wrap clearfix">
+
+        <div class="pub-history-row clearfix">
+            <div class="ww-citation-primary"><em>Data Intelligence</em> 1–16.</div>
+        </div>
+        <div class="pub-history-row citation-wrap-row clearfix">
+                <div class="ww-citation-wrap-doi">
+                    <div class="citation-doi">
+                        <a href="https://doi.org/10.1162/dint_a_00129">https://doi.org/10.1162/dint_a_00129</a>
+                    </div>
+                </div>
+                            <div class="ww-citation-history-wrap js-history-dropdown-wrap">
+                    <a href="javascript:;" class="history-label js-history-dropdown-trigger">
+                        <span>Article history</span><i class="icon-history-small"></i>
+                    </a>
+
+                    <div class="ww-history js-history-entries-wrap">
+                            <div class="history-entry">
+                                <div class="wi-state">Received:</div>
+                                <div class="wi-date">July 30 2021</div>
+                            </div>
+                            <div class="history-entry">
+                                <div class="wi-state">Accepted:</div>
+                                <div class="wi-date">February 05 2022</div>
+                            </div>
+                    </div>
+                </div>
+        </div>
+
+</div>
+
+
+
+    </div>
+</div>
+
+<script>
+    $(document).ready(function () {
+        $('.article-top-widget').on('click', '.ati-toggle-trigger', function () {
+            $(this).find('.icon-general-add, .icon-minus').toggleClass('icon-minus icon-general-add');
+            $(this).siblings('.ati-toggle-content').toggleClass('hide');
+        });
+
+        // In Chrome, an anchor tag with target="_blank" and a "mailto:" href opens a new tab/window as well as the email client
+        // I suspect this behavior will be corrected in the future
+        // Remove the target="_blank"
+        $('ul.wi-affiliationList').find('a[href^="mailto:"]').each(function () {
+            $(this).removeAttr('target');
+        });
+    });
+</script>
+
+ 
+    </div>
+    <div class="widget-ArticleLinks widget-instance-ArticleLinks">
+         
+    </div>
+<div class="toolbar-wrap vt-toolbar-wrap" role="navigation">
+    <div class="toolbar-inner-wrap">
+<ul id="Toolbar" class="debug">
+
+    <li class="toolbar-item item-cite js-item-cite">
+<div class="getCitationDiv at-CiteButton">
+    <a href="javascript:;" class="stats-get-citation" data-modal-source-id="toolbox-get-citation">
+        <i class="icon-cite">
+            <span class="screenreader-text">Cite Icon</span>
+        </i>
+        <span>Cite</span>
+    </a>
+</div>
+    </li>
+
+    <li class="toolbar-item item-with-dropdown item-pdf">
+    <a class="al-link pdf openInAnotherWindow  article-pdfLink"
+       data-resourceId="109846" data-resourceTypeId="Article" data-article-Id="109846"
+       href="/dint/article-pdf/doi/10.1162/dint_a_00129/1996745/dint_a_00129.pdf" target="_blank">
+        <i class="icon-menu_pdf-small">
+        </i><span>PDF</span>
+    </a>
+
+
+
+    </li>
+
+<li class="toolbar-item item-tools">
+    <div class="widget-ToolboxPermissions widget-instance-ToolboxPermissions">
+            <div class="module-widget">
+          <a id="PermissionsLink" href="/journals/pages/rights-permissions" class="" onclick="window.open(this.href); return false;">Permissions</a>
+    </div>
+ 
+    </div>
+
+</li>
+    <li class="toolbar-item item-with-dropdown item-share">
+        <a href="javascript:;" class="drop-trigger js-toolbar-dropdown at-ShareButton" data-dropdown="ShareDrop">
+            <i class="icon-menu_share"><span class="screenreader-text">Share Icon</span></i>
+            <span class="toolbar-label">
+                <span class="toolbar-text">Share</span>
+                <i class="arrow-icon icon-general_arrow-down js-toolbar-arrow-icon"></i>
+            </span>
+        </a>
+        <ul id="ShareDrop" class="addthis_toolbox addthis_default_style addthis_20x20_style f-dropdown" data-dropdown-content>
+                <li><a class="addthis_button_twitter"><span>Twitter</span></a></li>
+                <li><a class="addthis_button_linkedin"><span>LinkedIn</span></a></li>
+                    </ul>
+    </li>
+<li class="toolbar-item item-with-dropdown item-views js-item-views">
+  <a href="javascript:;" class="js-toolbar-dropdown" data-dropdown="FilterDrop">
+    <i class="icon-menu_views"><span class="screenreader-text">Views Icon</span></i>
+    <span class="toolbar-label">
+      <span class="toolbar-text">Views</span>
+      <i class="icon-general_arrow-down arrow-icon js-toolbar-arrow-icon"></i>
+    </span>
+  </a>
+  <ul id="ViewsDrop" class="f-dropdown" data-dropdown-content>
+      <li class="article-content-filter js-content-filter" data-content-filter="article-content"><a href="javascript:;"><span>Article contents</span></a></li>
+      <li class="article-content-filter js-content-filter" data-content-filter="figures-tables"><a href="javascript:;"><span>Figures &amp; tables</span></a></li>
+      <li class="article-content-filter js-content-filter" data-content-filter="video"><a href="javascript:;"><span>Video</span></a></li>
+      <li class="article-content-filter js-content-filter" data-content-filter="audio"><a href="javascript:;"><span>Audio</span></a></li>
+      <li class="article-content-filter js-content-filter" data-content-filter="supplementary-data"><a href="javascript:;"><span>Supplementary Data</span></a></li>
+      <li class="article-content-filter js-content-filter" data-content-filter="peer-review"><a href="javascript:;"><span>Peer Review</span></a></li>
+  </ul>
+</li>
+
+<li class="search-dropdown-trigger_wrap toolbar-item">
+    <a href="javascript:;" data-theme-dropdown-trigger="toolbar-search-dropdown" aria-controls="toolbar-search-dropdown" aria-expanded="false">
+        <i class="icon-menu_search"></i>
+        <span class="site-search-text">Search Site</span>
+    </a>
+</li>
+
+</ul>
+
+<div id="getCitation" data-content-id="toolbox-get-citation" class="modal-only-content vt-citation-modal">
+  <div class="modal-title">Citation</div>
+  <p>Alessandro Spinuso, Mats Veldhuizen, Daniele Bailo, Valerio Vinciarelli, Tor Langeland; SWIRRL. Managing Provenance-aware and Reproducible Workspaces. <em><em>Data Intelligence</em></em> 2022; doi: <a href="https://doi.org/10.1162/dint_a_00129">https://doi.org/10.1162/dint_a_00129</a></p>
+  <p class="citation-label">Download citation file:</p>
+  <ul>
+      <li><a href="/Citation/Download?resourceId=109846&amp;resourceType=3&amp;citationFormat=0">Ris (Zotero)</a></li>
+          <li><a href="/Citation/Download?resourceId=109846&amp;resourceType=3&amp;citationFormat=0">Reference Manager</a></li>
+          <li><a href="/Citation/Download?resourceId=109846&amp;resourceType=3&amp;citationFormat=0">EasyBib</a></li>
+          <li><a href="/Citation/Download?resourceId=109846&amp;resourceType=3&amp;citationFormat=0">Bookends</a></li>
+
+      <li><a href="/Citation/Download?resourceId=109846&amp;resourceType=3&amp;citationFormat=0">Mendeley</a></li>
+
+      <li><a href="/Citation/Download?resourceId=109846&amp;resourceType=3&amp;citationFormat=0">Papers</a></li>
+
+      <li><a href="/Citation/Download?resourceId=109846&amp;resourceType=3&amp;citationFormat=1">EndNote</a></li>
+          <li><a href="/Citation/Download?resourceId=109846&amp;resourceType=3&amp;citationFormat=3">RefWorks</a></li>
+          <li><a href="/Citation/Download?resourceId=109846&amp;resourceType=3&amp;citationFormat=2">BibTex</a></li>
+          </ul>
+</div>
+
+
+        <div class="toolbar-search" id="toolbar-search-dropdown" data-theme-dropdown="toolbar-search-dropdown">
+            <fieldset>
+                <legend class="screenreader-text">toolbar search</legend>
+
+    <div class="widget-SitePageHeader widget-instance-SiteSearch_ArticleMainView">
+                <div class="mobile-menu-trigger_wrap mobile-search_wrap">
+            <a href="javascript:;"
+               class="mobile-search_toggle at-search-toggle"
+               aria-controls="search-dropdown"
+               aria-expanded="false"
+               data-theme-dropdown-trigger="search-dropdown"><i class="icon-menu_search"><span class="screenreader-text">Search Dropdown Menu</span></i></a>
+        </div>
+    <div class="navbar-search-container mobile-dropdown search-dropdown" id="search-dropdown" data-theme-dropdown="search-dropdown">
+        <div class="navbar-search">
+            <div class="microsite-search js-MicrositeSearch">
+                <div class="navbar-search-input_wrap">
+                    <fieldset>
+                        <legend><span class="screenreader-text">nav  search</span></legend>
+                        <label for="MicrositeSearchTerm"><span class="screenreader-text">search input</span></label>
+                        
+                        <input class="navbar-search-input microsite-search-term at-microsite-search-term search-term-autosuggest" 
+                               data-autosuggest-hint="micrositeSearchTermInputHint-SiteSearch_ArticleMainView"
+                               data-autosuggest-results="micrositeAutoCompleteResults-SiteSearch_ArticleMainView"
+                               data-autosuggest-id="MicrositeSearchTerm-SiteSearch_ArticleMainView"
+                               data-searchfilter="search-filter-SiteSearch_ArticleMainView" 
+                               placeholder="Search..." type="text" maxlength="255" id="MicrositeSearchTerm" title="search input">
+                        
+                        <input type="hidden" name="hfSolrAutoSuggestMinimumCharactersLength" id="hfSolrAutoSuggestMinimumCharactersLength" value="2" />
+                        <input type="hidden" name="hfSolrJournalName" id="hfSolrJournalName" value="" />
+                        <input type="hidden" name="hfSolrJournalID" id="hfSolrJournalID" value="" />
+                        <label for="micrositeSearchTermInputHint">
+                            <span class="screenreader-text">Search input auto suggest</span>
+                        </label>
+                        <input type="text" id="micrositeSearchTermInputHint" data-autosuggest-id="micrositeSearchTermInputHint-SiteSearch_ArticleMainView" class="microsite-search-term-input-hint" autocomplete="off" />
+                        <ul id="micrositeAutoCompleteResults" data-autosuggest-id="micrositeAutoCompleteResults-SiteSearch_ArticleMainView" class="term-list hidden"></ul>
+                    </fieldset>
+                </div>
+                    <div class="navbar-search-filter_wrap">
+                        <label for="navbar-search-filter-site">
+                            <span class="screenreader-text">search filter</span>
+                        </label>
+                        <select class="navbar-search-filter navbar-search-filter-site at-navbar-search-filter" id="navbar-search-filter-site" data-autosuggest-id="search-filter-SiteSearch_ArticleMainView">
+<option class="header-search-bar-filters-item" value="/search-results?page=1&q={searchQuery}" data-siteid="0" >All Content</option><option class="header-search-bar-filters-item" value="/journals/search-results?page=1&q={searchQuery}&fl_SiteID=1000001&allJournals=1" data-siteid="1000001" >All Journals</option><option class="header-search-bar-filters-item selected" value="/dint/search-results?page=1&q={searchQuery}&fl_SiteID=1000035" data-siteid="1000035" selected>Data Intelligence</option>                        </select>
+                    </div>
+                <div class="navbar-search-submit_wrap">
+                    <a href="javascript:;"
+                       id="MicrositeSearchIcon"
+                       class="microsite-search-icon navbar-search-submit icon-menu_search"><span class="screenreader-text">Search</span></a>
+                </div>
+            </div><!-- /#MicrositeSearch -->
+        </div><!-- /.navbar-search -->
+<div class="navbar-search-advanced">
+    <a href="/advanced-search" class="advanced-search">Advanced Search</a>
+</div>    </div><!-- /.navbar-search-container -->
+
+    <input type="hidden" name="parentSiteName" id="hfParentSiteName" value="Journals Gateway" />
+    <input type="hidden" id="hfSolrMaxAllowSearchChar" value="100" />
+    <input type="hidden" id="hfJournalShortName" value="" />
+    <input type="hidden" id="hfSearchPlaceholder" value="" />
+    <input type="hidden" name="hfGlobalSearchSiteURL" id="hfGlobalSearchSiteURL" value="" />
+    <input type="hidden" name="hfSearchSiteURL" id="hfSiteURL" value="direct.mit.edu/dint" />
+    <input type="hidden" id="hfQuickSearchUrl" value="/dint/search-results?page=1&amp;q={searchQuery}&amp;fl_SiteID=1000035" />
+    <script type="text/javascript">
+        (function () {
+            var hfSiteUrl = document.getElementById('hfSiteURL');
+            var siteUrl = hfSiteUrl.value;
+            var subdomainIndex = siteUrl.indexOf('/');
+
+            hfSiteUrl.value = location.host + (subdomainIndex >= 0 ? siteUrl.substring(subdomainIndex) : '');
+        })();
+    </script>
+ 
+    </div>
+
+            </fieldset>
+        </div>
+    </div><!-- /.toolbar-inner-wrap -->
+</div><!-- /.toolbar-wrap -->
+
+<div class="article-body">
+    <div id="articleMainView-articleId" class="js-articleMainView-articleId" data-articleid="109846" style="display: none;"></div>
+    <div id="ContentTab" class="content active">
+    <div class="widget-ArticleFulltext widget-instance-ArticleFulltext">
+        <input type="hidden" name="js-hfArticleLinksReferencesDoiRegex" id="js-hfArticleLinksReferencesDoiRegex" value="" />
+<div class="module-widget">
+    <div class="widget-items" data-widgetname="ArticleFulltext">
+
+            <div class="article-metadata-standalone-panel clearfix"></div>
+
+
+
+
+            <h2 scrollto-destination="3665324"  id="3665324" class="abstract-title jumplink-heading">Abstract</h2>
+            <div >
+                <div id="3665324" class="article-section-wrapper js-article-section js-content-section  ">
+                    
+                    <section class="abstract"><p>Modern interactive tools for data analysis and visualisation are designed to expose their functionalities as a service through the Web. We present in this paper a Web API (SWIRRL) that allows Virtual Research Environments (VREs) to easily integrate such tools in their websites and re-purpose them to their users. The API deals, on behalf of the clients, with the underlying complexity of allocating and managing resources within a target cloud platform. By combining storage and containerised services, offering analysis notebooks and other visualisation software, the API creates dedicated working sessions on-demand, which can be accessed collaboratively. Thanks to the API’s support for workflow execution, SWIRRL workspaces can be automatically populated with data of interest collected from external data providers. The system keeps track of updates and changes affecting the data and the tools by adopting versioning and standard provenance technologies. Users are provided with interactive controls enabling traceability and recovery actions, including the possibility of creating executable snapshots of their environments. SWIRRL is built in cooperation with two research infrastructures in the field of solid earth science and climate data modeling. We report on the particular adoptions and use cases.</p></section>
+                </div>
+                    <div class="article-metadata-panel clearfix rs_skip">
+    <div class="widget-SolrResourceMetadata widget-instance-ContentMetadata_ArticleFulltext_Article">
+        
+
+
+ 
+    </div>
+
+                    </div>
+                <div id="3665325" class="article-section-wrapper js-article-section js-content-section  ">
+                    
+                    <div class="kwd-group"><a class="kwd-part kwd-main" href="javascript:;" data-keyword="Productivity">Productivity</a>, <a class="kwd-part kwd-main" href="javascript:;" data-keyword="Data-analysis">Data-analysis</a>, <a class="kwd-part kwd-main" href="javascript:;" data-keyword="Reproducibility">Reproducibility</a>, <a class="kwd-part kwd-main" href="javascript:;" data-keyword="Provenance">Provenance</a>, <a class="kwd-part kwd-main" href="javascript:;" data-keyword="Cloud-computing">Cloud-computing</a></div>
+                </div>
+        <!-- /foreach -->
+        </div> 
+        
+                <div class="pdf-notice">
+                    This content is only available as a PDF.
+                    <div class="PdfOnlyLink"></div>
+                </div>
+
+
+
+
+        
+
+
+        <div class="permissionstatement-section-wrapper">
+            
+            <div class="copyright copyright-statement">© 2022 Chinese Academy of Sciences. Published under a Creative Commons Attribution 4.0 International (CC BY 4.0) license.</div><div class="copyright copyright-year">2022</div><div class="copyright copyright-holder">Chinese Academy of Sciences</div><div class="license"><div class="license-p">This is an open-access article distributed under the terms of the <a class="link link-uri" href="http://creativecommons.org/licenses/by/4.0/" target="_blank">Creative Commons Attribution 4.0 International License</a>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. For a full description of the license, please visit <a class="link link-uri" href="https://creativecommons.org/licenses/by/4.0/legalcode" target="_blank">https://creativecommons.org/licenses/by/4.0/legalcode</a>.</div></div>
+        </div>
+<!-- /foreach -->
+
+
+        <span id="UserHasAccess" data-userHasAccess="True"></span>
+
+    </div><!-- /.widget-items -->
+    </div><!-- /.module-widget -->
+ 
+    </div>
+
+        <div id="ContentTabFilteredView"></div>
+        <div class="downloadImagesppt">
+            <a id="lnkDownloadAllImages" href="//mitp.silverchair-cdn.com/DownloadFile/DownloadImage.aspx?image=&amp;PPTtype=SlideSet&amp;ar=109846&amp;xsltPath=~/UI/app/XSLT&amp;siteId=1000035"></a>
+        </div>
+
+    </div>
+</div>
+
+
+    </div>
+
+ 
+    </div>
+<div class="comments js-userComments">
+    <div class="widget-UserCommentBody widget-instance-UserCommentBody">
+         
+    </div>
+    <div class="widget-UserComment widget-instance-UserComment">
+         
+    </div>
+
+</div>
+
+            <div>    <a id="FullTextLink"></a></div>
+
+
+        </div> 
+
+        <div id="Sidebar" class="page-column page-column--right">
+
+    <div class="widget-AdBlock widget-instance-ArticlePageTopSidebar">
+            
+
+ 
+    </div>
+
+
+            <div class="sidebar-widget_wrap">
+    <div class="widget-DynamicWidgetLayout widget-instance-Article_RightRail">
+        <div class="widget widget-dynamic " data-count="1">
+    
+
+    <div class="widget-dynamic-inner-wrap">
+
+    <div class="widget-DynamicWidgetLayout widget-instance-Article_RightRailB0">
+        <div class="widget widget-dynamic right-rail" data-count="7">
+    
+
+    <div class="widget-dynamic-inner-wrap">
+
+    <div class="widget-DynamicWidgetLayout widget-instance-Article_RightRailB0B0">
+        <div class="widget widget-dynamic article-alerts alerts" data-count="1">
+    
+
+    <div class="widget-dynamic-inner-wrap">
+
+    <div class="widget-Alerts widget-instance-Article_RightRailB0B0article-alerts">
+            <div id="alerts" class="widget widget-alerts rail-widget_wrap vt-widget-alerts">
+        <h3 class="alerts-widget-header">Email alerts</h3>
+        <div class="widget-links_wrap">
+                    <div class="userAlert alertType-1">
+                        <a class="js-open-alert-modal" href="javascript:;" data-userLoggedIn="False" data-alertType="1">Article Activity Alert</a>
+                    </div>
+                    <div class="userAlert alertType-23">
+                        <a class="js-open-alert-modal" href="javascript:;" data-userLoggedIn="False" data-alertType="23">Closed Issue Alert</a>
+                    </div>
+                    <div class="userAlert alertType-30">
+                        <a class="js-open-alert-modal" href="javascript:;" data-userLoggedIn="False" data-alertType="30">Continuous Publishing Added Articles Alert</a>
+                    </div>
+                        <div class="userAlertSignUpModal reveal-modal small" data-reveal>
+                <div class="userAlertSignUp"></div>
+                <a class="close-reveal-modal js-close-modal"><i class="icon-general-close"><span class="screenreader-text">Close Modal</span></i></a>
+            </div>
+        </div>
+    </div>
+ 
+    </div>
+
+    </div>
+
+</div> 
+    </div>
+    <div class="widget-DynamicWidgetLayout widget-instance-Article_RightRailB0B1">
+        <div class="widget widget-dynamic article-article-level-metrics article-level-metrics" data-count="1">
+    
+
+    <div class="widget-dynamic-inner-wrap">
+
+    <div class="widget-ArticleLevelMetrics widget-instance-Article_RightRailB0B1article-article-level-metrics">
+        
+
+
+
+        <div class="artmet-wrapper horizontal-artmet">
+
+            <div class="artmet-condensed-wrap clearfix">
+
+                <div class="artmet-condensed-stats clearfix">
+                        <div class="artmet-item artmet-views">
+                            <span class="artmet-number">29</span>
+                            <span class="artmet-text">Views</span>
+                        </div>
+                    
+                        <div class="artmet-item artmet-citations">
+                            <span class="artmet-number">
+0                            </span>
+                            <span class="artmet-text">Citations</span>
+                        </div>
+                        
+                    <div class="artmet-item artmet-badges-wrap">
+                            <div class="artmet-item artmet-altmetric">
+    <div class="widget-AltmetricLink widget-instance-ArticleLevelMetrics_AltmetricLinkSummary">
+            <!-- Altmetrics -->
+    <div id="altmetricEmbedId"
+         runat="server"
+         class='altmetric-embed'
+         data-badge-type="donut"
+         data-hide-no-mentions="true"
+         data-doi="10.1162/dint_a_00129"
+
+                    
+                data-link-target="_blank"
+            
+
+
+        ></div>
+         <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+ 
+    </div>
+
+                            </div>
+
+                            <div class="artmet-item artmet-dimensions">
+    <div class="widget-DimensionsBadge widget-instance-ArticleLevelMetrics_DimensionsBadge">
+        <span class="__dimensions_badge_embed__" 
+      data-doi="10.1162/dint_a_00129" 
+      data-legend="false" 
+      data-style="small_circle" 
+      data-hide-zero-citations="true"></span>
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+ 
+    </div>
+
+                            </div>
+
+                        </div>
+                    </div>
+
+                    <div class="artmet-modal-trigger-wrap clearfix">
+                        <a class="artmet-modal-trigger js-artmet-modal-trigger at-alm-metrics-modal-trigger" data-article-id="109846"><i class="icon-metrics"></i><span>View Metrics</span></a>
+                    </div>
+            </div>
+                <div class="artmet-modal js-artmet-modal" id="MetricsModal">
+                    <div class="artmet-modal-contents js-metric-modal-contents at-alm-modal-contents">
+                        <a class="artmet-close-modal js-artmet-close-modal">&#215;</a>
+                    </div>
+                </div>
+        </div>
+ 
+    </div>
+
+    </div>
+
+</div> 
+    </div>
+    <div class="widget-DynamicWidgetLayout widget-instance-Article_RightRailB0B2">
+        <div class="widget widget-dynamic home-adblock" data-count="1">
+    
+
+    <div class="widget-dynamic-inner-wrap">
+
+    <div class="widget-AdBlock widget-instance-Article_RightRailB0B2Article_RightRail_Pillow_Ad_Bottom">
+            
+
+    <input type="hidden"
+           class="hfAdBlockInfo"
+           data-divid="placement_451253_adBlockNone"
+           data-slotname="451253"
+           data-targetname="179758"
+           data-sizes="[[300, 350]]"
+           data-enabled-on-mobile="True"
+           data-adprovider-typeid="2"
+           data-accountid=""
+           data-outofpagead="False"
+           data-sticky-time="5"/>
+    <div class="adblock-wrap js-adblock-wrap " style="width:300px;">
+                <p class="adblock-advertisement-text js-adblock-advertisement-text hide">Advertisement</p>
+
+            <div id="placement_451253_adBlockNone" adslot="451253" class="adblock-slot-placeholder js-adblock" style="width:300px; height:350px;"></div>
+
+    </div>
+ 
+    </div>
+
+    </div>
+
+</div> 
+    </div>
+    <div class="widget-DynamicWidgetLayout widget-instance-Article_RightRailB0B3">
+        <div class="widget widget-dynamic articlelistnewandpopular article-list-new-popular" data-count="1">
+    
+
+    <div class="widget-dynamic-inner-wrap">
+
+    <div class="widget-ArticleListNewAndPopular widget-instance-Article_RightRailB0B3Article_ArticleNewPopularCombined">
+            <div class="vt-new-and-popular-combined new-and-popular-combined">
+        <ul class="articleListNewAndPopularCombinedView">
+                <li>
+                    <a href="javascript:;" class="js-new-and-popular-mode active" data-mode="MostRecent" data-instanceName="Article_RightRailB0B3Article_ArticleNewPopularCombined">Latest</a>
+                </li>
+                <li>
+                    <a href="javascript:;" class="js-new-and-popular-mode " data-mode="MostRead" data-instanceName="Article_RightRailB0B3Article_ArticleNewPopularCombined">Most Read</a>
+                </li>
+                <li>
+                    <a href="javascript:;" class="js-new-and-popular-mode " data-mode="MostCited" data-instanceName="Article_RightRailB0B3Article_ArticleNewPopularCombined">Most Cited</a>
+                </li>
+        </ul>
+            <section class="js-new-and-popular-content js-new-and-popular-content-MostRecent hasContent">
+
+
+
+
+    <div id="newPopularList-Article_RightRailB0B3Article_ArticleNewPopularCombined" class="fb new-and-popular vt-new-and-popular-Article_RightRailB0B3Article_ArticleNewPopularCombined">
+
+
+        <div class="widget-dynamic-entry-wrap">
+<div class="widget-dynamic-entry">
+    <div class="fb-item-title">
+                <a href="/dint/article/doi/10.1162/dint_a_00148/109910/Analysis-of-Pioneering-Computable-Biomedical">Analysis of Pioneering Computable Biomedical Knowledge Repositories and their Emerging Governance Structures</a>
+
+
+    </div>
+</div>
+<div class="widget-dynamic-entry">
+    <div class="fb-item-title">
+                <a href="/dint/article/doi/10.1162/dint_a_00126/109848/Pilot-Study-on-the-Intercalibration-of-a">Pilot Study on the Intercalibration of a Categorisation System for FAIRer Digital Objects Related to Sensitive Data in the Life Sciences</a>
+
+
+    </div>
+</div>
+<div class="widget-dynamic-entry">
+    <div class="fb-item-title">
+                <a href="/dint/article/doi/10.1162/dint_a_00141/109849/Realising-Data-Centric-Scientific-Workflows-with">Realising Data-Centric Scientific Workflows with Provenance-Capturing on Data Lakes</a>
+
+
+    </div>
+</div>
+<div class="widget-dynamic-entry">
+    <div class="fb-item-title">
+                <a href="/dint/article/doi/10.1162/dint_a_00139/109850/Using-a-Workflow-Management-Platform-in-Textual">Using a Workflow Management Platform in Textual Data Management</a>
+
+
+    </div>
+</div>
+        </div>
+        
+
+
+    </div>
+            </section>
+            <section class="js-new-and-popular-content js-new-and-popular-content-MostRead hide">
+            </section>
+            <section class="js-new-and-popular-content js-new-and-popular-content-MostCited hide">
+            </section>
+    </div>
+ 
+    </div>
+
+    </div>
+
+</div> 
+    </div>
+    <div class="widget-DynamicWidgetLayout widget-instance-Article_RightRailB0B4">
+        <div class="widget widget-dynamic article-article-cited-by article-cited-by" data-count="1">
+    
+
+    <div class="widget-dynamic-inner-wrap">
+
+    <div class="widget-ArticleCitedBy widget-instance-Article_RightRailB0B4article-article-cited-by">
+        <div class="rail-widget_wrap vt-articles-cited-by">
+    <h3 class="article-cited-title">Cited By</h3>
+    <div class="widget-links_wrap">
+                    <div class="article-cited-link-wrap google-scholar-url">
+                <a href="http://scholar.google.com/scholar?q=link:https%3A%2F%2Fdirect.mit.edu%2Fdint%2Farticle%2Fdoi%2F10.1162%2Fdint_a_00129%2F109846" target="_blank">Google Scholar</a>
+            </div>
+                    <div class="article-cited-link-wrap crossref-citedby">
+                <a href='https://direct.mit.edu/dint/crossref-citedby/109846'>Crossref</a>
+            </div>
+    </div>
+</div> 
+    </div>
+
+    </div>
+
+</div> 
+    </div>
+    <div class="widget-DynamicWidgetLayout widget-instance-Article_RightRailB0B5">
+        <div class="widget widget-dynamic article-related-content-solr-articles related-content-solr" data-count="2">
+    
+
+    <div class="widget-dynamic-inner-wrap">
+
+    <div class="widget-RelatedContentSolr widget-instance-Article_RightRailB0B5Article_RightRail_RelatedContentArticles">
+            <div class="vt-related-content related-content_wrap rail-widget_wrap">
+        <h3>Related Articles</h3>
+
+        <div class="widget-links_wrap">
+                <div class="article-title">
+                    <a href="/dint/article/2/1-2/108/10003/FAIR-Computational-Workflows">FAIR Computational Workflows</a>
+    <div class="content-meta"><span class="j-name">Data Intelligence</span> <span class="j-date">(January,2020)</span></div>
+
+                </div>
+                <div class="article-title">
+                    <a href="/dint/article/doi/10.1162/dint_a_00128/109843/S-ProvFlow-Storing-and-Exploring-Lineage-Data-as-a">S-ProvFlow. Storing and Exploring Lineage Data as a Service</a>
+    <div class="content-meta"><span class="j-name">Data Intelligence</span> <span class="j-date">(March,2022)</span></div>
+
+                </div>
+                <div class="article-title">
+                    <a href="/netn/article/5/3/783/101835/Regional-radiomics-similarity-networks-R2SNs-in">Regional radiomics similarity networks (R2SNs) in the human brain:
+                    Reproducibility, small-world properties and a biological basis</a>
+    <div class="content-meta"><span class="j-name">Network Neuroscience</span> <span class="j-date">(September,2021)</span></div>
+
+                </div>
+                <div class="article-title">
+                    <a href="/dint/article/doi/10.1162/dint_a_00141/109849/Realising-Data-Centric-Scientific-Workflows-with">Realising Data-Centric Scientific Workflows with Provenance-Capturing on Data Lakes</a>
+    <div class="content-meta"><span class="j-name">Data Intelligence</span> <span class="j-date">(March,2022)</span></div>
+
+                </div>
+        </div>
+    </div>
+ 
+    </div>
+
+    </div>
+
+</div> 
+    </div>
+    <div class="widget-DynamicWidgetLayout widget-instance-Article_RightRailB0B6">
+        <div class="widget widget-dynamic article-self-serve-content-ad-bottom self-serve-content-ad-bottom self-serve-content-ad" data-count="1">
+    
+
+    <div class="widget-dynamic-inner-wrap">
+
+
+    </div>
+
+</div> 
+    </div>
+
+    </div>
+
+</div> 
+    </div>
+
+    </div>
+
+</div> 
+    </div>
+
+            </div>
+
+    <div class="widget-AdBlock widget-instance-ArticlePageTopMainBodyBottom">
+            
+
+ 
+    </div>
+
+
+
+
+        </div> 
+    </div>
+
+</div>
+
+
+    <div class="widget-Lockss widget-instance-Article_Lockss">
+            <input type="hidden" value="LOCKSS system has permission to collect, preserve, and serve this Archival Unit" />
+    <input type="hidden" value="CLOCKSS system has permission to ingest, preserve, and serve this Archival Unit" />
+ 
+    </div>
+
+
+
+            </div><!-- /.content-main_content -->
+        </section>
+    </div>
+    <div class="mobile-mask">
+    </div>
+    <section class="footer_wrap vt-site-footer">
+        
+
+
+<div class="ad-banner js-ad-banner ad-banner-footer">
+
+    <div class="widget-AdBlock widget-instance-FooterAd">
+            
+
+    <input type="hidden"
+           class="hfAdBlockInfo"
+           data-divid="placement_451254_adBlockFooter"
+           data-slotname="451254"
+           data-targetname="179758"
+           data-sizes="[[728, 90]]"
+           data-enabled-on-mobile="True"
+           data-adprovider-typeid="2"
+           data-accountid=""
+           data-outofpagead="False"
+           data-sticky-time="5"/>
+    <div class="adblock-wrap js-adblock-wrap " style="width:728px;">
+                <p class="adblock-advertisement-text js-adblock-advertisement-text hide">Advertisement</p>
+
+            <div id="placement_451254_adBlockFooter" adslot="451254" class="adblock-slot-placeholder js-adblock" style="width:728px; height:90px;"></div>
+
+    </div>
+ 
+    </div>
+
+</div>
+
+<div class="ad-banner js-ad-banner ad-banner-footer">
+
+    <div class="widget-AdBlock widget-instance-StickyAd">
+            
+
+ 
+    </div>
+
+</div>
+
+
+    <div class="widget-SitePageFooter widget-instance-SitePageFooter">
+            <div class="journal-footer journal-bg">
+        <div class="journal-footer_content clearfix foot-left">
+    <div class="journal-footer-affiliations aff-left">
+        <!-- <h3>Affiliations</h3> -->
+            <a href="#" target="">
+                <img id="footer-logo-DataIntelligence" class="journal-footer-affiliations-logo" src="//mitp.silverchair-cdn.com/data/SiteBuilderAssets/Live/Images/dint/DINT_title273299649.svg" alt="Data Intelligence" />
+            </a>
+    </div>
+        </div>
+    <div class="journal-footer-colophon">
+        <ul>
+                <li><span>Online ISSN</span> 2641-435X</li>
+                                </ul>
+    </div>
+    </div>
+ 
+    </div>
+
+
+
+<div class="site-theme-footer">
+        <div class="site-theme-footer_content">
+    <div class="widget-SelfServeContent widget-instance-UmbrellaFooterSelfServe">
+        
+<div class="theme-footer">
+<div class="flex-row">
+<div class="col-10 footer-nav">
+<div class="flex-row">
+<div class="col-2">
+<div class="footer-logo_wrap"><img alt="" src="https://mitp.silverchair-cdn.com/ImageLibrary/logo-umbrella-footer.svg?versionId=2977" /></div>
+</div>
+<!-- close .col-2-->
+<div class="col-2">
+<div class="footer-links-group">
+<h4><a href="/books">Books</a></h4>
+<h4><a href="/journals">Journals</a></h4>
+</div>
+</div>
+<!-- close .col-2-->
+<div class="col-2">
+<div class="footer-links-group">
+<h4>US</h4>
+<ul class="list-lvl-0">
+    <li class="list-lvl-0">One Broadway, 12th Floor</li>
+    <li class="list-lvl-0">Cambridge, MA 02142</li>
+</ul>
+</div>
+</div>
+<!-- close .col-2-->
+<div class="col-2">
+<div class="footer-links-group">
+<h4><a href="https://mitpress.atlassian.net/servicedesk/customer/portal/3">Customer Support</a></h4>
+</div>
+</div>
+<!-- close .col-2-->
+<div class="col-2 footer-branding">
+<!-- If there are multiple logos, duplicate div.footer-logo -->
+<h4>Connect</h4>
+<a href="#"></a>
+<div class="social-icons-wrap">
+<a href="#"></a>
+<ul class="social-icons-list">
+    <li>
+    <a class="social-icon facebook" href="https://www.facebook.com/mitpress/"><em class="icon-social-facebook"><span class="screenreader-text">Facebook</span></em></a>
+    </li>
+    <li>
+    <a class="social-icon twitter" href="https://twitter.com/mitpress"><em class="icon-social-twitter"><span class="screenreader-text">Twitter</span></em></a>
+    </li>
+    <li>
+    <a class="social-icon linkedin" href="https://www.linkedin.com/company/the-mit-press/"><em class="icon-social-linkedin"><span class="screenreader-text">LinkedIn</span></em></a>
+    </li>
+    <li>
+    <a class="social-icon pinterest" href="https://www.pinterest.com/mitpress/"><em class="icon-social-pinterest"><span class="screenreader-text">Pinterest</span></em></a>
+    </li>
+    <li>
+    <a class="social-icon instagram" href="https://www.instagram.com/mitpress/"><em class="icon-social-instagram"><span class="screenreader-text">Instagram</span></em></a>
+    </li>
+    <li>
+    <a class="social-icon youtube" href="https://www.youtube.com/channel/UCeH0hmlPjGW2DN0Ntmd0FCQ"><em class="icon-social-youtube"><span class="screenreader-text">Youtube</span></em></a>
+    </li>
+</ul>
+</div>
+</div>
+<!-- close .footer-branding -->
+</div>
+<!-- close .footer-nav .flex-row -->
+</div>
+<!-- close .footer-nav -->
+</div>
+<!-- close .flex-row -->
+<div class="legal-links-wrap">
+<div class="copyright-date">
+© 2022 The MIT Press
+</div>
+<ul class="legal-links">
+    <li>
+    <a href="https://mitpress.mit.edu/terms-use">Terms of Use</a>
+    </li>
+    <li>
+    <a href="https://mitpress.mit.edu/privacy" target="_new">Privacy
+    Statement</a>
+    </li>
+    <li>
+    <a href="https://www.crossref.org/" target="_blank">Crossref Member</a>
+    </li>
+    <li>
+    <a href="https://www.projectcounter.org/" target="_blank">COUNTER Member</a>
+    </li>
+    <li>
+    <a href="/DocumentLibrary/MIT-VPAT2.4RevWCAG--January2022.pdf" target="_blank" title="Accessibility, VPAT">Accessibility/VPAT</a>
+    </li>
+    <li class="copyright">The MIT Press colophon is registered in the U.S. Patent and Trademark Office</li>
+</ul>
+</div>
+<!-- close .theme-footer -->
+</div>
+
+
+     
+    </div>
+
+        </div><!-- /.center-inner-row -->
+</div><!-- /.site-theme-footer -->
+<div class="ss-ui-only">
+
+    <div class="widget-SelfServeContent widget-instance-SSuiOnlySelfServe">
+        
+<style type="text/css">
+    .jumplink-list .section-jump-link a, .jumplink-list-flyout .section-jump-link a, .list-book-jumplinks .section-jump-link a, .list-issue-jumplinks .section-jump-link a, .section-jump-link__sublist .section-jump-link a {
+    text-transform: none;
+    }
+    .article-list-resources .articleClientType {
+    text-transform: none;
+    }
+    /*DO NOT REMOVE - JL - 8/31/20*/
+    .icon-corresponding_author:before {
+    content: "\f199";
+    }
+    .pg_Book h1.book-info__title {
+    font-size: 2.6rem;
+    }
+    .pg_Book h1.book-info__title i {
+    font-size: 1.5rem;
+    }
+    .widget-SelfServeContent ul.article-list, .widget-SelfServeContent ul.topic-list, .widget-SelfServeContent ul.nb {
+    list-style-type: none;
+    }
+    .pg_Book #divBookToc .book-info__meta .book-info__abstract .abstract p {
+    margin-top: 1rem;
+    }
+    .pg_Book #divBookToc .book-info__meta .book-info__abstract .abstract p:first-of-type {
+    margin-top: 0;
+    }
+    /*homepage layout*/
+    .homepage-panel-wrap {
+    display: block;
+    }
+    body[theme-umbrella] .home-hero-feature .homepage-panel-text {
+    padding: 1.5rem;
+    }
+    body[theme-umbrella] .homepage-panel-wrap{
+    display: flex;
+    border-bottom: 1px solid #ededed;
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
+    }
+    body[theme-umbrella] .homepage-panel-wrap:last-of-type {
+    border-bottom: none;
+    }
+    @include for-size(sm-phone-only) {
+    body[theme-umbrella] .homepage-panel-wrap{
+    flex-direction: column;
+    }
+    }
+    body[theme-umbrella] .homepage-panel-wrap .homepage-panel-image {
+    flex-grow: 1;
+    }
+    body[theme-umbrella] .homepage-panel-wrap .homepage-panel-image img {
+    border: solid 1px #ededed;
+    }
+    body[theme-umbrella] .homepage-panel-wrap .homepage-panel-text {
+    flex-basis: 60%;
+    }
+    @media all and (max-width: $bp_x-small) {
+    body[theme-umbrella] .homepage-panel-wrap .homepage-panel-text {
+    flex-basis: 100%;
+    }
+    }
+    body[theme-umbrella] &.pg_Index .home-row1 .home-hero-feature .widget-instance-_home-hero-feature .homepage-panel-wrap {
+    @include for-size(sm-phone-only) {
+    width: 100% !important;
+    }
+    }
+    /**/
+    .widget-instance-_home-hero-feature .homepage-panel-text {flex-basis: 100% !important;}
+    .home-row1 .home-self-serve-content-new .homepage-panel-text {
+    padding: 0 1rem;
+    }
+    .home-row1 .homepage-panel-wrap img {max-width: 200px;}
+    @media all and (max-width: 899px) {
+    .home-row1 .theme-homepage-layout div[class*=home-row]>.widget-dynamic-inner-wrap {display: block;}
+    }
+    @media all and (max-width: 899px) {
+    .home-row1 .widget-instance-_home-self-serve-content-new {margin-top: 1rem;}
+    }
+    body[theme-umbrella] .home-row1 .homepage-panel-wrap .homepage-panel-image {flex-grow: 0;}
+    /**/
+    .widget-instance-_home-hero-feature .homepage-panel-text {flex-basis: 100% !important;}
+    .home-row1 .home-self-serve-content-new .homepage-panel-text {
+    padding: 0 1rem;
+    }
+    .home-row1 .homepage-panel-wrap img {max-width: 200px;}
+    @media all and (max-width: 899px) {
+    .home-row1 .theme-homepage-layout div[class*=home-row]>.widget-dynamic-inner-wrap {display: block;}
+    }
+    @media all and (max-width: 899px) {
+    .home-row1 .widget-instance-_home-self-serve-content-new {margin-top: 1rem;}
+    }
+    body[theme-umbrella] .home-row1 .homepage-panel-wrap .homepage-panel-image {flex-grow: 0;}
+    /*SCMP-26926*/
+    body.leftRailModalOpen .page-column--center.can-stick {
+    z-index: 1;
+    }
+    /*SCMP-26926*/
+</style>
+
+
+     
+    </div>
+
+</div>
+
+<div class="ad-banner js-ad-interstitial">
+
+    <div class="widget-AdBlock widget-instance-Interstitial">
+            
+
+ 
+    </div>
+
+</div>
+    </section>
+
+
+
+
+
+    
+    
+
+
+    <div class="widget-SiteWideModals widget-instance-SiteWideModals">
+        <div id="revealModal" class="reveal-modal" data-reveal>
+    <div id="revealContent"></div>
+    <a class="close-reveal-modal" href="javascript:;"><i class="icon-general-close"><span class="screenreader-text">Close Modal</span></i></a>
+</div>
+
+<div id="globalModalContainer" class="modal-global-container">
+    <div id="globalModalContent"></div>
+    <a class="close-modal js-close-modal" href="javascript:;"><i class="icon-general-close"><span class="screenreader-text">Close Modal</span></i></a>
+</div>
+<div id="globalModalOverlay" class="modal-overlay js-modal-overlay"></div>
+
+    <div id="NeedSubscription" class="reveal-modal small" data-reveal>
+        <div class="subscription-needed">
+            <h5 class="modal-heading">This Feature Is Available To Subscribers Only</h5>
+            <p><a class="btn modal-sign_in-btn" href="/sign-in?returnUrl=%2fdint%2farticle%2fdoi%2f10.1162%2fdint_a_00129%2f109846%2fSWIRRL-Managing-Provenance-aware-and-Reproducible">Sign In</a> or <a class="modal-register-link" href="/my-account/register?siteId=1000035&amp;returnUrl=%2fdint%2farticle%2fdoi%2f10.1162%2fdint_a_00129%2f109846%2fSWIRRL-Managing-Provenance-aware-and-Reproducible">Create an Account</a></p>
+        </div>
+        <a class="close-reveal-modal" href="javascript:;"><i class="icon-general-close"><span class="screenreader-text">Close Modal</span></i></a>
+    </div>
+
+<div id="noAccessReveal" class="reveal-modal tiny" data-reveal>
+    <a class="close-reveal-modal" href="javascript:;"><i class="icon-general-close"><span class="screenreader-text">Close Modal</span></i></a>
+    <div id="noAccessForm">
+        <div class="spinner"></div>
+    </div>
+</div>
+ 
+    </div>
+
+    
+
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+
+<script src="//cdn.jsdelivr.net/npm/promise-polyfill@8/dist/polyfill.min.js"></script>
+
+    <script type="text/javascript" src="//mitp.silverchair-cdn.com/Themes/Client/app/jsdist/v-637824684813331831/site.min.js"></script>
+    <script async src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-531f5e907ce0d5b8&domready=1"></script>
+
+
+    
+  
+    <script async="async" src="//cdn.jsdelivr.net/chartist.js/latest/chartist.min.js"></script>
+    <script async="async" src=""></script>
+
+
+
+
+
+
+    
+
+    
+    
+
+
+    <div class="widget-GdprCookieBanner widget-instance-GdprCookieBanner">
+        <div class="gdpr-cookie-wrapper at-gdprprompt">
+    <div class="gdpr-cookie-body">
+        This site uses cookies. By continuing to use our website, you are agreeing to <a href="https://direct.mit.edu/DocumentLibrary/MITP%20Direct%20PRIVACY%20POLICY%202019-02-26.pdf">our privacy policy.</a>
+    </div>
+    <div class="gdpr-cookie-links_wrap">
+        <a href="javascript:;" class="js-gdpr-cookie-acceptLink at-acceptgdpr">Accept</a>
+    </div>
+            <input id="hdnDomain" type="hidden" value=".mit.edu" />
+
+    <input id="hdnDomainGdpr" type="hidden" value=".mit.edu" />
+    <input id="hdnClientIdGdpr" type="hidden" value="32" />
+</div> 
+    </div>
+
+
+    
+
+
+
+
+    <div class="ad-banner js-ad-riser ad-banner-riser">
+
+    <div class="widget-AdBlock widget-instance-RiserAd">
+            
+
+ 
+    </div>
+
+    </div>
+
+
+</body>
+</html>
+

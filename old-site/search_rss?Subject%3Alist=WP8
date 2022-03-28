@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+<channel rdf:about="https://is.enes.org/search_rss">
+  <title>IS-ENES 3</title>
+  <link>https://is.enes.org</link>
+
+  <image rdf:resource="https://is.enes.org/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms8-6_improved-version-of-cmip5-quality-control-available-to-enes-cdi/view"/>
+      
+      
+        <rdf:li rdf:resource="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms8-5_jra3-developed-services-deployed-on-climate4impacts/view"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms8-6_improved-version-of-cmip5-quality-control-available-to-enes-cdi/view">
+    <title>IS-ENES2_MS8.6_Improved version of CMIP5 Quality Control available to ENES CDI </title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms8-6_improved-version-of-cmip5-quality-control-available-to-enes-cdi/view</link>
+    <description>The core of the Quality Assurance (QA-DKRZ) package was modularised and additionally expanded to the CORDEX project. CF Metadata Conventions, DRS, CV, variable requirements, and text based project rules are checked. Simple installation, automatic updating, and a default configuration (albeit still customisable) and check-lists, which make only a few site-specific options necessary. Check annotations are issued in the YAML format and stored unambiguously. The package is commonly accessible from https://github.com/IS-ENES-Data/QA-DKRZ. A user-guide is available on https://readthedocs.org/projects/qa-dkrz. At present, QA-DKRZ is used in Europe, Canada, and Asia.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>WP8</dc:subject>
+    
+    
+      <dc:subject>Milestone</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+  <item rdf:about="https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms8-5_jra3-developed-services-deployed-on-climate4impacts/view">
+    <title>IS-ENES2_MS8.5_JRA3 developed services deployed on CLIMATE4IMPACTS</title>
+    <link>https://is.enes.org/archive-1/phase-2/documents/milestones/is-enes2_ms8-5_jra3-developed-services-deployed-on-climate4impacts/view</link>
+    <description>The climate4impact portal provides services to impact researchers to facilitate easy data discovery and data processing. Besides these services, also extensive documentation and guidance is provided. The discovery and data processing services are also provided to other portals (e.g., CLIPC portal on www.clipc-eu.org).
+This document describes the services deployed on climate4impact and developed in JRA work package. These services are:1) improved faceted search, 2) indicator calculations 3) statistical downscaling 4) credential and basket management 5) Convert and subset wizard.</description>
+    
+    
+      <dc:publisher>No publisher</dc:publisher>
+      <dc:creator></dc:creator>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>WP8</dc:subject>
+    
+    
+      <dc:subject>Milestone</dc:subject>
+    
+    <dc:date></dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+
+</rdf:RDF>

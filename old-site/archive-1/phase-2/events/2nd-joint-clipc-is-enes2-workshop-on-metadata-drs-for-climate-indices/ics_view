@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Plone.org//NONSGML plone.app.event//EN
+X-WR-TIMEZONE:Europe/Vienna
+BEGIN:VEVENT
+SUMMARY:2nd Joint CLIPC/IS-ENES2 Workshop on Metadata/DRS for climate indi
+ ces
+DTSTART;TZID=Europe/Vienna;VALUE=DATE-TIME:20161017T100000
+DTEND;TZID=Europe/Vienna;VALUE=DATE-TIME:20161017T170000
+DTSTAMP;VALUE=DATE-TIME:20220328T140448Z
+UID:bf4e4775101345b5b074576aebc0dde7@plone7:8080
+ATTENDEE;CN="Christian Pagé, CERFACS";ROLE=REQ-PARTICIPANT:Christian Pag
+ é, CERFACS
+ATTENDEE;CN="Milka Radojevic, CERFACS";ROLE=REQ-PARTICIPANT:Milka Radojevi
+ c, CERFACS
+ATTENDEE;CN="Lars Barring, SMHI";ROLE=REQ-PARTICIPANT:Lars Barring, SMHI
+ATTENDEE;CN="Grigory Nikulin, SMHI";ROLE=REQ-PARTICIPANT:Grigory Nikulin, 
+ SMHI
+ATTENDEE;CN="Martin Evaldsson, SMHI";ROLE=REQ-PARTICIPANT:Martin Evaldsson
+ , SMHI
+ATTENDEE;CN="Ruth Petrie, STFC";ROLE=REQ-PARTICIPANT:Ruth Petrie, STFC
+ATTENDEE;CN="Martin Juckes, STFC";ROLE=REQ-PARTICIPANT:Martin Juckes, STFC
+ATTENDEE;CN="Christiana Photiadou, KNMI";ROLE=REQ-PARTICIPANT:Christiana P
+ hotiadou, KNMI
+ATTENDEE;CN="Igor Stepanov, KNMI";ROLE=REQ-PARTICIPANT:Igor Stepanov, KNMI
+ATTENDEE;CN="Lisa Alexander (remote), UNSW, Australia";ROLE=REQ-PARTICIPAN
+ T:Lisa Alexander (remote), UNSW, Australia
+ATTENDEE;CN="Nicholas Herold (remote), UNSW, Australia";ROLE=REQ-PARTICIPA
+ NT:Nicholas Herold (remote), UNSW, Australia
+CATEGORIES:Project Event
+CONTACT:Christian Pagé \, christian.page@cerfacs.fr
+CREATED;VALUE=DATE-TIME:20161014T095937Z
+DESCRIPTION:Following the success 1st CLIPC/IS-ENES2 Workshop on Common CV
+ s for climate indices\, the FP7 projects CLIPC and IS-ENES2 organize a 2nd
+  Joint Workshop on Metadata/DRS for climate indices.
+LAST-MODIFIED;VALUE=DATE-TIME:20161107T163331Z
+LOCATION:Hôtel Marivaux\, Brussels
+URL:https://is.enes.org/archive-1/phase-2/events/2nd-joint-clipc-is-enes2-
+ workshop-on-metadata-drs-for-climate-indices
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+X-LIC-LOCATION:Europe/Vienna
+BEGIN:DAYLIGHT
+DTSTART;VALUE=DATE-TIME:20160327T030000
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+END:VCALENDAR
